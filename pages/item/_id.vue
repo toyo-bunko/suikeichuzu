@@ -252,11 +252,15 @@ export default class Item extends Vue {
 
   get myText() {
     if (this.$i18n.locale === 'en') {
-      return `"${this.title}" provided by${(this as any).item.attribution} (${
+      const attribution = "Suikeichuzu - Toyo Bunko"
+      //const attribution = provided by${(this as any).item.attribution}
+      return `"${this.title}" ${attribution} (${
         this.url
       })`
     } else {
-      return `『${this.title}』「${(this as any).item.attribution}」収録 (${
+      const attribution = "水経注図 - 東洋文庫"
+       //const attribution = 「${(this as any).item.attribution}」収録
+      return `『${this.title}』${attribution} (${
         this.url
       })`
     }
