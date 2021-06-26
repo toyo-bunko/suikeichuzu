@@ -1,18 +1,20 @@
 {
-    "fulltext": "參合, 00-01246, 2, 北1, 西2, 本図, 參合, 墨, 裏, 8, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "參合, 00-01246, 行政, 北1, 西2, 本図, 參合, 墨, 裏, 県名（北魏）, C2",
     "label": "參合",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23676,5712,90,51",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23676,5712,90,51",
     "objectID": "N1W2(b)C2-09",
     "sort": [
         "00-01246"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23676,5712,90,51/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23676,5712,90,51/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         8
+    ],
+    "記号説明": [
+        "県名（北魏）"
     ],
     "詳細区画": [
         "C2"

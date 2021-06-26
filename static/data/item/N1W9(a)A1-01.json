@@ -1,18 +1,20 @@
 {
-    "fulltext": "衞源, 00-01436, 2, 北1, 西9, 本図, 衞源, 朱, 表, 18, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "衞源, 00-01436, 行政, 北1, 西9, 本図, 衞源, 朱, 表, 府名, A1",
     "label": "衞源",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9120,4682,102,85",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9120,4682,102,85",
     "objectID": "N1W9(a)A1-01",
     "sort": [
         "00-01436"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9120,4682,102,85/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/9120,4682,102,85/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "A1"

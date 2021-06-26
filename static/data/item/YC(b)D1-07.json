@@ -1,18 +1,20 @@
 {
-    "fulltext": "秦象郡, 03-00233, 8, 越南, 中, 越南, 秦象郡, 墨, 裏, 9, D1",
-    "group": [
-        "etsunan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "秦象郡, 03-00233, 行政, 越南, 中, 越南, 秦象郡, 墨, 裏, 州郡跡, D1",
     "label": "秦象郡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1685,5507,71,176",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=1685,5507,71,176",
     "objectID": "YC(b)D1-07",
     "sort": [
         "03-00233"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1685,5507,71,176/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif/1685,5507,71,176/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "越南"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         9
+    ],
+    "記号説明": [
+        "州郡跡"
     ],
     "詳細区画": [
         "D1"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "永北, 01-07929, 7, 南13, 西9, 本図, 永北, 朱, 裏, 20, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S13W9(b)A3-03.json",
+    "fulltext": "永北, 01-07929, 行政, 南13, 西9, 本図, 永北, 朱, 裏, 直隷庁, A3",
     "label": "永北",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7109,26820,73,49",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=7109,26820,73,49",
     "objectID": "S13W9(b)A3-03",
     "sort": [
         "01-07929"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7109,26820,73,49/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/7109,26820,73,49/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南13"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         20
+    ],
+    "記号説明": [
+        "直隷庁"
     ],
     "詳細区画": [
         "A3"

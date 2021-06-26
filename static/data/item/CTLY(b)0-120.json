@@ -1,8 +1,7 @@
 {
-    "fulltext": "掖門, 04-00203, 8, 0, 0, 洛陽城図, 掖門, 墨, 裏, 34, 0",
-    "group": [
-        "jouzu03_rakuyou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "掖門, 04-00203, 地点, 洛陽城図, 掖門, 墨, 裏, 長城門",
     "label": "掖門",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=1266,1626,136,88",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00203"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/1266,1626,136,88/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu03_rakuyou.tif/1266,1626,136,88/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         34
+    ],
+    "記号説明": [
+        "長城門"
     ],
     "詳細区画": [
         0

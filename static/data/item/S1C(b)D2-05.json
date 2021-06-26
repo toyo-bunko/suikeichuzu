@@ -1,21 +1,23 @@
 {
-    "fulltext": "河間國, 00-02533, 池を書き入れるため、〇を大きくしたのでは？, 3, 南1, 中, 本図, 河間國, 墨, 裏, 0, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "河間國, 00-02533, 池を書き入れるため、〇を大きくしたのでは？, なし, 南1, 中, 本図, 河間國, 墨, 裏, , D2",
     "label": "河間國",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28378,8967,74,31",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28378,8967,74,31",
     "objectID": "S1C(b)D2-05",
     "sort": [
         "00-02533"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28378,8967,74,31/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28378,8967,74,31/200,/0/default.jpg",
     "備考": [
         "池を書き入れるため、〇を大きくしたのでは？"
     ],
     "冊": [
         3
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南1"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D2"

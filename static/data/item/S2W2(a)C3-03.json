@@ -1,0 +1,46 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2W2(a)C3-03.json",
+    "fulltext": "蒲水, 00-03778, 地形, 南2, 西2, 本図, 蒲水, 墨, 表, 河川, C3",
+    "label": "蒲水",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24416,10094,86,54",
+    "objectID": "S2W2(a)C3-03",
+    "sort": [
+        "00-03778"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/24416,10094,86,54/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "分類": [
+        "地形"
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蒲水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "記号説明": [
+        "河川"
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

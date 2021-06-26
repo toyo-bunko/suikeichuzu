@@ -1,21 +1,23 @@
 {
-    "fulltext": "郻阜, 00-03541, 偏は「県」、旁は「おおざと」, 3, 南2, 西1, 本図, 郻阜, 墨, 表, 0, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2W1(a)A1-10.json",
+    "fulltext": "郻阜, 00-03541, 偏は「県」、旁は「おおざと」, なし, 南2, 西1, 本図, 郻阜, 墨, 表, , A1",
     "label": "郻阜",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27322,9381,77,47",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27322,9381,77,47",
     "objectID": "S2W1(a)A1-10",
     "sort": [
         "00-03541"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27322,9381,77,47/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27322,9381,77,47/200,/0/default.jpg",
     "備考": [
         "偏は「県」、旁は「おおざと」"
     ],
     "冊": [
         3
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南2"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A1"

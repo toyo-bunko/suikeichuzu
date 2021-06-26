@@ -1,18 +1,20 @@
 {
-    "fulltext": "五溪蠻, 01-07154, 7, 南12, 西4, 本図, 五溪蠻, 墨, 裏, 0, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S12W4(b)A1-09.json",
+    "fulltext": "五溪蠻, 01-07154, なし, 南12, 西4, 本図, 五溪蠻, 墨, 裏, , A1",
     "label": "五溪蠻",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19226,24979,100,54",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19226,24979,100,54",
     "objectID": "S12W4(b)A1-09",
     "sort": [
         "01-07154"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19226,24979,100,54/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/19226,24979,100,54/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南12"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A1"

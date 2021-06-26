@@ -1,18 +1,20 @@
 {
-    "fulltext": "弓高, 00-03436, 3, 南2, 中, 本図, 弓高, 墨, 裏, 10, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2C(b)A2-08.json",
+    "fulltext": "弓高, 00-03436, 行政, 南2, 中, 本図, 弓高, 墨, 裏, 県跡, A2",
     "label": "弓高",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28351,9375,46,37",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28351,9375,46,37",
     "objectID": "S2C(b)A2-08",
     "sort": [
         "00-03436"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28351,9375,46,37/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28351,9375,46,37/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         10
+    ],
+    "記号説明": [
+        "県跡"
     ],
     "詳細区画": [
         "A2"

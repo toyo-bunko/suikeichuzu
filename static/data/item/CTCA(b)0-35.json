@@ -1,8 +1,7 @@
 {
-    "fulltext": "舊樗里子葬此, 04-00329, 8, 0, 0, 長安城図, 舊樗里子葬此, 墨, 裏, 16, 0",
-    "group": [
-        "jouzu04_chouan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "舊樗里子葬此, 04-00329, 地点, 長安城図, 舊樗里子葬此, 墨, 裏, 亭台跡",
     "label": "舊樗里子葬此",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1957,2189,186,148",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00329"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/1957,2189,186,148/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1957,2189,186,148/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         0

@@ -1,8 +1,7 @@
 {
-    "fulltext": "石氏東明觀, 04-00044, 8, 0, 0, 鄴城図, 石氏東明觀, 墨, 裏, 16, 0",
-    "group": [
-        "jouzu02_gyoujou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "石氏東明觀, 04-00044, 地点, 鄴城図, 石氏東明觀, 墨, 裏, 亭台跡",
     "label": "石氏東明觀",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3073,1966,260,70",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00044"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/3073,1966,260,70/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu02_gyoujou.tif/3073,1966,260,70/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         0

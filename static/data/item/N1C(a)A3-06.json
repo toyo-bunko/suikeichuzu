@@ -1,18 +1,20 @@
 {
-    "fulltext": "出峽, 00-00836, 2, 北1, 中, 本図, 出峽, 墨, 表, 1, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "出峽, 00-00836, 地形, 北1, 中, 本図, 出峽, 墨, 表, 河川, A3",
     "label": "出峽",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29196,5024,81,55",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29196,5024,81,55",
     "objectID": "N1C(a)A3-06",
     "sort": [
         "00-00836"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29196,5024,81,55/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29196,5024,81,55/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "A3"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "鉢吐羅越城, 02-00211, 1, 上, 2, 西域, 鉢吐羅越城, 墨, 表, 0, C1",
-    "group": [
-        "saiiki"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "鉢吐羅越城, 02-00211, なし, 上, 西域, 鉢吐羅越城, 墨, 表, , C1",
     "label": "鉢吐羅越城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4598,2720,28,100",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=4598,2720,28,100",
     "objectID": "XT2(a)C1-09",
     "sort": [
         "02-00211"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4598,2720,28,100/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/4598,2720,28,100/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "上"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "C1"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "即荊山首, 01-03327, 5, 南8, 西3, 本図, 即荊山首, 墨, 裏, 4, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S8W3(b)B2-05.json",
+    "fulltext": "即荊山首, 01-03327, 地形, 南8, 西3, 本図, 即荊山首, 墨, 裏, 山谷, B2",
     "label": "即荊山首",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21192,19345,129,43",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21192,19345,129,43",
     "objectID": "S8W3(b)B2-05",
     "sort": [
         "01-03327"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21192,19345,129,43/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/21192,19345,129,43/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南8"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "B2"

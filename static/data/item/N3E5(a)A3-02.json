@@ -1,18 +1,20 @@
 {
-    "fulltext": "玄菟郡, 00-00112, 1, 北3, 東5, 本図, 玄菟郡, 墨, 表, 0, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "玄菟郡, 00-00112, なし, 北3, 東5, 本図, 玄菟郡, 墨, 表, , A3",
     "label": "玄菟郡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40622,1882,109,43",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=40622,1882,109,43",
     "objectID": "N3E5(a)A3-02",
     "sort": [
         "00-00112"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40622,1882,109,43/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/40622,1882,109,43/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "北3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A3"

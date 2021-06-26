@@ -1,8 +1,7 @@
 {
-    "fulltext": "外郭, 04-00658, 8, 0, 0, 寿春城図, 外郭, 墨, 表, 0, 0",
-    "group": [
-        "jouzu11_jushun"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "外郭, 04-00658, なし, 寿春城図, 外郭, 墨, 表, ",
     "label": "外郭",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1903,1486,99,178",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00658"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu11_jushun.tif/1903,1486,99,178/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1903,1486,99,178/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         0

@@ -1,18 +1,20 @@
 {
-    "fulltext": "石廟, 00-06269, 4, 南4, 中, 本図, 石廟, 墨, 裏, 16, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4C(b)D2-03.json",
+    "fulltext": "石廟, 00-06269, 地点, 南4, 中, 本図, 石廟, 墨, 裏, 亭台跡, D2",
     "label": "石廟",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28308,13694,80,53",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28308,13694,80,53",
     "objectID": "S4C(b)D2-03",
     "sort": [
         "00-06269"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28308,13694,80,53/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28308,13694,80,53/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "D2"

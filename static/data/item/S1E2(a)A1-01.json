@@ -1,18 +1,20 @@
 {
-    "fulltext": "故旅順城, 00-02396, 3, 南1, 東2, 本図, 故旅順城, 朱, 表, 25, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "故旅順城, 00-02396, 行政, 南1, 東2, 本図, 故旅順城, 朱, 表, 土県・堡鎮, A1",
     "label": "故旅順城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34513,7981,89,89",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=34513,7981,89,89",
     "objectID": "S1E2(a)A1-01",
     "sort": [
         "00-02396"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34513,7981,89,89/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/34513,7981,89,89/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         25
+    ],
+    "記号説明": [
+        "土県・堡鎮"
     ],
     "詳細区画": [
         "A1"

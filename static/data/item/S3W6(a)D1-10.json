@@ -1,21 +1,23 @@
 {
-    "fulltext": "獨阜, 00-05629, 立である, 4, 南3, 西6, 本図, 獨阜, 墨, 表, 16, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3W6(a)D1-10.json",
+    "fulltext": "獨阜, 00-05629, 立である, 地点, 南3, 西6, 本図, 獨阜, 墨, 表, 亭台跡, D1",
     "label": "獨阜",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15777,12368,50,34",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15777,12368,50,34",
     "objectID": "S3W6(a)D1-10",
     "sort": [
         "00-05629"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15777,12368,50,34/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/15777,12368,50,34/200,/0/default.jpg",
     "備考": [
         "立である"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南3"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "D1"

@@ -1,0 +1,46 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S16W5(a)D1-03.json",
+    "fulltext": "貴, 01-09573, 行政, 南16, 西5, 本図, 貴, 朱, 表, 県名（清）, D1",
+    "label": "貴",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18332,32464,37,46",
+    "objectID": "S16W5(a)D1-03",
+    "sort": [
+        "01-09573"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/18332,32464,37,46/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "分類": [
+        "行政"
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "貴"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "記号説明": [
+        "県名（清）"
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,18 +1,20 @@
 {
-    "fulltext": "桂平, 01-09548, 8, 南16, 西4, 本図, 桂平, 朱, 裏, 18, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S16W4(b)C2-04.json",
+    "fulltext": "桂平, 01-09548, 行政, 南16, 西4, 本図, 桂平, 朱, 裏, 府名, C2",
     "label": "桂平",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18965,31904,73,38",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18965,31904,73,38",
     "objectID": "S16W4(b)C2-04",
     "sort": [
         "01-09548"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18965,31904,73,38/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/18965,31904,73,38/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南16"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "C2"

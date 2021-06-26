@@ -106,7 +106,7 @@ env.layout = [
   }
 ]
 
-env.defaultLayout = "list"
+env.defaultLayout = "table"
 
 env.advanced = [
   {
@@ -128,14 +128,15 @@ env.advanced = [
     type: "select",
     key: "区画南北",
     value: "",
-    values: ['南5']
+    values: ['南5', '南4', '南3', '南2', "南1", "中", "北1", "北2", "北3", "北4", "北5"]
   },
   {
     label: "区画東西",
     type: "select",
     key: "区画東西",
     value: "",
-    values: ['東6']
+    values: ["東6", '東5', "東4", '東3', '東2', "東1", 
+    "中", "西1", "西2", "西3", "西4", "西5", "西6", "西7", "西8", "西9", "西10", "西11", "西12"]
   },
   {
     label: "表裏",
@@ -155,6 +156,13 @@ env.advanced = [
     type: "text",
     key: "備考",
     value: "",
+  },
+  {
+    label: "詳細区画",
+    type: "select",
+    key: "詳細区画",
+    value: "",
+    values: ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3", "D1", "D2", "D3"]
   }
 ]
 
@@ -172,7 +180,7 @@ const routerBase =
   process.env.DEPLOY_ENV === 'GH_PAGES'
     ? {
         router: {
-          base: '/suikeichu/',
+          base: '/suikeichuzu/',
         },
       }
     : {}

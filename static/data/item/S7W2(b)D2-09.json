@@ -1,18 +1,20 @@
 {
-    "fulltext": "白水郷, 01-02106, 5, 南7, 西2, 本図, 白水郷, 墨, 裏, 16, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7W2(b)D2-09.json",
+    "fulltext": "白水郷, 01-02106, 地点, 南7, 西2, 本図, 白水郷, 墨, 裏, 亭台跡, D2",
     "label": "白水郷",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23581,18369,71,29",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23581,18369,71,29",
     "objectID": "S7W2(b)D2-09",
     "sort": [
         "01-02106"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23581,18369,71,29/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23581,18369,71,29/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "D2"

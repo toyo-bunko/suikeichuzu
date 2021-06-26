@@ -1,18 +1,20 @@
 {
-    "fulltext": "塞外, 00-07835, 4, 南4, 西11, 本図, 塞外, 墨, 裏, 0, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4W11(b)D2-02.json",
+    "fulltext": "塞外, 00-07835, なし, 南4, 西11, 本図, 塞外, 墨, 裏, , D2",
     "label": "塞外",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=2872,13688,109,61",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=2872,13688,109,61",
     "objectID": "S4W11(b)D2-02",
     "sort": [
         "00-07835"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/2872,13688,109,61/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/2872,13688,109,61/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D2"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "楡溪舊塞, 00-02978, 3, 南1, 西4, 本図, 楡溪舊塞, 墨, 裏, 0, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "楡溪舊塞, 00-02978, なし, 南1, 西4, 本図, 楡溪舊塞, 墨, 裏, , B1",
     "label": "楡溪舊塞",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19335,8149,76,173",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19335,8149,76,173",
     "objectID": "S1W4(b)B1-04",
     "sort": [
         "00-02978"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19335,8149,76,173/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/19335,8149,76,173/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "B1"

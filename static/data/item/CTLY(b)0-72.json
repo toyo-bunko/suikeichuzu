@@ -1,8 +1,7 @@
 {
-    "fulltext": "宣武場, 04-00155, 8, 0, 0, 洛陽城図, 宣武場, 墨, 裏, 16, 0",
-    "group": [
-        "jouzu03_rakuyou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "宣武場, 04-00155, 地点, 洛陽城図, 宣武場, 墨, 裏, 亭台跡",
     "label": "宣武場",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=2025,84,96,169",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00155"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/2025,84,96,169/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu03_rakuyou.tif/2025,84,96,169/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         0

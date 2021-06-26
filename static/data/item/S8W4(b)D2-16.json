@@ -1,18 +1,20 @@
 {
-    "fulltext": "魚復尉戍, 01-03450, 5, 南8, 西4, 本図, 魚復尉戍, 墨, 裏, 0, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S8W4(b)D2-16.json",
+    "fulltext": "魚復尉戍, 01-03450, なし, 南8, 西4, 本図, 魚復尉戍, 墨, 裏, , D2",
     "label": "魚復尉戍",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19028,20114,34,43",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19028,20114,34,43",
     "objectID": "S8W4(b)D2-16",
     "sort": [
         "01-03450"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19028,20114,34,43/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/19028,20114,34,43/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南8"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D2"

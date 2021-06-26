@@ -1,18 +1,20 @@
 {
-    "fulltext": "燕昌城, 00-01155, 2, 北1, 西2, 本図, 燕昌城, 墨, 表, 16, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "燕昌城, 00-01155, 地点, 北1, 西2, 本図, 燕昌城, 墨, 表, 亭台跡, C3",
     "label": "燕昌城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24523,5740,110,63",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24523,5740,110,63",
     "objectID": "N1W2(a)C3-03",
     "sort": [
         "00-01155"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24523,5740,110,63/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/24523,5740,110,63/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "C3"

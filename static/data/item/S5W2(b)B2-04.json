@@ -1,18 +1,20 @@
 {
-    "fulltext": "浮桁, 00-09094, 4, 南5, 西2, 本図, 浮桁, 墨, 裏, 29, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W2(b)B2-04.json",
+    "fulltext": "浮桁, 00-09094, 地点, 南5, 西2, 本図, 浮桁, 墨, 裏, 橋・津, B2",
     "label": "浮桁",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23603,14401,35,27",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23603,14401,35,27",
     "objectID": "S5W2(b)B2-04",
     "sort": [
         "00-09094"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23603,14401,35,27/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23603,14401,35,27/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         29
+    ],
+    "記号説明": [
+        "橋・津"
     ],
     "詳細区画": [
         "B2"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "英額門, 00-00160, 1, 北3, 東4, 本図, 英額門, 朱, 表, 34, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "英額門, 00-00160, 地点, 北3, 東4, 本図, 英額門, 朱, 表, 長城門, C3",
     "label": "英額門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38403,2549,98,78",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=38403,2549,98,78",
     "objectID": "N3E4(a)C3-02",
     "sort": [
         "00-00160"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38403,2549,98,78/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/38403,2549,98,78/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "北3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         34
+    ],
+    "記号説明": [
+        "長城門"
     ],
     "詳細区画": [
         "C3"

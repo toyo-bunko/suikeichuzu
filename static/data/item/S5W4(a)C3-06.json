@@ -1,18 +1,20 @@
 {
-    "fulltext": "漕渠, 00-09894, 4, 南5, 西4, 本図, 漕渠, 墨, 表, 2, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W4(a)C3-06.json",
+    "fulltext": "漕渠, 00-09894, 地形, 南5, 西4, 本図, 漕渠, 墨, 表, 故瀆, C3",
     "label": "漕渠",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19758,14778,58,36",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19758,14778,58,36",
     "objectID": "S5W4(a)C3-06",
     "sort": [
         "00-09894"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19758,14778,58,36/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/19758,14778,58,36/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         2
+    ],
+    "記号説明": [
+        "故瀆"
     ],
     "詳細区画": [
         "C3"

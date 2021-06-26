@@ -1,18 +1,20 @@
 {
-    "fulltext": "嘉山, 00-01484, 2, 中, 東5, 本図, 嘉山, 朱, 裏, 26, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "嘉山, 00-01484, 行政, 中, 東5, 本図, 嘉山, 朱, 裏, 軍政長官駐在地(朝鮮の郡), A3",
     "label": "嘉山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39406,6533,72,81",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=39406,6533,72,81",
     "objectID": "CE5(b)A3-02",
     "sort": [
         "00-01484"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39406,6533,72,81/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/39406,6533,72,81/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "中"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         26
+    ],
+    "記号説明": [
+        "軍政長官駐在地(朝鮮の郡)"
     ],
     "詳細区画": [
         "A3"

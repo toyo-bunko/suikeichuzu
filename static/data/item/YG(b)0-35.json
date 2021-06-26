@@ -1,8 +1,7 @@
 {
-    "fulltext": "三危山, 05-00241, 8, 0, 0, 禹貢山水澤地所在, 三危山, 墨, 裏, 4, 0",
-    "group": [
-        "ukou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "三危山, 05-00241, 地形, 禹貢山水澤地所在, 三危山, 墨, 裏, 山谷",
     "label": "三危山",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=553,305,111,49",
@@ -10,9 +9,12 @@
     "sort": [
         "05-00241"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/553,305,111,49/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/553,305,111,49/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         0

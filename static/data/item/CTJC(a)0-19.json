@@ -1,8 +1,7 @@
 {
-    "fulltext": "銚期奮戟處, 04-00481, 8, 0, 0, 薊城図, 銚期奮戟處, 墨, 表, 34, 0",
-    "group": [
-        "jouzu07_keijou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "銚期奮戟處, 04-00481, 地点, 薊城図, 銚期奮戟處, 墨, 表, 長城門",
     "label": "銚期奮戟處",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=999,2102,356,96",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00481"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/999,2102,356,96/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/999,2102,356,96/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         34
+    ],
+    "記号説明": [
+        "長城門"
     ],
     "詳細区画": [
         0

@@ -1,8 +1,7 @@
 {
-    "fulltext": "射堂邸舎, 04-00753, 8, 0, 0, 山陰城図, 射堂邸舎, 墨, 表, 0, 0",
-    "group": [
-        "jouzu13_sanin"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "射堂邸舎, 04-00753, なし, 山陰城図, 射堂邸舎, 墨, 表, ",
     "label": "射堂邸舎",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=859,1815,297,94",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00753"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/859,1815,297,94/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/859,1815,297,94/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         0

@@ -1,18 +1,20 @@
 {
-    "fulltext": "舊道出中山, 00-02029, 2, 中, 西1, 本図, 舊道出中山, 朱, 裏, 0, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "舊道出中山, 00-02029, なし, 中, 西1, 本図, 舊道出中山, 朱, 裏, , B2",
     "label": "舊道出中山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26091,6766,44,156",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26091,6766,44,156",
     "objectID": "CW1(b)B2-05",
     "sort": [
         "00-02029"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26091,6766,44,156/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/26091,6766,44,156/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "中"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "B2"

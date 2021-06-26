@@ -1,18 +1,20 @@
 {
-    "fulltext": "黃平, 01-07755, 7, 南13, 西5, 本図, 黃平, 朱, 裏, 23, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S13W5(b)A2-05.json",
+    "fulltext": "黃平, 01-07755, 行政, 南13, 西5, 本図, 黃平, 朱, 裏, 散州, A2",
     "label": "黃平",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16580,26503,81,36",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16580,26503,81,36",
     "objectID": "S13W5(b)A2-05",
     "sort": [
         "01-07755"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16580,26503,81,36/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/16580,26503,81,36/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南13"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         23
+    ],
+    "記号説明": [
+        "散州"
     ],
     "詳細区画": [
         "A2"

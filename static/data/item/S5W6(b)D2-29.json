@@ -1,21 +1,23 @@
 {
-    "fulltext": "宕備水, 00-10860, 注文は「巖備水」, 4, 南5, 西6, 本図, 宕備水, 墨, 裏, 1, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W6(b)D2-29.json",
+    "fulltext": "宕備水, 00-10860, 注文は「巖備水」, 地形, 南5, 西6, 本図, 宕備水, 墨, 裏, 河川, D2",
     "label": "宕備水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14368,15312,67,86",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14368,15312,67,86",
     "objectID": "S5W6(b)D2-29",
     "sort": [
         "00-10860"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14368,15312,67,86/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/14368,15312,67,86/200,/0/default.jpg",
     "備考": [
         "注文は「巖備水」"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南5"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D2"

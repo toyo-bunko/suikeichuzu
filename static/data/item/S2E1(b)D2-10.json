@@ -1,18 +1,20 @@
 {
-    "fulltext": "臨濟故狄, 00-03353, 3, 南2, 東1, 本図, 臨濟故狄, 墨, 裏, 9, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2E1(b)D2-10.json",
+    "fulltext": "臨濟故狄, 00-03353, 行政, 南2, 東1, 本図, 臨濟故狄, 墨, 裏, 州郡跡, D2",
     "label": "臨濟故狄",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30563,10604,76,62",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30563,10604,76,62",
     "objectID": "S2E1(b)D2-10",
     "sort": [
         "00-03353"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30563,10604,76,62/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/30563,10604,76,62/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         9
+    ],
+    "記号説明": [
+        "州郡跡"
     ],
     "詳細区画": [
         "D2"

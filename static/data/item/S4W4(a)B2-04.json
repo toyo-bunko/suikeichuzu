@@ -1,21 +1,23 @@
 {
-    "fulltext": "石室, 00-07295, ●2カ所有り, 4, 南4, 西4, 本図, 石室, 墨, 表, 16, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4W4(a)B2-04.json",
+    "fulltext": "石室, 00-07295, ●2カ所有り, 地点, 南4, 西4, 本図, 石室, 墨, 表, 亭台跡, B2",
     "label": "石室",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20084,13134,49,69",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20084,13134,49,69",
     "objectID": "S4W4(a)B2-04",
     "sort": [
         "00-07295"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20084,13134,49,69/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/20084,13134,49,69/200,/0/default.jpg",
     "備考": [
         "●2カ所有り"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南4"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "B2"

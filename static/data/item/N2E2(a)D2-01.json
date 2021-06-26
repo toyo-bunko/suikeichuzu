@@ -1,18 +1,20 @@
 {
-    "fulltext": "錦州, 00-00403, 1, 北2, 東2, 本図, 錦州, 朱, 表, 18, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "錦州, 00-00403, 行政, 北2, 東2, 本図, 錦州, 朱, 表, 府名, D2",
     "label": "錦州",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33989,4397,75,106",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33989,4397,75,106",
     "objectID": "N2E2(a)D2-01",
     "sort": [
         "00-00403"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33989,4397,75,106/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/33989,4397,75,106/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "北2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "D2"

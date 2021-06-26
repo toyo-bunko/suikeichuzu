@@ -1,8 +1,7 @@
 {
-    "fulltext": "三輔舊事長安城南為南斗形北為北斗形, 04-00311, 8, 0, 0, 長安城図, 三輔舊事長安城南為南斗形北為北斗形, 墨, 裏, 0, 0",
-    "group": [
-        "jouzu04_chouan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "三輔舊事長安城南為南斗形北為北斗形, 04-00311, なし, 長安城図, 三輔舊事長安城南為南斗形北為北斗形, 墨, 裏, ",
     "label": "三輔舊事長安城南為南斗形北為北斗形",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1977,1517,255,322",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00311"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/1977,1517,255,322/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1977,1517,255,322/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         0

@@ -1,18 +1,20 @@
 {
-    "fulltext": "新平, 03-00299, 8, 越南, 下, 越南, 新平, 朱, 裏, 18, C1",
-    "group": [
-        "etsunan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "新平, 03-00299, 行政, 越南, 下, 越南, 新平, 朱, 裏, 府名, C1",
     "label": "新平",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1518,8228,122,89",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=1518,8228,122,89",
     "objectID": "YB(b)C1-01",
     "sort": [
         "03-00299"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1518,8228,122,89/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif/1518,8228,122,89/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "越南"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "C1"

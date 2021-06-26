@@ -1,8 +1,7 @@
 {
-    "fulltext": "東西二海通謂之都野, 05-00207, 8, 0, 0, 禹貢山水澤地所在, 東西二海通謂之都野, 墨, 裏, 5, 0",
-    "group": [
-        "ukou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "東西二海通謂之都野, 05-00207, 地形, 禹貢山水澤地所在, 東西二海通謂之都野, 墨, 裏, 湖",
     "label": "東西二海通謂之都野",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1361,56,141,122",
@@ -10,9 +9,12 @@
     "sort": [
         "05-00207"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1361,56,141,122/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/1361,56,141,122/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         0

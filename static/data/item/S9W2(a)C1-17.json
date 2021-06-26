@@ -1,21 +1,23 @@
 {
-    "fulltext": "赤壁山, 01-04430, 墨字と重なっていて、地名の判別が困難, 6, 南9, 西2, 本図, 赤壁山, 朱, 表, 4, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9W2(a)C1-17.json",
+    "fulltext": "赤壁山, 01-04430, 墨字と重なっていて、地名の判別が困難, 地形, 南9, 西2, 本図, 赤壁山, 朱, 表, 山谷, C1",
     "label": "赤壁山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25113,21283,74,30",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25113,21283,74,30",
     "objectID": "S9W2(a)C1-17",
     "sort": [
         "01-04430"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25113,21283,74,30/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25113,21283,74,30/200,/0/default.jpg",
     "備考": [
         "墨字と重なっていて、地名の判別が困難"
     ],
     "冊": [
         6
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南9"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "C1"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "巴, 01-06018, 6, 南10, 西6, 本図, 巴, 朱, 表, 18, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S10W6(a)B3-05.json",
+    "fulltext": "巴, 01-06018, 行政, 南10, 西6, 本図, 巴, 朱, 表, 府名, B3",
     "label": "巴",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15333,22226,31,22",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15333,22226,31,22",
     "objectID": "S10W6(a)B3-05",
     "sort": [
         "01-06018"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15333,22226,31,22/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/15333,22226,31,22/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南10"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "B3"

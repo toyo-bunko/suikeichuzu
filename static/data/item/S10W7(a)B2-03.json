@@ -1,18 +1,20 @@
 {
-    "fulltext": "内江, 01-06055, 6, 南10, 西7, 本図, 内江, 朱, 表, 19, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S10W7(a)B2-03.json",
+    "fulltext": "内江, 01-06055, 行政, 南10, 西7, 本図, 内江, 朱, 表, 県名（清）, B2",
     "label": "内江",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13300,22325,56,27",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=13300,22325,56,27",
     "objectID": "S10W7(a)B2-03",
     "sort": [
         "01-06055"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13300,22325,56,27/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/13300,22325,56,27/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南10"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "B2"

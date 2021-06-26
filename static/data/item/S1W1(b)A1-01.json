@@ -1,0 +1,46 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "滱水, 00-02720, 地形, 南1, 西1, 本図, 滱水, 墨, 裏, 河川, A1",
+    "label": "滱水",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26489,7802,79,61",
+    "objectID": "S1W1(b)A1-01",
+    "sort": [
+        "00-02720"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/26489,7802,79,61/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "分類": [
+        "地形"
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "滱水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "記号説明": [
+        "河川"
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

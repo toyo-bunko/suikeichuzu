@@ -1,18 +1,20 @@
 {
-    "fulltext": "黄鵠灣, 01-04282, 6, 南9, 西1, 本図, 黄鵠灣, 墨, 裏, 1, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9W1(b)B3-23.json",
+    "fulltext": "黄鵠灣, 01-04282, 地形, 南9, 西1, 本図, 黄鵠灣, 墨, 裏, 河川, B3",
     "label": "黄鵠灣",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25409,20751,19,72",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25409,20751,19,72",
     "objectID": "S9W1(b)B3-23",
     "sort": [
         "01-04282"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25409,20751,19,72/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25409,20751,19,72/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南9"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "B3"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "姜士遊所居, 01-05009, 6, 南9, 西7, 本図, 姜士遊所居, 墨, 表, 0, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9W7(a)A3-03.json",
+    "fulltext": "姜士遊所居, 01-05009, なし, 南9, 西7, 本図, 姜士遊所居, 墨, 表, , A3",
     "label": "姜士遊所居",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12898,20466,65,91",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=12898,20466,65,91",
     "objectID": "S9W7(a)A3-03",
     "sort": [
         "01-05009"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12898,20466,65,91/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/12898,20466,65,91/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南9"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A3"

@@ -1,21 +1,23 @@
 {
-    "fulltext": "東城, 01-00791, 大四角の中に地名, 5, 南6, 西2, 本図, 東城, 墨, 裏, 7, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6W2(b)D3-17.json",
+    "fulltext": "東城, 01-00791, 大四角の中に地名, 行政, 南6, 西2, 本図, 東城, 墨, 裏, 郡名, D3",
     "label": "東城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23345,16913,21,58",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23345,16913,21,58",
     "objectID": "S6W2(b)D3-17",
     "sort": [
         "01-00791"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23345,16913,21,58/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23345,16913,21,58/200,/0/default.jpg",
     "備考": [
         "大四角の中に地名"
     ],
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南6"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         7
+    ],
+    "記号説明": [
+        "郡名"
     ],
     "詳細区画": [
         "D3"

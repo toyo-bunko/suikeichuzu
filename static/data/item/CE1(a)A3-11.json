@@ -1,21 +1,23 @@
 {
-    "fulltext": "陽樂, 00-01560, 11か？, 2, 中, 東1, 本図, 陽樂, 墨, 表, 7, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "陽樂, 00-01560, 11か？, 行政, 中, 東1, 本図, 陽樂, 墨, 表, 郡名, A3",
     "label": "陽樂",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31449,6521,86,82",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=31449,6521,86,82",
     "objectID": "CE1(a)A3-11",
     "sort": [
         "00-01560"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31449,6521,86,82/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/31449,6521,86,82/200,/0/default.jpg",
     "備考": [
         "11か？"
     ],
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "中"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         7
+    ],
+    "記号説明": [
+        "郡名"
     ],
     "詳細区画": [
         "A3"

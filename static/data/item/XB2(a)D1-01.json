@@ -1,18 +1,20 @@
 {
-    "fulltext": "南天竺, 02-00321, 1, 下, 2, 西域, 南天竺, 墨, 表, 0, D1",
-    "group": [
-        "saiiki"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "南天竺, 02-00321, なし, 下, 西域, 南天竺, 墨, 表, , D1",
     "label": "南天竺",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4397,6083,236,104",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=4397,6083,236,104",
     "objectID": "XB2(a)D1-01",
     "sort": [
         "02-00321"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4397,6083,236,104/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/4397,6083,236,104/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "下"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D1"

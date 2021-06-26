@@ -1,18 +1,20 @@
 {
-    "fulltext": "石室, 01-08191, 7, 南14, 西2, 本図, 石室, 墨, 裏, 0, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S14W2(b)D2-03.json",
+    "fulltext": "石室, 01-08191, なし, 南14, 西2, 本図, 石室, 墨, 裏, , D2",
     "label": "石室",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23741,29294,45,62",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23741,29294,45,62",
     "objectID": "S14W2(b)D2-03",
     "sort": [
         "01-08191"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23741,29294,45,62/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23741,29294,45,62/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南14"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D2"

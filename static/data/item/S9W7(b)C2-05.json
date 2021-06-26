@@ -1,18 +1,20 @@
 {
-    "fulltext": "犍為郡, 01-05114, 6, 南9, 西7, 本図, 犍為郡, 墨, 裏, 15, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9W7(b)C2-05.json",
+    "fulltext": "犍為郡, 01-05114, 行政, 南9, 西7, 本図, 犍為郡, 墨, 裏, 旧郡治の県, C2",
     "label": "犍為郡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11941,21335,89,32",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=11941,21335,89,32",
     "objectID": "S9W7(b)C2-05",
     "sort": [
         "01-05114"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11941,21335,89,32/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/11941,21335,89,32/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南9"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         15
+    ],
+    "記号説明": [
+        "旧郡治の県"
     ],
     "詳細区画": [
         "C2"

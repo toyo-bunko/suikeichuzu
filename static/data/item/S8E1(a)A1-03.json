@@ -1,18 +1,20 @@
 {
-    "fulltext": "句容, 01-02795, 5, 南8, 東1, 本図, 句容, 朱, 表, 19, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S8E1(a)A1-03.json",
+    "fulltext": "句容, 01-02795, 行政, 南8, 東1, 本図, 句容, 朱, 表, 県名（清）, A1",
     "label": "句容",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32008,18661,39,61",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=32008,18661,39,61",
     "objectID": "S8E1(a)A1-03",
     "sort": [
         "01-02795"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32008,18661,39,61/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/32008,18661,39,61/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南8"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "A1"

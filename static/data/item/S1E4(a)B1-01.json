@@ -1,18 +1,20 @@
 {
-    "fulltext": "九月山, 00-02390, 3, 南1, 東4, 本図, 九月山, 朱, 表, 4, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "九月山, 00-02390, 地形, 南1, 東4, 本図, 九月山, 朱, 表, 山谷, B1",
     "label": "九月山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39045,8515,92,76",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=39045,8515,92,76",
     "objectID": "S1E4(a)B1-01",
     "sort": [
         "00-02390"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39045,8515,92,76/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/39045,8515,92,76/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "B1"

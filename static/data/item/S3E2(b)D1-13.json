@@ -1,21 +1,23 @@
 {
-    "fulltext": "即地理志之鿆, 00-04281, 取り方, 4, 南3, 東2, 本図, 即地理志之鿆, 墨, 裏, 10, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3E2(b)D1-13.json",
+    "fulltext": "即地理志之鿆, 00-04281, 取り方, 行政, 南3, 東2, 本図, 即地理志之鿆, 墨, 裏, 県跡, D1",
     "label": "即地理志之鿆",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33110,12327,50,88",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33110,12327,50,88",
     "objectID": "S3E2(b)D1-13",
     "sort": [
         "00-04281"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33110,12327,50,88/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/33110,12327,50,88/200,/0/default.jpg",
     "備考": [
         "取り方"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南3"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         10
+    ],
+    "記号説明": [
+        "県跡"
     ],
     "詳細区画": [
         "D1"

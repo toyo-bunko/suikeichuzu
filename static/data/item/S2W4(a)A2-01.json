@@ -1,18 +1,20 @@
 {
-    "fulltext": "長城, 00-04004, 3, 南2, 西4, 本図, 長城, 墨, 表, 28, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2W4(a)A2-01.json",
+    "fulltext": "長城, 00-04004, 地点, 南2, 西4, 本図, 長城, 墨, 表, 長城, A2",
     "label": "長城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20304,9416,38,101",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20304,9416,38,101",
     "objectID": "S2W4(a)A2-01",
     "sort": [
         "00-04004"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20304,9416,38,101/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/20304,9416,38,101/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         28
+    ],
+    "記号説明": [
+        "長城"
     ],
     "詳細区画": [
         "A2"

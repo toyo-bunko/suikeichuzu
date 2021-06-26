@@ -1,18 +1,20 @@
 {
-    "fulltext": "羅亭, 00-01080, 2, 北1, 西1, 本図, 羅亭, 墨, 裏, 0, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "羅亭, 00-01080, なし, 北1, 西1, 本図, 羅亭, 墨, 裏, , B3",
     "label": "羅亭",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25753,5236,55,94",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25753,5236,55,94",
     "objectID": "N1W1(b)B3-01",
     "sort": [
         "00-01080"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25753,5236,55,94/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25753,5236,55,94/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "B3"

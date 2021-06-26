@@ -1,8 +1,7 @@
 {
-    "fulltext": "一曰西安門, 04-00338, 8, 0, 0, 長安城図, 一曰西安門, 墨, 裏, 34, 0",
-    "group": [
-        "jouzu04_chouan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "一曰西安門, 04-00338, 地点, 長安城図, 一曰西安門, 墨, 裏, 長城門",
     "label": "一曰西安門",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1343,2608,289,92",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00338"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/1343,2608,289,92/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1343,2608,289,92/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         34
+    ],
+    "記号説明": [
+        "長城門"
     ],
     "詳細区画": [
         0

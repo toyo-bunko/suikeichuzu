@@ -1,18 +1,20 @@
 {
-    "fulltext": "梁立霍州, 01-02984, 5, 南8, 中, 本図, 梁立霍州, 墨, 裏, 8, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S8C(b)B1-02.json",
+    "fulltext": "梁立霍州, 01-02984, 行政, 南8, 中, 本図, 梁立霍州, 墨, 裏, 県名（北魏）, B1",
     "label": "梁立霍州",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28439,19380,120,45",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28439,19380,120,45",
     "objectID": "S8C(b)B1-02",
     "sort": [
         "01-02984"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28439,19380,120,45/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28439,19380,120,45/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南8"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         8
+    ],
+    "記号説明": [
+        "県名（北魏）"
     ],
     "詳細区画": [
         "B1"

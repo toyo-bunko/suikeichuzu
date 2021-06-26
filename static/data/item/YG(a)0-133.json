@@ -1,8 +1,7 @@
 {
-    "fulltext": "漢陽, 05-00133, 8, 0, 0, 禹貢山水澤地所在, 漢陽, 朱, 表, 7, 0",
-    "group": [
-        "ukou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "漢陽, 05-00133, 行政, 禹貢山水澤地所在, 漢陽, 朱, 表, 郡名",
     "label": "漢陽",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2349,1425,91,57",
@@ -10,9 +9,12 @@
     "sort": [
         "05-00133"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2349,1425,91,57/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2349,1425,91,57/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         7
+    ],
+    "記号説明": [
+        "郡名"
     ],
     "詳細区画": [
         0

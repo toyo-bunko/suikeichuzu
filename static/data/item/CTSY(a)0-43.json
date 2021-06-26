@@ -1,0 +1,46 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "塘, 04-00755, なし, 山陰城図, 塘, 墨, 表, ",
+    "label": "塘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1053,2002,90,77",
+    "objectID": "CTSY(a)0-43",
+    "sort": [
+        "04-00755"
+    ],
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1053,2002,90,77/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "分類": [
+        "なし"
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "山陰城図"
+    ],
+    "地名/記述": [
+        "塘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "記号説明": [
+        ""
+    ],
+    "詳細区画": [
+        0
+    ]
+}

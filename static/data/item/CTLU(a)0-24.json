@@ -1,8 +1,7 @@
 {
-    "fulltext": "靈光殿, 04-00509, 8, 0, 0, 魯城図, 靈光殿, 墨, 表, 14, 0",
-    "group": [
-        "jouzu08_rojou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "靈光殿, 04-00509, 行政, 魯城図, 靈光殿, 墨, 表, 旧県の郡治",
     "label": "靈光殿",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=823,1835,188,64",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00509"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif/823,1835,188,64/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/823,1835,188,64/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         14
+    ],
+    "記号説明": [
+        "旧県の郡治"
     ],
     "詳細区画": [
         0

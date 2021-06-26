@@ -1,18 +1,20 @@
 {
-    "fulltext": "北天竺, 02-00161, 1, 上, 1, 西域, 北天竺, 墨, 裏, 16, C3",
-    "group": [
-        "saiiki"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "北天竺, 02-00161, 地点, 上, 西域, 北天竺, 墨, 裏, 亭台跡, C3",
     "label": "北天竺",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4814,2717,154,71",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=4814,2717,154,71",
     "objectID": "XT1(b)C3-10",
     "sort": [
         "02-00161"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4814,2717,154,71/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/4814,2717,154,71/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "上"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "C3"

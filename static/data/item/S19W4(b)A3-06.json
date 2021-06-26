@@ -1,18 +1,20 @@
 {
-    "fulltext": "鷓鴣嶺, 01-10091, 8, 南19, 西4, 本図, 鷓鴣嶺, 朱, 裏, 4, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S19W4(b)A3-06.json",
+    "fulltext": "鷓鴣嶺, 01-10091, 地形, 南19, 西4, 本図, 鷓鴣嶺, 朱, 裏, 山谷, A3",
     "label": "鷓鴣嶺",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18560,35985,109,50",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18560,35985,109,50",
     "objectID": "S19W4(b)A3-06",
     "sort": [
         "01-10091"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18560,35985,109,50/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/18560,35985,109,50/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南19"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "A3"

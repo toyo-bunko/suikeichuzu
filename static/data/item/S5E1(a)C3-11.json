@@ -1,18 +1,20 @@
 {
-    "fulltext": "沭水故瀆, 00-07890, 4, 南5, 東1, 本図, 沭水故瀆, 墨, 表, 2, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5E1(a)C3-11.json",
+    "fulltext": "沭水故瀆, 00-07890, 地形, 南5, 東1, 本図, 沭水故瀆, 墨, 表, 故瀆, C3",
     "label": "沭水故瀆",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31392,14991,116,156",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=31392,14991,116,156",
     "objectID": "S5E1(a)C3-11",
     "sort": [
         "00-07890"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31392,14991,116,156/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/31392,14991,116,156/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         2
+    ],
+    "記号説明": [
+        "故瀆"
     ],
     "詳細区画": [
         "C3"

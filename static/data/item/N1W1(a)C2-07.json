@@ -1,18 +1,20 @@
 {
-    "fulltext": "保安, 00-01029, 2, 北1, 西1, 本図, 保安, 朱, 表, 23, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "保安, 00-01029, 行政, 北1, 西1, 本図, 保安, 朱, 表, 散州, C2",
     "label": "保安",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27039,5605,70,69",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27039,5605,70,69",
     "objectID": "N1W1(a)C2-07",
     "sort": [
         "00-01029"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27039,5605,70,69/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27039,5605,70,69/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         23
+    ],
+    "記号説明": [
+        "散州"
     ],
     "詳細区画": [
         "C2"

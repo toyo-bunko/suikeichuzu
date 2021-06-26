@@ -1,8 +1,7 @@
 {
-    "fulltext": "道, 04-00709, 「……」で表記される。, 8, 0, 0, 成都橋図, 道, 墨, 表, 0, 0",
-    "group": [
-        "jouzu12_seito"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "道, 04-00709, 「……」で表記される。, なし, 成都橋図, 道, 墨, 表, ",
     "label": "道",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1089,2088,105,84",
@@ -10,12 +9,15 @@
     "sort": [
         "04-00709"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1089,2088,105,84/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1089,2088,105,84/200,/0/default.jpg",
     "備考": [
         "「……」で表記される。"
     ],
     "冊": [
         8
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         0
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         0

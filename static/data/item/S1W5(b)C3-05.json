@@ -1,18 +1,20 @@
 {
-    "fulltext": "昌潤渠, 00-03011, 3, 南1, 西5, 本図, 昌潤渠, 朱, 裏, 1, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "昌潤渠, 00-03011, 地形, 南1, 西5, 本図, 昌潤渠, 朱, 裏, 河川, C3",
     "label": "昌潤渠",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16285,8784,45,106",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16285,8784,45,106",
     "objectID": "S1W5(b)C3-05",
     "sort": [
         "00-03011"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16285,8784,45,106/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/16285,8784,45,106/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "C3"

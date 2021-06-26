@@ -1,18 +1,20 @@
 {
-    "fulltext": "林蘭陘, 00-00779, 2, 北1, 東1, 本図, 林蘭陘, 墨, 裏, 0, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "林蘭陘, 00-00779, なし, 北1, 東1, 本図, 林蘭陘, 墨, 裏, , C2",
     "label": "林蘭陘",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30675,5472,79,50",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30675,5472,79,50",
     "objectID": "N1E1(b)C2-02",
     "sort": [
         "00-00779"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30675,5472,79,50/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/30675,5472,79,50/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "C2"

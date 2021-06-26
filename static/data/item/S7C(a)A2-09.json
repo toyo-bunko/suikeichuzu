@@ -1,18 +1,20 @@
 {
-    "fulltext": "馬頭郡治, 01-01567, 5, 南7, 中, 本図, 馬頭郡治, 墨, 表, 7, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7C(a)A2-09.json",
+    "fulltext": "馬頭郡治, 01-01567, 行政, 南7, 中, 本図, 馬頭郡治, 墨, 表, 郡名, A2",
     "label": "馬頭郡治",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29359,17255,79,60",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29359,17255,79,60",
     "objectID": "S7C(a)A2-09",
     "sort": [
         "01-01567"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29359,17255,79,60/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29359,17255,79,60/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         7
+    ],
+    "記号説明": [
+        "郡名"
     ],
     "詳細区画": [
         "A2"

@@ -1,8 +1,7 @@
 {
-    "fulltext": "大明湖, 04-00016, 8, 0, 0, 歴城図, 大明湖, 墨, 表, 5, 0",
-    "group": [
-        "jouzu01_rekijou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "大明湖, 04-00016, 地形, 歴城図, 大明湖, 墨, 表, 湖",
     "label": "大明湖",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=265,1208,201,97",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00016"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/265,1208,201,97/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/265,1208,201,97/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         0

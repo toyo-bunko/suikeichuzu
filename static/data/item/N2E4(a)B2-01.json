@@ -1,18 +1,20 @@
 {
-    "fulltext": "永清門, 00-00303, 1, 北2, 東4, 本図, 永清門, 朱, 表, 34, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "永清門, 00-00303, 地点, 北2, 東4, 本図, 永清門, 朱, 表, 長城門, B2",
     "label": "永清門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38627,3504,147,36",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=38627,3504,147,36",
     "objectID": "N2E4(a)B2-01",
     "sort": [
         "00-00303"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38627,3504,147,36/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/38627,3504,147,36/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "北2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         34
+    ],
+    "記号説明": [
+        "長城門"
     ],
     "詳細区画": [
         "B2"

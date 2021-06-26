@@ -1,21 +1,23 @@
 {
-    "fulltext": "故郷洲, 01-04616, 中洲, 6, 南9, 西3, 本図, 故郷洲, 墨, 表, 0, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9W3(a)C2-31.json",
+    "fulltext": "故郷洲, 01-04616, 中洲, なし, 南9, 西3, 本図, 故郷洲, 墨, 表, , C2",
     "label": "故郷洲",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22418,21202,73,27",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22418,21202,73,27",
     "objectID": "S9W3(a)C2-31",
     "sort": [
         "01-04616"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22418,21202,73,27/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/22418,21202,73,27/200,/0/default.jpg",
     "備考": [
         "中洲"
     ],
     "冊": [
         6
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南9"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "C2"

@@ -1,21 +1,23 @@
 {
-    "fulltext": "白門, 00-07957, 町ではないが、町の一部, 4, 南5, 東1, 本図, 白門, 墨, 裏, 0, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5E1(b)D2-07.json",
+    "fulltext": "白門, 00-07957, 町ではないが、町の一部, なし, 南5, 東1, 本図, 白門, 墨, 裏, , D2",
     "label": "白門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30679,15332,53,32",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30679,15332,53,32",
     "objectID": "S5E1(b)D2-07",
     "sort": [
         "00-07957"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30679,15332,53,32/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/30679,15332,53,32/200,/0/default.jpg",
     "備考": [
         "町ではないが、町の一部"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南5"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D2"

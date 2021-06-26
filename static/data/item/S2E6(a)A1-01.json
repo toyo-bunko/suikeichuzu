@@ -1,18 +1,20 @@
 {
-    "fulltext": "通川, 00-03111, 3, 南2, 東6, 本図, 通川, 朱, 表, 26, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2E6(a)A1-01.json",
+    "fulltext": "通川, 00-03111, 行政, 南2, 東6, 本図, 通川, 朱, 表, 軍政長官駐在地(朝鮮の郡), A1",
     "label": "通川",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=43603,9370,81,82",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=43603,9370,81,82",
     "objectID": "S2E6(a)A1-01",
     "sort": [
         "00-03111"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/43603,9370,81,82/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/43603,9370,81,82/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         26
+    ],
+    "記号説明": [
+        "軍政長官駐在地(朝鮮の郡)"
     ],
     "詳細区画": [
         "A1"

@@ -1,21 +1,23 @@
 {
-    "fulltext": "鼻洲, 01-06488, 中洲、記号なし, 6, 南11, 西2, 本図, 鼻洲, 墨, 裏, 0, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S11W2(b)B3-17.json",
+    "fulltext": "鼻洲, 01-06488, 中洲、記号なし, なし, 南11, 西2, 本図, 鼻洲, 墨, 裏, , B3",
     "label": "鼻洲",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23267,23960,32,63",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23267,23960,32,63",
     "objectID": "S11W2(b)B3-17",
     "sort": [
         "01-06488"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23267,23960,32,63/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23267,23960,32,63/200,/0/default.jpg",
     "備考": [
         "中洲、記号なし"
     ],
     "冊": [
         6
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南11"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "B3"

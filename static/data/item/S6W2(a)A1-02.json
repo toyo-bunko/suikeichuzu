@@ -1,18 +1,20 @@
 {
-    "fulltext": "故汾邱城, 01-00516, 5, 南6, 西2, 本図, 故汾邱城, 墨, 表, 16, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6W2(a)A1-02.json",
+    "fulltext": "故汾邱城, 01-00516, 地点, 南6, 西2, 本図, 故汾邱城, 墨, 表, 亭台跡, A1",
     "label": "故汾邱城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25183,15575,120,40",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25183,15575,120,40",
     "objectID": "S6W2(a)A1-02",
     "sort": [
         "01-00516"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25183,15575,120,40/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25183,15575,120,40/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南6"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "A1"

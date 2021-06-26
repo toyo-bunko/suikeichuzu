@@ -1,18 +1,20 @@
 {
-    "fulltext": "濄陽郡, 01-00286, 5, 南6, 中, 本図, 濄陽郡, 墨, 裏, 11, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6C(b)C1-05.json",
+    "fulltext": "濄陽郡, 01-00286, 行政, 南6, 中, 本図, 濄陽郡, 墨, 裏, 旧州治の郡県, C1",
     "label": "濄陽郡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28568,16552,110,42",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28568,16552,110,42",
     "objectID": "S6C(b)C1-05",
     "sort": [
         "01-00286"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28568,16552,110,42/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28568,16552,110,42/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南6"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         11
+    ],
+    "記号説明": [
+        "旧州治の郡県"
     ],
     "詳細区画": [
         "C1"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "富春, 03-00221, 8, 越南, 中, 越南, 富春, 朱, 裏, 17, C2",
-    "group": [
-        "etsunan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "富春, 03-00221, 行政, 越南, 中, 越南, 富春, 朱, 裏, 省名, C2",
     "label": "富春",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1551,5090,124,83",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=1551,5090,124,83",
     "objectID": "YC(b)C2-11",
     "sort": [
         "03-00221"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1551,5090,124,83/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif/1551,5090,124,83/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "越南"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         17
+    ],
+    "記号説明": [
+        "省名"
     ],
     "詳細区画": [
         "C2"

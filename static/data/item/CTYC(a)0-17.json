@@ -1,8 +1,7 @@
 {
-    "fulltext": "止車門, 04-00065, 8, 0, 0, 鄴城図, 止車門, 墨, 表, 0, 0",
-    "group": [
-        "jouzu02_gyoujou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "止車門, 04-00065, なし, 鄴城図, 止車門, 墨, 表, ",
     "label": "止車門",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2102,1433,181,72",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00065"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/2102,1433,181,72/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu02_gyoujou.tif/2102,1433,181,72/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         0

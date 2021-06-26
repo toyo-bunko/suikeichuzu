@@ -1,21 +1,23 @@
 {
-    "fulltext": "番汗, 00-00056, 『漢書』地理志にみえる。遼東郡の県名。, 1, 北4, 東4, 本図, 番汗, 墨, 裏, 0, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "番汗, 00-00056, 『漢書』地理志にみえる。遼東郡の県名。, なし, 北4, 東4, 本図, 番汗, 墨, 裏, , D3",
     "label": "番汗",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=37226,1499,66,40",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=37226,1499,66,40",
     "objectID": "N4E4(b)D3-03",
     "sort": [
         "00-00056"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/37226,1499,66,40/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/37226,1499,66,40/200,/0/default.jpg",
     "備考": [
         "『漢書』地理志にみえる。遼東郡の県名。"
     ],
     "冊": [
         1
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "北4"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D3"

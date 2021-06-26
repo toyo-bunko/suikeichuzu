@@ -1,18 +1,20 @@
 {
-    "fulltext": "昔周召分伯以陝城為東西之別, 00-09579, 4, 南5, 西3, 本図, 昔周召分伯以陝城為東西之別, 墨, 裏, 0, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W3(b)A1-33.json",
+    "fulltext": "昔周召分伯以陝城為東西之別, 00-09579, なし, 南5, 西3, 本図, 昔周召分伯以陝城為東西之別, 墨, 裏, , A1",
     "label": "昔周召分伯以陝城為東西之別",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21778,14320,147,63",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21778,14320,147,63",
     "objectID": "S5W3(b)A1-33",
     "sort": [
         "00-09579"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21778,14320,147,63/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/21778,14320,147,63/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A1"

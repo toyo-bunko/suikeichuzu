@@ -69,7 +69,7 @@
                 >
                 -->
                 <a
-                  :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://nakamura196.github.io/suikeichuuzu/iiif-curation/${item.id}.json&mode=annotation&lang=ja`"
+                  :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}.json&canvas=${encodeURIComponent(item.member)}&mode=annotation&lang=ja`"
                   >全体図</a
                 >
               </td>

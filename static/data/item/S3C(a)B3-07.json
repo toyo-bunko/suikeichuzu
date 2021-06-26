@@ -1,18 +1,20 @@
 {
-    "fulltext": "東太原郡, 00-04667, 4, 南3, 中, 本図, 東太原郡, 墨, 表, 15, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3C(a)B3-07.json",
+    "fulltext": "東太原郡, 00-04667, 行政, 南3, 中, 本図, 東太原郡, 墨, 表, 旧郡治の県, B3",
     "label": "東太原郡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29063,11507,60,58",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29063,11507,60,58",
     "objectID": "S3C(a)B3-07",
     "sort": [
         "00-04667"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29063,11507,60,58/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29063,11507,60,58/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         15
+    ],
+    "記号説明": [
+        "旧郡治の県"
     ],
     "詳細区画": [
         "B3"

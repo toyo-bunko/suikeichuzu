@@ -1,21 +1,23 @@
 {
-    "fulltext": "●水, 00-08507, ●＝さんずい＋過, 4, 南5, 西1, 本図, ●水, 墨, 裏, 1, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W1(b)D1-03.json",
+    "fulltext": "●水, 00-08507, ●＝さんずい＋過, 地形, 南5, 西1, 本図, ●水, 墨, 裏, 河川, D1",
     "label": "●水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26423,15240,86,42",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26423,15240,86,42",
     "objectID": "S5W1(b)D1-03",
     "sort": [
         "00-08507"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26423,15240,86,42/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/26423,15240,86,42/200,/0/default.jpg",
     "備考": [
         "●＝さんずい＋過"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南5"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D1"

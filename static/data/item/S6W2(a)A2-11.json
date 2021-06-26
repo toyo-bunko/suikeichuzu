@@ -1,18 +1,20 @@
 {
-    "fulltext": "繁邱城, 01-00548, 5, 南6, 西2, 本図, 繁邱城, 墨, 表, 16, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6W2(a)A2-11.json",
+    "fulltext": "繁邱城, 01-00548, 地点, 南6, 西2, 本図, 繁邱城, 墨, 表, 亭台跡, A2",
     "label": "繁邱城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24895,15730,97,41",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24895,15730,97,41",
     "objectID": "S6W2(a)A2-11",
     "sort": [
         "01-00548"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24895,15730,97,41/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/24895,15730,97,41/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南6"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "A2"

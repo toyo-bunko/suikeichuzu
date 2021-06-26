@@ -1,18 +1,20 @@
 {
-    "fulltext": "宿, 01-00204, 5, 南6, 中, 本図, 宿, 朱, 表, 23, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6C(a)B3-01.json",
+    "fulltext": "宿, 01-00204, 行政, 南6, 中, 本図, 宿, 朱, 表, 散州, B3",
     "label": "宿",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29204,16004,46,34",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29204,16004,46,34",
     "objectID": "S6C(a)B3-01",
     "sort": [
         "01-00204"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29204,16004,46,34/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29204,16004,46,34/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南6"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         23
+    ],
+    "記号説明": [
+        "散州"
     ],
     "詳細区画": [
         "B3"

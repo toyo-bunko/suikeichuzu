@@ -1,8 +1,7 @@
 {
-    "fulltext": "石柱, 04-00347, 8, 0, 0, 睢陽城図, 石柱, 墨, 表, 16, 0",
-    "group": [
-        "jouzu05_suiyou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "石柱, 04-00347, 地点, 睢陽城図, 石柱, 墨, 表, 亭台跡",
     "label": "石柱",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1341,332,85,144",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00347"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif/1341,332,85,144/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1341,332,85,144/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         0

@@ -1,18 +1,20 @@
 {
-    "fulltext": "孫叔敖廟, 01-01756, 5, 南7, 西1, 本図, 孫叔敖廟, 墨, 表, 16, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7W1(a)B2-08.json",
+    "fulltext": "孫叔敖廟, 01-01756, 地点, 南7, 西1, 本図, 孫叔敖廟, 墨, 表, 亭台跡, B2",
     "label": "孫叔敖廟",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26915,17784,80,82",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26915,17784,80,82",
     "objectID": "S7W1(a)B2-08",
     "sort": [
         "01-01756"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26915,17784,80,82/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/26915,17784,80,82/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "B2"

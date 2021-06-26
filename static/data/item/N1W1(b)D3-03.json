@@ -1,0 +1,49 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "道人, 00-01116, 注文には「道人城」, 行政, 北1, 西1, 本図, 道人, 墨, 裏, 県跡, D3",
+    "label": "道人",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25457,5927,80,62",
+    "objectID": "N1W1(b)D3-03",
+    "sort": [
+        "00-01116"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25457,5927,80,62/200,/0/default.jpg",
+    "備考": [
+        "注文には「道人城」"
+    ],
+    "冊": [
+        2
+    ],
+    "分類": [
+        "行政"
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "道人"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "記号説明": [
+        "県跡"
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

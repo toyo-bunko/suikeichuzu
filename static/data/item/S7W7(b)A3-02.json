@@ -1,18 +1,20 @@
 {
-    "fulltext": "亦曰天彭門, 01-02575, 5, 南7, 西7, 本図, 亦曰天彭門, 墨, 裏, 4, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7W7(b)A3-02.json",
+    "fulltext": "亦曰天彭門, 01-02575, 地形, 南7, 西7, 本図, 亦曰天彭門, 墨, 裏, 山谷, A3",
     "label": "亦曰天彭門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11819,17288,81,97",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=11819,17288,81,97",
     "objectID": "S7W7(b)A3-02",
     "sort": [
         "01-02575"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11819,17288,81,97/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/11819,17288,81,97/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "A3"

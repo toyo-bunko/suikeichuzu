@@ -1,18 +1,20 @@
 {
-    "fulltext": "義帝冢, 01-08172, 7, 南14, 西2, 本図, 義帝冢, 墨, 裏, 16, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S14W2(b)B3-10.json",
+    "fulltext": "義帝冢, 01-08172, 地点, 南14, 西2, 本図, 義帝冢, 墨, 裏, 亭台跡, B3",
     "label": "義帝冢",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23099,28426,72,37",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23099,28426,72,37",
     "objectID": "S14W2(b)B3-10",
     "sort": [
         "01-08172"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23099,28426,72,37/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23099,28426,72,37/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南14"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "B3"

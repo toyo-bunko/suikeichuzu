@@ -1,8 +1,7 @@
 {
-    "fulltext": "秦望山, 04-00781, 8, 0, 0, 山陰城図, 秦望山, 墨, 表, 4, 0",
-    "group": [
-        "jouzu13_sanin"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "秦望山, 04-00781, 地形, 山陰城図, 秦望山, 墨, 表, 山谷",
     "label": "秦望山",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1214,2758,187,90",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00781"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/1214,2758,187,90/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1214,2758,187,90/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         0
