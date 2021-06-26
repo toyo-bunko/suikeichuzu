@@ -18,6 +18,13 @@ env.aggs = {
     more: false,
     hide: true
   },
+  記号: {
+    sort: '',
+    label: '記号',
+    value: {},
+    more: false,
+    hide: true
+  },
   図: {
     sort: '',
     label: '図',
@@ -68,6 +75,8 @@ env.aggs = {
   }
 }
 
+env.hide = ["sort"]
+
 env.list = [
   "冊", "図"
 ]
@@ -108,6 +117,20 @@ env.layout = [
 
 env.defaultLayout = "table"
 
+const legend = JSON.parse(fs.readFileSync('static/data/legend.json'))
+env.legend = legend
+
+const kigo = []
+
+for(const key in legend){
+  const obj = legend[key]
+  kigo.push({
+    value: key,
+    text: obj.分類 + (obj.記号説明 ? ": " + obj.記号説明 : "")
+  })
+}
+
+
 env.advanced = [
   {
     label: "冊",
@@ -146,6 +169,27 @@ env.advanced = [
     values: ['表', "裏"]
   },
   {
+    label: "詳細区画",
+    type: "select",
+    key: "詳細区画",
+    value: "",
+    values: ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3", "D1", "D2", "D3"]
+  },
+  {
+    label: "墨朱",
+    type: "select",
+    key: "墨朱",
+    value: "",
+    values: ['墨', "朱"]
+  },
+  {
+    label: "記号",
+    type: "select",
+    key: "記号",
+    value: "",
+    values: kigo
+  },
+  {
     label: "地名/記述",
     type: "text",
     key: "label",
@@ -156,13 +200,6 @@ env.advanced = [
     type: "text",
     key: "備考",
     value: "",
-  },
-  {
-    label: "詳細区画",
-    type: "select",
-    key: "詳細区画",
-    value: "",
-    values: ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3", "D1", "D2", "D3"]
   }
 ]
 
@@ -172,8 +209,7 @@ env.visualization = "https://nakamura196.github.io/dd2"
 const settings = JSON.parse(fs.readFileSync('static/data/settings.json'))
 env.settings = settings
 
-const legend = JSON.parse(fs.readFileSync('static/data/legend.json'))
-env.legend = legend
+
 
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
 const routerBase =

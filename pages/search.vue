@@ -730,7 +730,7 @@ export default {
         if(plusValues.length > 0){
           let plusMatchedIds = []
           for(const pValue of plusValues){
-            if(options[facetField].select){
+            if(options[facetField].type === "select"){
               plusMatchedIds = plusMatchedIds.concat(matchFacets[pValue])
             } else {
               //部分一致

@@ -11,7 +11,7 @@
     </v-sheet>
     <template v-if="iframeUrl">
       <div style="background-color: #f5f5f5;">
-        <v-container class="py-0">
+        <v-container class="py-0" style="height: 450px">
           <iframe
             :src="iframeUrl"
             width="100%"
@@ -19,7 +19,6 @@
             allowfullscreen
             frameborder="0"
           ></iframe>
-          <!--  -->
         </v-container>
       </div>
     </template>
@@ -37,13 +36,19 @@
       </h1>
 
       <p class="text-center">
-        <v-btn v-if="viewerUrl" icon class="mx-2" target="_blank" :href="viewerUrl"
+        <v-btn v-if="viewerUrl" icon class="ma-1" target="_blank" :href="viewerUrl"
           ><img :src="baseUrl + '/img/icons/icp-logo.svg'" width="24px"
         /></v-btn>
 
+        <v-btn icon class="ma-1" target="_blank" :href="baseUrl + '/data/item/' + $route.params.id + '.json'"
+          ><img :src="baseUrl + '/img/icons/json-logo.svg'" width="24px"
+        /></v-btn>
+
+        <span class="mx-2"></span>
+
         <v-menu offset-y :close-on-content-click="false">
           <template v-slot:activator="{ on }">
-            <v-btn color="primary" depressed icon v-on="on">
+            <v-btn class="ma-1" color="primary" depressed icon v-on="on">
               <v-icon>mdi-comment-quote-outline</v-icon>
             </v-btn>
           </template>
@@ -62,6 +67,7 @@
         </v-menu>
 
         <ResultOption
+          class="ma-1"
           :item="{
             label: title,
             url: url,
@@ -85,7 +91,7 @@
               </td>
             </tr>
             <template v-for="(agg, key) in aggs">
-              <tr v-if="item[key] && item[key].length > 0" :key="key">
+              <tr v-if="!hide[key] && item[key] && item[key].length > 0" :key="key">
                 <td class="py-4">
                   <v-row>
                     <v-col cols="12" sm="3">{{ $t(agg.label) }}</v-col>
@@ -196,6 +202,8 @@ import axios from "axios"
 })
 export default class Item extends Vue {
   item: any = {}
+
+  hide: any = process.env.hide
 
   async asyncData({ payload, app, $axios }: any) {
     if (payload) {
