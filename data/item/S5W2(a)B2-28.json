@@ -1,0 +1,41 @@
+{
+    "fulltext": "下田川, 00-08719, 4, 南5, 西2, 本図, 下田川, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "下田川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24824,14658,43,36",
+    "objectID": "S5W2(a)B2-28",
+    "sort": [
+        "00-08719"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24824,14658,43,36/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "下田川"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

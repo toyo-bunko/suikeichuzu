@@ -1,0 +1,41 @@
+{
+    "fulltext": "建平, 00-08201, 4, 南5, 中, 本図, 建平, 墨, 裏, 10, D3",
+    "group": [
+        "main"
+    ],
+    "label": "建平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28107,15277,70,53",
+    "objectID": "S5C(b)D3-02",
+    "sort": [
+        "00-08201"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28107,15277,70,53/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "建平"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

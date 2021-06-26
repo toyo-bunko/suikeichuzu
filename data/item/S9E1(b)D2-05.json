@@ -1,0 +1,41 @@
+{
+    "fulltext": "石, 01-04034, 6, 南9, 東1, 本図, 石, 墨, 裏, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "石",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30538,21690,39,34",
+    "objectID": "S9E1(b)D2-05",
+    "sort": [
+        "01-04034"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30538,21690,39,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

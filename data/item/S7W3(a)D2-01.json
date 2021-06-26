@@ -1,0 +1,41 @@
+{
+    "fulltext": "交湖, 01-02201, 5, 南7, 西3, 本図, 交湖, 墨, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "交湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22429,18352,59,70",
+    "objectID": "S7W3(a)D2-01",
+    "sort": [
+        "01-02201"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22429,18352,59,70/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "交湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

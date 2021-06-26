@@ -1,0 +1,41 @@
+{
+    "fulltext": "咸陽澗水, 00-09575, 4, 南5, 西3, 本図, 咸陽澗水, 墨, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "咸陽澗水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21572,14134,74,131",
+    "objectID": "S5W3(b)A1-29",
+    "sort": [
+        "00-09575"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21572,14134,74,131/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "咸陽澗水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

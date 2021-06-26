@@ -1,0 +1,41 @@
+{
+    "fulltext": "美水, 00-10256, 4, 南5, 西5, 本図, 美水, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "美水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17566,14696,41,70",
+    "objectID": "S5W5(a)B3-09",
+    "sort": [
+        "00-10256"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17566,14696,41,70/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "美水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

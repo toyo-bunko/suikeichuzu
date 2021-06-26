@@ -1,0 +1,41 @@
+{
+    "fulltext": "忻, 00-02861, 3, 南1, 西2, 本図, 忻, 朱, 裏, 22, C1",
+    "group": [
+        "main"
+    ],
+    "label": "忻",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24004,8668,32,39",
+    "objectID": "S1W2(b)C1-03",
+    "sort": [
+        "00-02861"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24004,8668,32,39/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "忻"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

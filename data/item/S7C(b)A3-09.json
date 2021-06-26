@@ -1,0 +1,41 @@
+{
+    "fulltext": "阜陽, 01-01641, 5, 南7, 中, 本図, 阜陽, 朱, 裏, 18, A3",
+    "group": [
+        "main"
+    ],
+    "label": "阜陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27754,17266,60,34",
+    "objectID": "S7C(b)A3-09",
+    "sort": [
+        "01-01641"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27754,17266,60,34/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阜陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

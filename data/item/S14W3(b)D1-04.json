@@ -1,0 +1,41 @@
+{
+    "fulltext": "營水, 01-08322, 7, 南14, 西3, 本図, 營水, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "營水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21723,29383,88,67",
+    "objectID": "S14W3(b)D1-04",
+    "sort": [
+        "01-08322"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21723,29383,88,67/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "營水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

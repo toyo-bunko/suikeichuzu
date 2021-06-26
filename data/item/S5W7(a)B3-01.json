@@ -1,0 +1,41 @@
+{
+    "fulltext": "索西城, 00-10948, 4, 南5, 西7, 本図, 索西城, 墨, 表, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "索西城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12797,14385,103,53",
+    "objectID": "S5W7(a)B3-01",
+    "sort": [
+        "00-10948"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12797,14385,103,53/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "索西城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "拉發哈達河, 00-00002, 1, 北4, 東5, 本図, 拉發哈達河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "拉發哈達河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40719,60,47,151",
+    "objectID": "N4E5(a)A3-01",
+    "sort": [
+        "00-00002"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40719,60,47,151/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "拉發哈達河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢置姑臧, 00-03038, 3, 南1, 西8, 本図, 漢置姑臧, 墨, 表, 7, B2",
+    "group": [
+        "main"
+    ],
+    "label": "漢置姑臧",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10891,8555,155,47",
+    "objectID": "S1W8(a)B2-05",
+    "sort": [
+        "00-03038"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10891,8555,155,47/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢置姑臧"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

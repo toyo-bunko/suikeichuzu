@@ -1,0 +1,41 @@
+{
+    "fulltext": "注安樂水源, 01-06733, 6, 南11, 西6, 本図, 注安樂水源, 墨, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "注安樂水源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15421,24828,164,43",
+    "objectID": "S11W6(a)D2-01",
+    "sort": [
+        "01-06733"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15421,24828,164,43/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "注安樂水源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

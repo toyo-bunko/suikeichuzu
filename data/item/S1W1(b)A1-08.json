@@ -1,0 +1,41 @@
+{
+    "fulltext": "北嶺, 00-02727, 3, 南1, 西1, 本図, 北嶺, 墨, 裏, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "北嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26323,7774,59,27",
+    "objectID": "S1W1(b)A1-08",
+    "sort": [
+        "00-02727"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26323,7774,59,27/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北嶺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

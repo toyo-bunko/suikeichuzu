@@ -1,0 +1,41 @@
+{
+    "fulltext": "黑龍潭水, 01-07971, 7, 南13, 西10, 本図, 黑龍潭水, 朱, 表, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "黑龍潭水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6394,26943,122,40",
+    "objectID": "S13W10(a)B2-01",
+    "sort": [
+        "01-07971"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6394,26943,122,40/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黑龍潭水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

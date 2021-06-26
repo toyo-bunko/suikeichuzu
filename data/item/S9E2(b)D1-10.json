@@ -1,0 +1,41 @@
+{
+    "fulltext": "穀水, 01-03926, 6, 南9, 東2, 本図, 穀水, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "穀水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33405,21642,80,63",
+    "objectID": "S9E2(b)D1-10",
+    "sort": [
+        "01-03926"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33405,21642,80,63/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "穀水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

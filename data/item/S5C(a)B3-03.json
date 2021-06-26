@@ -1,0 +1,41 @@
+{
+    "fulltext": "藍田郷郭, 00-08009, 4, 南5, 中, 本図, 藍田郷郭, 墨, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "藍田郷郭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28869,14458,67,79",
+    "objectID": "S5C(a)B3-03",
+    "sort": [
+        "00-08009"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28869,14458,67,79/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "藍田郷郭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

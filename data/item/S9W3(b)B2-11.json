@@ -1,0 +1,41 @@
+{
+    "fulltext": "長陽, 01-04752, 6, 南9, 西3, 本図, 長陽, 朱, 裏, 19, B2",
+    "group": [
+        "main"
+    ],
+    "label": "長陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21334,20759,59,32",
+    "objectID": "S9W3(b)B2-11",
+    "sort": [
+        "01-04752"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21334,20759,59,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "長陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

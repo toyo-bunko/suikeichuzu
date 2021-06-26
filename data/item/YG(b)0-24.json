@@ -1,0 +1,41 @@
+{
+    "fulltext": "合黎, 05-00230, 8, 0, 0, 禹貢山水澤地所在, 合黎, 墨, 裏, 4, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "合黎",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1013,239,77,62",
+    "objectID": "YG(b)0-24",
+    "sort": [
+        "05-00230"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1013,239,77,62/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "合黎"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        0
+    ]
+}

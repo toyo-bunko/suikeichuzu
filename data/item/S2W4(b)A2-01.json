@@ -1,0 +1,41 @@
+{
+    "fulltext": "奢延水, 00-04040, 3, 南2, 西4, 本図, 奢延水, 墨, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "奢延水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19157,9498,47,118",
+    "objectID": "S2W4(b)A2-01",
+    "sort": [
+        "00-04040"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19157,9498,47,118/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "奢延水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

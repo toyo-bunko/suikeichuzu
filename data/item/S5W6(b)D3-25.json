@@ -1,0 +1,41 @@
+{
+    "fulltext": "蘭坑水, 00-10894, 4, 南5, 西6, 本図, 蘭坑水, 墨, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "蘭坑水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14208,15495,95,40",
+    "objectID": "S5W6(b)D3-25",
+    "sort": [
+        "00-10894"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14208,15495,95,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蘭坑水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

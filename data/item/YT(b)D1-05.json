@@ -1,0 +1,41 @@
+{
+    "fulltext": "西平, 03-00098, 8, 越南, 上, 越南, 西平, 墨, 裏, 8, D1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "西平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2128,2487,93,65",
+    "objectID": "YT(b)D1-05",
+    "sort": [
+        "03-00098"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2128,2487,93,65/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "西平"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

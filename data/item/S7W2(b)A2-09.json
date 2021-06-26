@@ -1,0 +1,41 @@
+{
+    "fulltext": "唐, 01-02007, 5, 南7, 西2, 本図, 唐, 朱, 裏, 19, A2",
+    "group": [
+        "main"
+    ],
+    "label": "唐",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23819,17375,35,34",
+    "objectID": "S7W2(b)A2-09",
+    "sort": [
+        "01-02007"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23819,17375,35,34/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "唐"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

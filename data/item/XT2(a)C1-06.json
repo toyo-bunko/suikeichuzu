@@ -1,0 +1,41 @@
+{
+    "fulltext": "哈達克山, 02-00208, 1, 上, 2, 西域, 哈達克山, 朱, 表, 4, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "哈達克山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4414,2562,158,131",
+    "objectID": "XT2(a)C1-06",
+    "sort": [
+        "02-00208"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4414,2562,158,131/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        2
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "哈達克山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

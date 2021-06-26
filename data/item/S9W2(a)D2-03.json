@@ -1,0 +1,41 @@
+{
+    "fulltext": "州陵新治, 01-04449, 6, 南9, 西2, 本図, 州陵新治, 墨, 表, 8, D2",
+    "group": [
+        "main"
+    ],
+    "label": "州陵新治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24752,21506,65,71",
+    "objectID": "S9W2(a)D2-03",
+    "sort": [
+        "01-04449"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24752,21506,65,71/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "州陵新治"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

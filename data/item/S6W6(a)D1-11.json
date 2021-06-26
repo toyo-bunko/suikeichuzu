@@ -1,0 +1,41 @@
+{
+    "fulltext": "白馬塞, 01-01219, 5, 南6, 西6, 本図, 白馬塞, 墨, 表, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "白馬塞",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15865,16880,57,34",
+    "objectID": "S6W6(a)D1-11",
+    "sort": [
+        "01-01219"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15865,16880,57,34/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白馬塞"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

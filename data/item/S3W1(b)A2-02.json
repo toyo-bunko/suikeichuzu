@@ -1,0 +1,41 @@
+{
+    "fulltext": "澧河, 00-05050, 4, 南3, 西1, 本図, 澧河, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "澧河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25918,10917,61,40",
+    "objectID": "S3W1(b)A2-02",
+    "sort": [
+        "00-05050"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25918,10917,61,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "澧河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

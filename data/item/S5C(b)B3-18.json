@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢梁國, 00-08156, 4, 南5, 中, 本図, 漢梁國, 墨, 裏, 15, B3",
+    "group": [
+        "main"
+    ],
+    "label": "漢梁國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27710,14598,86,41",
+    "objectID": "S5C(b)B3-18",
+    "sort": [
+        "00-08156"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27710,14598,86,41/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢梁國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        15
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

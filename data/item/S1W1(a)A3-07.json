@@ -1,0 +1,41 @@
+{
+    "fulltext": "即豆山, 00-02599, 3, 南1, 西1, 本図, 即豆山, 墨, 表, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "即豆山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26840,7904,74,35",
+    "objectID": "S1W1(a)A3-07",
+    "sort": [
+        "00-02599"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26840,7904,74,35/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即豆山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

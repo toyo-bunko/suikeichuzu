@@ -1,0 +1,41 @@
+{
+    "fulltext": "溳水東通灄水, 01-04347, 6, 南9, 西2, 本図, 溳水東通灄水, 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "溳水東通灄水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25069,20453,64,97",
+    "objectID": "S9W2(a)A1-05",
+    "sort": [
+        "01-04347"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25069,20453,64,97/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "溳水東通灄水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

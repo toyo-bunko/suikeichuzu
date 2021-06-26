@@ -1,0 +1,41 @@
+{
+    "fulltext": "六洞水, 01-08351, 7, 南14, 西4, 本図, 六洞水, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "六洞水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19931,28513,45,87",
+    "objectID": "S14W4(a)B3-01",
+    "sort": [
+        "01-08351"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19931,28513,45,87/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "六洞水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

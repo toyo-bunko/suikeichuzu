@@ -1,0 +1,41 @@
+{
+    "fulltext": "潭望水, 01-10113, 8, 南19, 西5, 本図, 潭望水, 朱, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "潭望水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18441,35864,49,102",
+    "objectID": "S19W5(a)A1-01",
+    "sort": [
+        "01-10113"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18441,35864,49,102/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南19"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "潭望水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

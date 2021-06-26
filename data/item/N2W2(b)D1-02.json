@@ -1,0 +1,41 @@
+{
+    "fulltext": "徳布色黒河, 00-00578, 1, 北2, 西2, 本図, 徳布色黒河, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "徳布色黒河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23968,4397,40,148",
+    "objectID": "N2W2(b)D1-02",
+    "sort": [
+        "00-00578"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23968,4397,40,148/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "徳布色黒河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

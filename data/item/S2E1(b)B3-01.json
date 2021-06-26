@@ -1,0 +1,41 @@
+{
+    "fulltext": "西漢富平, 00-03301, 3, 南2, 東1, 本図, 西漢富平, 墨, 裏, 10, B3",
+    "group": [
+        "main"
+    ],
+    "label": "西漢富平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30253,9969,133,56",
+    "objectID": "S2E1(b)B3-01",
+    "sort": [
+        "00-03301"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30253,9969,133,56/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西漢富平"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "一把單河, 00-00041, 1, 北4, 東4, 本図, 一把單河, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "一把單河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39107,1242,121,37",
+    "objectID": "N4E4(a)D1-01",
+    "sort": [
+        "00-00041"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39107,1242,121,37/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一把單河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "鹿島, 00-01540, 2, 中, 東3, 本図, 鹿島, 朱, 裏, 0, C3",
+    "group": [
+        "main"
+    ],
+    "label": "鹿島",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34929,7201,82,96",
+    "objectID": "CE3(b)C3-01",
+    "sort": [
+        "00-01540"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34929,7201,82,96/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹿島"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

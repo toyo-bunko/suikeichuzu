@@ -1,0 +1,41 @@
+{
+    "fulltext": "青蛉水, 01-08669, 7, 南14, 西10, 本図, 青蛉水, 墨, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "青蛉水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6536,28536,126,74",
+    "objectID": "S14W10(a)B1-04",
+    "sort": [
+        "01-08669"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6536,28536,126,74/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "青蛉水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

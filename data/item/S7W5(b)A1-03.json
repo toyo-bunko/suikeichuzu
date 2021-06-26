@@ -1,0 +1,41 @@
+{
+    "fulltext": "梁州, 01-02399, 5, 南7, 西5, 本図, 梁州, 墨, 裏, 9, A1",
+    "group": [
+        "main"
+    ],
+    "label": "梁州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17068,17136,62,32",
+    "objectID": "S7W5(b)A1-03",
+    "sort": [
+        "01-02399"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17068,17136,62,32/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "梁州"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

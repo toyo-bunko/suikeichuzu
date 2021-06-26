@@ -1,0 +1,41 @@
+{
+    "fulltext": "大巒水, 00-10443, 4, 南5, 西5, 本図, 大巒水, 墨, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "大巒水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17234,14794,71,42",
+    "objectID": "S5W5(b)C1-03",
+    "sort": [
+        "00-10443"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17234,14794,71,42/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大巒水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

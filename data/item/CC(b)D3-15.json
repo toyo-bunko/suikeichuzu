@@ -1,0 +1,41 @@
+{
+    "fulltext": "雄, 00-01830, 2, 中, 中, 本図, 雄, 朱, 裏, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "雄",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28058,7631,53,75",
+    "objectID": "CC(b)D3-15",
+    "sort": [
+        "00-01830"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28058,7631,53,75/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雄"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

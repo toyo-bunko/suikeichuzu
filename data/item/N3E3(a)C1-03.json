@@ -1,0 +1,41 @@
+{
+    "fulltext": "三岔河, 00-00187, 1, 北3, 東3, 本図, 三岔河, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "三岔河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=36700,2624,85,54",
+    "objectID": "N3E3(a)C1-03",
+    "sort": [
+        "00-00187"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/36700,2624,85,54/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三岔河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

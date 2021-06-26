@@ -1,0 +1,41 @@
+{
+    "fulltext": "漁洪江, 01-09905, 8, 南17, 西5, 本図, 漁洪江, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "漁洪江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16871,34112,52,93",
+    "objectID": "S17W5(b)D2-02",
+    "sort": [
+        "01-09905"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16871,34112,52,93/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漁洪江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

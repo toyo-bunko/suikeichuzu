@@ -1,0 +1,41 @@
+{
+    "fulltext": "樂城, 00-02560, 3, 南1, 西1, 本図, 樂城, 墨, 表, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "樂城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27541,7958,79,68",
+    "objectID": "S1W1(a)A1-06",
+    "sort": [
+        "00-02560"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27541,7958,79,68/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "樂城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

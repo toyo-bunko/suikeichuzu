@@ -1,0 +1,41 @@
+{
+    "fulltext": "興龍港, 01-03736, 6, 南9, 東2, 本図, 興龍港, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "興龍港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33689,20521,35,78",
+    "objectID": "S9E2(a)A3-13",
+    "sort": [
+        "01-03736"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33689,20521,35,78/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "興龍港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

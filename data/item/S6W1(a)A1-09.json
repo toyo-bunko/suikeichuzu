@@ -1,0 +1,41 @@
+{
+    "fulltext": "苦, 01-00309, 5, 南6, 西1, 本図, 苦, 墨, 表, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "苦",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27362,15575,37,28",
+    "objectID": "S6W1(a)A1-09",
+    "sort": [
+        "01-00309"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27362,15575,37,28/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "苦"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

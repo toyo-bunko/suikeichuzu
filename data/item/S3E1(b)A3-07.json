@@ -1,0 +1,41 @@
+{
+    "fulltext": "陳仲子夫婦隠處, 00-04519, 4, 南3, 東1, 本図, 陳仲子夫婦隠處, 墨, 裏, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "陳仲子夫婦隠處",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30263,11155,63,125",
+    "objectID": "S3E1(b)A3-07",
+    "sort": [
+        "00-04519"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30263,11155,63,125/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陳仲子夫婦隠處"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

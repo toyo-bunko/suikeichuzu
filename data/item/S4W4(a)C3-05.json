@@ -1,0 +1,41 @@
+{
+    "fulltext": "粟邑, 00-07330, 4, 南4, 西4, 本図, 粟邑, 墨, 表, 10, C3",
+    "group": [
+        "main"
+    ],
+    "label": "粟邑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19659,13489,74,49",
+    "objectID": "S4W4(a)C3-05",
+    "sort": [
+        "00-07330"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19659,13489,74,49/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "粟邑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

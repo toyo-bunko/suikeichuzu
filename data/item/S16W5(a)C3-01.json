@@ -1,0 +1,41 @@
+{
+    "fulltext": "清水江, 01-09568, 8, 南16, 西5, 本図, 清水江, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "清水江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17570,31970,49,94",
+    "objectID": "S16W5(a)C3-01",
+    "sort": [
+        "01-09568"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17570,31970,49,94/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "清水江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

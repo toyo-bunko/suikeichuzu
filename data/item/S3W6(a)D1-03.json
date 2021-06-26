@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍泉, 00-05622, 4, 南3, 西6, 本図, 龍泉, 墨, 表, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "龍泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15844,12242,72,53",
+    "objectID": "S3W6(a)D1-03",
+    "sort": [
+        "00-05622"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15844,12242,72,53/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍泉"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

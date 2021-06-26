@@ -1,0 +1,41 @@
+{
+    "fulltext": "頻陽宮, 00-07403, 4, 南4, 西4, 本図, 頻陽宮, 墨, 裏, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "頻陽宮",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19298,13956,113,40",
+    "objectID": "S4W4(b)D1-05",
+    "sort": [
+        "00-07403"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19298,13956,113,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "頻陽宮"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

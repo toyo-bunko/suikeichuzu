@@ -1,0 +1,41 @@
+{
+    "fulltext": "普甯, 01-09349, 8, 南16, 中, 本図, 普甯, 朱, 裏, 19, C3",
+    "group": [
+        "main"
+    ],
+    "label": "普甯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27945,31985,72,54",
+    "objectID": "S16C(b)C3-01",
+    "sort": [
+        "01-09349"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27945,31985,72,54/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "普甯"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

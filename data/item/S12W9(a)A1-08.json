@@ -1,0 +1,41 @@
+{
+    "fulltext": "蜯巂山, 01-07378, 7, 南12, 西9, 本図, 蜯巂山, 墨, 表, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "蜯巂山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9142,25092,76,38",
+    "objectID": "S12W9(a)A1-08",
+    "sort": [
+        "01-07378"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9142,25092,76,38/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蜯巂山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "桃樹港, 01-05639, 6, 南10, 西2, 本図, 桃樹港, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "桃樹港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25314,22800,27,87",
+    "objectID": "S10W2(a)C1-02",
+    "sort": [
+        "01-05639"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25314,22800,27,87/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桃樹港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

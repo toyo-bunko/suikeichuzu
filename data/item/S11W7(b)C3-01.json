@@ -1,0 +1,41 @@
+{
+    "fulltext": "瀘津, 01-06825, 6, 南11, 西7, 本図, 瀘津, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "瀘津",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11629,24174,56,123",
+    "objectID": "S11W7(b)C3-01",
+    "sort": [
+        "01-06825"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11629,24174,56,123/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "瀘津"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

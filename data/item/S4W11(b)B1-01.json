@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿克坦齊欽山, 00-07831, 4, 南4, 西11, 本図, 阿克坦齊欽山, 朱, 裏, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "阿克坦齊欽山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=3383,12849,71,98",
+    "objectID": "S4W11(b)B1-01",
+    "sort": [
+        "00-07831"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/3383,12849,71,98/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西11"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阿克坦齊欽山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

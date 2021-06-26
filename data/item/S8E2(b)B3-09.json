@@ -1,0 +1,41 @@
+{
+    "fulltext": "南渡河, 01-02758, 5, 南8, 東2, 本図, 南渡河, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "南渡河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32344,19227,38,100",
+    "objectID": "S8E2(b)B3-09",
+    "sort": [
+        "01-02758"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32344,19227,38,100/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南渡河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

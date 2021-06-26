@@ -1,0 +1,41 @@
+{
+    "fulltext": "光祿城, 00-01343, 2, 北1, 西3, 本図, 光祿城, 墨, 裏, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "光祿城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21469,4737,108,73",
+    "objectID": "N1W3(b)A2-01",
+    "sort": [
+        "00-01343"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21469,4737,108,73/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "光祿城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

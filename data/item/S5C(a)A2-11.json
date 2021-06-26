@@ -1,0 +1,44 @@
+{
+    "fulltext": "故石梁, 00-07985, 橋の図なし, 4, 南5, 中, 本図, 故石梁, 墨, 表, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "故石梁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29392,14229,32,67",
+    "objectID": "S5C(a)A2-11",
+    "sort": [
+        "00-07985"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29392,14229,32,67/200,/0/default.jpg",
+    "備考": [
+        "橋の図なし"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故石梁"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

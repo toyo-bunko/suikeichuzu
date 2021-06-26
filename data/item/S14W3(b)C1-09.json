@@ -1,0 +1,41 @@
+{
+    "fulltext": "商均葬其陰, 01-08304, 7, 南14, 西3, 本図, 商均葬其陰, 墨, 裏, 16, C1",
+    "group": [
+        "main"
+    ],
+    "label": "商均葬其陰",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21871,29049,70,62",
+    "objectID": "S14W3(b)C1-09",
+    "sort": [
+        "01-08304"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21871,29049,70,62/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "商均葬其陰"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

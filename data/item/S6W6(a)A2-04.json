@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣香交, 01-01159, 5, 南6, 西6, 本図, 廣香交, 墨, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "廣香交",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15598,15695,45,121",
+    "objectID": "S6W6(a)A2-04",
+    "sort": [
+        "01-01159"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15598,15695,45,121/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "廣香交"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

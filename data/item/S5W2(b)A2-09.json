@@ -1,0 +1,41 @@
+{
+    "fulltext": "鄧郷, 00-08965, 4, 南5, 西2, 本図, 鄧郷, 墨, 裏, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "鄧郷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23513,14046,69,37",
+    "objectID": "S5W2(b)A2-09",
+    "sort": [
+        "00-08965"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23513,14046,69,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鄧郷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

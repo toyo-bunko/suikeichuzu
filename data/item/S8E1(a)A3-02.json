@@ -1,0 +1,41 @@
+{
+    "fulltext": "江水, 01-02804, 5, 南8, 東1, 本図, 江水, 墨, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "江水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31199,18712,144,33",
+    "objectID": "S8E1(a)A3-02",
+    "sort": [
+        "01-02804"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31199,18712,144,33/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "江水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "比連泉, 00-01159, 2, 北1, 西2, 本図, 比連泉, 墨, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "比連泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25152,6122,37,86",
+    "objectID": "N1W2(a)D1-04",
+    "sort": [
+        "00-01159"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25152,6122,37,86/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "比連泉"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

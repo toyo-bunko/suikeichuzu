@@ -1,0 +1,41 @@
+{
+    "fulltext": "周末韓自新鄭徙都於此, 00-08883, 4, 南5, 西2, 本図, 周末韓自新鄭徙都於此, 墨, 表, 15, D2",
+    "group": [
+        "main"
+    ],
+    "label": "周末韓自新鄭徙都於此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24826,15230,103,76",
+    "objectID": "S5W2(a)D2-06",
+    "sort": [
+        "00-08883"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24826,15230,103,76/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "周末韓自新鄭徙都於此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        15
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "莫邪山, 01-01558, 5, 南7, 中, 本図, 莫邪山, 墨, 表, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "莫邪山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29611,17434,102,51",
+    "objectID": "S7C(a)A1-11",
+    "sort": [
+        "01-01558"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29611,17434,102,51/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "莫邪山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "夏屋城, 00-02579, 3, 南1, 西1, 本図, 夏屋城, 墨, 表, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "夏屋城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27063,7955,64,42",
+    "objectID": "S1W1(a)A2-11",
+    "sort": [
+        "00-02579"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27063,7955,64,42/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "夏屋城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

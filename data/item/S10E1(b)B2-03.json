@@ -1,0 +1,41 @@
+{
+    "fulltext": "即浙江, 01-05449, 6, 南10, 東1, 本図, 即浙江, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "即浙江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30367,22305,101,35",
+    "objectID": "S10E1(b)B2-03",
+    "sort": [
+        "01-05449"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30367,22305,101,35/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即浙江"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

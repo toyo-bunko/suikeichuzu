@@ -1,0 +1,41 @@
+{
+    "fulltext": "注浿水, 00-01466, 2, 中, 東6, 本図, 注浿水, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "注浿水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=41977,6956,124,37",
+    "objectID": "CE6(b)B2-01",
+    "sort": [
+        "00-01466"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/41977,6956,124,37/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "注浿水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

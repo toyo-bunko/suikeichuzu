@@ -1,0 +1,41 @@
+{
+    "fulltext": "陰泉, 00-07320, 4, 南4, 西4, 本図, 陰泉, 朱, 表, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "陰泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20139,13263,35,61",
+    "objectID": "S4W4(a)C2-06",
+    "sort": [
+        "00-07320"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20139,13263,35,61/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陰泉"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

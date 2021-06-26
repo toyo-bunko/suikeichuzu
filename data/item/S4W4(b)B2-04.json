@@ -1,0 +1,41 @@
+{
+    "fulltext": "柏城, 00-07370, 4, 南4, 西4, 本図, 柏城, 墨, 裏, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "柏城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19155,12925,55,69",
+    "objectID": "S4W4(b)B2-04",
+    "sort": [
+        "00-07370"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19155,12925,55,69/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "柏城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

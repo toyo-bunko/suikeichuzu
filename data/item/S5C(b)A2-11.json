@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名九里柞, 00-08109, 4, 南5, 中, 本図, 一名九里柞, 墨, 裏, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "一名九里柞",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28301,14356,111,63",
+    "objectID": "S5C(b)A2-11",
+    "sort": [
+        "00-08109"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28301,14356,111,63/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一名九里柞"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "上接南十八西六, 03-00016, 8, 越南, 上, 越南, 上接南十八西六, 墨, 表, 35, C1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "上接南十八西六",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=3846,1528,275,136",
+    "objectID": "YT(a)C1-01",
+    "sort": [
+        "03-00016"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/3846,1528,275,136/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "上接南十八西六"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        35
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

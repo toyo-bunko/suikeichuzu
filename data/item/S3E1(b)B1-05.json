@@ -1,0 +1,41 @@
+{
+    "fulltext": "南洋河, 00-04533, 4, 南3, 東1, 本図, 南洋河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "南洋河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31128,11350,34,72",
+    "objectID": "S3E1(b)B1-05",
+    "sort": [
+        "00-04533"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31128,11350,34,72/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南洋河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

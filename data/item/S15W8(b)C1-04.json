@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿欲泉, 01-09169, 7, 南15, 西8, 本図, 阿欲泉, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "阿欲泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10208,30435,95,37",
+    "objectID": "S15W8(b)C1-04",
+    "sort": [
+        "01-09169"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10208,30435,95,37/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阿欲泉"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

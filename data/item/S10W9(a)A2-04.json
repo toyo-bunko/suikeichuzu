@@ -1,0 +1,41 @@
+{
+    "fulltext": "大度水, 01-06144, 6, 南10, 西9, 本図, 大度水, 墨, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "大度水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8541,22028,43,97",
+    "objectID": "S10W9(a)A2-04",
+    "sort": [
+        "01-06144"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8541,22028,43,97/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大度水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

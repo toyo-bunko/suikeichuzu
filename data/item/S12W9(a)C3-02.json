@@ -1,0 +1,41 @@
+{
+    "fulltext": "得石河, 01-07389, 7, 南12, 西9, 本図, 得石河, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "得石河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8336,25921,108,49",
+    "objectID": "S12W9(a)C3-02",
+    "sort": [
+        "01-07389"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8336,25921,108,49/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "得石河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

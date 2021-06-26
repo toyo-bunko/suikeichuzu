@@ -1,0 +1,41 @@
+{
+    "fulltext": "一曰税門, 04-00130, 8, 0, 0, 洛陽城図, 一曰税門, 墨, 裏, 34, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "一曰税門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=2992,2236,236,63",
+    "objectID": "CTLY(b)0-47",
+    "sort": [
+        "04-00130"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/2992,2236,236,63/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "一曰税門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        0
+    ]
+}

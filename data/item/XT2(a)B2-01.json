@@ -1,0 +1,41 @@
+{
+    "fulltext": "霍罕, 02-00195, 1, 上, 2, 西域, 霍罕, 朱, 表, 0, B2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "霍罕",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=3738,1558,93,180",
+    "objectID": "XT2(a)B2-01",
+    "sort": [
+        "02-00195"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/3738,1558,93,180/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        2
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "霍罕"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

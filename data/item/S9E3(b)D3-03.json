@@ -1,0 +1,41 @@
+{
+    "fulltext": "慈谿, 01-03707, 6, 南9, 東3, 本図, 慈谿, 朱, 裏, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "慈谿",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34874,21690,61,37",
+    "objectID": "S9E3(b)D3-03",
+    "sort": [
+        "01-03707"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34874,21690,61,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "慈谿"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

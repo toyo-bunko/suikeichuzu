@@ -1,0 +1,41 @@
+{
+    "fulltext": "大禹刻石, 01-05505, 6, 南10, 中, 本図, 大禹刻石, 墨, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "大禹刻石",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27804,22271,54,51",
+    "objectID": "S10C(b)B3-10",
+    "sort": [
+        "01-05505"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27804,22271,54,51/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大禹刻石"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

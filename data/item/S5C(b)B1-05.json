@@ -1,0 +1,44 @@
+{
+    "fulltext": "陂, 00-08127, 3か所あり, 4, 南5, 中, 本図, 陂, 墨, 裏, 5, B1",
+    "group": [
+        "main"
+    ],
+    "label": "陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28521,14551,42,37",
+    "objectID": "S5C(b)B1-05",
+    "sort": [
+        "00-08127"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28521,14551,42,37/200,/0/default.jpg",
+    "備考": [
+        "3か所あり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

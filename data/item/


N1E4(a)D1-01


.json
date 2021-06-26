@@ -1,0 +1,41 @@
+{
+    "fulltext": "昌城, 00-00672, 2, 北1, 東4, 本図, 昌城, 朱, 表, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "昌城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38868,5952,87,85",
+    "objectID": "\n\n\nN1E4(a)D1-01\n\n\n",
+    "sort": [
+        "00-00672"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38868,5952,87,85/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "昌城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

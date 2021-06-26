@@ -1,0 +1,41 @@
+{
+    "fulltext": "陽渠水, 04-00132, 8, 0, 0, 洛陽城図, 陽渠水, 墨, 裏, 1, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "陽渠水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=4446,2519,82,220",
+    "objectID": "CTLY(b)0-49",
+    "sort": [
+        "04-00132"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/4446,2519,82,220/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "陽渠水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        0
+    ]
+}

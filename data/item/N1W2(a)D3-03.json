@@ -1,0 +1,41 @@
+{
+    "fulltext": "西郭, 00-01184, 2, 北1, 西2, 本図, 西郭, 墨, 表, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "西郭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24621,6022,23,49",
+    "objectID": "N1W2(a)D3-03",
+    "sort": [
+        "00-01184"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24621,6022,23,49/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西郭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

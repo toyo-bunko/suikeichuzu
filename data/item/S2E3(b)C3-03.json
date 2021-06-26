@@ -1,0 +1,41 @@
+{
+    "fulltext": "聲洋丹水入海, 00-03178, 3, 南2, 東3, 本図, 聲洋丹水入海, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "聲洋丹水入海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34700,10139,117,93",
+    "objectID": "S2E3(b)C3-03",
+    "sort": [
+        "00-03178"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34700,10139,117,93/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "聲洋丹水入海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

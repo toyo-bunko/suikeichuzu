@@ -1,0 +1,41 @@
+{
+    "fulltext": "池水, 01-01535, 5, 南7, 東1, 本図, 池水, 墨, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "池水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30542,17265,105,50",
+    "objectID": "S7E1(b)A2-01",
+    "sort": [
+        "01-01535"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30542,17265,105,50/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "池水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

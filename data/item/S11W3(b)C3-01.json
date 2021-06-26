@@ -1,0 +1,41 @@
+{
+    "fulltext": "壺頭山, 01-06605, 6, 南11, 西3, 本図, 壺頭山, 墨, 裏, 4, C3",
+    "group": [
+        "main"
+    ],
+    "label": "壺頭山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20794,24238,87,46",
+    "objectID": "S11W3(b)C3-01",
+    "sort": [
+        "01-06605"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20794,24238,87,46/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "壺頭山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

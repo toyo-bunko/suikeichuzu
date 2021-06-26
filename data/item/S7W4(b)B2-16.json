@@ -1,0 +1,41 @@
+{
+    "fulltext": "鯨灘, 01-02336, 5, 南7, 西4, 本図, 鯨灘, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "鯨灘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18865,17790,42,78",
+    "objectID": "S7W4(b)B2-16",
+    "sort": [
+        "01-02336"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18865,17790,42,78/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鯨灘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

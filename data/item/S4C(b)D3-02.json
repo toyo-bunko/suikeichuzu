@@ -1,0 +1,41 @@
+{
+    "fulltext": "南郜, 00-06282, 4, 南4, 中, 本図, 南郜, 墨, 裏, 10, D3",
+    "group": [
+        "main"
+    ],
+    "label": "南郜",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27969,13961,70,38",
+    "objectID": "S4C(b)D3-02",
+    "sort": [
+        "00-06282"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27969,13961,70,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南郜"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

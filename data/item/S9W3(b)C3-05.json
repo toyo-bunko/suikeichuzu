@@ -1,0 +1,41 @@
+{
+    "fulltext": "故城, 01-04790, 6, 南9, 西3, 本図, 故城, 墨, 裏, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "故城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20983,21093,68,45",
+    "objectID": "S9W3(b)C3-05",
+    "sort": [
+        "01-04790"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20983,21093,68,45/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

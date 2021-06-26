@@ -1,0 +1,41 @@
+{
+    "fulltext": "巨合水, 00-04607, 4, 南3, 中, 本図, 巨合水, 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "巨合水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29676,11213,51,67",
+    "objectID": "S3C(a)A1-12",
+    "sort": [
+        "00-04607"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29676,11213,51,67/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "巨合水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

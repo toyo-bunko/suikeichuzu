@@ -1,0 +1,44 @@
+{
+    "fulltext": "船官口, 03-00276, 「船官口」と注文にあり, 8, 越南, 下, 越南, 船官口, 墨, 裏, 1, A1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "船官口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2184,6383,85,79",
+    "objectID": "YB(b)A1-09",
+    "sort": [
+        "03-00276"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2184,6383,85,79/200,/0/default.jpg",
+    "備考": [
+        "「船官口」と注文にあり"
+    ],
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "下"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "船官口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "湖水, 00-10633, 元水都治の北城の中に湖水がある, 4, 南5, 西6, 本図, 湖水, 墨, 表, 5, B3",
+    "group": [
+        "main"
+    ],
+    "label": "湖水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15014,14517,63,33",
+    "objectID": "S5W6(a)B3-24",
+    "sort": [
+        "00-10633"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15014,14517,63,33/200,/0/default.jpg",
+    "備考": [
+        "元水都治の北城の中に湖水がある"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "湖水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

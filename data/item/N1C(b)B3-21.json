@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬蘭城, 00-00929, 2, 北1, 中, 本図, 馬蘭城, 墨, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "馬蘭城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27764,5333,49,57",
+    "objectID": "N1C(b)B3-21",
+    "sort": [
+        "00-00929"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27764,5333,49,57/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "馬蘭城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

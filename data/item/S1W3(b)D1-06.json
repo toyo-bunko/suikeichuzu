@@ -1,0 +1,41 @@
+{
+    "fulltext": "萬安河, 00-02941, 3, 南1, 西3, 本図, 萬安河, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "萬安河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21628,8960,38,98",
+    "objectID": "S1W3(b)D1-06",
+    "sort": [
+        "00-02941"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21628,8960,38,98/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "萬安河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

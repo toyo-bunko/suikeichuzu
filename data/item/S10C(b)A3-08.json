@@ -1,0 +1,41 @@
+{
+    "fulltext": "注廬江水, 01-05487, 6, 南10, 中, 本図, 注廬江水, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "注廬江水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27851,21987,123,36",
+    "objectID": "S10C(b)A3-08",
+    "sort": [
+        "01-05487"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27851,21987,123,36/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "注廬江水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

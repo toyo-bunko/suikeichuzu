@@ -1,0 +1,41 @@
+{
+    "fulltext": "音德圖河, 02-00071, 1, 上, 1, 西域, 音德圖河, 朱, 表, 1, C3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "音德圖河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7491,2144,84,248",
+    "objectID": "XT1(a)C3-01",
+    "sort": [
+        "02-00071"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7491,2144,84,248/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "音德圖河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

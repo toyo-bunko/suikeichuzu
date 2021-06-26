@@ -1,0 +1,41 @@
+{
+    "fulltext": "白帝山, 01-03421, 5, 南8, 西4, 本図, 白帝山, 墨, 裏, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "白帝山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19436,19941,43,41",
+    "objectID": "S8W4(b)D1-17",
+    "sort": [
+        "01-03421"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19436,19941,43,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白帝山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

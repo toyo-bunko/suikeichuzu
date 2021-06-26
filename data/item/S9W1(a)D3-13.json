@@ -1,0 +1,41 @@
+{
+    "fulltext": "空石山, 01-04193, 6, 南9, 西1, 本図, 空石山, 墨, 表, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "空石山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26891,21535,21,47",
+    "objectID": "S9W1(a)D3-13",
+    "sort": [
+        "01-04193"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26891,21535,21,47/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "空石山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

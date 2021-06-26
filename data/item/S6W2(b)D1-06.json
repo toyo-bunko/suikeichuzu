@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬仁陂, 01-00764, 5, 南6, 西2, 本図, 馬仁陂, 墨, 裏, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "馬仁陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24221,16977,33,94",
+    "objectID": "S6W2(b)D1-06",
+    "sort": [
+        "01-00764"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24221,16977,33,94/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "馬仁陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

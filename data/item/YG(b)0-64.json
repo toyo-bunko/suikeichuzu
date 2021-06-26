@@ -1,0 +1,41 @@
+{
+    "fulltext": "蒲坂, 05-00270, 8, 0, 0, 禹貢山水澤地所在, 蒲坂, 墨, 裏, 10, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "蒲坂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2038,841,74,40",
+    "objectID": "YG(b)0-64",
+    "sort": [
+        "05-00270"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2038,841,74,40/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "蒲坂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        0
+    ]
+}

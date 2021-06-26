@@ -1,0 +1,41 @@
+{
+    "fulltext": "扜彌, 02-00145, 1, 上, 1, 西域, 扜彌, 墨, 裏, 7, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "扜彌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6240,2449,177,110",
+    "objectID": "XT1(b)C1-03",
+    "sort": [
+        "02-00145"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6240,2449,177,110/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "扜彌"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

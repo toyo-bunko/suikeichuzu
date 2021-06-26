@@ -1,0 +1,41 @@
+{
+    "fulltext": "韓江, 01-09343, 8, 南16, 中, 本図, 韓江, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "韓江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28749,31736,78,46",
+    "objectID": "S16C(b)B1-03",
+    "sort": [
+        "01-09343"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28749,31736,78,46/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "韓江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

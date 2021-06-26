@@ -1,0 +1,41 @@
+{
+    "fulltext": "槐里, 00-10269, 4, 南5, 西5, 本図, 槐里, 墨, 表, 10, C1",
+    "group": [
+        "main"
+    ],
+    "label": "槐里",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18297,15130,67,37",
+    "objectID": "S5W5(a)C1-11",
+    "sort": [
+        "00-10269"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18297,15130,67,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "槐里"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

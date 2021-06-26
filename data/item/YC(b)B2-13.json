@@ -1,0 +1,41 @@
+{
+    "fulltext": "河英, 03-00200, 8, 越南, 中, 越南, 河英, 朱, 裏, 17, B2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "河英",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1350,4552,132,69",
+    "objectID": "YC(b)B2-13",
+    "sort": [
+        "03-00200"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1350,4552,132,69/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "河英"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

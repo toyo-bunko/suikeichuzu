@@ -1,0 +1,41 @@
+{
+    "fulltext": "安都谷, 00-10915, 4, 南5, 西7, 本図, 安都谷, 墨, 表, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "安都谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13617,14287,48,87",
+    "objectID": "S5W7(a)A1-19",
+    "sort": [
+        "00-10915"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13617,14287,48,87/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "安都谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

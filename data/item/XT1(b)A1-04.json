@@ -1,0 +1,41 @@
+{
+    "fulltext": "賽里木泊, 02-00077, 1, 上, 1, 西域, 賽里木泊, 朱, 裏, 5, A1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "賽里木泊",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6265,309,217,68",
+    "objectID": "XT1(b)A1-04",
+    "sort": [
+        "02-00077"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6265,309,217,68/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "賽里木泊"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

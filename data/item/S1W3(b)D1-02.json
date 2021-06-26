@@ -1,0 +1,41 @@
+{
+    "fulltext": "太平河, 00-02937, 3, 南1, 西3, 本図, 太平河, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "太平河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21700,8968,97,44",
+    "objectID": "S1W3(b)D1-02",
+    "sort": [
+        "00-02937"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21700,8968,97,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "太平河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

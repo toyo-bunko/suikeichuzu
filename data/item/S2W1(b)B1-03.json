@@ -1,0 +1,41 @@
+{
+    "fulltext": "石翁仲, 00-03682, 3, 南2, 西1, 本図, 石翁仲, 墨, 裏, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "石翁仲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26525,9928,34,80",
+    "objectID": "S2W1(b)B1-03",
+    "sort": [
+        "00-03682"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26525,9928,34,80/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石翁仲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

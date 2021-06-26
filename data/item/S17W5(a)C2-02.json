@@ -1,0 +1,41 @@
+{
+    "fulltext": "靈山, 01-09880, 8, 南17, 西5, 本図, 靈山, 朱, 表, 19, C2",
+    "group": [
+        "main"
+    ],
+    "label": "靈山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17802,33535,65,44",
+    "objectID": "S17W5(a)C2-02",
+    "sort": [
+        "01-09880"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17802,33535,65,44/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "靈山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

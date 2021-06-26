@@ -1,0 +1,41 @@
+{
+    "fulltext": "連灣洲, 01-09793, 8, 南17, 西2, 本図, 連灣洲, 朱, 裏, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "連灣洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23234,33857,58,98",
+    "objectID": "S17W2(b)D3-01",
+    "sort": [
+        "01-09793"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23234,33857,58,98/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "連灣洲"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

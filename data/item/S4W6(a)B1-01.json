@@ -1,0 +1,41 @@
+{
+    "fulltext": "化平, 00-07516, 4, 南4, 西6, 本図, 化平, 朱, 表, 20, B1",
+    "group": [
+        "main"
+    ],
+    "label": "化平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15813,13010,70,33",
+    "objectID": "S4W6(a)B1-01",
+    "sort": [
+        "00-07516"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15813,13010,70,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "化平"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        20
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

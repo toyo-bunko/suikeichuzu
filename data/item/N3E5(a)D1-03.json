@@ -1,0 +1,44 @@
+{
+    "fulltext": "漢志南蘇水, 00-00123, ☆（1）『漢志』地理志「玄菟郡高句麗県条」の原注に「又有南蘇水」とある。その南蘇水という意である。, 1, 北3, 東5, 本図, 漢志南蘇水, 墨, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "漢志南蘇水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=41310,2998,182,49",
+    "objectID": "N3E5(a)D1-03",
+    "sort": [
+        "00-00123"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/41310,2998,182,49/200,/0/default.jpg",
+    "備考": [
+        "☆（1）『漢志』地理志「玄菟郡高句麗県条」の原注に「又有南蘇水」とある。その南蘇水という意である。"
+    ],
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢志南蘇水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

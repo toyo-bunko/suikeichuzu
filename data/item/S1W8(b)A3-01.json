@@ -1,0 +1,41 @@
+{
+    "fulltext": "黑水, 00-03060, 3, 南1, 西8, 本図, 黑水, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "黑水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9383,7849,89,47",
+    "objectID": "S1W8(b)A3-01",
+    "sort": [
+        "00-03060"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9383,7849,89,47/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黑水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬骨湖, 01-05662, 6, 南10, 西2, 本図, 馬骨湖, 墨, 裏, 5, A1",
+    "group": [
+        "main"
+    ],
+    "label": "馬骨湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24155,21806,92,37",
+    "objectID": "S10W2(b)A1-01",
+    "sort": [
+        "01-05662"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24155,21806,92,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "馬骨湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

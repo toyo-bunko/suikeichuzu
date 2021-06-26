@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名摩訶河, 00-03442, 3, 南2, 中, 本図, 一名摩訶河, 墨, 裏, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "一名摩訶河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28369,9565,107,31",
+    "objectID": "S2C(b)A2-14",
+    "sort": [
+        "00-03442"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28369,9565,107,31/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一名摩訶河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

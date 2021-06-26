@@ -1,0 +1,41 @@
+{
+    "fulltext": "安夷川口, 00-10563, 4, 南5, 西6, 本図, 安夷川口, 墨, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "安夷川口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15034,14171,86,39",
+    "objectID": "S5W6(a)A3-10",
+    "sort": [
+        "00-10563"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15034,14171,86,39/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "安夷川口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

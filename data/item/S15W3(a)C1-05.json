@@ -1,0 +1,41 @@
+{
+    "fulltext": "平陵, 01-08882, 7, 南15, 西3, 本図, 平陵, 墨, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "平陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22973,30558,71,49",
+    "objectID": "S15W3(a)C1-05",
+    "sort": [
+        "01-08882"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22973,30558,71,49/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "平陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "乞佛氏橋, 00-05722, 4, 南3, 西7, 本図, 乞佛氏橋, 墨, 裏, 29, D2",
+    "group": [
+        "main"
+    ],
+    "label": "乞佛氏橋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12115,12102,67,63",
+    "objectID": "S3W7(b)D2-03",
+    "sort": [
+        "00-05722"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12115,12102,67,63/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "乞佛氏橋"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "巒都城, 00-09849, 4, 南5, 西4, 本図, 巒都城, 墨, 表, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "巒都城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19748,14669,76,30",
+    "objectID": "S5W4(a)B3-06",
+    "sort": [
+        "00-09849"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19748,14669,76,30/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "巒都城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "北阜, 00-09405, 4, 南5, 西3, 本図, 北阜, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "北阜",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22797,14643,47,40",
+    "objectID": "S5W3(a)B1-33",
+    "sort": [
+        "00-09405"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22797,14643,47,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北阜"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

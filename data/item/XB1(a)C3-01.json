@@ -1,0 +1,41 @@
+{
+    "fulltext": "孟加拉, 02-00253, 1, 下, 1, 西域, 孟加拉, 朱, 表, 0, C3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "孟加拉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7105,5093,204,91",
+    "objectID": "XB1(a)C3-01",
+    "sort": [
+        "02-00253"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7105,5093,204,91/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "孟加拉"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

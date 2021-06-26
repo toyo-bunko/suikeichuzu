@@ -1,0 +1,41 @@
+{
+    "fulltext": "卑禾羌海, 00-04161, 3, 南2, 西9, 本図, 卑禾羌海, 墨, 表, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "卑禾羌海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8156,10693,123,45",
+    "objectID": "S2W9(a)D3-02",
+    "sort": [
+        "00-04161"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8156,10693,123,45/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "卑禾羌海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

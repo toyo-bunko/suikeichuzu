@@ -1,0 +1,41 @@
+{
+    "fulltext": "九關臺門, 00-00375, 1, 北2, 東2, 本図, 九關臺門, 朱, 表, 34, A2",
+    "group": [
+        "main"
+    ],
+    "label": "九關臺門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34166,3367,147,59",
+    "objectID": "N2E2(a)A2-01",
+    "sort": [
+        "00-00375"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34166,3367,147,59/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "九關臺門"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

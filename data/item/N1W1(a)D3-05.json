@@ -1,0 +1,41 @@
+{
+    "fulltext": "協陽關, 00-01059, 2, 北1, 西1, 本図, 協陽關, 墨, 表, 16, D3",
+    "group": [
+        "main"
+    ],
+    "label": "協陽關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26787,6104,96,49",
+    "objectID": "N1W1(a)D3-05",
+    "sort": [
+        "00-01059"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26787,6104,96,49/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "協陽關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

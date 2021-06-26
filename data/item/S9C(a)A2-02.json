@@ -1,0 +1,41 @@
+{
+    "fulltext": "漿子湖, 01-04049, 6, 南9, 中, 本図, 漿子湖, 朱, 表, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "漿子湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29524,20376,83,25",
+    "objectID": "S9C(a)A2-02",
+    "sort": [
+        "01-04049"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29524,20376,83,25/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漿子湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

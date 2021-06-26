@@ -1,0 +1,41 @@
+{
+    "fulltext": "穆禽河, 00-00012, 1, 北4, 東5, 本図, 穆禽河, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "穆禽河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40596,1112,99,47",
+    "objectID": "N4E5(a)C3-02",
+    "sort": [
+        "00-00012"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40596,1112,99,47/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "穆禽河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

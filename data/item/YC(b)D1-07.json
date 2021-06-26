@@ -1,0 +1,41 @@
+{
+    "fulltext": "秦象郡, 03-00233, 8, 越南, 中, 越南, 秦象郡, 墨, 裏, 9, D1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "秦象郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1685,5507,71,176",
+    "objectID": "YC(b)D1-07",
+    "sort": [
+        "03-00233"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1685,5507,71,176/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "秦象郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

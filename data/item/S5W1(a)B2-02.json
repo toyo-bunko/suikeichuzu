@@ -1,0 +1,41 @@
+{
+    "fulltext": "甯陵, 00-08261, 4, 南5, 西1, 本図, 甯陵, 朱, 表, 19, B2",
+    "group": [
+        "main"
+    ],
+    "label": "甯陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27239,14609,2,2",
+    "objectID": "S5W1(a)B2-02",
+    "sort": [
+        "00-08261"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27239,14609,2,2/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "甯陵"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

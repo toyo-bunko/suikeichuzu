@@ -1,0 +1,41 @@
+{
+    "fulltext": "笮橋, 01-03627, 5, 南8, 西7, 本図, 笮橋, 墨 , 裏, 29, B2",
+    "group": [
+        "main"
+    ],
+    "label": "笮橋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11949,19224,83,49",
+    "objectID": "S8W7(b)B2-05",
+    "sort": [
+        "01-03627"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11949,19224,83,49/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "笮橋"
+    ],
+    "墨朱": [
+        "墨 "
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

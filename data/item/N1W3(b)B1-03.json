@@ -1,0 +1,41 @@
+{
+    "fulltext": "邁達里河, 00-01349, 2, 北1, 西3, 本図, 邁達里河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "邁達里河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21738,5274,125,39",
+    "objectID": "N1W3(b)B1-03",
+    "sort": [
+        "00-01349"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21738,5274,125,39/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "邁達里河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

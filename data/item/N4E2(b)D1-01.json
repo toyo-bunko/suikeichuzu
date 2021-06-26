@@ -1,0 +1,41 @@
+{
+    "fulltext": "敖漢旗, 00-00071, 1, 北4, 東2, 本図, 敖漢旗, 朱, 裏, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "敖漢旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33184,1293,35,91",
+    "objectID": "N4E2(b)D1-01",
+    "sort": [
+        "00-00071"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33184,1293,35,91/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "敖漢旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

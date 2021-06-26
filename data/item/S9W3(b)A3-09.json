@@ -1,0 +1,41 @@
+{
+    "fulltext": "絶澗, 01-04709, 6, 南9, 西3, 本図, 絶澗, 墨, 裏, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "絶澗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20793,20298,25,32",
+    "objectID": "S9W3(b)A3-09",
+    "sort": [
+        "01-04709"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20793,20298,25,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "絶澗"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

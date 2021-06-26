@@ -1,0 +1,41 @@
+{
+    "fulltext": "三溪河, 01-06726, 6, 南11, 西6, 本図, 三溪河, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "三溪河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15687,23517,93,42",
+    "objectID": "S11W6(a)A2-02",
+    "sort": [
+        "01-06726"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15687,23517,93,42/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三溪河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

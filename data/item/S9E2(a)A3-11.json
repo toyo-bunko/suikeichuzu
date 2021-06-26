@@ -1,0 +1,41 @@
+{
+    "fulltext": "正家河, 01-03734, 6, 南9, 東2, 本図, 正家河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "正家河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33594,20484,77,26",
+    "objectID": "S9E2(a)A3-11",
+    "sort": [
+        "01-03734"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33594,20484,77,26/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "正家河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

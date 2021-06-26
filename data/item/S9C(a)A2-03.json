@@ -1,0 +1,41 @@
+{
+    "fulltext": "樅陽, 01-04050, 6, 南9, 中, 本図, 樅陽, 墨, 表, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "樅陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29587,20446,45,59",
+    "objectID": "S9C(a)A2-03",
+    "sort": [
+        "01-04050"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29587,20446,45,59/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "樅陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

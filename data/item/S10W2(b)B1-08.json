@@ -1,0 +1,41 @@
+{
+    "fulltext": "獨石, 01-05689, 6, 南10, 西2, 本図, 獨石, 墨, 裏, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "獨石",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23834,22295,59,30",
+    "objectID": "S10W2(b)B1-08",
+    "sort": [
+        "01-05689"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23834,22295,59,30/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "獨石"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

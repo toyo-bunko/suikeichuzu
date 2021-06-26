@@ -1,0 +1,41 @@
+{
+    "fulltext": "倚碧海門, 03-00183, 8, 越南, 中, 越南, 倚碧海門, 朱, 裏, 1, B1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "倚碧海門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1917,3928,97,241",
+    "objectID": "YC(b)B1-06",
+    "sort": [
+        "03-00183"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1917,3928,97,241/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "倚碧海門"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

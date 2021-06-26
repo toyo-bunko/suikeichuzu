@@ -1,0 +1,41 @@
+{
+    "fulltext": "武著河, 01-07814, 7, 南13, 西7, 本図, 武著河, 朱, 表, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "武著河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13278,26880,40,101",
+    "objectID": "S13W7(a)B2-02",
+    "sort": [
+        "01-07814"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13278,26880,40,101/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武著河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

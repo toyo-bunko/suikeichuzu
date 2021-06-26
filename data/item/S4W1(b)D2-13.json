@@ -1,0 +1,41 @@
+{
+    "fulltext": "白馬淵, 00-06653, 4, 南4, 西1, 本図, 白馬淵, 墨, 裏, 5, D2",
+    "group": [
+        "main"
+    ],
+    "label": "白馬淵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25871,13955,76,40",
+    "objectID": "S4W1(b)D2-13",
+    "sort": [
+        "00-06653"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25871,13955,76,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白馬淵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

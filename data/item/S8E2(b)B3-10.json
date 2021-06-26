@@ -1,0 +1,41 @@
+{
+    "fulltext": "朱湖, 01-02759, 5, 南8, 東2, 本図, 朱湖, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "朱湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32453,19415,87,56",
+    "objectID": "S8E2(b)B3-10",
+    "sort": [
+        "01-02759"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32453,19415,87,56/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "朱湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "松岳山, 00-02370, 3, 南1, 東5, 本図, 松岳山, 朱, 表, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "松岳山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=41210,9234,46,89",
+    "objectID": "S1E5(a)D1-02",
+    "sort": [
+        "00-02370"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/41210,9234,46,89/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "松岳山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

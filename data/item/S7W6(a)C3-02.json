@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢壽水, 01-02461, 5, 南7, 西6, 本図, 漢壽水, 墨, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "漢壽水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15087,17997,108,83",
+    "objectID": "S7W6(a)C3-02",
+    "sort": [
+        "01-02461"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15087,17997,108,83/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢壽水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

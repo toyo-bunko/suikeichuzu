@@ -1,0 +1,41 @@
+{
+    "fulltext": "康城, 00-08848, 4, 南5, 西2, 本図, 康城, 墨, 表, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "康城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24531,14982,67,46",
+    "objectID": "S5W2(a)C3-10",
+    "sort": [
+        "00-08848"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24531,14982,67,46/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "康城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

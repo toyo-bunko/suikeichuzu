@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿干河, 00-05689, 4, 南3, 西7, 本図, 阿干河, 朱, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "阿干河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12732,12314,81,31",
+    "objectID": "S3W7(a)D3-04",
+    "sort": [
+        "00-05689"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12732,12314,81,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阿干河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "毫, 01-00248, 5, 南6, 中, 本図, 毫, 朱, 裏, 23, A3",
+    "group": [
+        "main"
+    ],
+    "label": "毫",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27784,15597,33,45",
+    "objectID": "S6C(b)A3-03",
+    "sort": [
+        "01-00248"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27784,15597,33,45/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "毫"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

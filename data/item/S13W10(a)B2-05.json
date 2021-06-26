@@ -1,0 +1,41 @@
+{
+    "fulltext": "鶴慶, 01-07975, 7, 南13, 西10, 本図, 鶴慶, 朱, 表, 23, B2",
+    "group": [
+        "main"
+    ],
+    "label": "鶴慶",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6254,27140,75,45",
+    "objectID": "S13W10(a)B2-05",
+    "sort": [
+        "01-07975"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6254,27140,75,45/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鶴慶"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

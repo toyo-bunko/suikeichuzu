@@ -1,0 +1,41 @@
+{
+    "fulltext": "贛楡, 00-07848, 4, 南5, 東1, 本図, 贛楡, 朱, 表, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "贛楡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32211,14199,74,38",
+    "objectID": "S5E1(a)A1-02",
+    "sort": [
+        "00-07848"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32211,14199,74,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "贛楡"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

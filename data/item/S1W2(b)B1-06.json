@@ -1,0 +1,41 @@
+{
+    "fulltext": "採金穴, 00-02852, 3, 南1, 西2, 本図, 採金穴, 墨, 裏, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "採金穴",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23960,8406,101,39",
+    "objectID": "S1W2(b)B1-06",
+    "sort": [
+        "00-02852"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23960,8406,101,39/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "採金穴"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

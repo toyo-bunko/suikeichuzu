@@ -1,0 +1,41 @@
+{
+    "fulltext": "歸徳, 00-08158, 4, 南5, 中, 本図, 歸徳, 朱, 裏, 18, B3",
+    "group": [
+        "main"
+    ],
+    "label": "歸徳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27711,14665,63,30",
+    "objectID": "S5C(b)B3-20",
+    "sort": [
+        "00-08158"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27711,14665,63,30/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "歸徳"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

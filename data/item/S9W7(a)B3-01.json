@@ -1,0 +1,41 @@
+{
+    "fulltext": "中江, 01-05019, 6, 南9, 西7, 本図, 中江, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "中江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12830,20703,59,30",
+    "objectID": "S9W7(a)B3-01",
+    "sort": [
+        "01-05019"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12830,20703,59,30/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "中江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "石城山, 01-01971, 5, 南7, 西2, 本図, 石城山, 墨, 表, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "石城山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25313,18521,78,33",
+    "objectID": "S7W2(a)D1-04",
+    "sort": [
+        "01-01971"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25313,18521,78,33/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石城山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

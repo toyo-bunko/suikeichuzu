@@ -1,0 +1,44 @@
+{
+    "fulltext": "降狄道, 00-07652, 降狄道で固有名詞, 4, 南4, 西7, 本図, 降狄道, 墨, 表, 9, C3",
+    "group": [
+        "main"
+    ],
+    "label": "降狄道",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12823,13507,103,52",
+    "objectID": "S4W7(a)C3-07",
+    "sort": [
+        "00-07652"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12823,13507,103,52/200,/0/default.jpg",
+    "備考": [
+        "降狄道で固有名詞"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "降狄道"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

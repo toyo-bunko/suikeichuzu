@@ -1,0 +1,41 @@
+{
+    "fulltext": "平原, 00-03513, 3, 南2, 中, 本図, 平原, 墨, 裏, 9, D1",
+    "group": [
+        "main"
+    ],
+    "label": "平原",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28523,10852,60,30",
+    "objectID": "S2C(b)D1-15",
+    "sort": [
+        "00-03513"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28523,10852,60,30/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "平原"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

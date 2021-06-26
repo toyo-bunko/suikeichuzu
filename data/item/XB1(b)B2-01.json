@@ -1,0 +1,41 @@
+{
+    "fulltext": "恆河, 02-00290, 1, 下, 1, 西域, 恆河, 朱, 裏, 1, B2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "恆河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5471,4286,198,88",
+    "objectID": "XB1(b)B2-01",
+    "sort": [
+        "02-00290"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5471,4286,198,88/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "恆河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

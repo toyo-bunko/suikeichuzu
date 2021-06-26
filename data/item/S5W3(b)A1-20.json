@@ -1,0 +1,44 @@
+{
+    "fulltext": "呉山, 00-09566, 2か所あり, 4, 南5, 西3, 本図, 呉山, 墨, 裏, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "呉山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21715,14013,47,30",
+    "objectID": "S5W3(b)A1-20",
+    "sort": [
+        "00-09566"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21715,14013,47,30/200,/0/default.jpg",
+    "備考": [
+        "2か所あり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呉山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

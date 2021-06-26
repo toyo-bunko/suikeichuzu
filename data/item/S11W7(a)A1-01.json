@@ -1,0 +1,41 @@
+{
+    "fulltext": "小闕, 01-06768, 6, 南11, 西7, 本図, 小闕, 墨, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "小闕",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13800,23428,46,70",
+    "objectID": "S11W7(a)A1-01",
+    "sort": [
+        "01-06768"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13800,23428,46,70/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小闕"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

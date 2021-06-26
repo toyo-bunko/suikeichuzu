@@ -1,0 +1,41 @@
+{
+    "fulltext": "九德, 03-00191, 8, 越南, 中, 越南, 九德, 墨, 裏, 7, B2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "九德",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1352,4037,136,63",
+    "objectID": "YC(b)B2-04",
+    "sort": [
+        "03-00191"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1352,4037,136,63/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "九德"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

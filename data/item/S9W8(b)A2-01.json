@@ -1,0 +1,41 @@
+{
+    "fulltext": "大金川, 01-05181, 6, 南9, 西8, 本図, 大金川, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "大金川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9778,20226,47,77",
+    "objectID": "S9W8(b)A2-01",
+    "sort": [
+        "01-05181"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9778,20226,47,77/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大金川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

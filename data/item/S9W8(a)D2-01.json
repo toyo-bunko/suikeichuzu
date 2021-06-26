@@ -1,0 +1,41 @@
+{
+    "fulltext": "酈氏合布僕僕水為一水山川間阻無通流理今自沈黎以下青蛉以上不圖, 01-05169, 6, 南9, 西8, 本図, 酈氏合布僕僕水為一水山川間阻無通流理今自沈黎以下青蛉以上不圖, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "酈氏合布僕僕水為一水山川間阻無通流理今自沈黎以下青蛉以上不圖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10874,21461,208,160",
+    "objectID": "S9W8(a)D2-01",
+    "sort": [
+        "01-05169"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10874,21461,208,160/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "酈氏合布僕僕水為一水山川間阻無通流理今自沈黎以下青蛉以上不圖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

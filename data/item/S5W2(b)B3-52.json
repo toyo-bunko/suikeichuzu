@@ -1,0 +1,41 @@
+{
+    "fulltext": "當階城, 00-09185, 4, 南5, 西2, 本図, 當階城, 墨, 裏, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "當階城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23392,14564,76,38",
+    "objectID": "S5W2(b)B3-52",
+    "sort": [
+        "00-09185"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23392,14564,76,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "當階城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "江乘, 01-01517, 5, 南7, 東1, 本図, 江乘, 墨, 表, 8, D1",
+    "group": [
+        "main"
+    ],
+    "label": "江乘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31948,18337,77,43",
+    "objectID": "S7E1(a)D1-08",
+    "sort": [
+        "01-01517"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31948,18337,77,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "江乘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

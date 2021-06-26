@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣州, 05-00204, 8, 0, 0, 禹貢山水澤地所在, 廣州, 朱, 表, 6, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "廣州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2297,2278,81,57",
+    "objectID": "YG(a)0-204",
+    "sort": [
+        "05-00204"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2297,2278,81,57/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "廣州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        0
+    ]
+}

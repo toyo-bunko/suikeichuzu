@@ -1,0 +1,41 @@
+{
+    "fulltext": "雩婁, 01-03009, 5, 南8, 西1, 本図, 雩婁, 墨, 表, 8, A2",
+    "group": [
+        "main"
+    ],
+    "label": "雩婁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27295,18892,58,48",
+    "objectID": "S8W1(a)A2-02",
+    "sort": [
+        "01-03009"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27295,18892,58,48/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雩婁"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

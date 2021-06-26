@@ -1,0 +1,41 @@
+{
+    "fulltext": "桑中, 00-02786, 3, 南1, 西1, 本図, 桑中, 墨, 裏, 10, D2",
+    "group": [
+        "main"
+    ],
+    "label": "桑中",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25963,9024,68,56",
+    "objectID": "S1W1(b)D2-10",
+    "sort": [
+        "00-02786"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25963,9024,68,56/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桑中"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "汾河, 00-07049, 4, 南4, 西3, 本図, 汾河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "汾河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22166,12754,44,56",
+    "objectID": "S4W3(a)A3-02",
+    "sort": [
+        "00-07049"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22166,12754,44,56/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "汾河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

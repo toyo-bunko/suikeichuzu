@@ -1,0 +1,41 @@
+{
+    "fulltext": "關下, 01-08326, 7, 南14, 西3, 本図, 關下, 墨, 裏, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "關下",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21544,29211,52,82",
+    "objectID": "S14W3(b)D1-08",
+    "sort": [
+        "01-08326"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21544,29211,52,82/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "關下"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

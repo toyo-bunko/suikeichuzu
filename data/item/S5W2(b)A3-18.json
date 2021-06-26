@@ -1,0 +1,41 @@
+{
+    "fulltext": "千金渠, 00-09028, 4, 南5, 西2, 本図, 千金渠, 墨, 裏, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "千金渠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23418,14286,27,65",
+    "objectID": "S5W2(b)A3-18",
+    "sort": [
+        "00-09028"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23418,14286,27,65/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "千金渠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

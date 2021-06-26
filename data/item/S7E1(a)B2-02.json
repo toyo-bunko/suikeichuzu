@@ -1,0 +1,41 @@
+{
+    "fulltext": "天長, 01-01484, 5, 南7, 東1, 本図, 天長, 朱, 表, 19, B2",
+    "group": [
+        "main"
+    ],
+    "label": "天長",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31542,17622,61,40",
+    "objectID": "S7E1(a)B2-02",
+    "sort": [
+        "01-01484"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31542,17622,61,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "天長"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

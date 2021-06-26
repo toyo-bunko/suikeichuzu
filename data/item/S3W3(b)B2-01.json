@@ -1,0 +1,41 @@
+{
+    "fulltext": "孔山, 00-05417, 4, 南3, 西3, 本図, 孔山, 墨, 裏, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "孔山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21291,11485,78,47",
+    "objectID": "S3W3(b)B2-01",
+    "sort": [
+        "00-05417"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21291,11485,78,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "孔山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

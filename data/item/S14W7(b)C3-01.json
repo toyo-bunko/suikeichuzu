@@ -1,0 +1,41 @@
+{
+    "fulltext": "塊澤河, 01-08468, 7, 南14, 西7, 本図, 塊澤河, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "塊澤河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11725,29070,42,86",
+    "objectID": "S14W7(b)C3-01",
+    "sort": [
+        "01-08468"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11725,29070,42,86/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "塊澤河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

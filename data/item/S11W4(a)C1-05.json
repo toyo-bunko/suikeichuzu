@@ -1,0 +1,41 @@
+{
+    "fulltext": "清捷河, 01-06636, 6, 南11, 西4, 本図, 清捷河, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "清捷河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20526,24342,38,97",
+    "objectID": "S11W4(a)C1-05",
+    "sort": [
+        "01-06636"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20526,24342,38,97/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "清捷河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

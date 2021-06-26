@@ -1,0 +1,41 @@
+{
+    "fulltext": "枝流入石逗, 04-00208, 8, 0, 0, 洛陽城図, 枝流入石逗, 墨, 裏, 1, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "枝流入石逗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=1174,1124,70,264",
+    "objectID": "CTLY(b)0-125",
+    "sort": [
+        "04-00208"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/1174,1124,70,264/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "枝流入石逗"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        0
+    ]
+}

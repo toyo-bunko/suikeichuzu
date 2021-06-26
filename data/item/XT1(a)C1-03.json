@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄河源, 02-00069, 1, 上, 1, 西域, 黄河源, 朱, 表, 1, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "黄河源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=9055,2947,180,102",
+    "objectID": "XT1(a)C1-03",
+    "sort": [
+        "02-00069"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/9055,2947,180,102/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "黄河源"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

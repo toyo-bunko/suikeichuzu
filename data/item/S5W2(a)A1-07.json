@@ -1,0 +1,44 @@
+{
+    "fulltext": "百人水(百尺水), 00-08556, 文庫の地図には百人水とあるが、他の版の地図と原文では百尺水となっている。よって、ここでは百人水(百尺水)と表記してはどうか。, 4, 南5, 西2, 本図, 百人水(百尺水), 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "百人水(百尺水)",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25273,14165,44,38",
+    "objectID": "S5W2(a)A1-07",
+    "sort": [
+        "00-08556"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25273,14165,44,38/200,/0/default.jpg",
+    "備考": [
+        "文庫の地図には百人水とあるが、他の版の地図と原文では百尺水となっている。よって、ここでは百人水(百尺水)と表記してはどうか。"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "百人水(百尺水)"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

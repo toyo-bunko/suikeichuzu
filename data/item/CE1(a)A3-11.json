@@ -1,0 +1,44 @@
+{
+    "fulltext": "陽樂, 00-01560, 11か？, 2, 中, 東1, 本図, 陽樂, 墨, 表, 7, A3",
+    "group": [
+        "main"
+    ],
+    "label": "陽樂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31449,6521,86,82",
+    "objectID": "CE1(a)A3-11",
+    "sort": [
+        "00-01560"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31449,6521,86,82/200,/0/default.jpg",
+    "備考": [
+        "11か？"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陽樂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

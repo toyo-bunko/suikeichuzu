@@ -1,0 +1,44 @@
+{
+    "fulltext": "山, 00-00923, ☆ここは非常に分かりにくいが、注文をみると「温泉」があるのみ。故にここは「温湯」が縦に書かれ、その左右に「山」があると解される。温湯は左隅のゴチャゴチャした真中にもある。, 2, 北1, 中, 本図, 山, 墨, 裏, 4, B3",
+    "group": [
+        "main"
+    ],
+    "label": "山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27748,5276,61,69",
+    "objectID": "N1C(b)B3-14",
+    "sort": [
+        "00-00923"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27748,5276,61,69/200,/0/default.jpg",
+    "備考": [
+        "☆ここは非常に分かりにくいが、注文をみると「温泉」があるのみ。故にここは「温湯」が縦に書かれ、その左右に「山」があると解される。温湯は左隅のゴチャゴチャした真中にもある。"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

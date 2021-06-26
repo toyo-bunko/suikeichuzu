@@ -1,0 +1,41 @@
+{
+    "fulltext": "觀陽, 00-03187, 3, 南2, 東3, 本図, 觀陽, 墨, 裏, 8, D3",
+    "group": [
+        "main"
+    ],
+    "label": "觀陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34651,10791,111,61",
+    "objectID": "S2E3(b)D3-02",
+    "sort": [
+        "00-03187"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34651,10791,111,61/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "觀陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

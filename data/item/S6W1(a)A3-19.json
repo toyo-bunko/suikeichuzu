@@ -1,0 +1,41 @@
+{
+    "fulltext": "淮寍, 01-00340, 5, 南6, 西1, 本図, 淮寍, 朱, 表, 18, A3",
+    "group": [
+        "main"
+    ],
+    "label": "淮寍",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26660,15835,65,31",
+    "objectID": "S6W1(a)A3-19",
+    "sort": [
+        "01-00340"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26660,15835,65,31/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "淮寍"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

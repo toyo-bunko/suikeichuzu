@@ -1,0 +1,41 @@
+{
+    "fulltext": "永登亭, 00-05696, 4, 南3, 西7, 本図, 永登亭, 墨, 裏, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "永登亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11967,11168,117,53",
+    "objectID": "S3W7(b)A2-05",
+    "sort": [
+        "00-05696"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11967,11168,117,53/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "永登亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

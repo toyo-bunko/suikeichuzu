@@ -1,0 +1,41 @@
+{
+    "fulltext": "武庫, 04-00330, 8, 0, 0, 長安城図, 武庫, 墨, 裏, 16, 0",
+    "group": [
+        "jouzu04_chouan"
+    ],
+    "label": "武庫",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1986,2512,132,98",
+    "objectID": "CTCA(b)0-36",
+    "sort": [
+        "04-00330"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/1986,2512,132,98/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "長安城図"
+    ],
+    "地名/記述": [
+        "武庫"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        0
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "建昌, 01-06395, 6, 南11, 西1, 本図, 建昌, 墨, 裏, 10, B2",
+    "group": [
+        "main"
+    ],
+    "label": "建昌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26037,23731,67,42",
+    "objectID": "S11W1(b)B2-01",
+    "sort": [
+        "01-06395"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26037,23731,67,42/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "建昌"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

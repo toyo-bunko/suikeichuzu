@@ -1,0 +1,41 @@
+{
+    "fulltext": "即甲庚溝, 00-08511, 4, 南5, 西1, 本図, 即甲庚溝, 墨, 裏, 2, D1",
+    "group": [
+        "main"
+    ],
+    "label": "即甲庚溝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26225,15266,120,128",
+    "objectID": "S5W1(b)D1-07",
+    "sort": [
+        "00-08511"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26225,15266,120,128/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即甲庚溝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

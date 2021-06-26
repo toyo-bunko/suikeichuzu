@@ -1,0 +1,41 @@
+{
+    "fulltext": "呉房, 01-00623, 5, 南6, 西2, 本図, 呉房, 墨, 表, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "呉房",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25279,16830,65,41",
+    "objectID": "S6W2(a)D1-06",
+    "sort": [
+        "01-00623"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25279,16830,65,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呉房"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

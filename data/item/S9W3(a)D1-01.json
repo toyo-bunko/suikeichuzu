@@ -1,0 +1,41 @@
+{
+    "fulltext": "倉儲城, 01-04644, 6, 南9, 西3, 本図, 倉儲城, 墨, 表, 16, D1",
+    "group": [
+        "main"
+    ],
+    "label": "倉儲城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22684,21703,76,32",
+    "objectID": "S9W3(a)D1-01",
+    "sort": [
+        "01-04644"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22684,21703,76,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "倉儲城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

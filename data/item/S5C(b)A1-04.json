@@ -1,0 +1,41 @@
+{
+    "fulltext": "大堰, 00-08090, 4, 南5, 中, 本図, 大堰, 墨, 裏, 5, A1",
+    "group": [
+        "main"
+    ],
+    "label": "大堰",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28818,14212,36,48",
+    "objectID": "S5C(b)A1-04",
+    "sort": [
+        "00-08090"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28818,14212,36,48/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大堰"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

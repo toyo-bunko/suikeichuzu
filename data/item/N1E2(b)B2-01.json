@@ -1,0 +1,41 @@
+{
+    "fulltext": "中後所河, 00-00729, 2, 北1, 東2, 本図, 中後所河, 朱 , 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "中後所河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32733,5176,132,59",
+    "objectID": "N1E2(b)B2-01",
+    "sort": [
+        "00-00729"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32733,5176,132,59/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "中後所河"
+    ],
+    "墨朱": [
+        "朱 "
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

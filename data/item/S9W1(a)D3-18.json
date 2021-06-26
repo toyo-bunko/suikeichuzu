@@ -1,0 +1,44 @@
+{
+    "fulltext": "三洲, 01-04198, 中洲, 6, 南9, 西1, 本図, 三洲, 墨, 表, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "三洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26689,21487,34,40",
+    "objectID": "S9W1(a)D3-18",
+    "sort": [
+        "01-04198"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26689,21487,34,40/200,/0/default.jpg",
+    "備考": [
+        "中洲"
+    ],
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

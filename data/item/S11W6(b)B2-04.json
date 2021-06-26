@@ -1,0 +1,41 @@
+{
+    "fulltext": "符關, 01-06748, 6, 南11, 西6, 本図, 符關, 墨, 裏, 10, B2",
+    "group": [
+        "main"
+    ],
+    "label": "符關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14201,23755,72,44",
+    "objectID": "S11W6(b)B2-04",
+    "sort": [
+        "01-06748"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14201,23755,72,44/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "符關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

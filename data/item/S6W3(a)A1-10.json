@@ -1,0 +1,41 @@
+{
+    "fulltext": "太和山, 01-00816, 5, 南6, 西3, 本図, 太和山, 墨, 表, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "太和山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22755,15666,87,36",
+    "objectID": "S6W3(a)A1-10",
+    "sort": [
+        "01-00816"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22755,15666,87,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "太和山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

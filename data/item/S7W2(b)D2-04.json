@@ -1,0 +1,41 @@
+{
+    "fulltext": "西漢舂陵, 01-02101, 5, 南7, 西2, 本図, 西漢舂陵, 墨, 裏, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "西漢舂陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23584,18287,98,35",
+    "objectID": "S7W2(b)D2-04",
+    "sort": [
+        "01-02101"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23584,18287,98,35/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西漢舂陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "鞏昌, 00-10903, 4, 南5, 西7, 本図, 鞏昌, 朱, 表, 18, A1",
+    "group": [
+        "main"
+    ],
+    "label": "鞏昌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13619,14024,65,38",
+    "objectID": "S5W7(a)A1-07",
+    "sort": [
+        "00-10903"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13619,14024,65,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鞏昌"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

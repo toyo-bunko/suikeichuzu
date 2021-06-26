@@ -1,0 +1,41 @@
+{
+    "fulltext": "䭾來水, 01-09647, 8, 南16, 西6, 本図, 䭾來水, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "䭾來水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14566,32606,109,45",
+    "objectID": "S16W6(b)D2-02",
+    "sort": [
+        "01-09647"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14566,32606,109,45/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "䭾來水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

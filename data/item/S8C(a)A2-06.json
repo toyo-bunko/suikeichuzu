@@ -1,0 +1,41 @@
+{
+    "fulltext": "廬州, 01-02929, 5, 南8, 中, 本図, 廬州, 朱, 表, 18, A2",
+    "group": [
+        "main"
+    ],
+    "label": "廬州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29501,18828,60,33",
+    "objectID": "S8C(a)A2-06",
+    "sort": [
+        "01-02929"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29501,18828,60,33/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "廬州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "桃花河, 01-03606, 5, 南8, 西7, 本図, 桃花河, 朱 , 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "桃花河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13691,19893,40,86",
+    "objectID": "S8W7(a)D1-01",
+    "sort": [
+        "01-03606"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13691,19893,40,86/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桃花河"
+    ],
+    "墨朱": [
+        "朱 "
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

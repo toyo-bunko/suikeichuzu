@@ -1,0 +1,41 @@
+{
+    "fulltext": "溪水河, 01-05105, 6, 南9, 西7, 本図, 溪水河, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "溪水河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11548,20793,32,86",
+    "objectID": "S9W7(b)B3-12",
+    "sort": [
+        "01-05105"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11548,20793,32,86/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "溪水河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

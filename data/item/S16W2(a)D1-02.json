@@ -1,0 +1,41 @@
+{
+    "fulltext": "惠州, 01-09393, 8, 南16, 西2, 本図, 惠州, 朱, 表, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "惠州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25164,32570,74,43",
+    "objectID": "S16W2(a)D1-02",
+    "sort": [
+        "01-09393"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25164,32570,74,43/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "惠州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

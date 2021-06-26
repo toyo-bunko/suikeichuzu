@@ -1,0 +1,41 @@
+{
+    "fulltext": "濟南, 00-04644, 4, 南3, 中, 本図, 濟南, 朱, 表, 17, B2",
+    "group": [
+        "main"
+    ],
+    "label": "濟南",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29423,11304,62,33",
+    "objectID": "S3C(a)B2-07",
+    "sort": [
+        "00-04644"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29423,11304,62,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濟南"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄龍, 01-05504, 6, 南10, 中, 本図, 黄龍, 墨, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "黄龍",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27718,22240,31,54",
+    "objectID": "S10C(b)B3-09",
+    "sort": [
+        "01-05504"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27718,22240,31,54/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄龍"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

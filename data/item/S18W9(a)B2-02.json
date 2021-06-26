@@ -1,0 +1,41 @@
+{
+    "fulltext": "徼外, 01-10067, 8, 南18, 西9, 本図, 徼外, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "徼外",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8540,34924,91,54",
+    "objectID": "S18W9(a)B2-02",
+    "sort": [
+        "01-10067"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8540,34924,91,54/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南18"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "徼外"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

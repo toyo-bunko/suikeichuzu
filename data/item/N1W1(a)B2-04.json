@@ -1,0 +1,41 @@
+{
+    "fulltext": "鶏鳴山, 00-01006, 2, 北1, 西1, 本図, 鶏鳴山, 墨, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "鶏鳴山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27091,5352,92,40",
+    "objectID": "N1W1(a)B2-04",
+    "sort": [
+        "00-01006"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27091,5352,92,40/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鶏鳴山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

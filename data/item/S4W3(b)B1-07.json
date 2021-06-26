@@ -1,0 +1,41 @@
+{
+    "fulltext": "王澤, 00-07185, 4, 南4, 西3, 本図, 王澤, 墨, 裏, 5, B1",
+    "group": [
+        "main"
+    ],
+    "label": "王澤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21858,13046,72,45",
+    "objectID": "S4W3(b)B1-07",
+    "sort": [
+        "00-07185"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21858,13046,72,45/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "王澤"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

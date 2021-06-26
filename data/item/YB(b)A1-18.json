@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬援銅柱, 03-00285, 8, 越南, 下, 越南, 馬援銅柱, 墨, 裏, 0, A1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "馬援銅柱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1742,6738,257,79",
+    "objectID": "YB(b)A1-18",
+    "sort": [
+        "03-00285"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1742,6738,257,79/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "下"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "馬援銅柱"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

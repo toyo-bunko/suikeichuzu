@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名西赤湖, 01-04556, 6, 南9, 西3, 本図, 一名西赤湖, 墨, 表, 5, B2",
+    "group": [
+        "main"
+    ],
+    "label": "一名西赤湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22573,20894,67,93",
+    "objectID": "S9W3(a)B2-07",
+    "sort": [
+        "01-04556"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22573,20894,67,93/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一名西赤湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

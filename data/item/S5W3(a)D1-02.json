@@ -1,0 +1,41 @@
+{
+    "fulltext": "嵩, 00-09502, 4, 南5, 西3, 本図, 嵩, 朱, 表, 19, D1",
+    "group": [
+        "main"
+    ],
+    "label": "嵩",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22923,15207,47,48",
+    "objectID": "S5W3(a)D1-02",
+    "sort": [
+        "00-09502"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22923,15207,47,48/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "嵩"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

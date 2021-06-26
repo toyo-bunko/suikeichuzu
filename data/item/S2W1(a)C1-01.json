@@ -1,0 +1,41 @@
+{
+    "fulltext": "辟陽亭, 00-03606, 3, 南2, 西1, 本図, 辟陽亭, 墨, 表, 10, C1",
+    "group": [
+        "main"
+    ],
+    "label": "辟陽亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27565,10071,96,43",
+    "objectID": "S2W1(a)C1-01",
+    "sort": [
+        "00-03606"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27565,10071,96,43/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "辟陽亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

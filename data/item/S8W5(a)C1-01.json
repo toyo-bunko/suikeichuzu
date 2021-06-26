@@ -1,0 +1,41 @@
+{
+    "fulltext": "入峽, 01-03484, 5, 南8, 西5, 本図, 入峽, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "入峽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18133,19464,82,41",
+    "objectID": "S8W5(a)C1-01",
+    "sort": [
+        "01-03484"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18133,19464,82,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "入峽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "瑞昌, 01-05538, 6, 南10, 西1, 本図, 瑞昌, 朱, 表, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "瑞昌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27422,21952,64,30",
+    "objectID": "S10W1(a)A1-03",
+    "sort": [
+        "01-05538"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27422,21952,64,30/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "瑞昌"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

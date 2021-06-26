@@ -1,0 +1,41 @@
+{
+    "fulltext": "新陽, 01-00353, 5, 南6, 西1, 本図, 新陽, 墨, 表, 10, B2",
+    "group": [
+        "main"
+    ],
+    "label": "新陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27262,16253,79,49",
+    "objectID": "S6W1(a)B2-02",
+    "sort": [
+        "01-00353"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27262,16253,79,49/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

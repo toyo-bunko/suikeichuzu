@@ -1,0 +1,41 @@
+{
+    "fulltext": "五水蠻, 01-04129, 6, 南9, 西1, 本図, 五水蠻, 墨, 表, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "五水蠻",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26953,20333,35,100",
+    "objectID": "S9W1(a)A2-04",
+    "sort": [
+        "01-04129"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26953,20333,35,100/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "五水蠻"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

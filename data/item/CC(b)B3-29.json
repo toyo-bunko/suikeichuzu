@@ -1,0 +1,41 @@
+{
+    "fulltext": "即北沙溝, 00-01769, 2, 中, 中, 本図, 即北沙溝, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "即北沙溝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27637,6875,111,61",
+    "objectID": "CC(b)B3-29",
+    "sort": [
+        "00-01769"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27637,6875,111,61/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即北沙溝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

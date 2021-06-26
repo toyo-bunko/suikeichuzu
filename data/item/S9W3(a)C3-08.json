@@ -1,0 +1,44 @@
+{
+    "fulltext": "迆洲, 01-04633, 中洲, 6, 南9, 西3, 本図, 迆洲, 墨, 表, 5, C3",
+    "group": [
+        "main"
+    ],
+    "label": "迆洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22062,21073,49,15",
+    "objectID": "S9W3(a)C3-08",
+    "sort": [
+        "01-04633"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22062,21073,49,15/200,/0/default.jpg",
+    "備考": [
+        "中洲"
+    ],
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "迆洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

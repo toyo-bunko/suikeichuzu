@@ -1,0 +1,41 @@
+{
+    "fulltext": "達漢泊, 00-00102, 1, 北4, 中, 本図, 達漢泊, 朱, 表, 5, C3",
+    "group": [
+        "main"
+    ],
+    "label": "達漢泊",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28974,1086,94,47",
+    "objectID": "N4C(a)C3-04",
+    "sort": [
+        "00-00102"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28974,1086,94,47/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "達漢泊"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

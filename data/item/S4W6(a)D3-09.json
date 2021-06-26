@@ -1,0 +1,44 @@
+{
+    "fulltext": "洛陽川水, 00-07594, 図は「洛陽川水」だが「略陽川水」の誤り, 4, 南4, 西6, 本図, 洛陽川水, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "洛陽川水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15208,13946,122,53",
+    "objectID": "S4W6(a)D3-09",
+    "sort": [
+        "00-07594"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15208,13946,122,53/200,/0/default.jpg",
+    "備考": [
+        "図は「洛陽川水」だが「略陽川水」の誤り"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洛陽川水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

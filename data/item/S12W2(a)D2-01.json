@@ -1,0 +1,41 @@
+{
+    "fulltext": "洋澤水, 01-07018, 7, 南12, 西2, 本図, 洋澤水, 朱, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "洋澤水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24654,26049,96,40",
+    "objectID": "S12W2(a)D2-01",
+    "sort": [
+        "01-07018"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24654,26049,96,40/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洋澤水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "饒陽, 00-02514, 3, 南1, 中, 本図, 饒陽, 墨, 裏, 8, C3",
+    "group": [
+        "main"
+    ],
+    "label": "饒陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27749,8715,75,72",
+    "objectID": "S1C(b)C3-07",
+    "sort": [
+        "00-02514"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27749,8715,75,72/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "饒陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

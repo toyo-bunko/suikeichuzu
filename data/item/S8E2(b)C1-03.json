@@ -1,0 +1,41 @@
+{
+    "fulltext": "青山, 01-02762, 5, 南8, 東2, 本図, 青山, 墨, 裏, 4, C1",
+    "group": [
+        "main"
+    ],
+    "label": "青山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33410,19691,55,33",
+    "objectID": "S8E2(b)C1-03",
+    "sort": [
+        "01-02762"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33410,19691,55,33/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "青山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

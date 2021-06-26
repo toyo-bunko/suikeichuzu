@@ -1,0 +1,41 @@
+{
+    "fulltext": "湖城山, 01-03921, 6, 南9, 東2, 本図, 湖城山, 墨, 裏, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "湖城山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33476,21479,19,48",
+    "objectID": "S9E2(b)D1-05",
+    "sort": [
+        "01-03921"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33476,21479,19,48/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "湖城山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

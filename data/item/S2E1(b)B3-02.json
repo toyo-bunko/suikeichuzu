@@ -1,0 +1,41 @@
+{
+    "fulltext": "東漢改厭次, 00-03302, 3, 南2, 東1, 本図, 東漢改厭次, 墨, 裏, 10, B3",
+    "group": [
+        "main"
+    ],
+    "label": "東漢改厭次",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30268,10004,114,87",
+    "objectID": "S2E1(b)B3-02",
+    "sort": [
+        "00-03302"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30268,10004,114,87/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東漢改厭次"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

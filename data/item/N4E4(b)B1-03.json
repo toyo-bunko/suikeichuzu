@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿尓灘額墨尓山, 00-00048, 1, 北4, 東4, 本図, 阿尓灘額墨尓山, 朱, 裏, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "阿尓灘額墨尓山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38024,687,69,150",
+    "objectID": "N4E4(b)B1-03",
+    "sort": [
+        "00-00048"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38024,687,69,150/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阿尓灘額墨尓山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

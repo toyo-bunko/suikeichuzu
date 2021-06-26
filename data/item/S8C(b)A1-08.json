@@ -1,0 +1,41 @@
+{
+    "fulltext": "都陂, 01-02974, 5, 南8, 中, 本図, 都陂, 墨, 裏, 5, A1",
+    "group": [
+        "main"
+    ],
+    "label": "都陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28674,18874,76,40",
+    "objectID": "S8C(b)A1-08",
+    "sort": [
+        "01-02974"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28674,18874,76,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "都陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "荒中, 00-00614, 1, 北2, 西5, 本図, 荒中, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "荒中",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17719,3508,70,50",
+    "objectID": "N2W5(a)B2-01",
+    "sort": [
+        "00-00614"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17719,3508,70,50/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "荒中"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

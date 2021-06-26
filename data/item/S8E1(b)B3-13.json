@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏上城, 01-02899, 5, 南8, 東1, 本図, 烏上城, 墨, 裏, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "烏上城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30057,19202,93,43",
+    "objectID": "S8E1(b)B3-13",
+    "sort": [
+        "01-02899"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30057,19202,93,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "烏上城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

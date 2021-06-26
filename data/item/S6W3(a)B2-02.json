@@ -1,0 +1,41 @@
+{
+    "fulltext": "葛陽, 01-00839, 5, 南6, 西3, 本図, 葛陽, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "葛陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22327,16133,37,89",
+    "objectID": "S6W3(a)B2-02",
+    "sort": [
+        "01-00839"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22327,16133,37,89/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "葛陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

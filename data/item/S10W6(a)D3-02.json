@@ -1,0 +1,41 @@
+{
+    "fulltext": "孫溪川, 01-06029, 6, 南10, 西6, 本図, 孫溪川, 朱, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "孫溪川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15112,23079,30,103",
+    "objectID": "S10W6(a)D3-02",
+    "sort": [
+        "01-06029"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15112,23079,30,103/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "孫溪川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

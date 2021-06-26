@@ -1,0 +1,41 @@
+{
+    "fulltext": "白狼河, 00-04382, 4, 南3, 東1, 本図, 白狼河, 朱, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "白狼河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31834,11586,91,32",
+    "objectID": "S3E1(a)B2-05",
+    "sort": [
+        "00-04382"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31834,11586,91,32/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白狼河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

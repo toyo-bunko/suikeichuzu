@@ -1,0 +1,41 @@
+{
+    "fulltext": "塞外, 00-04175, 3, 南2, 西10, 本図, 塞外, 墨, 表, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "塞外",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6548,9356,82,41",
+    "objectID": "S2W10(a)A1-02",
+    "sort": [
+        "00-04175"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6548,9356,82,41/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "塞外"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

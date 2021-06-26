@@ -1,0 +1,41 @@
+{
+    "fulltext": "危須, 02-00030, 1, 上, 1, 西域, 危須, 墨, 表, 7, A3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "危須",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7346,955,145,86",
+    "objectID": "XT1(a)A3-15",
+    "sort": [
+        "02-00030"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7346,955,145,86/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "危須"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

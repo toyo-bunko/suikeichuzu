@@ -1,0 +1,44 @@
+{
+    "fulltext": "東漢平陽, 00-05982, 原文か地図かのどちらかが誤まり, 4, 南4, 東1, 本図, 東漢平陽, 墨, 裏, 8, A3",
+    "group": [
+        "main"
+    ],
+    "label": "東漢平陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30167,12458,114,40",
+    "objectID": "S4E1(b)A3-04",
+    "sort": [
+        "00-05982"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30167,12458,114,40/200,/0/default.jpg",
+    "備考": [
+        "原文か地図かのどちらかが誤まり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東漢平陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

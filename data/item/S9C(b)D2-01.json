@@ -1,0 +1,41 @@
+{
+    "fulltext": "宿松, 01-04117, 6, 南9, 中, 本図, 宿松, 朱, 裏, 19, D2",
+    "group": [
+        "main"
+    ],
+    "label": "宿松",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28111,21399,65,37",
+    "objectID": "S9C(b)D2-01",
+    "sort": [
+        "01-04117"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28111,21399,65,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宿松"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

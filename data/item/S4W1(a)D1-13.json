@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢定陶恭王陵, 00-06431, 4, 南4, 西1, 本図, 漢定陶恭王陵, 墨, 表, 16, D1",
+    "group": [
+        "main"
+    ],
+    "label": "漢定陶恭王陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27303,13603,72,61",
+    "objectID": "S4W1(a)D1-13",
+    "sort": [
+        "00-06431"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27303,13603,72,61/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢定陶恭王陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

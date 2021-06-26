@@ -1,0 +1,41 @@
+{
+    "fulltext": "衛國縣, 00-06301, 4, 南4, 西1, 本図, 衛國縣, 墨, 表, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "衛國縣",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27074,12487,94,38",
+    "objectID": "S4W1(a)A2-03",
+    "sort": [
+        "00-06301"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27074,12487,94,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "衛國縣"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

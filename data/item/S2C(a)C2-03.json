@@ -1,0 +1,41 @@
+{
+    "fulltext": "西平昌, 00-03398, 3, 南2, 中, 本図, 西平昌, 墨, 表, 10, C2",
+    "group": [
+        "main"
+    ],
+    "label": "西平昌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29334,10154,107,58",
+    "objectID": "S2C(a)C2-03",
+    "sort": [
+        "00-03398"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29334,10154,107,58/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西平昌"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "層歩山, 01-05849, 6, 南10, 西3, 本図, 層歩山, 墨, 裏, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "層歩山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21602,22326,77,47",
+    "objectID": "S10W3(b)B1-05",
+    "sort": [
+        "01-05849"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21602,22326,77,47/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "層歩山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

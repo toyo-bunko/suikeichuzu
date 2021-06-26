@@ -1,0 +1,41 @@
+{
+    "fulltext": "海, 00-01516, 2, 中, 東4, 本図, 海, 墨, 裏, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=37380,7123,100,120",
+    "objectID": "CE4(b)C2-01",
+    "sort": [
+        "00-01516"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/37380,7123,100,120/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

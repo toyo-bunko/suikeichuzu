@@ -1,0 +1,41 @@
+{
+    "fulltext": "沅注洞庭, 01-05832, 6, 南10, 西3, 本図, 沅注洞庭, 墨, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "沅注洞庭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22689,23024,114,36",
+    "objectID": "S10W3(a)D1-03",
+    "sort": [
+        "01-05832"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22689,23024,114,36/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沅注洞庭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

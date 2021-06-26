@@ -1,0 +1,41 @@
+{
+    "fulltext": "即商於, 01-02132, 5, 南7, 西3, 本図, 即商於, 墨, 表, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "即商於",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22028,17159,77,67",
+    "objectID": "S7W3(a)A3-05",
+    "sort": [
+        "01-02132"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22028,17159,77,67/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即商於"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

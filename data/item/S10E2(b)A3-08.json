@@ -1,0 +1,41 @@
+{
+    "fulltext": "桐廬, 01-05349, 6, 南10, 東2, 本図, 桐廬, 墨, 裏, 8, A3",
+    "group": [
+        "main"
+    ],
+    "label": "桐廬",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32461,21896,70,41",
+    "objectID": "S10E2(b)A3-08",
+    "sort": [
+        "01-05349"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32461,21896,70,41/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桐廬"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "麓汵, 03-00090, 8, 越南, 上, 越南, 麓汵, 墨, 裏, 10, C1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "麓汵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1881,1988,158,89",
+    "objectID": "YT(b)C1-08",
+    "sort": [
+        "03-00090"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1881,1988,158,89/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "麓汵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

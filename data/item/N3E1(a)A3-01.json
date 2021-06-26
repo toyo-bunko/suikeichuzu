@@ -1,0 +1,41 @@
+{
+    "fulltext": "陳徳布河, 00-00198, 1, 北3, 東1, 本図, 陳徳布河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "陳徳布河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31211,1624,130,40",
+    "objectID": "N3E1(a)A3-01",
+    "sort": [
+        "00-00198"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31211,1624,130,40/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陳徳布河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

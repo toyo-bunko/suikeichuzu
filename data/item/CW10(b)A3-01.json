@@ -1,0 +1,41 @@
+{
+    "fulltext": "布隆吉河, 00-02313, 2, 中, 西10, 本図, 布隆吉河, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "布隆吉河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4626,6515,124,41",
+    "objectID": "CW10(b)A3-01",
+    "sort": [
+        "00-02313"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4626,6515,124,41/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "布隆吉河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

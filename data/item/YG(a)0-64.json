@@ -1,0 +1,41 @@
+{
+    "fulltext": "順徳, 05-00064, 8, 0, 0, 禹貢山水澤地所在, 順徳, 朱, 表, 7, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "順徳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2508,581,97,62",
+    "objectID": "YG(a)0-64",
+    "sort": [
+        "05-00064"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2508,581,97,62/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "順徳"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        0
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "原陽, 00-01216, 2, 北1, 西2, 本図, 原陽, 墨, 裏, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "原陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23546,4742,72,78",
+    "objectID": "N1W2(b)A2-02",
+    "sort": [
+        "00-01216"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23546,4742,72,78/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "原陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "船官湖, 01-04544, 6, 南9, 西3, 本図, 船官湖, 墨, 表, 5, B1",
+    "group": [
+        "main"
+    ],
+    "label": "船官湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22954,20895,51,68",
+    "objectID": "S9W3(a)B1-02",
+    "sort": [
+        "01-04544"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22954,20895,51,68/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "船官湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

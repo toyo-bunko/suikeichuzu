@@ -1,0 +1,41 @@
+{
+    "fulltext": "猪島, 00-01457, 2, 中, 東6, 本図, 猪島, 朱, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "猪島",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=42772,6881,84,99",
+    "objectID": "CE6(a)B3-03",
+    "sort": [
+        "00-01457"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/42772,6881,84,99/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "猪島"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

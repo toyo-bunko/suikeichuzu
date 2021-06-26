@@ -1,0 +1,41 @@
+{
+    "fulltext": "西山, 00-03906, 3, 南2, 西3, 本図, 西山, 墨, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "西山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22577,9737,71,38",
+    "objectID": "S2W3(a)B2-02",
+    "sort": [
+        "00-03906"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22577,9737,71,38/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

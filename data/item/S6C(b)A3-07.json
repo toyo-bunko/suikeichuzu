@@ -1,0 +1,41 @@
+{
+    "fulltext": "曹魏立譙郡, 01-00252, 5, 南6, 中, 本図, 曹魏立譙郡, 墨, 裏, 12, A3",
+    "group": [
+        "main"
+    ],
+    "label": "曹魏立譙郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27732,15651,97,32",
+    "objectID": "S6C(b)A3-07",
+    "sort": [
+        "01-00252"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27732,15651,97,32/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "曹魏立譙郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        12
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

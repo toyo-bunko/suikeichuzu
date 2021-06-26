@@ -1,0 +1,41 @@
+{
+    "fulltext": "巴爾布哈山, 00-07830, 4, 南4, 西11, 本図, 巴爾布哈山, 朱, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "巴爾布哈山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=2996,12500,71,94",
+    "objectID": "S4W11(b)A2-01",
+    "sort": [
+        "00-07830"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/2996,12500,71,94/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西11"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "巴爾布哈山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

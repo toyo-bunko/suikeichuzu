@@ -1,0 +1,41 @@
+{
+    "fulltext": "下流入今越南圖附後, 01-09966, 8, 南17, 西8, 本図, 下流入今越南圖附後, 墨, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "下流入今越南圖附後",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10991,33586,353,63",
+    "objectID": "S17W8(a)C1-01",
+    "sort": [
+        "01-09966"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10991,33586,353,63/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "下流入今越南圖附後"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

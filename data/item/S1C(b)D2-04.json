@@ -1,0 +1,41 @@
+{
+    "fulltext": "桑社溝, 00-02532, 3, 南1, 中, 本図, 桑社溝, 墨, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "桑社溝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28438,9237,33,85",
+    "objectID": "S1C(b)D2-04",
+    "sort": [
+        "00-02532"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28438,9237,33,85/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桑社溝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

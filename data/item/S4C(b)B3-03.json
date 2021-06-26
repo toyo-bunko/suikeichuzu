@@ -1,0 +1,41 @@
+{
+    "fulltext": "故黎侯城, 00-06227, 4, 南4, 中, 本図, 故黎侯城, 墨, 裏, 14, B3",
+    "group": [
+        "main"
+    ],
+    "label": "故黎侯城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27876,12827,119,34",
+    "objectID": "S4C(b)B3-03",
+    "sort": [
+        "00-06227"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27876,12827,119,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故黎侯城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        14
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

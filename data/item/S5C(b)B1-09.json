@@ -1,0 +1,44 @@
+{
+    "fulltext": "香城, 00-08131, 陂の中の城, 4, 南5, 中, 本図, 香城, 墨, 裏, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "香城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28467,14630,68,37",
+    "objectID": "S5C(b)B1-09",
+    "sort": [
+        "00-08131"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28467,14630,68,37/200,/0/default.jpg",
+    "備考": [
+        "陂の中の城"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "香城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

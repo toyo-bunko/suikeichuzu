@@ -1,0 +1,41 @@
+{
+    "fulltext": "諾謨輝山, 00-00561, 1, 北2, 西1, 本図, 諾謨輝山, 朱, 裏, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "諾謨輝山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25495,3344,222,62",
+    "objectID": "N2W1(b)A3-02",
+    "sort": [
+        "00-00561"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25495,3344,222,62/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "諾謨輝山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

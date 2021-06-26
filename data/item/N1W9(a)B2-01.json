@@ -1,0 +1,41 @@
+{
+    "fulltext": "衞魯, 00-01442, 2, 北1, 西9, 本図, 衞魯, 朱, 表, 18, B2",
+    "group": [
+        "main"
+    ],
+    "label": "衞魯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8457,5384,77,86",
+    "objectID": "N1W9(a)B2-01",
+    "sort": [
+        "00-01442"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8457,5384,77,86/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "衞魯"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

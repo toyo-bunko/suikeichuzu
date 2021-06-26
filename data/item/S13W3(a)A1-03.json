@@ -1,0 +1,41 @@
+{
+    "fulltext": "酃湖, 01-07602, 7, 南13, 西3, 本図, 酃湖, 墨, 表, 5, A1",
+    "group": [
+        "main"
+    ],
+    "label": "酃湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22991,26515,37,72",
+    "objectID": "S13W3(a)A1-03",
+    "sort": [
+        "01-07602"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22991,26515,37,72/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "酃湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

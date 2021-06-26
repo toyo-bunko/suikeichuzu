@@ -1,0 +1,41 @@
+{
+    "fulltext": "武周川水二源, 00-02155, 2, 中, 西2, 本図, 武周川水二源, 墨, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "武周川水二源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23962,6317,88,79",
+    "objectID": "CW2(b)A1-03",
+    "sort": [
+        "00-02155"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23962,6317,88,79/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武周川水二源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

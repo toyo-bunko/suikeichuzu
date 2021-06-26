@@ -1,0 +1,41 @@
+{
+    "fulltext": "學堂後移此, 04-00708, 8, 0, 0, 成都橋図, 學堂後移此, 墨, 表, 16, 0",
+    "group": [
+        "jouzu12_seito"
+    ],
+    "label": "學堂後移此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1232,2116,149,246",
+    "objectID": "CTCD(a)0-31",
+    "sort": [
+        "04-00708"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1232,2116,149,246/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "成都橋図"
+    ],
+    "地名/記述": [
+        "學堂後移此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        0
+    ]
+}

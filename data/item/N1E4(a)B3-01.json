@@ -1,0 +1,41 @@
+{
+    "fulltext": "寛甸, 00-00666, 2, 北1, 東4, 本図, 寛甸, 朱, 表, 19, B3",
+    "group": [
+        "main"
+    ],
+    "label": "寛甸",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38194,5333,92,38",
+    "objectID": "N1E4(a)B3-01",
+    "sort": [
+        "00-00666"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38194,5333,92,38/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "寛甸"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "察罕鄂博圖山, 00-04140, 3, 南2, 西8, 本図, 察罕鄂博圖山, 朱, 裏, 4, B3",
+    "group": [
+        "main"
+    ],
+    "label": "察罕鄂博圖山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9437,9903,89,55",
+    "objectID": "S2W8(b)B3-03",
+    "sort": [
+        "00-04140"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9437,9903,89,55/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "察罕鄂博圖山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

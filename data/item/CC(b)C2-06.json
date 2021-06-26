@@ -1,0 +1,41 @@
+{
+    "fulltext": "督亢亭, 00-01784, 2, 中, 中, 本図, 督亢亭, 墨, 裏, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "督亢亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28307,7184,98,59",
+    "objectID": "CC(b)C2-06",
+    "sort": [
+        "00-01784"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28307,7184,98,59/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "督亢亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

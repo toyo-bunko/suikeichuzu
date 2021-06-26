@@ -1,0 +1,41 @@
+{
+    "fulltext": "泉源隠發, 00-07619, 4, 南4, 西6, 本図, 泉源隠發, 墨, 裏, 2, D1",
+    "group": [
+        "main"
+    ],
+    "label": "泉源隠發",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14813,13550,147,114",
+    "objectID": "S4W6(b)D1-01",
+    "sort": [
+        "00-07619"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14813,13550,147,114/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "泉源隠發"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "祁連山, 00-03085, 3, 南1, 西9, 本図, 祁連山, 朱, 裏, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "祁連山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7682,8415,113,77",
+    "objectID": "S1W9(b)B1-01",
+    "sort": [
+        "00-03085"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7682,8415,113,77/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "祁連山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

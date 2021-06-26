@@ -1,0 +1,41 @@
+{
+    "fulltext": "逢留河, 00-07783, 4, 南4, 西9, 本図, 逢留河, 墨, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "逢留河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8628,12560,62,161",
+    "objectID": "S4W9(a)A2-01",
+    "sort": [
+        "00-07783"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8628,12560,62,161/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "逢留河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

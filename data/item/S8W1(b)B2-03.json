@@ -1,0 +1,41 @@
+{
+    "fulltext": "倒水, 01-03060, 5, 南8, 西1, 本図, 倒水, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "倒水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26013,19296,81,38",
+    "objectID": "S8W1(b)B2-03",
+    "sort": [
+        "01-03060"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26013,19296,81,38/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "倒水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

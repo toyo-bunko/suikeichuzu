@@ -1,0 +1,41 @@
+{
+    "fulltext": "定陶, 05-00059, 8, 0, 0, 禹貢山水澤地所在, 定陶, 墨, 表, 10, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "定陶",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2623,839,74,47",
+    "objectID": "YG(a)0-59",
+    "sort": [
+        "05-00059"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2623,839,74,47/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "定陶"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        0
+    ]
+}

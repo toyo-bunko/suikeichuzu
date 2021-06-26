@@ -1,0 +1,41 @@
+{
+    "fulltext": "朱鳶, 03-00124, 8, 越南, 中, 越南, 朱鳶, 墨, 表, 8, A3",
+    "group": [
+        "etsunan"
+    ],
+    "label": "朱鳶",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2330,3270,69,134",
+    "objectID": "YC(a)A3-09",
+    "sort": [
+        "03-00124"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2330,3270,69,134/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "朱鳶"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

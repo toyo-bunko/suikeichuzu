@@ -1,0 +1,41 @@
+{
+    "fulltext": "尉佗墓, 01-09425, 8, 南16, 西2, 本図, 尉佗墓, 墨, 裏, 16, D3",
+    "group": [
+        "main"
+    ],
+    "label": "尉佗墓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23338,32314,88,38",
+    "objectID": "S16W2(b)D3-03",
+    "sort": [
+        "01-09425"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23338,32314,88,38/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "尉佗墓"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

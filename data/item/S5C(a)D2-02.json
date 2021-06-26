@@ -1,0 +1,41 @@
+{
+    "fulltext": "凌塚, 00-08064, 4, 南5, 中, 本図, 凌塚, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "凌塚",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29571,15138,47,62",
+    "objectID": "S5C(a)D2-02",
+    "sort": [
+        "00-08064"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29571,15138,47,62/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "凌塚"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

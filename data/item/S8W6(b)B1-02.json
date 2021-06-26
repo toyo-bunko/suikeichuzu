@@ -1,0 +1,41 @@
+{
+    "fulltext": "津渠戍, 01-03557, 5, 南8, 西6, 本図, 津渠戍, 朱, 裏, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "津渠戍",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14593,19086,56,114",
+    "objectID": "S8W6(b)B1-02",
+    "sort": [
+        "01-03557"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14593,19086,56,114/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "津渠戍"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

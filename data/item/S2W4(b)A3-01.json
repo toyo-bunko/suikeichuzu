@@ -1,0 +1,41 @@
+{
+    "fulltext": "奢延澤, 00-04041, 3, 南2, 西4, 本図, 奢延澤, 墨, 裏, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "奢延澤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18718,9519,44,124",
+    "objectID": "S2W4(b)A3-01",
+    "sort": [
+        "00-04041"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18718,9519,44,124/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "奢延澤"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

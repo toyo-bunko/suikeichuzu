@@ -1,0 +1,41 @@
+{
+    "fulltext": "白渚溪, 01-05228, 6, 南10, 東3, 本図, 白渚溪, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "白渚溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34831,22832,83,29",
+    "objectID": "S10E3(b)C3-03",
+    "sort": [
+        "01-05228"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34831,22832,83,29/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白渚溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

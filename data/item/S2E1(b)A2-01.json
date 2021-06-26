@@ -1,0 +1,41 @@
+{
+    "fulltext": "屯氏別河南瀆入海, 00-03285, 3, 南2, 東1, 本図, 屯氏別河南瀆入海, 墨, 裏, 2, A2",
+    "group": [
+        "main"
+    ],
+    "label": "屯氏別河南瀆入海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30594,9364,159,134",
+    "objectID": "S2E1(b)A2-01",
+    "sort": [
+        "00-03285"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30594,9364,159,134/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "屯氏別河南瀆入海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

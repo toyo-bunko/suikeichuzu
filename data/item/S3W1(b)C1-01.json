@@ -1,0 +1,41 @@
+{
+    "fulltext": "坰溝, 00-05089, 4, 南3, 西1, 本図, 坰溝, 墨, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "坰溝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26490,11905,44,76",
+    "objectID": "S3W1(b)C1-01",
+    "sort": [
+        "00-05089"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26490,11905,44,76/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "坰溝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

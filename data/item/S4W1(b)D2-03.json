@@ -1,0 +1,41 @@
+{
+    "fulltext": "北濟, 00-06643, 4, 南4, 西1, 本図, 北濟, 墨, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "北濟",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26102,13798,66,50",
+    "objectID": "S4W1(b)D2-03",
+    "sort": [
+        "00-06643"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26102,13798,66,50/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北濟"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

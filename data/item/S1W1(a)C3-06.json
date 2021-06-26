@@ -1,0 +1,41 @@
+{
+    "fulltext": "新樂, 00-02693, 3, 南1, 西1, 本図, 新樂, 朱, 表, 19, C3",
+    "group": [
+        "main"
+    ],
+    "label": "新樂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26605,8588,72,37",
+    "objectID": "S1W1(a)C3-06",
+    "sort": [
+        "00-02693"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26605,8588,72,37/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新樂"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

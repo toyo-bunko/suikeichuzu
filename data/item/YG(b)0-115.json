@@ -1,0 +1,41 @@
+{
+    "fulltext": "松洛, 05-00321, 8, 0, 0, 禹貢山水澤地所在, 松洛, 朱, 裏, 7, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "松洛",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1161,1136,112,70",
+    "objectID": "YG(b)0-115",
+    "sort": [
+        "05-00321"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1161,1136,112,70/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "松洛"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        0
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "夭池, 01-01369, 巻20漾水篇の該当箇所に「天池」or「夭池」の記述無し。疏文も。, 5, 南6, 西8, 本図, 夭池, 墨, 表, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "夭池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10949,15635,43,49",
+    "objectID": "S6W8(a)A2-02",
+    "sort": [
+        "01-01369"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10949,15635,43,49/200,/0/default.jpg",
+    "備考": [
+        "巻20漾水篇の該当箇所に「天池」or「夭池」の記述無し。疏文も。"
+    ],
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "夭池"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

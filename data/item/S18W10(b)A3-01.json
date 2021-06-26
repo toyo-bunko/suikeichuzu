@@ -1,0 +1,41 @@
+{
+    "fulltext": "猛連河, 01-10080, 8, 南18, 西10, 本図, 猛連河, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "猛連河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4815,34225,112,52",
+    "objectID": "S18W10(b)A3-01",
+    "sort": [
+        "01-10080"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4815,34225,112,52/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南18"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "猛連河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

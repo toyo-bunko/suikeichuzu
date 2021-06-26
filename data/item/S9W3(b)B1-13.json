@@ -1,0 +1,41 @@
+{
+    "fulltext": "魏置臨江郡, 01-04738, 6, 南9, 西3, 本図, 魏置臨江郡, 墨, 裏, 7, B1",
+    "group": [
+        "main"
+    ],
+    "label": "魏置臨江郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21661,20972,37,124",
+    "objectID": "S9W3(b)B1-13",
+    "sort": [
+        "01-04738"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21661,20972,37,124/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "魏置臨江郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

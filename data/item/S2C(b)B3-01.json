@@ -1,0 +1,41 @@
+{
+    "fulltext": "歷口渡, 00-03474, 3, 南2, 中, 本図, 歷口渡, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "歷口渡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28041,9829,77,108",
+    "objectID": "S2C(b)B3-01",
+    "sort": [
+        "00-03474"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28041,9829,77,108/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "歷口渡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

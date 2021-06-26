@@ -1,0 +1,41 @@
+{
+    "fulltext": "巫峽, 01-03368, 5, 南8, 西4, 本図, 巫峽, 墨, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "巫峽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20259,20064,56,84",
+    "objectID": "S8W4(a)D2-03",
+    "sort": [
+        "01-03368"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20259,20064,56,84/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "巫峽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "鐵, 00-01506, 2, 中, 東4, 本図, 鐵, 朱, 表, 23, A3",
+    "group": [
+        "main"
+    ],
+    "label": "鐵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38431,6354,43,77",
+    "objectID": "CE4(a)A3-02",
+    "sort": [
+        "00-01506"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38431,6354,43,77/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鐵"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

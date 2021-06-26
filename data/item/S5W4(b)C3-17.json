@@ -1,0 +1,41 @@
+{
+    "fulltext": "咸陽, 00-10102, 4, 南5, 西4, 本図, 咸陽, 朱, 裏, 19, C3",
+    "group": [
+        "main"
+    ],
+    "label": "咸陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18525,14980,72,36",
+    "objectID": "S5W4(b)C3-17",
+    "sort": [
+        "00-10102"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18525,14980,72,36/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "咸陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

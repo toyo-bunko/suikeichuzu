@@ -1,0 +1,41 @@
+{
+    "fulltext": "涅, 00-05232, 4, 南3, 西2, 本図, 涅, 墨, 裏, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "涅",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24004,11039,38,35",
+    "objectID": "S3W2(b)A1-11",
+    "sort": [
+        "00-05232"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24004,11039,38,35/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "涅"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

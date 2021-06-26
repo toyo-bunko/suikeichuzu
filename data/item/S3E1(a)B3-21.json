@@ -1,0 +1,41 @@
+{
+    "fulltext": "朐山, 00-04416, 4, 南3, 東1, 本図, 朐山, 墨, 表, 4, B3",
+    "group": [
+        "main"
+    ],
+    "label": "朐山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31341,11602,61,41",
+    "objectID": "S3E1(a)B3-21",
+    "sort": [
+        "00-04416"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31341,11602,61,41/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "朐山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

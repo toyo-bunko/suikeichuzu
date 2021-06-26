@@ -1,0 +1,41 @@
+{
+    "fulltext": "馮緄冢, 01-03522, 5, 南8, 西5, 本図, 馮緄冢, 墨, 裏, 10, D3",
+    "group": [
+        "main"
+    ],
+    "label": "馮緄冢",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16405,20091,99,40",
+    "objectID": "S8W5(b)D3-01",
+    "sort": [
+        "01-03522"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16405,20091,99,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "馮緄冢"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

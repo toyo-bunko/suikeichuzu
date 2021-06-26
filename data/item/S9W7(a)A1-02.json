@@ -1,0 +1,41 @@
+{
+    "fulltext": "射洪, 01-05004, 6, 南9, 西7, 本図, 射洪, 朱, 表, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "射洪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13701,20228,58,33",
+    "objectID": "S9W7(a)A1-02",
+    "sort": [
+        "01-05004"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13701,20228,58,33/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "射洪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

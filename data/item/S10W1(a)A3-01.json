@@ -1,0 +1,41 @@
+{
+    "fulltext": "山, 01-05551, 6, 南10, 西1, 本図, 山, 墨, 表, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26868,21770,27,20",
+    "objectID": "S10W1(a)A3-01",
+    "sort": [
+        "01-05551"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26868,21770,27,20/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

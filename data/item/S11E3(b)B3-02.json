@@ -1,0 +1,41 @@
+{
+    "fulltext": "永寍江, 01-06170, 6, 南11, 東3, 本図, 永寍江, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "永寍江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34724,23894,88,36",
+    "objectID": "S11E3(b)B3-02",
+    "sort": [
+        "01-06170"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34724,23894,88,36/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "永寍江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

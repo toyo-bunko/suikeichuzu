@@ -1,0 +1,44 @@
+{
+    "fulltext": "犨氏鄉亭, 00-05385, 図では下部が「十」に見えるが、注文では「牛」, 4, 南3, 西3, 本図, 犨氏鄉亭, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "犨氏鄉亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22323,12385,63,53",
+    "objectID": "S3W3(a)D2-17",
+    "sort": [
+        "00-05385"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22323,12385,63,53/200,/0/default.jpg",
+    "備考": [
+        "図では下部が「十」に見えるが、注文では「牛」"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "犨氏鄉亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

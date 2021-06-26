@@ -1,0 +1,41 @@
+{
+    "fulltext": "南臺, 00-02144, 2, 中, 西2, 本図, 南臺, 墨, 表, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "南臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25142,7640,70,49",
+    "objectID": "CW2(a)D1-13",
+    "sort": [
+        "00-02144"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25142,7640,70,49/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南臺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

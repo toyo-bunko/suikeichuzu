@@ -1,0 +1,41 @@
+{
+    "fulltext": "藍水, 00-10155, 4, 南5, 西4, 本図, 藍水, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "藍水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19199,15328,47,76",
+    "objectID": "S5W4(b)D2-02",
+    "sort": [
+        "00-10155"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19199,15328,47,76/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "藍水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

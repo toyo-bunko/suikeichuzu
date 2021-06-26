@@ -1,0 +1,41 @@
+{
+    "fulltext": "樂都城, 00-05746, 4, 南3, 西8, 本図, 樂都城, 墨, 表, 9, B2",
+    "group": [
+        "main"
+    ],
+    "label": "樂都城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10825,11512,69,34",
+    "objectID": "S3W8(a)B2-07",
+    "sort": [
+        "00-05746"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10825,11512,69,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "樂都城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

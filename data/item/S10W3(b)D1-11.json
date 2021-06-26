@@ -1,0 +1,41 @@
+{
+    "fulltext": "臨沅, 01-05881, 6, 南10, 西3, 本図, 臨沅, 墨, 裏, 7, D1",
+    "group": [
+        "main"
+    ],
+    "label": "臨沅",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21664,23256,86,45",
+    "objectID": "S10W3(b)D1-11",
+    "sort": [
+        "01-05881"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21664,23256,86,45/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "臨沅"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

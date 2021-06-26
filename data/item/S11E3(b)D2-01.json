@@ -1,0 +1,41 @@
+{
+    "fulltext": "楚門山, 01-06173, 6, 南11, 東3, 本図, 楚門山, 朱, 裏, 5, D2",
+    "group": [
+        "main"
+    ],
+    "label": "楚門山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35237,24701,93,33",
+    "objectID": "S11E3(b)D2-01",
+    "sort": [
+        "01-06173"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35237,24701,93,33/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楚門山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

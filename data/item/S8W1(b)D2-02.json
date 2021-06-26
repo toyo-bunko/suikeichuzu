@@ -1,0 +1,41 @@
+{
+    "fulltext": "齊安郡, 01-03078, 5, 南8, 西1, 本図, 齊安郡, 墨, 裏, 7, D2",
+    "group": [
+        "main"
+    ],
+    "label": "齊安郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26122,20058,98,40",
+    "objectID": "S8W1(b)D2-02",
+    "sort": [
+        "01-03078"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26122,20058,98,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "齊安郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

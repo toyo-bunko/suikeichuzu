@@ -1,0 +1,41 @@
+{
+    "fulltext": "浦城, 01-06244, 6, 南11, 東1, 本図, 浦城, 朱, 表, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "浦城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31380,24793,77,39",
+    "objectID": "S11E1(a)D3-02",
+    "sort": [
+        "01-06244"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31380,24793,77,39/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "浦城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

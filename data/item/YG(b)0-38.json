@@ -1,0 +1,41 @@
+{
+    "fulltext": "太嶽, 05-00244, 8, 0, 0, 禹貢山水澤地所在, 太嶽, 墨, 裏, 4, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "太嶽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2213,679,87,54",
+    "objectID": "YG(b)0-38",
+    "sort": [
+        "05-00244"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2213,679,87,54/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "太嶽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        0
+    ]
+}

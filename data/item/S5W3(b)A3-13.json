@@ -1,0 +1,41 @@
+{
+    "fulltext": "首山, 00-09602, 4, 南5, 西3, 本図, 首山, 墨, 裏, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "首山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20845,14295,26,43",
+    "objectID": "S5W3(b)A3-13",
+    "sort": [
+        "00-09602"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20845,14295,26,43/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "首山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

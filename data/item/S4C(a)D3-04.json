@@ -1,0 +1,41 @@
+{
+    "fulltext": "秦梁, 00-06160, 4, 南4, 中, 本図, 秦梁, 墨, 表, 29, D3",
+    "group": [
+        "main"
+    ],
+    "label": "秦梁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29037,13802,47,70",
+    "objectID": "S4C(a)D3-04",
+    "sort": [
+        "00-06160"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29037,13802,47,70/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "秦梁"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "五池溝, 00-08379, 4, 南5, 西1, 本図, 五池溝, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "五池溝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25393,14057,68,61",
+    "objectID": "S5W1(b)A3-28",
+    "sort": [
+        "00-08379"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25393,14057,68,61/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "五池溝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

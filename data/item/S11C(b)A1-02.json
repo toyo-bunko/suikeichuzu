@@ -1,0 +1,41 @@
+{
+    "fulltext": "鄱江, 01-06299, 6, 南11, 中, 本図, 鄱江, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "鄱江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28760,23364,67,38",
+    "objectID": "S11C(b)A1-02",
+    "sort": [
+        "01-06299"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28760,23364,67,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鄱江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

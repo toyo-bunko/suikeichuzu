@@ -1,0 +1,41 @@
+{
+    "fulltext": "泉州口, 00-01644, 2, 中, 中, 本図, 泉州口, 墨, 表, 2, B1",
+    "group": [
+        "main"
+    ],
+    "label": "泉州口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29703,6877,81,43",
+    "objectID": "CC(a)B1-07",
+    "sort": [
+        "00-01644"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29703,6877,81,43/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "泉州口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

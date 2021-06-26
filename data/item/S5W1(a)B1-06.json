@@ -1,0 +1,41 @@
+{
+    "fulltext": "高郷亭, 00-08256, 4, 南5, 西1, 本図, 高郷亭, 墨, 表, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "高郷亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27540,14747,84,50",
+    "objectID": "S5W1(a)B1-06",
+    "sort": [
+        "00-08256"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27540,14747,84,50/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高郷亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

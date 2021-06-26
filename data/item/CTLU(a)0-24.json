@@ -1,0 +1,41 @@
+{
+    "fulltext": "靈光殿, 04-00509, 8, 0, 0, 魯城図, 靈光殿, 墨, 表, 14, 0",
+    "group": [
+        "jouzu08_rojou"
+    ],
+    "label": "靈光殿",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=823,1835,188,64",
+    "objectID": "CTLU(a)0-24",
+    "sort": [
+        "04-00509"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif/823,1835,188,64/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "魯城図"
+    ],
+    "地名/記述": [
+        "靈光殿"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        14
+    ],
+    "詳細区画": [
+        0
+    ]
+}

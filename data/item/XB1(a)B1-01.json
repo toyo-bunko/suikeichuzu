@@ -1,0 +1,41 @@
+{
+    "fulltext": "前藏, 02-00239, 1, 下, 1, 西域, 前藏, 朱, 表, 0, B1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "前藏",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8487,4173,180,115",
+    "objectID": "XB1(a)B1-01",
+    "sort": [
+        "02-00239"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8487,4173,180,115/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "前藏"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

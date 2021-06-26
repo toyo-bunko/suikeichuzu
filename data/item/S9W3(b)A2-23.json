@@ -1,0 +1,41 @@
+{
+    "fulltext": "晉復舊, 01-04699, 6, 南9, 西3, 本図, 晉復舊, 墨, 裏, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "晉復舊",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21562,20576,46,54",
+    "objectID": "S9W3(b)A2-23",
+    "sort": [
+        "01-04699"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21562,20576,46,54/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "晉復舊"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

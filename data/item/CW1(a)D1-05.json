@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名鹽臺陂, 00-01948, 2, 中, 西1, 本図, 一名鹽臺陂, 墨, 表, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "一名鹽臺陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27471,7450,95,29",
+    "objectID": "CW1(a)D1-05",
+    "sort": [
+        "00-01948"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27471,7450,95,29/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一名鹽臺陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

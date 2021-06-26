@@ -1,0 +1,41 @@
+{
+    "fulltext": "大源河, 01-09936, 8, 南17, 西6, 本図, 大源河, 朱, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "大源河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14268,33233,41,97",
+    "objectID": "S17W6(b)B2-01",
+    "sort": [
+        "01-09936"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14268,33233,41,97/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大源河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

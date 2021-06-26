@@ -1,0 +1,41 @@
+{
+    "fulltext": "高柳, 00-01158, 2, 北1, 西2, 本図, 高柳, 墨, 表, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "高柳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25043,6149,75,38",
+    "objectID": "N1W2(a)D1-03",
+    "sort": [
+        "00-01158"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25043,6149,75,38/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高柳"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

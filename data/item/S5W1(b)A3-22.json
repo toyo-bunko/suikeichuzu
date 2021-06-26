@@ -1,0 +1,41 @@
+{
+    "fulltext": "中牟, 00-08373, 4, 南5, 西1, 本図, 中牟, 朱, 裏, 19, A3",
+    "group": [
+        "main"
+    ],
+    "label": "中牟",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25619,14332,60,34",
+    "objectID": "S5W1(b)A3-22",
+    "sort": [
+        "00-08373"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25619,14332,60,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "中牟"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

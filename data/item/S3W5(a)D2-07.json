@@ -1,0 +1,41 @@
+{
+    "fulltext": "合水, 00-05562, 4, 南3, 西5, 本図, 合水, 朱, 表, 19, D2",
+    "group": [
+        "main"
+    ],
+    "label": "合水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17851,12345,74,36",
+    "objectID": "S3W5(a)D2-07",
+    "sort": [
+        "00-05562"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17851,12345,74,36/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "合水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

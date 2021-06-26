@@ -1,0 +1,41 @@
+{
+    "fulltext": "蓮花湖, 01-06377, 6, 南11, 西1, 本図, 蓮花湖, 朱, 表, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "蓮花湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27380,24521,33,90",
+    "objectID": "S11W1(a)D1-03",
+    "sort": [
+        "01-06377"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27380,24521,33,90/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蓮花湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄龍溪, 01-05112, 6, 南9, 西7, 本図, 黄龍溪, 朱, 裏, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "黄龍溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12181,21287,87,33",
+    "objectID": "S9W7(b)C2-03",
+    "sort": [
+        "01-05112"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12181,21287,87,33/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄龍溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

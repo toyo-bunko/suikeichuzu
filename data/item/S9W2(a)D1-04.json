@@ -1,0 +1,41 @@
+{
+    "fulltext": "聶洲, 01-04443, 6, 南9, 西2, 本図, 聶洲, 墨, 表, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "聶洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24986,21504,59,56",
+    "objectID": "S9W2(a)D1-04",
+    "sort": [
+        "01-04443"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24986,21504,59,56/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "聶洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

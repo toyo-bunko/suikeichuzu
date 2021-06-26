@@ -1,0 +1,44 @@
+{
+    "fulltext": "渭汭, 00-09778, 河ではない, 4, 南5, 西4, 本図, 渭汭, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "渭汭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20392,14396,57,30",
+    "objectID": "S5W4(a)B1-02",
+    "sort": [
+        "00-09778"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20392,14396,57,30/200,/0/default.jpg",
+    "備考": [
+        "河ではない"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "渭汭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

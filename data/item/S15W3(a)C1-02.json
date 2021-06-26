@@ -1,0 +1,41 @@
+{
+    "fulltext": "陶水, 01-08879, 7, 南15, 西3, 本図, 陶水, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "陶水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23033,30599,64,69",
+    "objectID": "S15W3(a)C1-02",
+    "sort": [
+        "01-08879"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23033,30599,64,69/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陶水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

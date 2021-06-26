@@ -1,0 +1,41 @@
+{
+    "fulltext": "即彭水, 01-03320, 5, 南8, 西3, 本図, 即彭水, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "即彭水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20989,18855,124,84",
+    "objectID": "S8W3(b)A3-03",
+    "sort": [
+        "01-03320"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20989,18855,124,84/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即彭水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

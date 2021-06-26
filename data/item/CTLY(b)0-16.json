@@ -1,0 +1,41 @@
+{
+    "fulltext": "孫子荊會董威輦於此, 04-00099, 8, 0, 0, 洛陽城図, 孫子荊會董威輦於此, 墨, 裏, 0, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "孫子荊會董威輦於此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=3457,1019,190,201",
+    "objectID": "CTLY(b)0-16",
+    "sort": [
+        "04-00099"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/3457,1019,190,201/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "孫子荊會董威輦於此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        0
+    ]
+}

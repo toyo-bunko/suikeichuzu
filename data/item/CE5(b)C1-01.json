@@ -1,0 +1,41 @@
+{
+    "fulltext": "順川, 00-01490, 2, 中, 東5, 本図, 順川, 朱, 裏, 26, C1",
+    "group": [
+        "main"
+    ],
+    "label": "順川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40159,7052,81,82",
+    "objectID": "CE5(b)C1-01",
+    "sort": [
+        "00-01490"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40159,7052,81,82/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "順川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        26
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

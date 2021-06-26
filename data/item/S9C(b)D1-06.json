@@ -1,0 +1,41 @@
+{
+    "fulltext": "亦呼大雷神, 01-04112, 6, 南9, 中, 本図, 亦呼大雷神, 墨, 裏, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "亦呼大雷神",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28712,21522,101,72",
+    "objectID": "S9C(b)D1-06",
+    "sort": [
+        "01-04112"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28712,21522,101,72/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "亦呼大雷神"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "茠山, 01-05238, 6, 南10, 東2, 本図, 茠山, 墨, 表, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "茠山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34271,21917,60,38",
+    "objectID": "S10E2(a)A1-05",
+    "sort": [
+        "01-05238"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34271,21917,60,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "茠山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

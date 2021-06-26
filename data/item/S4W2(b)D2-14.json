@@ -1,0 +1,44 @@
+{
+    "fulltext": "一石, 00-07008, 原文不明, 4, 南4, 西2, 本図, 一石, 墨, 裏, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "一石",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23512,13724,52,24",
+    "objectID": "S4W2(b)D2-14",
+    "sort": [
+        "00-07008"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23512,13724,52,24/200,/0/default.jpg",
+    "備考": [
+        "原文不明"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一石"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

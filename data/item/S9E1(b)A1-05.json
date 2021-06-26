@@ -1,0 +1,41 @@
+{
+    "fulltext": "安呉溪, 01-04001, 6, 南9, 東1, 本図, 安呉溪, 墨, 裏, 2, A1",
+    "group": [
+        "main"
+    ],
+    "label": "安呉溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30738,20463,92,93",
+    "objectID": "S9E1(b)A1-05",
+    "sort": [
+        "01-04001"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30738,20463,92,93/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "安呉溪"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

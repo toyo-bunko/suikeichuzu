@@ -1,0 +1,41 @@
+{
+    "fulltext": "齊城圖別詳, 00-04484, 4, 南3, 東1, 本図, 齊城圖別詳, 墨, 裏, 35, A1",
+    "group": [
+        "main"
+    ],
+    "label": "齊城圖別詳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30951,11143,107,66",
+    "objectID": "S3E1(b)A1-21",
+    "sort": [
+        "00-04484"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30951,11143,107,66/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "齊城圖別詳"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        35
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

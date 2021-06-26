@@ -1,0 +1,44 @@
+{
+    "fulltext": "濟水重源, 00-07001, 記号は〇３つあり, 4, 南4, 西2, 本図, 濟水重源, 墨, 裏, 5, D2",
+    "group": [
+        "main"
+    ],
+    "label": "濟水重源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23535,13630,101,33",
+    "objectID": "S4W2(b)D2-07",
+    "sort": [
+        "00-07001"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23535,13630,101,33/200,/0/default.jpg",
+    "備考": [
+        "記号は〇３つあり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濟水重源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "東望峽, 01-04934, 6, 南9, 西5, 本図, 東望峽, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "東望峽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16915,21675,43,89",
+    "objectID": "S9W5(b)D1-14",
+    "sort": [
+        "01-04934"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16915,21675,43,89/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東望峽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

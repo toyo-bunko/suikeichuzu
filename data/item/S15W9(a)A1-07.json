@@ -1,0 +1,41 @@
+{
+    "fulltext": "易江, 01-09201, 7, 南15, 西9, 本図, 易江, 朱, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "易江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8883,29747,45,66",
+    "objectID": "S15W9(a)A1-07",
+    "sort": [
+        "01-09201"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8883,29747,45,66/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "易江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

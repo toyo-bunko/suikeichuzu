@@ -1,0 +1,41 @@
+{
+    "fulltext": "梁子湖, 01-04330, 6, 南9, 西1, 本図, 梁子湖, 朱, 裏, 5, C2",
+    "group": [
+        "main"
+    ],
+    "label": "梁子湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25856,21044,33,81",
+    "objectID": "S9W1(b)C2-04",
+    "sort": [
+        "01-04330"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25856,21044,33,81/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "梁子湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

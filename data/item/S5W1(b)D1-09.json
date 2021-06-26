@@ -1,0 +1,44 @@
+{
+    "fulltext": "鴨子陂(水?), 00-08513, 陂から出た水を指すようだ。水が省略されている？, 4, 南5, 西1, 本図, 鴨子陂(水?), 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "鴨子陂(水?)",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26123,15361,102,46",
+    "objectID": "S5W1(b)D1-09",
+    "sort": [
+        "00-08513"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26123,15361,102,46/200,/0/default.jpg",
+    "備考": [
+        "陂から出た水を指すようだ。水が省略されている？"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鴨子陂(水?)"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

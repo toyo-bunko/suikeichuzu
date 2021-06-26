@@ -1,0 +1,41 @@
+{
+    "fulltext": "汶河, 00-06177, 4, 南4, 中, 本図, 汶河, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "汶河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28708,12769,35,54",
+    "objectID": "S4C(b)A1-09",
+    "sort": [
+        "00-06177"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28708,12769,35,54/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "汶河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "故華容縣尉治, 01-05794, 6, 南10, 西3, 本図, 故華容縣尉治, 墨, 表, 10, B1",
+    "group": [
+        "main"
+    ],
+    "label": "故華容縣尉治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22884,22161,39,143",
+    "objectID": "S10W3(a)B1-01",
+    "sort": [
+        "01-05794"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22884,22161,39,143/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故華容縣尉治"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

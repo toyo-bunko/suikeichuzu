@@ -1,0 +1,41 @@
+{
+    "fulltext": "㿾津, 00-03391, 3, 南2, 中, 本図, 㿾津, 朱, 表, 19, B3",
+    "group": [
+        "main"
+    ],
+    "label": "㿾津",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28875,9724,68,62",
+    "objectID": "S2C(a)B3-03",
+    "sort": [
+        "00-03391"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28875,9724,68,62/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "㿾津"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

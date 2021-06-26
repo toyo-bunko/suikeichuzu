@@ -1,0 +1,41 @@
+{
+    "fulltext": "度尚碑, 00-06151, 4, 南4, 中, 本図, 度尚碑, 墨, 表, 16, D2",
+    "group": [
+        "main"
+    ],
+    "label": "度尚碑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29352,13844,97,41",
+    "objectID": "S4C(a)D2-07",
+    "sort": [
+        "00-06151"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29352,13844,97,41/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "度尚碑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

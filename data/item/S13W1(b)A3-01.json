@@ -1,0 +1,41 @@
+{
+    "fulltext": "良湖, 01-07522, 7, 南13, 西1, 本図, 良湖, 朱, 裏, 5, A3",
+    "group": [
+        "main"
+    ],
+    "label": "良湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25694,26490,75,62",
+    "objectID": "S13W1(b)A3-01",
+    "sort": [
+        "01-07522"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25694,26490,75,62/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "良湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

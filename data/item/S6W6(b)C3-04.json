@@ -1,0 +1,41 @@
+{
+    "fulltext": "餘城, 01-01306, 5, 南6, 西6, 本図, 餘城, 墨, 裏, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "餘城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14031,16586,73,39",
+    "objectID": "S6W6(b)C3-04",
+    "sort": [
+        "01-01306"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14031,16586,73,39/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "餘城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "靈寶, 00-09638, 4, 南5, 西3, 本図, 靈寶, 朱, 裏, 19, B2",
+    "group": [
+        "main"
+    ],
+    "label": "靈寶",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21302,14476,67,46",
+    "objectID": "S5W3(b)B2-08",
+    "sort": [
+        "00-09638"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21302,14476,67,46/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "靈寶"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍川, 01-08794, 7, 南15, 西1, 本図, 龍川, 墨, 裏, 8, D1",
+    "group": [
+        "main"
+    ],
+    "label": "龍川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26216,30919,81,57",
+    "objectID": "S15W1(b)D1-04",
+    "sort": [
+        "01-08794"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26216,30919,81,57/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍川"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

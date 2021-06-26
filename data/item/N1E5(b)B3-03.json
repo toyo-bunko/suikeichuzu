@@ -1,0 +1,41 @@
+{
+    "fulltext": "鴨緑江, 00-00655, 2, 北1, 東5, 本図, 鴨緑江, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "鴨緑江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39339,5374,159,49",
+    "objectID": "N1E5(b)B3-03",
+    "sort": [
+        "00-00655"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39339,5374,159,49/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鴨緑江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

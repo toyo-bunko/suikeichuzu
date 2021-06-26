@@ -1,0 +1,41 @@
+{
+    "fulltext": "平越, 01-07766, 7, 南13, 西6, 本図, 平越, 朱, 表, 22, B1",
+    "group": [
+        "main"
+    ],
+    "label": "平越",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15803,26821,47,79",
+    "objectID": "S13W6(a)B1-02",
+    "sort": [
+        "01-07766"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15803,26821,47,79/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "平越"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

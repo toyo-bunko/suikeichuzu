@@ -1,0 +1,41 @@
+{
+    "fulltext": "嶢關, 00-10145, 4, 南5, 西4, 本図, 嶢關, 墨, 裏, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "嶢關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19488,15453,44,58",
+    "objectID": "S5W4(b)D1-08",
+    "sort": [
+        "00-10145"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19488,15453,44,58/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "嶢關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

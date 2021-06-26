@@ -1,0 +1,41 @@
+{
+    "fulltext": "宜川, 00-05498, 4, 南3, 西4, 本図, 宜川, 朱, 表, 19, D1",
+    "group": [
+        "main"
+    ],
+    "label": "宜川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20410,12172,44,76",
+    "objectID": "S3W4(a)D1-09",
+    "sort": [
+        "00-05498"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20410,12172,44,76/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宜川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

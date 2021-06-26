@@ -1,0 +1,41 @@
+{
+    "fulltext": "令居, 00-05695, 4, 南3, 西7, 本図, 令居, 墨, 裏, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "令居",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12005,10987,102,42",
+    "objectID": "S3W7(b)A2-04",
+    "sort": [
+        "00-05695"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12005,10987,102,42/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "令居"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

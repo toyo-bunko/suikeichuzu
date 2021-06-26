@@ -1,0 +1,41 @@
+{
+    "fulltext": "同竝, 01-09120, 7, 南15, 西8, 本図, 同竝, 墨, 裏, 8, A1",
+    "group": [
+        "main"
+    ],
+    "label": "同竝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10178,29604,74,38",
+    "objectID": "S15W8(b)A1-05",
+    "sort": [
+        "01-09120"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10178,29604,74,38/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "同竝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

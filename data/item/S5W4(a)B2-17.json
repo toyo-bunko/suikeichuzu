@@ -1,0 +1,41 @@
+{
+    "fulltext": "南祠, 00-09828, 4, 南5, 西4, 本図, 南祠, 墨, 表, 16, B2",
+    "group": [
+        "main"
+    ],
+    "label": "南祠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20261,14676,47,31",
+    "objectID": "S5W4(a)B2-17",
+    "sort": [
+        "00-09828"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20261,14676,47,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南祠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "鳳臺, 01-01667, 5, 南7, 中, 本図, 鳳臺, 朱, 裏, 19, B1",
+    "group": [
+        "main"
+    ],
+    "label": "鳳臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28704,17704,40,63",
+    "objectID": "S7C(b)B1-19",
+    "sort": [
+        "01-01667"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28704,17704,40,63/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鳳臺"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

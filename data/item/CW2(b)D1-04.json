@@ -1,0 +1,41 @@
+{
+    "fulltext": "魏晉雁門郡, 00-02186, 2, 中, 西2, 本図, 魏晉雁門郡, 墨, 裏, 9, D1",
+    "group": [
+        "main"
+    ],
+    "label": "魏晉雁門郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24090,7585,162,35",
+    "objectID": "CW2(b)D1-04",
+    "sort": [
+        "00-02186"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24090,7585,162,35/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "魏晉雁門郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

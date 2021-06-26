@@ -1,0 +1,41 @@
+{
+    "fulltext": "敖水, 01-03175, 5, 南8, 西2, 本図, 敖水, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "敖水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23459,19386,88,36",
+    "objectID": "S8W2(b)B2-20",
+    "sort": [
+        "01-03175"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23459,19386,88,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "敖水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

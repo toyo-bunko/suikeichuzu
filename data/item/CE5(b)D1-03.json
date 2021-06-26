@@ -1,0 +1,41 @@
+{
+    "fulltext": "平壤, 00-01495, 2, 中, 東5, 本図, 平壤, 朱, 裏, 17, D1",
+    "group": [
+        "main"
+    ],
+    "label": "平壤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40024,7680,81,86",
+    "objectID": "CE5(b)D1-03",
+    "sort": [
+        "00-01495"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40024,7680,81,86/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "平壤"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

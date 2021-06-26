@@ -1,0 +1,41 @@
+{
+    "fulltext": "夏浦山屯, 01-04421, 6, 南9, 西2, 本図, 夏浦山屯, 墨, 表, 16, C1",
+    "group": [
+        "main"
+    ],
+    "label": "夏浦山屯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25126,21129,32,89",
+    "objectID": "S9W2(a)C1-08",
+    "sort": [
+        "01-04421"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25126,21129,32,89/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "夏浦山屯"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

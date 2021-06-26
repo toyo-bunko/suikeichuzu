@@ -1,0 +1,41 @@
+{
+    "fulltext": "信宜, 01-09844, 8, 南17, 西4, 本図, 信宜, 朱, 表, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "信宜",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19795,33908,83,46",
+    "objectID": "S17W4(a)D3-01",
+    "sort": [
+        "01-09844"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19795,33908,83,46/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "信宜"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

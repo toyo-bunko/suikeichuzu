@@ -1,0 +1,41 @@
+{
+    "fulltext": "將渠, 00-06201, 4, 南4, 中, 本図, 將渠, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "將渠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27747,12461,80,43",
+    "objectID": "S4C(b)A3-02",
+    "sort": [
+        "00-06201"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27747,12461,80,43/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "將渠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

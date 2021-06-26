@@ -1,0 +1,41 @@
+{
+    "fulltext": "怪山, 04-00745, 8, 0, 0, 山陰城図, 怪山, 墨, 表, 4, 0",
+    "group": [
+        "jouzu13_sanin"
+    ],
+    "label": "怪山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=573,1151,161,71",
+    "objectID": "CTSY(a)0-33",
+    "sort": [
+        "04-00745"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/573,1151,161,71/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "山陰城図"
+    ],
+    "地名/記述": [
+        "怪山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        0
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "金溪, 01-05426, 6, 南10, 東1, 本図, 金溪, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "金溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31279,22614,40,48",
+    "objectID": "S10E1(a)C3-04",
+    "sort": [
+        "01-05426"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31279,22614,40,48/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "金溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

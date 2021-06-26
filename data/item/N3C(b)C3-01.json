@@ -1,0 +1,41 @@
+{
+    "fulltext": "呂泉塢, 00-00244, 1, 北3, 中, 本図, 呂泉塢, 墨, 裏, 10, C3",
+    "group": [
+        "main"
+    ],
+    "label": "呂泉塢",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27991,2290,87,58",
+    "objectID": "N3C(b)C3-01",
+    "sort": [
+        "00-00244"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27991,2290,87,58/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呂泉塢"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

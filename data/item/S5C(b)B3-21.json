@@ -1,0 +1,41 @@
+{
+    "fulltext": "商邱, 00-08159, 4, 南5, 中, 本図, 商邱, 朱, 裏, 18, B3",
+    "group": [
+        "main"
+    ],
+    "label": "商邱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27714,14695,65,35",
+    "objectID": "S5C(b)B3-21",
+    "sort": [
+        "00-08159"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27714,14695,65,35/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "商邱"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

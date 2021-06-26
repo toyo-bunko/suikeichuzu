@@ -1,0 +1,41 @@
+{
+    "fulltext": "小廣魏, 01-04991, 6, 南9, 西6, 本図, 小廣魏, 墨, 裏, 8, B3",
+    "group": [
+        "main"
+    ],
+    "label": "小廣魏",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14001,20864,89,39",
+    "objectID": "S9W6(b)B3-02",
+    "sort": [
+        "01-04991"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14001,20864,89,39/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小廣魏"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

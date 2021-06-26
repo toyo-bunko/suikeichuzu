@@ -1,0 +1,41 @@
+{
+    "fulltext": "即寍縣, 00-01065, 2, 北1, 西1, 本図, 即寍縣, 墨, 裏, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "即寍縣",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26475,4888,102,55",
+    "objectID": "N1W1(b)A1-03",
+    "sort": [
+        "00-01065"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26475,4888,102,55/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即寍縣"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

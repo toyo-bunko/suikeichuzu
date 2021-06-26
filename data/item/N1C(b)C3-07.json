@@ -1,0 +1,41 @@
+{
+    "fulltext": "𡠄河, 00-00955, 2, 北1, 中, 本図, 𡠄河, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "𡠄河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27731,5447,65,48",
+    "objectID": "N1C(b)C3-07",
+    "sort": [
+        "00-00955"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27731,5447,65,48/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "𡠄河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

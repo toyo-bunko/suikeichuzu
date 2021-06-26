@@ -1,0 +1,41 @@
+{
+    "fulltext": "邪頭昧, 00-02358, 3, 南1, 東6, 本図, 邪頭昧, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "邪頭昧",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=43133,9102,108,56",
+    "objectID": "S1E6(a)D2-03",
+    "sort": [
+        "00-02358"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/43133,9102,108,56/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "東6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "邪頭昧"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

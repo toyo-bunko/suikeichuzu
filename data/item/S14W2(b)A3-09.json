@@ -1,0 +1,41 @@
+{
+    "fulltext": "溫泉水, 01-08149, 7, 南14, 西2, 本図, 溫泉水, 墨, 裏, 5, A3",
+    "group": [
+        "main"
+    ],
+    "label": "溫泉水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23095,28142,103,47",
+    "objectID": "S14W2(b)A3-09",
+    "sort": [
+        "01-08149"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23095,28142,103,47/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "溫泉水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "赤沙湖水北通江, 01-05811, 6, 南10, 西3, 本図, 赤沙湖水北通江, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "赤沙湖水北通江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22933,22565,77,171",
+    "objectID": "S10W3(a)C1-01",
+    "sort": [
+        "01-05811"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22933,22565,77,171/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "赤沙湖水北通江"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

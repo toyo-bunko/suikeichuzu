@@ -1,0 +1,41 @@
+{
+    "fulltext": "和碩特南右翼中旗, 00-07793, 4, 南4, 西9, 本図, 和碩特南右翼中旗, 朱, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "和碩特南右翼中旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8937,13181,70,129",
+    "objectID": "S4W9(a)C1-01",
+    "sort": [
+        "00-07793"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8937,13181,70,129/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "和碩特南右翼中旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

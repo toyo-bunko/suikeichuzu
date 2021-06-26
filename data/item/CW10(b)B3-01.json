@@ -1,0 +1,41 @@
+{
+    "fulltext": "安西, 00-02318, 2, 中, 西10, 本図, 安西, 朱, 裏, 22, B3",
+    "group": [
+        "main"
+    ],
+    "label": "安西",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4931,6730,64,63",
+    "objectID": "CW10(b)B3-01",
+    "sort": [
+        "00-02318"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4931,6730,64,63/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "安西"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

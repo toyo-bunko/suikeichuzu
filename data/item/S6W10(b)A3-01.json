@@ -1,0 +1,41 @@
+{
+    "fulltext": "仄楚河, 01-01417, 5, 南6, 西10, 本図, 仄楚河, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "仄楚河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4728,15597,93,46",
+    "objectID": "S6W10(b)A3-01",
+    "sort": [
+        "01-01417"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4728,15597,93,46/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "仄楚河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

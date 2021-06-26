@@ -1,0 +1,41 @@
+{
+    "fulltext": "蒲那河, 02-00282, 1, 下, 1, 西域, 蒲那河, 朱, 裏, 1, A3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "蒲那河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4879,3651,182,143",
+    "objectID": "XB1(b)A3-06",
+    "sort": [
+        "02-00282"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4879,3651,182,143/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "蒲那河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

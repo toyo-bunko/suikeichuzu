@@ -1,0 +1,41 @@
+{
+    "fulltext": "楊家河, 01-03004, 5, 南8, 中, 本図, 楊家河, 朱, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "楊家河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27733,19832,89,34",
+    "objectID": "S8C(b)D3-01",
+    "sort": [
+        "01-03004"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27733,19832,89,34/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楊家河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

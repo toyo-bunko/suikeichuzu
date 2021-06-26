@@ -1,0 +1,41 @@
+{
+    "fulltext": "碩爾郭爾河, 00-07788, 4, 南4, 西9, 本図, 碩爾郭爾河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "碩爾郭爾河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8240,12768,54,146",
+    "objectID": "S4W9(a)A3-04",
+    "sort": [
+        "00-07788"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8240,12768,54,146/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "碩爾郭爾河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

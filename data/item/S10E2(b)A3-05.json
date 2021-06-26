@@ -1,0 +1,41 @@
+{
+    "fulltext": "嚴陵瀨, 01-05346, 6, 南10, 東2, 本図, 嚴陵瀨, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "嚴陵瀨",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32428,21803,105,54",
+    "objectID": "S10E2(b)A3-05",
+    "sort": [
+        "01-05346"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32428,21803,105,54/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "嚴陵瀨"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

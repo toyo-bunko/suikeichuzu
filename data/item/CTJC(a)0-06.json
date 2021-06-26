@@ -1,0 +1,41 @@
+{
+    "fulltext": "平地, 04-00468, 8, 0, 0, 薊城図, 平地, 墨, 表, 0, 0",
+    "group": [
+        "jouzu07_keijou"
+    ],
+    "label": "平地",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=649,796,96,127",
+    "objectID": "CTJC(a)0-06",
+    "sort": [
+        "04-00468"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/649,796,96,127/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "薊城図"
+    ],
+    "地名/記述": [
+        "平地"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        0
+    ]
+}

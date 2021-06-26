@@ -1,0 +1,41 @@
+{
+    "fulltext": "靈溪水, 01-08941, 7, 南15, 西4, 本図, 靈溪水, 墨, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "靈溪水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20590,30155,112,42",
+    "objectID": "S15W4(a)B1-02",
+    "sort": [
+        "01-08941"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20590,30155,112,42/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "靈溪水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

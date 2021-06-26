@@ -1,0 +1,41 @@
+{
+    "fulltext": "木棕河, 01-05956, 6, 南10, 西5, 本図, 木棕河, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "木棕河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17335,22321,30,102",
+    "objectID": "S10W5(a)B3-01",
+    "sort": [
+        "01-05956"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17335,22321,30,102/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "木棕河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

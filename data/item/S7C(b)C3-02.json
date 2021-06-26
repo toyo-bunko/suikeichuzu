@@ -1,0 +1,41 @@
+{
+    "fulltext": "安豐郡, 01-01711, 5, 南7, 中, 本図, 安豐郡, 墨, 裏, 7, C3",
+    "group": [
+        "main"
+    ],
+    "label": "安豐郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27951,18087,105,49",
+    "objectID": "S7C(b)C3-02",
+    "sort": [
+        "01-01711"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27951,18087,105,49/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "安豐郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

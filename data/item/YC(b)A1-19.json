@@ -1,0 +1,41 @@
+{
+    "fulltext": "河中, 03-00171, 8, 越南, 中, 越南, 河中, 朱, 裏, 18, A1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "河中",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1980,3815,97,77",
+    "objectID": "YC(b)A1-19",
+    "sort": [
+        "03-00171"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1980,3815,97,77/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "河中"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

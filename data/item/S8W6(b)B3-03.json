@@ -1,0 +1,41 @@
+{
+    "fulltext": "蜀漢西晉梓潼郡治, 01-03568, 5, 南8, 西6, 本図, 蜀漢西晉梓潼郡治, 墨, 裏, 15, B3",
+    "group": [
+        "main"
+    ],
+    "label": "蜀漢西晉梓潼郡治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13903,19229,127,66",
+    "objectID": "S8W6(b)B3-03",
+    "sort": [
+        "01-03568"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13903,19229,127,66/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蜀漢西晉梓潼郡治"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        15
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

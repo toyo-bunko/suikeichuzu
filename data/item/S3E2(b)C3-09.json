@@ -1,0 +1,44 @@
+{
+    "fulltext": "北海安邱, 00-04263, 注文は「安丘」のみ。北海は疏文, 4, 南3, 東2, 本図, 北海安邱, 墨, 裏, 10, C3",
+    "group": [
+        "main"
+    ],
+    "label": "北海安邱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32464,11874,62,62",
+    "objectID": "S3E2(b)C3-09",
+    "sort": [
+        "00-04263"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32464,11874,62,62/200,/0/default.jpg",
+    "備考": [
+        "注文は「安丘」のみ。北海は疏文"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北海安邱"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

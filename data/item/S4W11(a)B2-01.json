@@ -1,0 +1,41 @@
+{
+    "fulltext": "布呼集魯肯山, 00-07823, 4, 南4, 西11, 本図, 布呼集魯肯山, 朱, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "布呼集魯肯山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4145,12894,101,69",
+    "objectID": "S4W11(a)B2-01",
+    "sort": [
+        "00-07823"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4145,12894,101,69/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西11"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "布呼集魯肯山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

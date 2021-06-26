@@ -1,0 +1,41 @@
+{
+    "fulltext": "谷水, 00-01996, 2, 中, 西1, 本図, 谷水, 墨, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "谷水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26173,6319,66,34",
+    "objectID": "CW1(b)A1-04",
+    "sort": [
+        "00-01996"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26173,6319,66,34/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "谷水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

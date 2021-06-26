@@ -1,0 +1,41 @@
+{
+    "fulltext": "麥架河, 01-07411, 7, 南12, 西9, 本図, 麥架河, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "麥架河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7587,26143,38,93",
+    "objectID": "S12W9(b)D2-04",
+    "sort": [
+        "01-07411"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7587,26143,38,93/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "麥架河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

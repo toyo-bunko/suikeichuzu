@@ -1,0 +1,41 @@
+{
+    "fulltext": "射堂, 01-05314, 6, 南10, 東2, 本図, 射堂, 墨, 表, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "射堂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33538,22265,40,74",
+    "objectID": "S10E2(a)B3-10",
+    "sort": [
+        "01-05314"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33538,22265,40,74/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "射堂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "揚子洲, 01-05775, 中洲, 6, 南10, 西3, 本図, 揚子洲, 墨, 表, 5, A1",
+    "group": [
+        "main"
+    ],
+    "label": "揚子洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23048,22070,24,45",
+    "objectID": "S10W3(a)A1-13",
+    "sort": [
+        "01-05775"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23048,22070,24,45/200,/0/default.jpg",
+    "備考": [
+        "中洲"
+    ],
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "揚子洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

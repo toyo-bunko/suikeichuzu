@@ -1,0 +1,41 @@
+{
+    "fulltext": "金蘭, 05-00122, 8, 0, 0, 禹貢山水澤地所在, 金蘭, 墨, 表, 10, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "金蘭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2566,1306,96,54",
+    "objectID": "YG(a)0-122",
+    "sort": [
+        "05-00122"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2566,1306,96,54/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "金蘭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        0
+    ]
+}

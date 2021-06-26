@@ -1,0 +1,41 @@
+{
+    "fulltext": "洪和山, 00-10992, 4, 南5, 西7, 本図, 洪和山, 墨, 裏, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "洪和山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12077,14569,89,36",
+    "objectID": "S5W7(b)B2-05",
+    "sort": [
+        "00-10992"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12077,14569,89,36/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洪和山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

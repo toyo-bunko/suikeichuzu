@@ -1,0 +1,41 @@
+{
+    "fulltext": "新黄河原大清河, 00-03252, 3, 南2, 東1, 本図, 新黄河原大清河, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "新黄河原大清河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31185,9755,170,37",
+    "objectID": "S2E1(a)B3-03",
+    "sort": [
+        "00-03252"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31185,9755,170,37/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新黄河原大清河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

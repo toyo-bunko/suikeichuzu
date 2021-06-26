@@ -1,0 +1,41 @@
+{
+    "fulltext": "蒙城, 01-00285, 5, 南6, 中, 本図, 蒙城, 朱, 裏, 19, C1",
+    "group": [
+        "main"
+    ],
+    "label": "蒙城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28657,16592,74,41",
+    "objectID": "S6C(b)C1-04",
+    "sort": [
+        "01-00285"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28657,16592,74,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蒙城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

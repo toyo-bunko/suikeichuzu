@@ -1,0 +1,41 @@
+{
+    "fulltext": "丹陽水, 00-07273, 4, 南4, 西4, 本図, 丹陽水, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "丹陽水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20226,12569,93,32",
+    "objectID": "S4W4(a)A2-02",
+    "sort": [
+        "00-07273"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20226,12569,93,32/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "丹陽水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

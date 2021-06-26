@@ -1,0 +1,41 @@
+{
+    "fulltext": "邋遢湖, 01-04498, 6, 南9, 西2, 本図, 邋遢湖, 朱, 裏, 5, C1",
+    "group": [
+        "main"
+    ],
+    "label": "邋遢湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24157,21253,82,37",
+    "objectID": "S9W2(b)C1-04",
+    "sort": [
+        "01-04498"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24157,21253,82,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "邋遢湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

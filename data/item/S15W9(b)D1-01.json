@@ -1,0 +1,44 @@
+{
+    "fulltext": "俄得河, 01-09252, 新平県志では鵝得河, 7, 南15, 西9, 本図, 俄得河, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "俄得河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7998,30843,94,40",
+    "objectID": "S15W9(b)D1-01",
+    "sort": [
+        "01-09252"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7998,30843,94,40/200,/0/default.jpg",
+    "備考": [
+        "新平県志では鵝得河"
+    ],
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "俄得河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "同車河, 01-09670, 8, 南16, 西7, 本図, 同車河, 朱, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "同車河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11634,32521,55,103",
+    "objectID": "S16W7(b)D3-01",
+    "sort": [
+        "01-09670"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11634,32521,55,103/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "同車河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

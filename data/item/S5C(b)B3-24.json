@@ -1,0 +1,41 @@
+{
+    "fulltext": "逢洪陂, 00-08162, 4, 南5, 中, 本図, 逢洪陂, 墨, 裏, 5, B3",
+    "group": [
+        "main"
+    ],
+    "label": "逢洪陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27720,14733,67,54",
+    "objectID": "S5C(b)B3-24",
+    "sort": [
+        "00-08162"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27720,14733,67,54/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "逢洪陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

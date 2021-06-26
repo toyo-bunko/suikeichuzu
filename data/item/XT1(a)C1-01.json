@@ -1,0 +1,41 @@
+{
+    "fulltext": "小月氏, 02-00067, 1, 上, 1, 西域, 小月氏, 墨, 表, 0, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "小月氏",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8727,2231,185,96",
+    "objectID": "XT1(a)C1-01",
+    "sort": [
+        "02-00067"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8727,2231,185,96/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "小月氏"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

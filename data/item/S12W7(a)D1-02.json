@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍溪河, 01-07300, 7, 南12, 西7, 本図, 龍溪河, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "龍溪河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13719,26044,40,92",
+    "objectID": "S12W7(a)D1-02",
+    "sort": [
+        "01-07300"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13719,26044,40,92/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍溪河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

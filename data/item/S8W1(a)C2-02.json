@@ -1,0 +1,41 @@
+{
+    "fulltext": "分水嶺, 01-03030, 5, 南8, 西1, 本図, 分水嶺, 墨, 表, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "分水嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27200,19548,50,107",
+    "objectID": "S8W1(a)C2-02",
+    "sort": [
+        "01-03030"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27200,19548,50,107/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "分水嶺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

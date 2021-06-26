@@ -1,0 +1,41 @@
+{
+    "fulltext": "黃平, 01-07755, 7, 南13, 西5, 本図, 黃平, 朱, 裏, 23, A2",
+    "group": [
+        "main"
+    ],
+    "label": "黃平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16580,26503,81,36",
+    "objectID": "S13W5(b)A2-05",
+    "sort": [
+        "01-07755"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16580,26503,81,36/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黃平"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

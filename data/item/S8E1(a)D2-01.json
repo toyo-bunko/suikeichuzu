@@ -1,0 +1,41 @@
+{
+    "fulltext": "裡南湖, 01-02830, 5, 南8, 東1, 本図, 裡南湖, 朱, 表, 5, D2",
+    "group": [
+        "main"
+    ],
+    "label": "裡南湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31729,19808,43,85",
+    "objectID": "S8E1(a)D2-01",
+    "sort": [
+        "01-02830"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31729,19808,43,85/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "裡南湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "巴子別都, 01-04933, 6, 南9, 西5, 本図, 巴子別都, 墨, 裏, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "巴子別都",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16961,21683,41,49",
+    "objectID": "S9W5(b)D1-13",
+    "sort": [
+        "01-04933"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16961,21683,41,49/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "巴子別都"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

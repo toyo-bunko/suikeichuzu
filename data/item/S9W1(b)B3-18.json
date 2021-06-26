@@ -1,0 +1,41 @@
+{
+    "fulltext": "沙羨, 01-04277, 6, 南9, 西1, 本図, 沙羨, 墨, 裏, 10, B3",
+    "group": [
+        "main"
+    ],
+    "label": "沙羨",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25475,20766,42,30",
+    "objectID": "S9W1(b)B3-18",
+    "sort": [
+        "01-04277"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25475,20766,42,30/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沙羨"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

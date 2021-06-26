@@ -1,0 +1,41 @@
+{
+    "fulltext": "新店溪, 01-06602, 6, 南11, 西3, 本図, 新店溪, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "新店溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20817,23819,43,93",
+    "objectID": "S11W3(b)B3-01",
+    "sort": [
+        "01-06602"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20817,23819,43,93/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新店溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "北魏青州治, 00-04777, 4, 南3, 中, 本図, 北魏青州治, 墨, 裏, 6, A1",
+    "group": [
+        "main"
+    ],
+    "label": "北魏青州治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28657,10918,50,69",
+    "objectID": "S3C(b)A1-06",
+    "sort": [
+        "00-04777"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28657,10918,50,69/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北魏青州治"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

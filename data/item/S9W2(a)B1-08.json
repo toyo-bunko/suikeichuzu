@@ -1,0 +1,41 @@
+{
+    "fulltext": "卻月城, 01-04376, 6, 南9, 西2, 本図, 卻月城, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "卻月城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25310,20718,57,20",
+    "objectID": "S9W2(a)B1-08",
+    "sort": [
+        "01-04376"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25310,20718,57,20/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "卻月城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

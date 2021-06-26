@@ -1,0 +1,41 @@
+{
+    "fulltext": "故留吁國, 00-05294, 4, 南3, 西2, 本図, 故留吁國, 墨, 裏, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "故留吁國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23906,12112,65,73",
+    "objectID": "S3W2(b)D1-11",
+    "sort": [
+        "00-05294"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23906,12112,65,73/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故留吁國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

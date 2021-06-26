@@ -1,0 +1,41 @@
+{
+    "fulltext": "故向國, 01-00230, 5, 南6, 中, 本図, 故向國, 墨, 表, 10, D2",
+    "group": [
+        "main"
+    ],
+    "label": "故向國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29267,16737,98,40",
+    "objectID": "S6C(a)D2-02",
+    "sort": [
+        "01-00230"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29267,16737,98,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故向國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

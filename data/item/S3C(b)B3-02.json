@@ -1,0 +1,44 @@
+{
+    "fulltext": "聊城, 00-04830, 記号が二重丸, 4, 南3, 中, 本図, 聊城, 墨, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "聊城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28029,11440,73,39",
+    "objectID": "S3C(b)B3-02",
+    "sort": [
+        "00-04830"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28029,11440,73,39/200,/0/default.jpg",
+    "備考": [
+        "記号が二重丸"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "聊城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

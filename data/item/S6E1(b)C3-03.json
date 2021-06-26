@@ -1,0 +1,41 @@
+{
+    "fulltext": "泗, 01-00155, 5, 南6, 東1, 本図, 泗, 朱, 裏, 22, C3",
+    "group": [
+        "main"
+    ],
+    "label": "泗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30158,16355,37,31",
+    "objectID": "S6E1(b)C3-03",
+    "sort": [
+        "01-00155"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30158,16355,37,31/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "泗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

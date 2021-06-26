@@ -1,0 +1,41 @@
+{
+    "fulltext": "潼水, 00-09806, 4, 南5, 西4, 本図, 潼水, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "潼水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20502,14682,74,37",
+    "objectID": "S5W4(a)B1-30",
+    "sort": [
+        "00-09806"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20502,14682,74,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "潼水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

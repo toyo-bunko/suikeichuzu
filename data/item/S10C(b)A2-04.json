@@ -1,0 +1,41 @@
+{
+    "fulltext": "彭澤, 01-05473, 6, 南10, 中, 本図, 彭澤, 墨, 裏, 8, A2",
+    "group": [
+        "main"
+    ],
+    "label": "彭澤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28376,21904,66,38",
+    "objectID": "S10C(b)A2-04",
+    "sort": [
+        "01-05473"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28376,21904,66,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "彭澤"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

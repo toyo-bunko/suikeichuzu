@@ -1,0 +1,41 @@
+{
+    "fulltext": "魏寍, 01-08160, 7, 南14, 西2, 本図, 魏寍, 墨, 裏, 8, B2",
+    "group": [
+        "main"
+    ],
+    "label": "魏寍",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23479,28431,74,34",
+    "objectID": "S14W2(b)B2-05",
+    "sort": [
+        "01-08160"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23479,28431,74,34/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "魏寍"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

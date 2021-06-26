@@ -1,0 +1,41 @@
+{
+    "fulltext": "武周塞水, 00-02163, 2, 中, 西2, 本図, 武周塞水, 墨, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "武周塞水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24090,6678,42,146",
+    "objectID": "CW2(b)B1-02",
+    "sort": [
+        "00-02163"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24090,6678,42,146/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武周塞水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

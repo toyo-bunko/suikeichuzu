@@ -1,0 +1,41 @@
+{
+    "fulltext": "石砦河, 01-03354, 5, 南8, 西4, 本図, 石砦河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "石砦河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19777,18780,87,35",
+    "objectID": "S8W4(a)A3-02",
+    "sort": [
+        "01-03354"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19777,18780,87,35/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石砦河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

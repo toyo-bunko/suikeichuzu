@@ -1,0 +1,41 @@
+{
+    "fulltext": "盧龍塞道, 00-00854, 2, 北1, 中, 本図, 盧龍塞道, 墨, 表, 28, C1",
+    "group": [
+        "main"
+    ],
+    "label": "盧龍塞道",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29905,5795,128,51",
+    "objectID": "N1C(a)C1-06",
+    "sort": [
+        "00-00854"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29905,5795,128,51/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "盧龍塞道"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        28
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

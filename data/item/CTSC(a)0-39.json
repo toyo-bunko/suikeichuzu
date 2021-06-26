@@ -1,0 +1,41 @@
+{
+    "fulltext": "西門, 04-00663, 8, 0, 0, 寿春城図, 西門, 墨, 表, 34, 0",
+    "group": [
+        "jouzu11_jushun"
+    ],
+    "label": "西門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=939,1522,82,144",
+    "objectID": "CTSC(a)0-39",
+    "sort": [
+        "04-00663"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu11_jushun.tif/939,1522,82,144/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "寿春城図"
+    ],
+    "地名/記述": [
+        "西門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        0
+    ]
+}

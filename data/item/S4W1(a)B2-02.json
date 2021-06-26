@@ -1,0 +1,44 @@
+{
+    "fulltext": "濮陽津, 00-06348, 河ではない, 4, 南4, 西1, 本図, 濮陽津, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "濮陽津",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26931,12862,57,49",
+    "objectID": "S4W1(a)B2-02",
+    "sort": [
+        "00-06348"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26931,12862,57,49/200,/0/default.jpg",
+    "備考": [
+        "河ではない"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濮陽津"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "故鍾離國, 01-01552, 5, 南7, 中, 本図, 故鍾離國, 墨, 表, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "故鍾離國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29798,17162,87,73",
+    "objectID": "S7C(a)A1-05",
+    "sort": [
+        "01-01552"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29798,17162,87,73/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故鍾離國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

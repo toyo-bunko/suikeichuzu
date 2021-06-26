@@ -1,0 +1,41 @@
+{
+    "fulltext": "豚水, 01-07830, 7, 南13, 西7, 本図, 豚水, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "豚水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12820,27723,54,91",
+    "objectID": "S13W7(a)D3-05",
+    "sort": [
+        "01-07830"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12820,27723,54,91/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "豚水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

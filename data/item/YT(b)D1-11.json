@@ -1,0 +1,41 @@
+{
+    "fulltext": "應和, 03-00104, 8, 越南, 上, 越南, 應和, 朱, 裏, 18, D1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "應和",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2146,2874,154,69",
+    "objectID": "YT(b)D1-11",
+    "sort": [
+        "03-00104"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2146,2874,154,69/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "應和"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

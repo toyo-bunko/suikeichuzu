@@ -1,0 +1,41 @@
+{
+    "fulltext": "朱里河, 01-04148, 6, 南9, 西1, 本図, 朱里河, 朱, 表, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "朱里河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27026,21219,87,35",
+    "objectID": "S9W1(a)C2-03",
+    "sort": [
+        "01-04148"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27026,21219,87,35/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "朱里河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

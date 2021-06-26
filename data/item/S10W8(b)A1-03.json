@@ -1,0 +1,44 @@
+{
+    "fulltext": "榮經, 01-06126, 滎經縣か, 6, 南10, 西8, 本図, 榮經, 朱, 裏, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "榮經",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10141,21986,56,30",
+    "objectID": "S10W8(b)A1-03",
+    "sort": [
+        "01-06126"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10141,21986,56,30/200,/0/default.jpg",
+    "備考": [
+        "滎經縣か"
+    ],
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "榮經"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

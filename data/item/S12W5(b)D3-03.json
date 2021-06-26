@@ -1,0 +1,41 @@
+{
+    "fulltext": "花竹山, 01-07225, 7, 南12, 西5, 本図, 花竹山, 朱, 裏, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "花竹山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16251,26341,93,53",
+    "objectID": "S12W5(b)D3-03",
+    "sort": [
+        "01-07225"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16251,26341,93,53/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "花竹山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

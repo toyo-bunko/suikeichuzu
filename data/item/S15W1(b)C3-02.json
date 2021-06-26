@@ -1,0 +1,41 @@
+{
+    "fulltext": "連平, 01-08790, 7, 南15, 西1, 本図, 連平, 朱, 裏, 23, C3",
+    "group": [
+        "main"
+    ],
+    "label": "連平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25409,30465,74,48",
+    "objectID": "S15W1(b)C3-02",
+    "sort": [
+        "01-08790"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25409,30465,74,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "連平"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

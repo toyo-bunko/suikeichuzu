@@ -1,0 +1,41 @@
+{
+    "fulltext": "巴陵, 01-05726, 6, 南10, 西2, 本図, 巴陵, 墨, 裏, 7, C2",
+    "group": [
+        "main"
+    ],
+    "label": "巴陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23661,22677,58,24",
+    "objectID": "S10W2(b)C2-09",
+    "sort": [
+        "01-05726"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23661,22677,58,24/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "巴陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

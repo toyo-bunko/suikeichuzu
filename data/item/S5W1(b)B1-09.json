@@ -1,0 +1,41 @@
+{
+    "fulltext": "故杞國, 00-08395, 4, 南5, 西1, 本図, 故杞國, 墨, 裏, 8, B1",
+    "group": [
+        "main"
+    ],
+    "label": "故杞國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26385,14533,76,32",
+    "objectID": "S5W1(b)B1-09",
+    "sort": [
+        "00-08395"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26385,14533,76,32/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故杞國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "甘河, 00-10240, 4, 南5, 西5, 本図, 甘河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "甘河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18279,14528,41,72",
+    "objectID": "S5W5(a)B1-08",
+    "sort": [
+        "00-10240"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18279,14528,41,72/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "甘河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "小鼓河, 00-00663, 2, 北1, 東4, 本図, 小鼓河, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "小鼓河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38496,4981,116,42",
+    "objectID": "N1E4(a)A2-03",
+    "sort": [
+        "00-00663"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38496,4981,116,42/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小鼓河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

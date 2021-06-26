@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄亭, 00-08942, 4, 南5, 西2, 本図, 黄亭, 墨, 裏, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "黄亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24116,14315,48,55",
+    "objectID": "S5W2(b)A1-25",
+    "sort": [
+        "00-08942"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24116,14315,48,55/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

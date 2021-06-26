@@ -1,0 +1,41 @@
+{
+    "fulltext": "邪龍, 01-08684, 7, 南14, 西10, 本図, 邪龍, 墨, 表, 8, C2",
+    "group": [
+        "main"
+    ],
+    "label": "邪龍",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6370,29087,90,63",
+    "objectID": "S14W10(a)C2-03",
+    "sort": [
+        "01-08684"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6370,29087,90,63/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "邪龍"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "碩多岡河, 01-07415, 7, 南12, 西10, 本図, 碩多岡河, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "碩多岡河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=5978,25291,51,115",
+    "objectID": "S12W10(a)B3-01",
+    "sort": [
+        "01-07415"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/5978,25291,51,115/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "碩多岡河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "白城水, 00-10676, 4, 南5, 西6, 本図, 白城水, 墨, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "白城水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15207,14771,78,82",
+    "objectID": "S5W6(a)C3-05",
+    "sort": [
+        "00-10676"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15207,14771,78,82/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白城水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

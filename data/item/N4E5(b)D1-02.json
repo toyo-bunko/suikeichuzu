@@ -1,0 +1,44 @@
+{
+    "fulltext": "●河, 00-00028, ●＝サンズイ＋哀, 1, 北4, 東5, 本図, ●河, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "●河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40171,1473,67,49",
+    "objectID": "N4E5(b)D1-02",
+    "sort": [
+        "00-00028"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40171,1473,67,49/200,/0/default.jpg",
+    "備考": [
+        "●＝サンズイ＋哀"
+    ],
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "●河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

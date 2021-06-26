@@ -1,0 +1,41 @@
+{
+    "fulltext": "呉舊屯所在, 01-04272, 6, 南9, 西1, 本図, 呉舊屯所在, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "呉舊屯所在",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25602,20812,143,37",
+    "objectID": "S9W1(b)B3-13",
+    "sort": [
+        "01-04272"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25602,20812,143,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呉舊屯所在"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

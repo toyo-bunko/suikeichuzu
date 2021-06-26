@@ -1,0 +1,41 @@
+{
+    "fulltext": "白岸谷, 00-03068, 3, 南1, 西8, 本図, 白岸谷, 墨, 裏, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "白岸谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9954,9117,87,45",
+    "objectID": "S1W8(b)D2-01",
+    "sort": [
+        "00-03068"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9954,9117,87,45/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白岸谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

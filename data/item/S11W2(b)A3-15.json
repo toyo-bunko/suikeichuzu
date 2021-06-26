@@ -1,0 +1,41 @@
+{
+    "fulltext": "蘆陵潭, 01-06468, 6, 南11, 西2, 本図, 蘆陵潭, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "蘆陵潭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23237,23597,90,38",
+    "objectID": "S11W2(b)A3-15",
+    "sort": [
+        "01-06468"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23237,23597,90,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蘆陵潭"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

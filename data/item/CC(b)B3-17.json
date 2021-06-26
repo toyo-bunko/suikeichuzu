@@ -1,0 +1,41 @@
+{
+    "fulltext": "垣, 00-01757, 2, 中, 中, 本図, 垣, 墨, 裏, 10, B3",
+    "group": [
+        "main"
+    ],
+    "label": "垣",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27853,6905,63,37",
+    "objectID": "CC(b)B3-17",
+    "sort": [
+        "00-01757"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27853,6905,63,37/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "垣"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

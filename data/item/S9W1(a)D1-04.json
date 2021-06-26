@@ -1,0 +1,41 @@
+{
+    "fulltext": "大白湖, 01-04160, 6, 南9, 西1, 本図, 大白湖, 朱, 表, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "大白湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27496,21596,83,39",
+    "objectID": "S9W1(a)D1-04",
+    "sort": [
+        "01-04160"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27496,21596,83,39/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大白湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

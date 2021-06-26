@@ -1,0 +1,41 @@
+{
+    "fulltext": "松溪, 01-02341, 5, 南7, 西4, 本図, 松溪, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "松溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18479,17682,42,80",
+    "objectID": "S7W4(b)B3-05",
+    "sort": [
+        "01-02341"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18479,17682,42,80/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "松溪"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

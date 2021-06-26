@@ -1,0 +1,41 @@
+{
+    "fulltext": "逢山, 00-04537, 4, 南3, 東1, 本図, 逢山, 墨, 裏, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "逢山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31056,11380,42,55",
+    "objectID": "S3E1(b)B1-09",
+    "sort": [
+        "00-04537"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31056,11380,42,55/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "逢山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

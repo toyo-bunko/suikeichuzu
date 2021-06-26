@@ -1,0 +1,41 @@
+{
+    "fulltext": "堯山西嶺, 01-00813, 5, 南6, 西3, 本図, 堯山西嶺, 墨, 表, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "堯山西嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22909,15585,73,64",
+    "objectID": "S6W3(a)A1-07",
+    "sort": [
+        "01-00813"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22909,15585,73,64/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "堯山西嶺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

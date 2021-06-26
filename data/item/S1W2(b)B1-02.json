@@ -1,0 +1,41 @@
+{
+    "fulltext": "銅河, 00-02848, 3, 南1, 西2, 本図, 銅河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "銅河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24077,8190,65,33",
+    "objectID": "S1W2(b)B1-02",
+    "sort": [
+        "00-02848"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24077,8190,65,33/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "銅河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

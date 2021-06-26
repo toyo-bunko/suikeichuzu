@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏巢澤, 00-06647, 4, 南4, 西1, 本図, 烏巢澤, 墨, 裏, 5, D2",
+    "group": [
+        "main"
+    ],
+    "label": "烏巢澤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25956,13769,41,85",
+    "objectID": "S4W1(b)D2-07",
+    "sort": [
+        "00-06647"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25956,13769,41,85/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "烏巢澤"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

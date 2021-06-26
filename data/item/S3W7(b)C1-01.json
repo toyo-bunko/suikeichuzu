@@ -1,0 +1,41 @@
+{
+    "fulltext": "荘浪河, 00-05707, 4, 南3, 西7, 本図, 荘浪河, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "荘浪河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12339,11957,37,85",
+    "objectID": "S3W7(b)C1-01",
+    "sort": [
+        "00-05707"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12339,11957,37,85/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "荘浪河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

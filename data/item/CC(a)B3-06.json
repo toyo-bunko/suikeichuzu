@@ -1,0 +1,41 @@
+{
+    "fulltext": "武清, 00-01652, 2, 中, 中, 本図, 武清, 朱, 表, 19, B3",
+    "group": [
+        "main"
+    ],
+    "label": "武清",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28965,6948,95,40",
+    "objectID": "CC(a)B3-06",
+    "sort": [
+        "00-01652"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28965,6948,95,40/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武清"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

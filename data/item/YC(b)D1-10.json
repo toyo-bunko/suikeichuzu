@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣南, 03-00236, 8, 越南, 中, 越南, 廣南, 朱, 裏, 17, D1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "廣南",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2094,5545,126,71",
+    "objectID": "YC(b)D1-10",
+    "sort": [
+        "03-00236"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2094,5545,126,71/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "廣南"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

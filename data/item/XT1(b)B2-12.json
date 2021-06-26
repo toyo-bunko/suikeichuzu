@@ -1,0 +1,41 @@
+{
+    "fulltext": "和闐河, 02-00128, 1, 上, 1, 西域, 和闐河, 朱, 裏, 1, B2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "和闐河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6084,1849,83,220",
+    "objectID": "XT1(b)B2-12",
+    "sort": [
+        "02-00128"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6084,1849,83,220/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "和闐河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

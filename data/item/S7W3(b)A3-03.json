@@ -1,0 +1,41 @@
+{
+    "fulltext": "鄖陽, 01-02224, 5, 南7, 西3, 本図, 鄖陽, 朱, 裏, 18, A3",
+    "group": [
+        "main"
+    ],
+    "label": "鄖陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21078,17335,62,34",
+    "objectID": "S7W3(b)A3-03",
+    "sort": [
+        "01-02224"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21078,17335,62,34/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鄖陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

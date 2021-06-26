@@ -1,0 +1,41 @@
+{
+    "fulltext": "長清河, 00-06726, 4, 南4, 西2, 本図, 長清河, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "長清河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25183,13359,29,80",
+    "objectID": "S4W2(a)C1-11",
+    "sort": [
+        "00-06726"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25183,13359,29,80/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "長清河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

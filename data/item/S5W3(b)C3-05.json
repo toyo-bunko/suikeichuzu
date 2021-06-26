@@ -1,0 +1,41 @@
+{
+    "fulltext": "宏農河, 00-09706, 4, 南5, 西3, 本図, 宏農河, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "宏農河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20947,14971,87,44",
+    "objectID": "S5W3(b)C3-05",
+    "sort": [
+        "00-09706"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20947,14971,87,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宏農河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

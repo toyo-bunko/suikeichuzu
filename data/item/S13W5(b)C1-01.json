@@ -1,0 +1,41 @@
+{
+    "fulltext": "丹江, 01-07758, 7, 南13, 西5, 本図, 丹江, 朱, 裏, 21, C1",
+    "group": [
+        "main"
+    ],
+    "label": "丹江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16973,27553,68,48",
+    "objectID": "S13W5(b)C1-01",
+    "sort": [
+        "01-07758"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16973,27553,68,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "丹江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        21
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

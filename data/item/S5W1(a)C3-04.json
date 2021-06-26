@@ -1,0 +1,41 @@
+{
+    "fulltext": "伍員釣臺池沼, 00-08288, 4, 南5, 西1, 本図, 伍員釣臺池沼, 墨, 表, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "伍員釣臺池沼",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26795,15102,172,47",
+    "objectID": "S5W1(a)C3-04",
+    "sort": [
+        "00-08288"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26795,15102,172,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "伍員釣臺池沼"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

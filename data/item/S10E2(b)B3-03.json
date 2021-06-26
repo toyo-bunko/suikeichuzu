@@ -1,0 +1,41 @@
+{
+    "fulltext": "嚴州, 01-05362, 6, 南10, 東2, 本図, 嚴州, 朱, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "嚴州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32523,22160,58,31",
+    "objectID": "S10E2(b)B3-03",
+    "sort": [
+        "01-05362"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32523,22160,58,31/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "嚴州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

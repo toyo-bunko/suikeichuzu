@@ -1,0 +1,41 @@
+{
+    "fulltext": "咸河, 00-03367, 3, 南2, 中, 本図, 咸河, 墨, 表, 2, A1",
+    "group": [
+        "main"
+    ],
+    "label": "咸河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29910,9339,92,53",
+    "objectID": "S2C(a)A1-01",
+    "sort": [
+        "00-03367"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29910,9339,92,53/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "咸河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

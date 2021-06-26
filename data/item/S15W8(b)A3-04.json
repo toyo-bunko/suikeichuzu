@@ -1,0 +1,41 @@
+{
+    "fulltext": "滇池, 01-09138, 7, 南15, 西8, 本図, 滇池, 墨, 裏, 5, A3",
+    "group": [
+        "main"
+    ],
+    "label": "滇池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9420,29627,84,41",
+    "objectID": "S15W8(b)A3-04",
+    "sort": [
+        "01-09138"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9420,29627,84,41/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "滇池"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

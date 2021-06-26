@@ -1,0 +1,41 @@
+{
+    "fulltext": "涪陵, 01-05961, 6, 南10, 西5, 本図, 涪陵, 墨, 表, 9, C3",
+    "group": [
+        "main"
+    ],
+    "label": "涪陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17468,22846,74,34",
+    "objectID": "S10W5(a)C3-03",
+    "sort": [
+        "01-05961"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17468,22846,74,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "涪陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

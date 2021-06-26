@@ -1,0 +1,41 @@
+{
+    "fulltext": "昆明臺, 00-10187, 4, 南5, 西4, 本図, 昆明臺, 墨, 裏, 16, D3",
+    "group": [
+        "main"
+    ],
+    "label": "昆明臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18677,15164,54,25",
+    "objectID": "S5W4(b)D3-04",
+    "sort": [
+        "00-10187"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18677,15164,54,25/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "昆明臺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

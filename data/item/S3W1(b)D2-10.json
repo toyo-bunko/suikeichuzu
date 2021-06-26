@@ -1,0 +1,41 @@
+{
+    "fulltext": "彰徳, 00-05142, 4, 南3, 西1, 本図, 彰徳, 朱, 裏, 18, D2",
+    "group": [
+        "main"
+    ],
+    "label": "彰徳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26000,12236,74,47",
+    "objectID": "S3W1(b)D2-10",
+    "sort": [
+        "00-05142"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26000,12236,74,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "彰徳"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "田, 00-01409, 2, 北1, 西5, 本図, 田, 墨, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "田",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18236,5417,70,74",
+    "objectID": "N1W5(a)C1-01",
+    "sort": [
+        "00-01409"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18236,5417,70,74/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "田"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

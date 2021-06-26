@@ -1,0 +1,41 @@
+{
+    "fulltext": "薊水, 04-00469, 8, 0, 0, 薊城図, 薊水, 墨, 表, 1, 0",
+    "group": [
+        "jouzu07_keijou"
+    ],
+    "label": "薊水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=550,749,96,204",
+    "objectID": "CTJC(a)0-07",
+    "sort": [
+        "04-00469"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/550,749,96,204/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "薊城図"
+    ],
+    "地名/記述": [
+        "薊水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        0
+    ]
+}

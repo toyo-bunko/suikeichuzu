@@ -1,0 +1,41 @@
+{
+    "fulltext": "撫河, 01-06318, 6, 南11, 中, 本図, 撫河, 朱, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "撫河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27843,24545,70,39",
+    "objectID": "S11C(b)D3-01",
+    "sort": [
+        "01-06318"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27843,24545,70,39/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "撫河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

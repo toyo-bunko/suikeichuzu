@@ -1,0 +1,41 @@
+{
+    "fulltext": "姑蔑城, 00-06035, 4, 南4, 中, 本図, 姑蔑城, 墨, 表, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "姑蔑城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29954,12793,49,88",
+    "objectID": "S4C(a)A1-07",
+    "sort": [
+        "00-06035"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29954,12793,49,88/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "姑蔑城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

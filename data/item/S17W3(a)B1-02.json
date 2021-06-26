@@ -1,0 +1,41 @@
+{
+    "fulltext": "新會, 01-09804, 8, 南17, 西3, 本図, 新會, 朱, 表, 19, B1",
+    "group": [
+        "main"
+    ],
+    "label": "新會",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22849,33324,80,34",
+    "objectID": "S17W3(a)B1-02",
+    "sort": [
+        "01-09804"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22849,33324,80,34/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新會"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

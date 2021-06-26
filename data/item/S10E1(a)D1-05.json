@@ -1,0 +1,41 @@
+{
+    "fulltext": "越西部姑蔑之地, 01-05432, 6, 南10, 東1, 本図, 越西部姑蔑之地, 墨, 表, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "越西部姑蔑之地",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32202,23167,112,95",
+    "objectID": "S10E1(a)D1-05",
+    "sort": [
+        "01-05432"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32202,23167,112,95/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "越西部姑蔑之地"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

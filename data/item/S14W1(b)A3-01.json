@@ -1,0 +1,41 @@
+{
+    "fulltext": "上猶, 01-08083, 7, 南14, 西1, 本図, 上猶, 朱, 裏, 19, A3",
+    "group": [
+        "main"
+    ],
+    "label": "上猶",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25495,28125,81,38",
+    "objectID": "S14W1(b)A3-01",
+    "sort": [
+        "01-08083"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25495,28125,81,38/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "上猶"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "策特爾, 02-00097, 1, 上, 1, 西域, 策特爾, 朱, 裏, 0, B1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "策特爾",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6829,1209,91,209",
+    "objectID": "XT1(b)B1-01",
+    "sort": [
+        "02-00097"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6829,1209,91,209/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "策特爾"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄阜, 00-02083, 2, 中, 西2, 本図, 黄阜, 墨, 表, 16, A3",
+    "group": [
+        "main"
+    ],
+    "label": "黄阜",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24260,6337,29,82",
+    "objectID": "CW2(a)A3-02",
+    "sort": [
+        "00-02083"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24260,6337,29,82/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄阜"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

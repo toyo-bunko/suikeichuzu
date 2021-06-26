@@ -1,0 +1,41 @@
+{
+    "fulltext": "珊瑚洲, 01-09775, 8, 南17, 西2, 本図, 珊瑚洲, 朱, 裏, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "珊瑚洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23938,32880,52,93",
+    "objectID": "S17W2(b)A1-03",
+    "sort": [
+        "01-09775"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23938,32880,52,93/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "珊瑚洲"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

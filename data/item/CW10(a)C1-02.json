@@ -1,0 +1,41 @@
+{
+    "fulltext": "北魏改玉門郡, 00-02309, 2, 中, 西10, 本図, 北魏改玉門郡, 墨, 表, 14, C1",
+    "group": [
+        "main"
+    ],
+    "label": "北魏改玉門郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6549,7402,208,38",
+    "objectID": "CW10(a)C1-02",
+    "sort": [
+        "00-02309"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6549,7402,208,38/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北魏改玉門郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        14
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

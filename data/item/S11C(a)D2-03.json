@@ -1,0 +1,41 @@
+{
+    "fulltext": "餘汗縣地, 01-06295, 6, 南11, 中, 本図, 餘汗縣地, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "餘汗縣地",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29454,24670,148,33",
+    "objectID": "S11C(a)D2-03",
+    "sort": [
+        "01-06295"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29454,24670,148,33/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "餘汗縣地"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

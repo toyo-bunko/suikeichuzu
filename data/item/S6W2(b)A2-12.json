@@ -1,0 +1,41 @@
+{
+    "fulltext": "魯陽, 01-00678, 5, 南6, 西2, 本図, 魯陽, 墨, 裏, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "魯陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23756,15758,52,35",
+    "objectID": "S6W2(b)A2-12",
+    "sort": [
+        "01-00678"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23756,15758,52,35/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "魯陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

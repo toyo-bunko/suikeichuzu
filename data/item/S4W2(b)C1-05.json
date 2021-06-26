@@ -1,0 +1,41 @@
+{
+    "fulltext": "太行關, 00-06920, 4, 南4, 西2, 本図, 太行關, 墨, 裏, 16, C1",
+    "group": [
+        "main"
+    ],
+    "label": "太行關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23875,13256,71,36",
+    "objectID": "S4W2(b)C1-05",
+    "sort": [
+        "00-06920"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23875,13256,71,36/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "太行關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

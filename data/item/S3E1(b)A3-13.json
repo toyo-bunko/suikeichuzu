@@ -1,0 +1,41 @@
+{
+    "fulltext": "甯戚城, 00-04525, 4, 南3, 東1, 本図, 甯戚城, 墨, 裏, 16, A3",
+    "group": [
+        "main"
+    ],
+    "label": "甯戚城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30085,10980,86,47",
+    "objectID": "S3E1(b)A3-13",
+    "sort": [
+        "00-04525"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30085,10980,86,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "甯戚城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

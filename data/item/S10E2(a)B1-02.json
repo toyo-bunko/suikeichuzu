@@ -1,0 +1,41 @@
+{
+    "fulltext": "江上六溪, 01-05277, 6, 南10, 東2, 本図, 江上六溪, 墨, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "江上六溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34326,22238,29,81",
+    "objectID": "S10E2(a)B1-02",
+    "sort": [
+        "01-05277"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34326,22238,29,81/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "江上六溪"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

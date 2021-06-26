@@ -1,0 +1,41 @@
+{
+    "fulltext": "稷亭, 00-07225, 4, 南4, 西3, 本図, 稷亭, 墨, 裏, 16, C2",
+    "group": [
+        "main"
+    ],
+    "label": "稷亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21510,13315,62,37",
+    "objectID": "S4W3(b)C2-02",
+    "sort": [
+        "00-07225"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21510,13315,62,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "稷亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

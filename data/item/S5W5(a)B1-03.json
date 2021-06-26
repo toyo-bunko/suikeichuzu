@@ -1,0 +1,41 @@
+{
+    "fulltext": "即寒門, 00-10235, 4, 南5, 西5, 本図, 即寒門, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "即寒門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18276,14408,83,40",
+    "objectID": "S5W5(a)B1-03",
+    "sort": [
+        "00-10235"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18276,14408,83,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即寒門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

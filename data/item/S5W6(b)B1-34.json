@@ -1,0 +1,41 @@
+{
+    "fulltext": "蒙氷峪, 00-10750, 4, 南5, 西6, 本図, 蒙氷峪, 朱, 裏, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "蒙氷峪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14977,14688,37,85",
+    "objectID": "S5W6(b)B1-34",
+    "sort": [
+        "00-10750"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14977,14688,37,85/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蒙氷峪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "靈璧, 01-00201, 5, 南6, 中, 本図, 靈璧, 朱, 表, 19, B1",
+    "group": [
+        "main"
+    ],
+    "label": "靈璧",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29795,16229,72,37",
+    "objectID": "S6C(a)B1-04",
+    "sort": [
+        "01-00201"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29795,16229,72,37/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "靈璧"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

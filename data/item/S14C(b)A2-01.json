@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍陂溪, 01-08040, 7, 南14, 中, 本図, 龍陂溪, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "龍陂溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28419,28071,48,96",
+    "objectID": "S14C(b)A2-01",
+    "sort": [
+        "01-08040"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28419,28071,48,96/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍陂溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "綠珠江, 01-09862, 8, 南17, 西4, 本図, 綠珠江, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "綠珠江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18533,33548,103,44",
+    "objectID": "S17W4(b)C3-03",
+    "sort": [
+        "01-09862"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18533,33548,103,44/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "綠珠江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

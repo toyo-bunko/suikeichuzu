@@ -1,0 +1,41 @@
+{
+    "fulltext": "猪龍河, 00-02672, 3, 南1, 西1, 本図, 猪龍河, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "猪龍河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27495,8574,87,32",
+    "objectID": "S1W1(a)C1-05",
+    "sort": [
+        "00-02672"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27495,8574,87,32/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "猪龍河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

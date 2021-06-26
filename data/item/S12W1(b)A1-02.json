@@ -1,0 +1,41 @@
+{
+    "fulltext": "喩河, 01-06960, 7, 南12, 西1, 本図, 喩河, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "喩河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26187,25151,71,38",
+    "objectID": "S12W1(b)A1-02",
+    "sort": [
+        "01-06960"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26187,25151,71,38/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "喩河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

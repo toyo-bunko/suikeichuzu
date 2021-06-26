@@ -1,0 +1,41 @@
+{
+    "fulltext": "布爾哈蘇台河, 00-00567, 1, 北2, 西1, 本図, 布爾哈蘇台河, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "布爾哈蘇台河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26029,4359,67,239",
+    "objectID": "N2W1(b)D2-01",
+    "sort": [
+        "00-00567"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26029,4359,67,239/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "布爾哈蘇台河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

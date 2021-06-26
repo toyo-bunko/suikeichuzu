@@ -1,0 +1,41 @@
+{
+    "fulltext": "故王城, 00-09141, 4, 南5, 西2, 本図, 故王城, 墨, 裏, 8, B3",
+    "group": [
+        "main"
+    ],
+    "label": "故王城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23375,14406,56,39",
+    "objectID": "S5W2(b)B3-08",
+    "sort": [
+        "00-09141"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23375,14406,56,39/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故王城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

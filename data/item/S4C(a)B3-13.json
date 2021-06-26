@@ -1,0 +1,41 @@
+{
+    "fulltext": "濟甯, 00-06110, 4, 南4, 中, 本図, 濟甯, 朱, 表, 22, B3",
+    "group": [
+        "main"
+    ],
+    "label": "濟甯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28928,13070,58,50",
+    "objectID": "S4C(a)B3-13",
+    "sort": [
+        "00-06110"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28928,13070,58,50/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濟甯"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

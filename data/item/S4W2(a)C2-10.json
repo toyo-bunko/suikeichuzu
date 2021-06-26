@@ -1,0 +1,41 @@
+{
+    "fulltext": "大陸, 00-06748, 4, 南4, 西2, 本図, 大陸, 墨, 表, 5, C2",
+    "group": [
+        "main"
+    ],
+    "label": "大陸",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24936,13413,59,44",
+    "objectID": "S4W2(a)C2-10",
+    "sort": [
+        "00-06748"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24936,13413,59,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大陸"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

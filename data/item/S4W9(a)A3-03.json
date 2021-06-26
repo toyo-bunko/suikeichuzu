@@ -1,0 +1,41 @@
+{
+    "fulltext": "察漢諾們罕喇麻遊牧, 00-07787, 4, 南4, 西9, 本図, 察漢諾們罕喇麻遊牧, 朱, 表, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "察漢諾們罕喇麻遊牧",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8302,12703,113,99",
+    "objectID": "S4W9(a)A3-03",
+    "sort": [
+        "00-07787"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8302,12703,113,99/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "察漢諾們罕喇麻遊牧"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "朱崖郡, 01-10124, 8, 南20, 西4, 本図, 朱崖郡, 墨, 裏, 9, A2",
+    "group": [
+        "main"
+    ],
+    "label": "朱崖郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19128,37356,116,57",
+    "objectID": "S20W4(b)A2-01",
+    "sort": [
+        "01-10124"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19128,37356,116,57/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南20"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "朱崖郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

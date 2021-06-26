@@ -1,0 +1,41 @@
+{
+    "fulltext": "澹水承澧水, 01-05804, 6, 南10, 西3, 本図, 澹水承澧水, 墨, 表, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "澹水承澧水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22462,22320,99,149",
+    "objectID": "S10W3(a)B2-03",
+    "sort": [
+        "01-05804"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22462,22320,99,149/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "澹水承澧水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

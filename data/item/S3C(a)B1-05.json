@@ -1,0 +1,41 @@
+{
+    "fulltext": "雞山, 00-04635, 4, 南3, 中, 本図, 雞山, 墨, 表, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "雞山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29707,11290,59,31",
+    "objectID": "S3C(a)B1-05",
+    "sort": [
+        "00-04635"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29707,11290,59,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雞山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

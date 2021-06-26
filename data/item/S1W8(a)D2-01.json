@@ -1,0 +1,41 @@
+{
+    "fulltext": "張掖, 00-03051, 3, 南1, 西8, 本図, 張掖, 墨, 表, 10, D2",
+    "group": [
+        "main"
+    ],
+    "label": "張掖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10918,9214,96,78",
+    "objectID": "S1W8(a)D2-01",
+    "sort": [
+        "00-03051"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10918,9214,96,78/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "張掖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

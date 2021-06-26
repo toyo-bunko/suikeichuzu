@@ -1,0 +1,41 @@
+{
+    "fulltext": "小蕭, 01-06362, 6, 南11, 西1, 本図, 小蕭, 墨, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "小蕭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27263,23795,29,65",
+    "objectID": "S11W1(a)B2-05",
+    "sort": [
+        "01-06362"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27263,23795,29,65/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小蕭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

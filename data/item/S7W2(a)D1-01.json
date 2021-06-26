@@ -1,0 +1,41 @@
+{
+    "fulltext": "鍾武, 01-01968, 5, 南7, 西2, 本図, 鍾武, 墨, 表, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "鍾武",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25263,18339,89,50",
+    "objectID": "S7W2(a)D1-01",
+    "sort": [
+        "01-01968"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25263,18339,89,50/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鍾武"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

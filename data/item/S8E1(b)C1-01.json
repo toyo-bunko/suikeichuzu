@@ -1,0 +1,41 @@
+{
+    "fulltext": "蕪湖, 01-02900, 5, 南8, 東1, 本図, 蕪湖, 朱, 裏, 19, C1",
+    "group": [
+        "main"
+    ],
+    "label": "蕪湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31023,19444,68,36",
+    "objectID": "S8E1(b)C1-01",
+    "sort": [
+        "01-02900"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31023,19444,68,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蕪湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "溫沙河, 01-09276, 7, 南15, 西10, 本図, 溫沙河, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "溫沙河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=5934,30068,54,93",
+    "objectID": "S15W10(a)B3-02",
+    "sort": [
+        "01-09276"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/5934,30068,54,93/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "溫沙河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

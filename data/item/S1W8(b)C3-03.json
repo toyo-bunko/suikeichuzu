@@ -1,0 +1,41 @@
+{
+    "fulltext": "舊西番穷擦囊𧴪等七族牧地, 00-03067, 3, 南1, 西8, 本図, 舊西番穷擦囊𧴪等七族牧地, 朱, 裏, 0, C3",
+    "group": [
+        "main"
+    ],
+    "label": "舊西番穷擦囊𧴪等七族牧地",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9288,8644,110,144",
+    "objectID": "S1W8(b)C3-03",
+    "sort": [
+        "00-03067"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9288,8644,110,144/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "舊西番穷擦囊𧴪等七族牧地"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

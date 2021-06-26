@@ -1,0 +1,41 @@
+{
+    "fulltext": "謁戻山, 00-05239, 4, 南3, 西2, 本図, 謁戻山, 墨, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "謁戻山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23465,10941,96,47",
+    "objectID": "S3W2(b)A2-03",
+    "sort": [
+        "00-05239"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23465,10941,96,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "謁戻山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

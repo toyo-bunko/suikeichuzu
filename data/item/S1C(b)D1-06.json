@@ -1,0 +1,41 @@
+{
+    "fulltext": "南皮, 00-02522, 3, 南1, 中, 本図, 南皮, 朱, 裏, 19, D1",
+    "group": [
+        "main"
+    ],
+    "label": "南皮",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28754,9140,69,40",
+    "objectID": "S1C(b)D1-06",
+    "sort": [
+        "00-02522"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28754,9140,69,40/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南皮"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

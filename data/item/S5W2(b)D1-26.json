@@ -1,0 +1,44 @@
+{
+    "fulltext": "永仁三堆, 00-09272, 3点あり, 4, 南5, 西2, 本図, 永仁三堆, 墨, 裏, 16, D1",
+    "group": [
+        "main"
+    ],
+    "label": "永仁三堆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23863,15437,88,38",
+    "objectID": "S5W2(b)D1-26",
+    "sort": [
+        "00-09272"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23863,15437,88,38/200,/0/default.jpg",
+    "備考": [
+        "3点あり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "永仁三堆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

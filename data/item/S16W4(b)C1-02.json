@@ -1,0 +1,41 @@
+{
+    "fulltext": "大烏河, 01-09543, 8, 南16, 西4, 本図, 大烏河, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "大烏河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19500,32177,43,91",
+    "objectID": "S16W4(b)C1-02",
+    "sort": [
+        "01-09543"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19500,32177,43,91/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大烏河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

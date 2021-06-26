@@ -1,0 +1,41 @@
+{
+    "fulltext": "故滕國秦滕縣漢改公邱, 00-06146, 4, 南4, 中, 本図, 故滕國秦滕縣漢改公邱, 墨, 表, 10, D2",
+    "group": [
+        "main"
+    ],
+    "label": "故滕國秦滕縣漢改公邱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29515,13672,126,97",
+    "objectID": "S4C(a)D2-02",
+    "sort": [
+        "00-06146"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29515,13672,126,97/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故滕國秦滕縣漢改公邱"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

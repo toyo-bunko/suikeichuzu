@@ -1,0 +1,41 @@
+{
+    "fulltext": "淀, 00-02417, 3, 南1, 中, 本図, 淀, 墨, 表, 5, A3",
+    "group": [
+        "main"
+    ],
+    "label": "淀",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28969,8067,41,39",
+    "objectID": "S1C(a)A3-05",
+    "sort": [
+        "00-02417"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28969,8067,41,39/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "淀"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

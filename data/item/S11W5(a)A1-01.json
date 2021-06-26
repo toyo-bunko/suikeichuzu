@@ -1,0 +1,41 @@
+{
+    "fulltext": "酉陽, 01-06691, 6, 南11, 西5, 本図, 酉陽, 朱, 裏, 22, A1",
+    "group": [
+        "main"
+    ],
+    "label": "酉陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18129,23512,58,37",
+    "objectID": "S11W5(a)A1-01",
+    "sort": [
+        "01-06691"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18129,23512,58,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "酉陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "魏武侯別都, 00-04999, 魏は旧の県でとる。, 4, 南3, 西1, 本図, 魏武侯別都, 墨, 表, 8, C2",
+    "group": [
+        "main"
+    ],
+    "label": "魏武侯別都",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27134,11923,63,92",
+    "objectID": "S3W1(a)C2-04",
+    "sort": [
+        "00-04999"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27134,11923,63,92/200,/0/default.jpg",
+    "備考": [
+        "魏は旧の県でとる。"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "魏武侯別都"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

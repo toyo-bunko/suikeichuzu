@@ -1,0 +1,41 @@
+{
+    "fulltext": "太岳山, 00-05347, 4, 南3, 西3, 本図, 太岳山, 朱, 表, 4, C1",
+    "group": [
+        "main"
+    ],
+    "label": "太岳山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22841,11733,98,33",
+    "objectID": "S3W3(a)C1-01",
+    "sort": [
+        "00-05347"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22841,11733,98,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "太岳山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

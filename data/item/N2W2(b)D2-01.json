@@ -1,0 +1,41 @@
+{
+    "fulltext": "鍾山, 00-00580, 1, 北2, 西2, 本図, 鍾山, 墨, 裏, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "鍾山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23750,4340,72,55",
+    "objectID": "N2W2(b)D2-01",
+    "sort": [
+        "00-00580"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23750,4340,72,55/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鍾山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "綏德, 00-04010, 3, 南2, 西4, 本図, 綏德, 朱, 表, 22, B1",
+    "group": [
+        "main"
+    ],
+    "label": "綏德",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20662,9998,65,26",
+    "objectID": "S2W4(a)B1-01",
+    "sort": [
+        "00-04010"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20662,9998,65,26/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "綏德"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "瞻婆, 02-00254, 1, 下, 1, 西域, 瞻婆, 墨, 表, 7, C3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "瞻婆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6986,5058,88,185",
+    "objectID": "XB1(a)C3-02",
+    "sort": [
+        "02-00254"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6986,5058,88,185/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "瞻婆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

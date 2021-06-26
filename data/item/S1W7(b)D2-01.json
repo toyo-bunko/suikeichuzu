@@ -1,0 +1,41 @@
+{
+    "fulltext": "揟次, 00-03031, 3, 南1, 西7, 本図, 揟次, 墨, 裏, 8, D2",
+    "group": [
+        "main"
+    ],
+    "label": "揟次",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12207,9013,84,72",
+    "objectID": "S1W7(b)D2-01",
+    "sort": [
+        "00-03031"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12207,9013,84,72/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "揟次"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

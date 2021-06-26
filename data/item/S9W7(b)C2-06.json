@@ -1,0 +1,41 @@
+{
+    "fulltext": "武陽, 01-05115, 6, 南9, 西7, 本図, 武陽, 墨, 裏, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "武陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11962,21363,58,34",
+    "objectID": "S9W7(b)C2-06",
+    "sort": [
+        "01-05115"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11962,21363,58,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

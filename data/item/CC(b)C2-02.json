@@ -1,0 +1,41 @@
+{
+    "fulltext": "澤渚, 00-01780, 2, 中, 中, 本図, 澤渚, 墨, 裏, 5, C2",
+    "group": [
+        "main"
+    ],
+    "label": "澤渚",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28114,7014,60,45",
+    "objectID": "CC(b)C2-02",
+    "sort": [
+        "00-01780"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28114,7014,60,45/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "澤渚"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "新洋港口, 01-00020, 5, 南6, 東2, 本図, 新洋港口, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "新洋港口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33410,16217,43,111",
+    "objectID": "S6E2(b)B1-02",
+    "sort": [
+        "01-00020"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33410,16217,43,111/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新洋港口"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

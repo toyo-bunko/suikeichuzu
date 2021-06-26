@@ -1,0 +1,41 @@
+{
+    "fulltext": "小索亭, 00-08617, 4, 南5, 西2, 本図, 小索亭, 墨, 表, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "小索亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24778,14301,63,37",
+    "objectID": "S5W2(a)A2-31",
+    "sort": [
+        "00-08617"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24778,14301,63,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小索亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

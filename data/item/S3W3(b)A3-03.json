@@ -1,0 +1,41 @@
+{
+    "fulltext": "石羊水, 00-05411, 4, 南3, 西3, 本図, 石羊水, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "石羊水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21083,11230,89,37",
+    "objectID": "S3W3(b)A3-03",
+    "sort": [
+        "00-05411"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21083,11230,89,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石羊水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

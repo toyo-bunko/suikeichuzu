@@ -1,0 +1,44 @@
+{
+    "fulltext": "禹都臺, 00-07242, 黒の記号がうっすらと見える, 4, 南4, 西3, 本図, 禹都臺, 墨, 裏, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "禹都臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21725,13602,85,73",
+    "objectID": "S4W3(b)D1-04",
+    "sort": [
+        "00-07242"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21725,13602,85,73/200,/0/default.jpg",
+    "備考": [
+        "黒の記号がうっすらと見える"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "禹都臺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

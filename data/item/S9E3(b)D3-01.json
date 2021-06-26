@@ -1,0 +1,41 @@
+{
+    "fulltext": "穴湖塘, 01-03705, 6, 南9, 東3, 本図, 穴湖塘, 墨, 裏, 5, D3",
+    "group": [
+        "main"
+    ],
+    "label": "穴湖塘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34753,21367,111,29",
+    "objectID": "S9E3(b)D3-01",
+    "sort": [
+        "01-03705"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34753,21367,111,29/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "穴湖塘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "下口, 00-00948, 2, 北1, 中, 本図, 下口, 墨, 裏, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "下口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28186,5801,66,33",
+    "objectID": "N1C(b)C2-05",
+    "sort": [
+        "00-00948"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28186,5801,66,33/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "下口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

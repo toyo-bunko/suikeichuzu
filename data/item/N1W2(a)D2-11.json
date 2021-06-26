@@ -1,0 +1,41 @@
+{
+    "fulltext": "北魏初置司州代郡後改恆州代郡, 00-01171, 2, 北1, 西2, 本図, 北魏初置司州代郡後改恆州代郡, 墨, 表, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "北魏初置司州代郡後改恆州代郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24765,6039,103,96",
+    "objectID": "N1W2(a)D2-11",
+    "sort": [
+        "00-01171"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24765,6039,103,96/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北魏初置司州代郡後改恆州代郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

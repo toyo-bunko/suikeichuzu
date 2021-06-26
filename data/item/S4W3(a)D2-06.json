@@ -1,0 +1,44 @@
+{
+    "fulltext": "下峽, 00-07151, 「峡を下る」か, 4, 南4, 西3, 本図, 下峽, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "下峽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22534,13673,75,46",
+    "objectID": "S4W3(a)D2-06",
+    "sort": [
+        "00-07151"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22534,13673,75,46/200,/0/default.jpg",
+    "備考": [
+        "「峡を下る」か"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "下峽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

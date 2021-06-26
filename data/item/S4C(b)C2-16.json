@@ -1,0 +1,41 @@
+{
+    "fulltext": "金郷山, 00-06253, 4, 南4, 中, 本図, 金郷山, 墨, 裏, 4, C2",
+    "group": [
+        "main"
+    ],
+    "label": "金郷山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28295,13470,69,30",
+    "objectID": "S4C(b)C2-16",
+    "sort": [
+        "00-06253"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28295,13470,69,30/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "金郷山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

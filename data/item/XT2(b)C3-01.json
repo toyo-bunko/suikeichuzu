@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬郎德蘭, 02-00230, 1, 上, 2, 西域, 馬郎德蘭, 朱, 裏, 25, C3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "馬郎德蘭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=434,2535,258,107",
+    "objectID": "XT2(b)C3-01",
+    "sort": [
+        "02-00230"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/434,2535,258,107/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        2
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "馬郎德蘭"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        25
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

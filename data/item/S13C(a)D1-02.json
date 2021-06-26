@@ -1,0 +1,41 @@
+{
+    "fulltext": "坊溪, 01-07455, 7, 南13, 中, 本図, 坊溪, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "坊溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29745,27756,74,41",
+    "objectID": "S13C(a)D1-02",
+    "sort": [
+        "01-07455"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29745,27756,74,41/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "坊溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

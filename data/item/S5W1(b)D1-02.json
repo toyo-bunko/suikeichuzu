@@ -1,0 +1,41 @@
+{
+    "fulltext": "即扶樂城, 00-08506, 4, 南5, 西1, 本図, 即扶樂城, 墨, 裏, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "即扶樂城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26459,15202,105,32",
+    "objectID": "S5W1(b)D1-02",
+    "sort": [
+        "00-08506"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26459,15202,105,32/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即扶樂城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

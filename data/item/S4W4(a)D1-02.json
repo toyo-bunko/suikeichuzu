@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄河, 00-07332, 4, 南4, 西4, 本図, 黄河, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "黄河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20664,13669,39,64",
+    "objectID": "S4W4(a)D1-02",
+    "sort": [
+        "00-07332"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20664,13669,39,64/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

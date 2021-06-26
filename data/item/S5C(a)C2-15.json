@@ -1,0 +1,41 @@
+{
+    "fulltext": "故蕭國, 00-08048, 4, 南5, 中, 本図, 故蕭國, 墨, 表, 7, C2",
+    "group": [
+        "main"
+    ],
+    "label": "故蕭國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29343,14898,65,77",
+    "objectID": "S5C(a)C2-15",
+    "sort": [
+        "00-08048"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29343,14898,65,77/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故蕭國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

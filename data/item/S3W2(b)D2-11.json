@@ -1,0 +1,41 @@
+{
+    "fulltext": "濁漳河, 00-05310, 4, 南3, 西2, 本図, 濁漳河, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "濁漳河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23718,12389,83,31",
+    "objectID": "S3W2(b)D2-11",
+    "sort": [
+        "00-05310"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23718,12389,83,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濁漳河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "小干溪, 01-06840, 6, 南11, 西8, 本図, 小干溪, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "小干溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11031,23625,37,92",
+    "objectID": "S11W8(a)A2-01",
+    "sort": [
+        "01-06840"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11031,23625,37,92/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小干溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "又謂之洞庭, 01-02785, 5, 南8, 東2, 本図, 又謂之洞庭, 墨, 裏, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "又謂之洞庭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33149,19942,177,53",
+    "objectID": "S8E2(b)D1-06",
+    "sort": [
+        "01-02785"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33149,19942,177,53/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "又謂之洞庭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

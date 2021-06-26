@@ -1,0 +1,41 @@
+{
+    "fulltext": "雲南, 01-08680, 7, 南14, 西10, 本図, 雲南, 墨, 表, 8, C1",
+    "group": [
+        "main"
+    ],
+    "label": "雲南",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6601,29084,76,58",
+    "objectID": "S14W10(a)C1-04",
+    "sort": [
+        "01-08680"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6601,29084,76,58/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雲南"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

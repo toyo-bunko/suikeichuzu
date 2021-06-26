@@ -1,0 +1,41 @@
+{
+    "fulltext": "睢水, 04-00399, 8, 0, 0, 睢陽城図, 睢水, 墨, 表, 1, 0",
+    "group": [
+        "jouzu05_suiyou"
+    ],
+    "label": "睢水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=96,2573,97,185",
+    "objectID": "CTSU(a)0-55",
+    "sort": [
+        "04-00399"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif/96,2573,97,185/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "睢陽城図"
+    ],
+    "地名/記述": [
+        "睢水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        0
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "梅嶺, 01-07486, 7, 南13, 西1, 本図, 梅嶺, 朱, 表, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "梅嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27458,26484,95,56",
+    "objectID": "S13W1(a)A1-01",
+    "sort": [
+        "01-07486"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27458,26484,95,56/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "梅嶺"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "武泉, 00-01217, 2, 北1, 西2, 本図, 武泉, 墨, 裏, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "武泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23713,4851,72,82",
+    "objectID": "N1W2(b)A2-03",
+    "sort": [
+        "00-01217"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23713,4851,72,82/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武泉"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

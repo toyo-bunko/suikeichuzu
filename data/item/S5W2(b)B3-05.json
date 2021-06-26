@@ -1,0 +1,41 @@
+{
+    "fulltext": "乾祭門, 00-09138, 4, 南5, 西2, 本図, 乾祭門, 墨, 裏, 8, B3",
+    "group": [
+        "main"
+    ],
+    "label": "乾祭門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23317,14382,57,22",
+    "objectID": "S5W2(b)B3-05",
+    "sort": [
+        "00-09138"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23317,14382,57,22/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "乾祭門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

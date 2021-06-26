@@ -1,0 +1,41 @@
+{
+    "fulltext": "圖爾根河, 00-07799, 4, 南4, 西9, 本図, 圖爾根河, 朱, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "圖爾根河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8687,13775,127,47",
+    "objectID": "S4W9(a)D2-01",
+    "sort": [
+        "00-07799"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8687,13775,127,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "圖爾根河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

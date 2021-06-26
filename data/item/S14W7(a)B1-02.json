@@ -1,0 +1,41 @@
+{
+    "fulltext": "貞豐, 01-08454, 7, 南14, 西7, 本図, 貞豐, 朱, 表, 23, B1",
+    "group": [
+        "main"
+    ],
+    "label": "貞豐",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13490,28383,73,54",
+    "objectID": "S14W7(a)B1-02",
+    "sort": [
+        "01-08454"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13490,28383,73,54/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "貞豐"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

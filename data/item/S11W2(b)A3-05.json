@@ -1,0 +1,41 @@
+{
+    "fulltext": "西陂, 01-06458, 6, 南11, 西2, 本図, 西陂, 墨, 裏, 5, A3",
+    "group": [
+        "main"
+    ],
+    "label": "西陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23234,23455,51,29",
+    "objectID": "S11W2(b)A3-05",
+    "sort": [
+        "01-06458"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23234,23455,51,29/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

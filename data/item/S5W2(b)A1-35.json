@@ -1,0 +1,41 @@
+{
+    "fulltext": "僵人穴, 00-08952, 4, 南5, 西2, 本図, 僵人穴, 墨, 裏, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "僵人穴",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23929,14290,67,38",
+    "objectID": "S5W2(b)A1-35",
+    "sort": [
+        "00-08952"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23929,14290,67,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "僵人穴"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

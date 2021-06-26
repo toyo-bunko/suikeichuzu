@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿拉克池, 00-02296, 2, 中, 西9, 本図, 阿拉克池, 朱, 裏, 5, B3",
+    "group": [
+        "main"
+    ],
+    "label": "阿拉克池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7101,6720,43,122",
+    "objectID": "CW9(b)B3-01",
+    "sort": [
+        "00-02296"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7101,6720,43,122/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阿拉克池"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

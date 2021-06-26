@@ -1,0 +1,41 @@
+{
+    "fulltext": "塞外, 00-00079, 1, 北4, 東1, 本図, 塞外, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "塞外",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31740,1375,72,53",
+    "objectID": "N4E1(a)D2-01",
+    "sort": [
+        "00-00079"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31740,1375,72,53/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "塞外"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

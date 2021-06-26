@@ -1,0 +1,41 @@
+{
+    "fulltext": "閿郷, 00-09661, 4, 南5, 西3, 本図, 閿郷, 朱, 裏, 19, B3",
+    "group": [
+        "main"
+    ],
+    "label": "閿郷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20944,14580,69,40",
+    "objectID": "S5W3(b)B3-12",
+    "sort": [
+        "00-09661"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20944,14580,69,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "閿郷"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

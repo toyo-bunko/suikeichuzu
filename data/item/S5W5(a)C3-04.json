@@ -1,0 +1,41 @@
+{
+    "fulltext": "姜氏城, 00-10291, 4, 南5, 西5, 本図, 姜氏城, 墨, 表, 0, C3",
+    "group": [
+        "main"
+    ],
+    "label": "姜氏城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17454,14860,45,85",
+    "objectID": "S5W5(a)C3-04",
+    "sort": [
+        "00-10291"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17454,14860,45,85/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "姜氏城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

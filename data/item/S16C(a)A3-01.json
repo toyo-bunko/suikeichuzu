@@ -1,0 +1,41 @@
+{
+    "fulltext": "饒平, 01-09316, 8, 南16, 中, 本図, 饒平, 朱, 表, 19, A3",
+    "group": [
+        "main"
+    ],
+    "label": "饒平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28869,31157,52,74",
+    "objectID": "S16C(a)A3-01",
+    "sort": [
+        "01-09316"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28869,31157,52,74/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "饒平"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "玄水, 00-00753, 2, 北1, 東1, 本図, 玄水, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "玄水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31357,6179,85,51",
+    "objectID": "N1E1(a)D3-08",
+    "sort": [
+        "00-00753"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31357,6179,85,51/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "玄水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

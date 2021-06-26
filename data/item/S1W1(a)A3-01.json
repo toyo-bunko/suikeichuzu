@@ -1,0 +1,41 @@
+{
+    "fulltext": "南濡水, 00-02593, 3, 南1, 西1, 本図, 南濡水, 墨, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "南濡水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26885,7829,68,29",
+    "objectID": "S1W1(a)A3-01",
+    "sort": [
+        "00-02593"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26885,7829,68,29/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南濡水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

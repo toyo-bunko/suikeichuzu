@@ -1,0 +1,41 @@
+{
+    "fulltext": "呉興郡, 01-03843, 6, 南9, 東2, 本図, 呉興郡, 墨, 裏, 7, A2",
+    "group": [
+        "main"
+    ],
+    "label": "呉興郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33082,20378,94,34",
+    "objectID": "S9E2(b)A2-06",
+    "sort": [
+        "01-03843"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33082,20378,94,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呉興郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

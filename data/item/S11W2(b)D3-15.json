@@ -1,0 +1,41 @@
+{
+    "fulltext": "南津洲, 01-06529, 6, 南11, 西2, 本図, 南津洲, 墨, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "南津洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23337,24716,68,32",
+    "objectID": "S11W2(b)D3-15",
+    "sort": [
+        "01-06529"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23337,24716,68,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南津洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

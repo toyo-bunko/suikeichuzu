@@ -1,0 +1,41 @@
+{
+    "fulltext": "呉城港, 01-05638, 6, 南10, 西2, 本図, 呉城港, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "呉城港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25103,22699,42,88",
+    "objectID": "S10W2(a)C1-01",
+    "sort": [
+        "01-05638"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25103,22699,42,88/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呉城港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

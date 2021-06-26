@@ -1,0 +1,44 @@
+{
+    "fulltext": "金城, 00-04833, 聊城(県の故城)、その境内に金城があり、周りを水が巡る。, 4, 南3, 中, 本図, 金城, 墨, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "金城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27971,11437,30,33",
+    "objectID": "S3C(b)B3-05",
+    "sort": [
+        "00-04833"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27971,11437,30,33/200,/0/default.jpg",
+    "備考": [
+        "聊城(県の故城)、その境内に金城があり、周りを水が巡る。"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "金城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

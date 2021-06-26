@@ -1,0 +1,41 @@
+{
+    "fulltext": "山西, 03-00086, 8, 越南, 上, 越南, 山西, 朱, 裏, 17, C1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "山西",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2166,1889,136,59",
+    "objectID": "YT(b)C1-04",
+    "sort": [
+        "03-00086"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2166,1889,136,59/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "山西"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

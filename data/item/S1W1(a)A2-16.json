@@ -1,0 +1,41 @@
+{
+    "fulltext": "舜氏甘泉, 00-02584, 3, 南1, 西1, 本図, 舜氏甘泉, 墨, 表, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "舜氏甘泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27028,7988,80,51",
+    "objectID": "S1W1(a)A2-16",
+    "sort": [
+        "00-02584"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27028,7988,80,51/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "舜氏甘泉"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

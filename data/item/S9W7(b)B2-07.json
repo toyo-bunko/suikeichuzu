@@ -1,0 +1,41 @@
+{
+    "fulltext": "華陽, 01-05081, 6, 南9, 西7, 本図, 華陽, 朱, 裏, 17, B2",
+    "group": [
+        "main"
+    ],
+    "label": "華陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12227,20693,34,51",
+    "objectID": "S9W7(b)B2-07",
+    "sort": [
+        "01-05081"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12227,20693,34,51/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "華陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

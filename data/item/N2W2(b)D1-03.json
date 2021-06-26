@@ -1,0 +1,41 @@
+{
+    "fulltext": "芒干水, 00-00579, 1, 北2, 西2, 本図, 芒干水, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "芒干水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23885,4449,67,138",
+    "objectID": "N2W2(b)D1-03",
+    "sort": [
+        "00-00579"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23885,4449,67,138/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "芒干水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "小裕勒河, 02-00028, 1, 上, 1, 西域, 小裕勒河, 朱, 表, 1, A3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "小裕勒河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6919,828,242,69",
+    "objectID": "XT1(a)A3-13",
+    "sort": [
+        "02-00028"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6919,828,242,69/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "小裕勒河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

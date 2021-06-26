@@ -1,0 +1,41 @@
+{
+    "fulltext": "黃糊塗河, 00-04038, 3, 南2, 西4, 本図, 黃糊塗河, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "黃糊塗河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19402,9333,113,34",
+    "objectID": "S2W4(b)A1-01",
+    "sort": [
+        "00-04038"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19402,9333,113,34/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黃糊塗河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

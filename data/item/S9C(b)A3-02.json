@@ -1,0 +1,41 @@
+{
+    "fulltext": "沙河, 01-04086, 6, 南9, 中, 本図, 沙河, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "沙河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27884,20496,27,65",
+    "objectID": "S9C(b)A3-02",
+    "sort": [
+        "01-04086"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27884,20496,27,65/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沙河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

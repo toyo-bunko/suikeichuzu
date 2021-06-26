@@ -1,0 +1,41 @@
+{
+    "fulltext": "青雲山, 01-08203, 7, 南14, 西2, 本図, 青雲山, 朱, 裏, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "青雲山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23257,29226,84,33",
+    "objectID": "S14W2(b)D3-08",
+    "sort": [
+        "01-08203"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23257,29226,84,33/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "青雲山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

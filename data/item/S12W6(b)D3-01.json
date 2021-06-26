@@ -1,0 +1,41 @@
+{
+    "fulltext": "黔西, 01-07276, 7, 南12, 西6, 本図, 黔西, 朱, 裏, 23, D3",
+    "group": [
+        "main"
+    ],
+    "label": "黔西",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14032,26332,72,46",
+    "objectID": "S12W6(b)D3-01",
+    "sort": [
+        "01-07276"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14032,26332,72,46/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黔西"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "白塔河, 01-06294, 6, 南11, 中, 本図, 白塔河, 朱, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "白塔河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29296,24658,97,38",
+    "objectID": "S11C(a)D2-02",
+    "sort": [
+        "01-06294"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29296,24658,97,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白塔河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

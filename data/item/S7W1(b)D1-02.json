@@ -1,0 +1,44 @@
+{
+    "fulltext": "弋陽, 01-01878, 別記号か？, 5, 南7, 西1, 本図, 弋陽, 墨, 裏, 7, D1",
+    "group": [
+        "main"
+    ],
+    "label": "弋陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26495,18282,59,35",
+    "objectID": "S7W1(b)D1-02",
+    "sort": [
+        "01-01878"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26495,18282,59,35/200,/0/default.jpg",
+    "備考": [
+        "別記号か？"
+    ],
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "弋陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

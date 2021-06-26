@@ -1,0 +1,41 @@
+{
+    "fulltext": "曲沭戍, 00-07882, 4, 南5, 東1, 本図, 曲沭戍, 墨, 表, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "曲沭戍",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31342,14795,48,73",
+    "objectID": "S5E1(a)C3-03",
+    "sort": [
+        "00-07882"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31342,14795,48,73/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "曲沭戍"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

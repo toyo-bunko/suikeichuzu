@@ -1,0 +1,41 @@
+{
+    "fulltext": "羊頭阜, 00-01726, 2, 中, 中, 本図, 羊頭阜, 墨, 裏, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "羊頭阜",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27881,6482,33,89",
+    "objectID": "CC(b)A3-15",
+    "sort": [
+        "00-01726"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27881,6482,33,89/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羊頭阜"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "五甲山, 00-03118, 3, 南2, 東6, 本図, 五甲山, 朱, 表, 4, B3",
+    "group": [
+        "main"
+    ],
+    "label": "五甲山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=42716,9769,126,108",
+    "objectID": "S2E6(a)B3-03",
+    "sort": [
+        "00-03118"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/42716,9769,126,108/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "五甲山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

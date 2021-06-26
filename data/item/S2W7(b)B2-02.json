@@ -1,0 +1,41 @@
+{
+    "fulltext": "古浪, 00-04117, 3, 南2, 西7, 本図, 古浪, 朱, 裏, 19, B2",
+    "group": [
+        "main"
+    ],
+    "label": "古浪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11984,9988,37,65",
+    "objectID": "S2W7(b)B2-02",
+    "sort": [
+        "00-04117"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11984,9988,37,65/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "古浪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

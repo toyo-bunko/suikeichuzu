@@ -1,0 +1,41 @@
+{
+    "fulltext": "橐泉宮, 00-10462, 4, 南5, 西5, 本図, 橐泉宮, 墨, 裏, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "橐泉宮",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17030,14877,67,33",
+    "objectID": "S5W5(b)C1-22",
+    "sort": [
+        "00-10462"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17030,14877,67,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "橐泉宮"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

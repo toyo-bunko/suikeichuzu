@@ -1,0 +1,41 @@
+{
+    "fulltext": "均, 01-02238, 5, 南7, 西3, 本図, 均, 朱, 裏, 23, B1",
+    "group": [
+        "main"
+    ],
+    "label": "均",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21592,17657,36,33",
+    "objectID": "S7W3(b)B1-05",
+    "sort": [
+        "01-02238"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21592,17657,36,33/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "均"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

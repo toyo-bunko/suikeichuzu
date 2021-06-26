@@ -1,0 +1,41 @@
+{
+    "fulltext": "金華, 01-05384, 6, 南10, 東2, 本図, 金華, 朱, 裏, 18, D2",
+    "group": [
+        "main"
+    ],
+    "label": "金華",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32975,22951,30,63",
+    "objectID": "S10E2(b)D2-04",
+    "sort": [
+        "01-05384"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32975,22951,30,63/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "金華"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "楚之柤地, 00-07973, 4, 南5, 中, 本図, 楚之柤地, 墨, 表, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "楚之柤地",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29784,14188,147,49",
+    "objectID": "S5C(a)A1-05",
+    "sort": [
+        "00-07973"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29784,14188,147,49/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楚之柤地"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "籍端水, 00-02335, 2, 中, 西11, 本図, 籍端水, 墨, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "籍端水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=3079,6431,41,138",
+    "objectID": "CW11(b)A1-01",
+    "sort": [
+        "00-02335"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/3079,6431,41,138/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西11"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "籍端水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

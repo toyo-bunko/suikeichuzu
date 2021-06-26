@@ -1,0 +1,41 @@
+{
+    "fulltext": "故賴國, 01-03102, 5, 南8, 西2, 本図, 故賴國, 墨, 表, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "故賴國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24399,18815,87,42",
+    "objectID": "S8W2(a)A3-09",
+    "sort": [
+        "01-03102"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24399,18815,87,42/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故賴國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

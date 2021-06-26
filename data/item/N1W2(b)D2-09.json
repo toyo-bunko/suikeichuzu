@@ -1,0 +1,41 @@
+{
+    "fulltext": "善無, 00-01264, 2, 北1, 西2, 本図, 善無, 墨, 裏, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "善無",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23623,5954,62,42",
+    "objectID": "N1W2(b)D2-09",
+    "sort": [
+        "00-01264"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23623,5954,62,42/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "善無"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

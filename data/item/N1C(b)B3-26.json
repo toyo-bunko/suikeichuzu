@@ -1,0 +1,41 @@
+{
+    "fulltext": "靈亭, 00-00934, 2, 北1, 中, 本図, 靈亭, 墨, 裏, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "靈亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27740,5409,62,38",
+    "objectID": "N1C(b)B3-26",
+    "sort": [
+        "00-00934"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27740,5409,62,38/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "靈亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

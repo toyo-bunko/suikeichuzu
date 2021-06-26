@@ -1,0 +1,44 @@
+{
+    "fulltext": "經淹水, 01-07420, 經は動詞。, 7, 南12, 西10, 本図, 經淹水, 墨, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "經淹水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6377,26180,38,130",
+    "objectID": "S12W10(a)D2-02",
+    "sort": [
+        "01-07420"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6377,26180,38,130/200,/0/default.jpg",
+    "備考": [
+        "經は動詞。"
+    ],
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "經淹水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

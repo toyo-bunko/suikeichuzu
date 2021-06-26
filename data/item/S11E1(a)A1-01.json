@@ -1,0 +1,41 @@
+{
+    "fulltext": "懸石坂, 01-06217, 6, 南11, 東1, 本図, 懸石坂, 墨, 表, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "懸石坂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32015,23338,108,42",
+    "objectID": "S11E1(a)A1-01",
+    "sort": [
+        "01-06217"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32015,23338,108,42/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "懸石坂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

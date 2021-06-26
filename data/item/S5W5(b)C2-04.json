@@ -1,0 +1,41 @@
+{
+    "fulltext": "陳倉, 00-10476, 4, 南5, 西5, 本図, 陳倉, 墨, 裏, 10, C2",
+    "group": [
+        "main"
+    ],
+    "label": "陳倉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16854,14956,63,43",
+    "objectID": "S5W5(b)C2-04",
+    "sort": [
+        "00-10476"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16854,14956,63,43/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陳倉"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

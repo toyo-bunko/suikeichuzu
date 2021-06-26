@@ -1,0 +1,41 @@
+{
+    "fulltext": "哈拉奔那河, 00-01359, 2, 北1, 西3, 本図, 哈拉奔那河, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "哈拉奔那河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21746,5610,45,143",
+    "objectID": "N1W3(b)C1-04",
+    "sort": [
+        "00-01359"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21746,5610,45,143/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "哈拉奔那河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

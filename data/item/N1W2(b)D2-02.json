@@ -1,0 +1,41 @@
+{
+    "fulltext": "吐文山, 00-01257, 2, 北1, 西2, 本図, 吐文山, 墨, 裏, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "吐文山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23739,5889,67,40",
+    "objectID": "N1W2(b)D2-02",
+    "sort": [
+        "00-01257"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23739,5889,67,40/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "吐文山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

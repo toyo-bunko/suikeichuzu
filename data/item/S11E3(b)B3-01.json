@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄巖, 01-06169, 6, 南11, 東3, 本図, 黄巖, 朱, 裏, 19, B3",
+    "group": [
+        "main"
+    ],
+    "label": "黄巖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34955,23832,57,38",
+    "objectID": "S11E3(b)B3-01",
+    "sort": [
+        "01-06169"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34955,23832,57,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄巖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

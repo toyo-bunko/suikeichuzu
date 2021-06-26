@@ -1,0 +1,41 @@
+{
+    "fulltext": "窩接河, 01-09261, 7, 南15, 西10, 本図, 窩接河, 朱, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "窩接河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6541,29546,103,52",
+    "objectID": "S15W10(a)A1-01",
+    "sort": [
+        "01-09261"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6541,29546,103,52/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "窩接河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

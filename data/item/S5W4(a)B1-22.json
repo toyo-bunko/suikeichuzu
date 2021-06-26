@@ -1,0 +1,41 @@
+{
+    "fulltext": "自此出東崤通謂之函谷關, 00-09798, 4, 南5, 西4, 本図, 自此出東崤通謂之函谷關, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "自此出東崤通謂之函谷關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20609,14541,37,234",
+    "objectID": "S5W4(a)B1-22",
+    "sort": [
+        "00-09798"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20609,14541,37,234/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "自此出東崤通謂之函谷關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

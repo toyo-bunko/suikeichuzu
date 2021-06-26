@@ -1,0 +1,41 @@
+{
+    "fulltext": "瑞雲山, 01-08921, 7, 南15, 西3, 本図, 瑞雲山, 朱, 裏, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "瑞雲山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20847,30985,103,50",
+    "objectID": "S15W3(b)D3-07",
+    "sort": [
+        "01-08921"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20847,30985,103,50/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "瑞雲山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

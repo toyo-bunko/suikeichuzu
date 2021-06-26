@@ -1,0 +1,41 @@
+{
+    "fulltext": "繁昌, 01-00524, 5, 南6, 西2, 本図, 繁昌, 墨, 表, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "繁昌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25124,15670,68,43",
+    "objectID": "S6W2(a)A1-10",
+    "sort": [
+        "01-00524"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25124,15670,68,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "繁昌"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

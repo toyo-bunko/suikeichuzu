@@ -1,0 +1,41 @@
+{
+    "fulltext": "練庄河, 01-09225, 7, 南15, 西9, 本図, 練庄河, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "練庄河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8868,30673,60,103",
+    "objectID": "S15W9(a)C1-09",
+    "sort": [
+        "01-09225"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8868,30673,60,103/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "練庄河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

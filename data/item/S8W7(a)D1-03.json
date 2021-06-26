@@ -1,0 +1,41 @@
+{
+    "fulltext": "三台, 01-03608, 5, 南8, 西7, 本図, 三台, 朱 , 表, 7, D1",
+    "group": [
+        "main"
+    ],
+    "label": "三台",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13502,20033,60,32",
+    "objectID": "S8W7(a)D1-03",
+    "sort": [
+        "01-03608"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13502,20033,60,32/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三台"
+    ],
+    "墨朱": [
+        "朱 "
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

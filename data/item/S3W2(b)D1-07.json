@@ -1,0 +1,41 @@
+{
+    "fulltext": "長治, 00-05290, 4, 南3, 西2, 本図, 長治, 朱, 裏, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "長治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24161,12340,65,27",
+    "objectID": "S3W2(b)D1-07",
+    "sort": [
+        "00-05290"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24161,12340,65,27/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "長治"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

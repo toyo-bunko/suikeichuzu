@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍爪溪, 01-05928, 6, 南10, 西4, 本図, 龍爪溪, 朱, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "龍爪溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20025,23225,85,31",
+    "objectID": "S10W4(a)D2-06",
+    "sort": [
+        "01-05928"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20025,23225,85,31/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍爪溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

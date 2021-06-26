@@ -1,0 +1,41 @@
+{
+    "fulltext": "東漢改饒安, 00-03377, 3, 南2, 中, 本図, 東漢改饒安, 墨, 表, 6, A3",
+    "group": [
+        "main"
+    ],
+    "label": "東漢改饒安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29124,9426,135,46",
+    "objectID": "S2C(a)A3-02",
+    "sort": [
+        "00-03377"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29124,9426,135,46/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東漢改饒安"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

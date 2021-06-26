@@ -1,0 +1,41 @@
+{
+    "fulltext": "楚雄, 01-08641, 7, 南14, 西9, 本図, 楚雄, 朱, 裏, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "楚雄",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7898,29375,81,34",
+    "objectID": "S14W9(b)D1-03",
+    "sort": [
+        "01-08641"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7898,29375,81,34/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楚雄"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

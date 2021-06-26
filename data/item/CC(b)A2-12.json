@@ -1,0 +1,41 @@
+{
+    "fulltext": "北燕國, 00-01701, 2, 中, 中, 本図, 北燕國, 墨, 裏, 7, A2",
+    "group": [
+        "main"
+    ],
+    "label": "北燕國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28431,6393,29,65",
+    "objectID": "CC(b)A2-12",
+    "sort": [
+        "00-01701"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28431,6393,29,65/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北燕國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

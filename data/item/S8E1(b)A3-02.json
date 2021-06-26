@@ -1,0 +1,41 @@
+{
+    "fulltext": "古巢國, 01-02859, 5, 南8, 東1, 本図, 古巢國, 墨, 裏, 10, A3",
+    "group": [
+        "main"
+    ],
+    "label": "古巢國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30192,19010,66,41",
+    "objectID": "S8E1(b)A3-02",
+    "sort": [
+        "01-02859"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30192,19010,66,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "古巢國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

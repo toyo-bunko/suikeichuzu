@@ -1,0 +1,44 @@
+{
+    "fulltext": "晉改范陽, 00-01767, 11か？, 2, 中, 中, 本図, 晉改范陽, 墨, 裏, 7, B3",
+    "group": [
+        "main"
+    ],
+    "label": "晉改范陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27947,7007,86,30",
+    "objectID": "CC(b)B3-27",
+    "sort": [
+        "00-01767"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27947,7007,86,30/200,/0/default.jpg",
+    "備考": [
+        "11か？"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "晉改范陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

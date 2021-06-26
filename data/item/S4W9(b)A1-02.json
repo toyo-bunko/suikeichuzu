@@ -1,0 +1,41 @@
+{
+    "fulltext": "呼呼烏蘇河, 00-07802, 4, 南4, 西9, 本図, 呼呼烏蘇河, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "呼呼烏蘇河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7931,12582,43,148",
+    "objectID": "S4W9(b)A1-02",
+    "sort": [
+        "00-07802"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7931,12582,43,148/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呼呼烏蘇河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

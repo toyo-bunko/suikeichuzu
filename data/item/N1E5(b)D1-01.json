@@ -1,0 +1,41 @@
+{
+    "fulltext": "博川, 00-00656, 2, 北1, 東5, 本図, 博川, 朱, 裏, 26, D1",
+    "group": [
+        "main"
+    ],
+    "label": "博川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40027,6099,50,84",
+    "objectID": "N1E5(b)D1-01",
+    "sort": [
+        "00-00656"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40027,6099,50,84/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "博川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        26
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "二十九陂, 01-02125, 5, 南7, 西3, 本図, 二十九陂, 墨, 表, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "二十九陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22816,17411,41,111",
+    "objectID": "S7W3(a)A1-12",
+    "sort": [
+        "01-02125"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22816,17411,41,111/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "二十九陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

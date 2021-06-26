@@ -1,0 +1,41 @@
+{
+    "fulltext": "萬春山, 00-02505, 3, 南1, 中, 本図, 萬春山, 朱, 裏, 4, C2",
+    "group": [
+        "main"
+    ],
+    "label": "萬春山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28216,8816,88,33",
+    "objectID": "S1C(b)C2-03",
+    "sort": [
+        "00-02505"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28216,8816,88,33/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "萬春山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

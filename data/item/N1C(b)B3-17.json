@@ -1,0 +1,41 @@
+{
+    "fulltext": "温湯, 00-00926, 2, 北1, 中, 本図, 温湯, 墨, 裏, 4, B3",
+    "group": [
+        "main"
+    ],
+    "label": "温湯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27778,5237,82,77",
+    "objectID": "N1C(b)B3-17",
+    "sort": [
+        "00-00926"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27778,5237,82,77/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "温湯"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

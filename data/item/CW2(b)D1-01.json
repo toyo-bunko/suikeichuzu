@@ -1,0 +1,41 @@
+{
+    "fulltext": "句注東陘, 00-02183, 2, 中, 西2, 本図, 句注東陘, 墨, 裏, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "句注東陘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24114,7396,107,34",
+    "objectID": "CW2(b)D1-01",
+    "sort": [
+        "00-02183"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24114,7396,107,34/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "句注東陘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

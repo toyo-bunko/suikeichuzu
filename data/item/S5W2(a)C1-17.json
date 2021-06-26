@@ -1,0 +1,41 @@
+{
+    "fulltext": "章乗, 00-08784, 4, 南5, 西2, 本図, 章乗, 墨, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "章乗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25062,14909,43,23",
+    "objectID": "S5W2(a)C1-17",
+    "sort": [
+        "00-08784"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25062,14909,43,23/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "章乗"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

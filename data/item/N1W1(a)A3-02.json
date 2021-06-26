@@ -1,0 +1,41 @@
+{
+    "fulltext": "張家口, 00-00998, 2, 北1, 西1, 本図, 張家口, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "張家口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26670,4685,64,83",
+    "objectID": "N1W1(a)A3-02",
+    "sort": [
+        "00-00998"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26670,4685,64,83/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "張家口"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

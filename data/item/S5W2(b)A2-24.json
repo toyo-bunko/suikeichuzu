@@ -1,0 +1,41 @@
+{
+    "fulltext": "偃師, 00-08980, 4, 南5, 西2, 本図, 偃師, 朱, 裏, 19, A2",
+    "group": [
+        "main"
+    ],
+    "label": "偃師",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23826,14316,67,38",
+    "objectID": "S5W2(b)A2-24",
+    "sort": [
+        "00-08980"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23826,14316,67,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "偃師"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

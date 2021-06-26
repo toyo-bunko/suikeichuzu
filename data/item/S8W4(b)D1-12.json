@@ -1,0 +1,41 @@
+{
+    "fulltext": "故魚國, 01-03416, 5, 南8, 西4, 本図, 故魚國, 墨, 裏, 7, D1",
+    "group": [
+        "main"
+    ],
+    "label": "故魚國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19546,19928,67,28",
+    "objectID": "S8W4(b)D1-12",
+    "sort": [
+        "01-03416"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19546,19928,67,28/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故魚國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

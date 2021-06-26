@@ -1,0 +1,41 @@
+{
+    "fulltext": "羊腸坂, 00-02910, 3, 南1, 西3, 本図, 羊腸坂, 墨, 表, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "羊腸坂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22989,9065,99,41",
+    "objectID": "S1W3(a)D1-02",
+    "sort": [
+        "00-02910"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22989,9065,99,41/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羊腸坂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

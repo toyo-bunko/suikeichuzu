@@ -1,0 +1,41 @@
+{
+    "fulltext": "夔州, 05-00333, 8, 0, 0, 禹貢山水澤地所在, 夔州, 朱, 裏, 7, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "夔州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1886,1273,111,61",
+    "objectID": "YG(b)0-127",
+    "sort": [
+        "05-00333"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1886,1273,111,61/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "夔州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        0
+    ]
+}

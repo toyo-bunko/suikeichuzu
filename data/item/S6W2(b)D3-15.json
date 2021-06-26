@@ -1,0 +1,41 @@
+{
+    "fulltext": "南陽, 01-00789, 5, 南6, 西2, 本図, 南陽, 朱, 裏, 18, D3",
+    "group": [
+        "main"
+    ],
+    "label": "南陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23331,16885,65,37",
+    "objectID": "S6W2(b)D3-15",
+    "sort": [
+        "01-00789"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23331,16885,65,37/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

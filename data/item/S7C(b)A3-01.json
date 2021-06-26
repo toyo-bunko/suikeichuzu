@@ -1,0 +1,41 @@
+{
+    "fulltext": "百尺水, 01-01633, 5, 南7, 中, 本図, 百尺水, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "百尺水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27863,17116,42,95",
+    "objectID": "S7C(b)A3-01",
+    "sort": [
+        "01-01633"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27863,17116,42,95/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "百尺水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

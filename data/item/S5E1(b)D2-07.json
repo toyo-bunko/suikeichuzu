@@ -1,0 +1,44 @@
+{
+    "fulltext": "白門, 00-07957, 町ではないが、町の一部, 4, 南5, 東1, 本図, 白門, 墨, 裏, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "白門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30679,15332,53,32",
+    "objectID": "S5E1(b)D2-07",
+    "sort": [
+        "00-07957"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30679,15332,53,32/200,/0/default.jpg",
+    "備考": [
+        "町ではないが、町の一部"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

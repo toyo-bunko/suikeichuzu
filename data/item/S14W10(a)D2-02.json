@@ -1,0 +1,41 @@
+{
+    "fulltext": "陽江, 01-08690, 7, 南14, 西10, 本図, 陽江, 朱, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "陽江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6208,29151,77,47",
+    "objectID": "S14W10(a)D2-02",
+    "sort": [
+        "01-08690"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6208,29151,77,47/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陽江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

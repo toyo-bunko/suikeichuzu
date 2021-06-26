@@ -1,0 +1,41 @@
+{
+    "fulltext": "如皋, 01-01428, 5, 南7, 東2, 本図, 如皋, 朱, 表, 19, C3",
+    "group": [
+        "main"
+    ],
+    "label": "如皋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33576,17967,45,66",
+    "objectID": "S7E2(a)C3-01",
+    "sort": [
+        "01-01428"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33576,17967,45,66/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "如皋"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

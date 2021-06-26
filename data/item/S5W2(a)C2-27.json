@@ -1,0 +1,41 @@
+{
+    "fulltext": "雞鳴城, 00-08829, 4, 南5, 西2, 本図, 雞鳴城, 墨, 表, 16, C2",
+    "group": [
+        "main"
+    ],
+    "label": "雞鳴城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24988,15034,77,28",
+    "objectID": "S5W2(a)C2-27",
+    "sort": [
+        "00-08829"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24988,15034,77,28/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雞鳴城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

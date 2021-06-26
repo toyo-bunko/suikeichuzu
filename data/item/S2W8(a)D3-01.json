@@ -1,0 +1,41 @@
+{
+    "fulltext": "西都爾漢之舊和屯, 00-04132, 3, 南2, 西8, 本図, 西都爾漢之舊和屯, 朱, 表, 18, D3",
+    "group": [
+        "main"
+    ],
+    "label": "西都爾漢之舊和屯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10472,10591,82,81",
+    "objectID": "S2W8(a)D3-01",
+    "sort": [
+        "00-04132"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10472,10591,82,81/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西都爾漢之舊和屯"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

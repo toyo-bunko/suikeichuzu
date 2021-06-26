@@ -1,0 +1,41 @@
+{
+    "fulltext": "濁水, 00-03276, 3, 南2, 東1, 本図, 濁水, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "濁水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31440,10784,92,49",
+    "objectID": "S2E1(a)D3-03",
+    "sort": [
+        "00-03276"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31440,10784,92,49/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濁水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

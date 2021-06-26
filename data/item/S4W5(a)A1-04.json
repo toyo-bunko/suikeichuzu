@@ -1,0 +1,41 @@
+{
+    "fulltext": "大延水, 00-07415, 4, 南4, 西5, 本図, 大延水, 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "大延水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18220,12758,115,75",
+    "objectID": "S4W5(a)A1-04",
+    "sort": [
+        "00-07415"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18220,12758,115,75/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大延水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

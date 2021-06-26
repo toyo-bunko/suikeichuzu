@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣豐, 01-06252, 6, 南11, 東1, 本図, 廣豐, 朱, 裏, 19, B1",
+    "group": [
+        "main"
+    ],
+    "label": "廣豐",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30952,24013,66,36",
+    "objectID": "S11E1(b)B1-01",
+    "sort": [
+        "01-06252"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30952,24013,66,36/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "廣豐"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

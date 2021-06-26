@@ -1,0 +1,41 @@
+{
+    "fulltext": "歸化, 01-08446, 7, 南14, 西7, 本図, 歸化, 朱, 表, 21, A1",
+    "group": [
+        "main"
+    ],
+    "label": "歸化",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13777,28214,80,48",
+    "objectID": "S14W7(a)A1-01",
+    "sort": [
+        "01-08446"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13777,28214,80,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "歸化"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        21
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

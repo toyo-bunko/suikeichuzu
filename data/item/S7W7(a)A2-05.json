@@ -1,0 +1,41 @@
+{
+    "fulltext": "長松, 01-02549, 5, 南7, 西7, 本図, 長松, 墨, 表, 8, A2",
+    "group": [
+        "main"
+    ],
+    "label": "長松",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13367,17373,56,79",
+    "objectID": "S7W7(a)A2-05",
+    "sort": [
+        "01-02549"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13367,17373,56,79/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "長松"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

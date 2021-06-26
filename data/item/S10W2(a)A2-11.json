@@ -1,0 +1,44 @@
+{
+    "fulltext": "蒲圻洲, 01-05610, 中洲, 6, 南10, 西2, 本図, 蒲圻洲, 墨, 表, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "蒲圻洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24749,21846,30,63",
+    "objectID": "S10W2(a)A2-11",
+    "sort": [
+        "01-05610"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24749,21846,30,63/200,/0/default.jpg",
+    "備考": [
+        "中洲"
+    ],
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蒲圻洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

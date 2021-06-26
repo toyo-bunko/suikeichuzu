@@ -1,0 +1,41 @@
+{
+    "fulltext": "章門, 04-00326, 8, 0, 0, 長安城図, 章門, 墨, 裏, 34, 0",
+    "group": [
+        "jouzu04_chouan"
+    ],
+    "label": "章門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=853,2102,121,76",
+    "objectID": "CTCA(b)0-32",
+    "sort": [
+        "04-00326"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/853,2102,121,76/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "長安城図"
+    ],
+    "地名/記述": [
+        "章門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        0
+    ]
+}

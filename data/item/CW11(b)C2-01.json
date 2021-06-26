@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍勒, 00-02338, 2, 中, 西11, 本図, 龍勒, 墨, 裏, 8, C2",
+    "group": [
+        "main"
+    ],
+    "label": "龍勒",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=2984,7005,108,46",
+    "objectID": "CW11(b)C2-01",
+    "sort": [
+        "00-02338"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/2984,7005,108,46/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西11"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍勒"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "采石磯, 01-02844, 5, 南8, 東1, 本図, 采石磯, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "采石磯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31097,18986,78,102",
+    "objectID": "S8E1(b)A1-05",
+    "sort": [
+        "01-02844"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31097,18986,78,102/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "采石磯"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

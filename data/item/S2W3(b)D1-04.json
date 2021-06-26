@@ -1,0 +1,41 @@
+{
+    "fulltext": "石樓, 00-03989, 3, 南2, 西3, 本図, 石樓, 朱, 裏, 19, D1",
+    "group": [
+        "main"
+    ],
+    "label": "石樓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21608,10798,54,36",
+    "objectID": "S2W3(b)D1-04",
+    "sort": [
+        "00-03989"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21608,10798,54,36/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石樓"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

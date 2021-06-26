@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬跑泉, 00-02882, 3, 南1, 西3, 本図, 馬跑泉, 朱, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "馬跑泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22811,8111,92,41",
+    "objectID": "S1W3(a)A1-03",
+    "sort": [
+        "00-02882"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22811,8111,92,41/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "馬跑泉"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

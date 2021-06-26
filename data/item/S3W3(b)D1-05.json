@@ -1,0 +1,41 @@
+{
+    "fulltext": "崿谷水, 00-05440, 4, 南3, 西3, 本図, 崿谷水, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "崿谷水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21611,12253,55,121",
+    "objectID": "S3W3(b)D1-05",
+    "sort": [
+        "00-05440"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21611,12253,55,121/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "崿谷水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

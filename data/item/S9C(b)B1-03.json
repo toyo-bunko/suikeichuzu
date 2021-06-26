@@ -1,0 +1,41 @@
+{
+    "fulltext": "王家河, 01-04090, 6, 南9, 中, 本図, 王家河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "王家河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28662,20810,30,85",
+    "objectID": "S9C(b)B1-03",
+    "sort": [
+        "01-04090"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28662,20810,30,85/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "王家河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

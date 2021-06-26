@@ -1,0 +1,41 @@
+{
+    "fulltext": "蹬子河, 01-03508, 5, 南8, 西5, 本図, 蹬子河, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "蹬子河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16976,19735,41,93",
+    "objectID": "S8W5(b)C1-03",
+    "sort": [
+        "01-03508"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16976,19735,41,93/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蹬子河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

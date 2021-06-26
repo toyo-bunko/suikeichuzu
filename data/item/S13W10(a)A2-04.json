@@ -1,0 +1,41 @@
+{
+    "fulltext": "白沙河, 01-07965, 7, 南13, 西10, 本図, 白沙河, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "白沙河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6319,26435,40,87",
+    "objectID": "S13W10(a)A2-04",
+    "sort": [
+        "01-07965"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6319,26435,40,87/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白沙河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "冀谷, 00-10738, 4, 南5, 西6, 本図, 冀谷, 墨, 裏, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "冀谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14596,14581,52,33",
+    "objectID": "S5W6(b)B1-22",
+    "sort": [
+        "00-10738"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14596,14581,52,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "冀谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

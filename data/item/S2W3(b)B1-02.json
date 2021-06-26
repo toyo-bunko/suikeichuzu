@@ -1,0 +1,41 @@
+{
+    "fulltext": "三川河, 00-03975, 3, 南2, 西3, 本図, 三川河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "三川河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21748,10043,73,37",
+    "objectID": "S2W3(b)B1-02",
+    "sort": [
+        "00-03975"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21748,10043,73,37/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三川河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

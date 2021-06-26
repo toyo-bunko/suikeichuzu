@@ -1,0 +1,41 @@
+{
+    "fulltext": "大防嶺, 00-01719, 2, 中, 中, 本図, 大防嶺, 墨, 裏, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "大防嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27691,6428,106,53",
+    "objectID": "CC(b)A3-08",
+    "sort": [
+        "00-01719"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27691,6428,106,53/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大防嶺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

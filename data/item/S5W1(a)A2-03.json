@@ -1,0 +1,41 @@
+{
+    "fulltext": "考城, 00-08219, 4, 南5, 西1, 本図, 考城, 朱, 表, 19, A2",
+    "group": [
+        "main"
+    ],
+    "label": "考城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27140,14102,61,38",
+    "objectID": "S5W1(a)A2-03",
+    "sort": [
+        "00-08219"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27140,14102,61,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "考城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "柳泉, 00-10318, 4, 南5, 西5, 本図, 柳泉, 墨, 表, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "柳泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18332,15412,25,37",
+    "objectID": "S5W5(a)D1-10",
+    "sort": [
+        "00-10318"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18332,15412,25,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "柳泉"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

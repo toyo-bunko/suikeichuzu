@@ -1,0 +1,41 @@
+{
+    "fulltext": "莫吾南川水, 00-07512, 4, 南4, 西6, 本図, 莫吾南川水, 墨, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "莫吾南川水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15299,12429,129,164",
+    "objectID": "S4W6(a)A3-02",
+    "sort": [
+        "00-07512"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15299,12429,129,164/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "莫吾南川水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

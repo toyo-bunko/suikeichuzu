@@ -1,0 +1,41 @@
+{
+    "fulltext": "漳河, 01-03297, 5, 南8, 西3, 本図, 漳河, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "漳河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22116,19511,66,35",
+    "objectID": "S8W3(a)C3-02",
+    "sort": [
+        "01-03297"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22116,19511,66,35/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漳河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

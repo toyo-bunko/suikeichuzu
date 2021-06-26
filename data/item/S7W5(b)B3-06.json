@@ -1,0 +1,41 @@
+{
+    "fulltext": "宕渠水出巴嶺與磐余水同源派注謂之北水, 01-02435, 5, 南7, 西5, 本図, 宕渠水出巴嶺與磐余水同源派注謂之北水, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "宕渠水出巴嶺與磐余水同源派注謂之北水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16167,17752,149,175",
+    "objectID": "S7W5(b)B3-06",
+    "sort": [
+        "01-02435"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16167,17752,149,175/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宕渠水出巴嶺與磐余水同源派注謂之北水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

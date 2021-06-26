@@ -1,0 +1,41 @@
+{
+    "fulltext": "大夾江, 01-05211, 6, 南10, 東3, 本図, 大夾江, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "大夾江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35073,21775,91,25",
+    "objectID": "S10E3(b)A2-01",
+    "sort": [
+        "01-05211"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35073,21775,91,25/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大夾江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

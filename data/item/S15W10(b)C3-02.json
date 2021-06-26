@@ -1,0 +1,41 @@
+{
+    "fulltext": "南甸河, 01-09302, 7, 南15, 西10, 本図, 南甸河, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "南甸河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4623,30549,109,43",
+    "objectID": "S15W10(b)C3-02",
+    "sort": [
+        "01-09302"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4623,30549,109,43/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南甸河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "自鮑邱水之南南極滹沱西至泉州雍奴東極于海謂之雍奴藪, 00-01656, 2, 中, 中, 本図, 自鮑邱水之南南極滹沱西至泉州雍奴東極于海謂之雍奴藪, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "自鮑邱水之南南極滹沱西至泉州雍奴東極于海謂之雍奴藪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29837,7049,129,219",
+    "objectID": "CC(a)C1-02",
+    "sort": [
+        "00-01656"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29837,7049,129,219/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "自鮑邱水之南南極滹沱西至泉州雍奴東極于海謂之雍奴藪"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

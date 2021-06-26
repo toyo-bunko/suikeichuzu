@@ -1,0 +1,41 @@
+{
+    "fulltext": "洛陽, 00-09135, 4, 南5, 西2, 本図, 洛陽, 朱, 裏, 18, B3",
+    "group": [
+        "main"
+    ],
+    "label": "洛陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23338,14377,71,34",
+    "objectID": "S5W2(b)B3-02",
+    "sort": [
+        "00-09135"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23338,14377,71,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洛陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "獂道, 00-10901, 音は「カン」, 4, 南5, 西7, 本図, 獂道, 墨, 表, 7, A1",
+    "group": [
+        "main"
+    ],
+    "label": "獂道",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13783,14182,72,36",
+    "objectID": "S5W7(a)A1-05",
+    "sort": [
+        "00-10901"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13783,14182,72,36/200,/0/default.jpg",
+    "備考": [
+        "音は「カン」"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "獂道"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

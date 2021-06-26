@@ -1,0 +1,41 @@
+{
+    "fulltext": "府谷, 00-02237, 2, 中, 西3, 本図, 府谷, 朱, 裏, 19, D1",
+    "group": [
+        "main"
+    ],
+    "label": "府谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21603,7545,68,64",
+    "objectID": "CW3(b)D1-06",
+    "sort": [
+        "00-02237"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21603,7545,68,64/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "府谷"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

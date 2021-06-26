@@ -1,0 +1,41 @@
+{
+    "fulltext": "高陽, 00-02497, 3, 南1, 中, 本図, 高陽, 墨, 裏, 8, B3",
+    "group": [
+        "main"
+    ],
+    "label": "高陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27927,8223,62,75",
+    "objectID": "S1C(b)B3-05",
+    "sort": [
+        "00-02497"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27927,8223,62,75/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

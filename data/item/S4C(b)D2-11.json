@@ -1,0 +1,41 @@
+{
+    "fulltext": "昌邑, 00-06277, 4, 南4, 中, 本図, 昌邑, 墨, 裏, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "昌邑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28082,13646,56,34",
+    "objectID": "S4C(b)D2-11",
+    "sort": [
+        "00-06277"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28082,13646,56,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "昌邑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

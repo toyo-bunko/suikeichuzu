@@ -1,0 +1,41 @@
+{
+    "fulltext": "孝子堂, 00-04809, 4, 南3, 中, 本図, 孝子堂, 墨, 裏, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "孝子堂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28783,11608,71,31",
+    "objectID": "S3C(b)B1-03",
+    "sort": [
+        "00-04809"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28783,11608,71,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "孝子堂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

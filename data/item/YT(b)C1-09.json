@@ -1,0 +1,41 @@
+{
+    "fulltext": "臨洮, 03-00091, 8, 越南, 上, 越南, 臨洮, 朱, 裏, 18, C1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "臨洮",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1873,2089,168,91",
+    "objectID": "YT(b)C1-09",
+    "sort": [
+        "03-00091"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1873,2089,168,91/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "臨洮"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

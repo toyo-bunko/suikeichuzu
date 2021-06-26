@@ -1,0 +1,41 @@
+{
+    "fulltext": "曲沃, 00-07076, 4, 南4, 西3, 本図, 曲沃, 朱, 表, 19, B3",
+    "group": [
+        "main"
+    ],
+    "label": "曲沃",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22268,12986,59,28",
+    "objectID": "S4W3(a)B3-03",
+    "sort": [
+        "00-07076"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22268,12986,59,28/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "曲沃"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

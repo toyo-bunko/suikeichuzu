@@ -1,0 +1,41 @@
+{
+    "fulltext": "亦曰歎歩, 01-04399, 6, 南9, 西2, 本図, 亦曰歎歩, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "亦曰歎歩",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25186,20901,77,65",
+    "objectID": "S9W2(a)B1-31",
+    "sort": [
+        "01-04399"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25186,20901,77,65/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "亦曰歎歩"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

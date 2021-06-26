@@ -1,0 +1,41 @@
+{
+    "fulltext": "慈山, 00-01476, 2, 中, 東5, 本図, 慈山, 朱, 表, 26, C3",
+    "group": [
+        "main"
+    ],
+    "label": "慈山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40523,7181,66,86",
+    "objectID": "CE5(a)C3-01",
+    "sort": [
+        "00-01476"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40523,7181,66,86/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "慈山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        26
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

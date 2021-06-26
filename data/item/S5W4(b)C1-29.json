@@ -1,0 +1,41 @@
+{
+    "fulltext": "白渠枝口, 00-10034, 4, 南5, 西4, 本図, 白渠枝口, 墨, 裏, 2, C1",
+    "group": [
+        "main"
+    ],
+    "label": "白渠枝口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19196,14769,71,52",
+    "objectID": "S5W4(b)C1-29",
+    "sort": [
+        "00-10034"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19196,14769,71,52/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白渠枝口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

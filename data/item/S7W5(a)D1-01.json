@@ -1,0 +1,41 @@
+{
+    "fulltext": "八道河, 01-02388, 5, 南7, 西5, 本図, 八道河, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "八道河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18365,18272,97,42",
+    "objectID": "S7W5(a)D1-01",
+    "sort": [
+        "01-02388"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18365,18272,97,42/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "八道河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

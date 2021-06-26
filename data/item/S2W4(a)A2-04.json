@@ -1,0 +1,41 @@
+{
+    "fulltext": "五龍山, 00-04007, 3, 南2, 西4, 本図, 五龍山, 墨, 表, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "五龍山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20069,9356,36,104",
+    "objectID": "S2W4(a)A2-04",
+    "sort": [
+        "00-04007"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20069,9356,36,104/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "五龍山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

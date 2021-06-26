@@ -1,0 +1,41 @@
+{
+    "fulltext": "巴水, 01-03502, 5, 南8, 西5, 本図, 巴水, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "巴水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16428,18771,40,61",
+    "objectID": "S8W5(b)A3-02",
+    "sort": [
+        "01-03502"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16428,18771,40,61/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "巴水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}
