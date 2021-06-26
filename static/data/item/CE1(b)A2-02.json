@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍鮮水, 00-01592, 2, 中, 東1, 本図, 龍鮮水, 墨, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "龍鮮水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30665,6231,45,137",
+    "objectID": "CE1(b)A2-02",
+    "sort": [
+        "00-01592"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30665,6231,45,137/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍鮮水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

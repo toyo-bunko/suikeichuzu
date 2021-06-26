@@ -1,0 +1,41 @@
+{
+    "fulltext": "洸水, 00-06049, 4, 南4, 中, 本図, 洸水, 墨, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "洸水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29197,12491,57,67",
+    "objectID": "S4C(a)A3-01",
+    "sort": [
+        "00-06049"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29197,12491,57,67/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洸水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

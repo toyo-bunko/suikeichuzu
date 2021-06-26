@@ -1,0 +1,41 @@
+{
+    "fulltext": "北魏吐軍郡治, 00-03994, 3, 南2, 西3, 本図, 北魏吐軍郡治, 墨, 裏, 14, D2",
+    "group": [
+        "main"
+    ],
+    "label": "北魏吐軍郡治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21306,10701,104,65",
+    "objectID": "S2W3(b)D2-03",
+    "sort": [
+        "00-03994"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21306,10701,104,65/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北魏吐軍郡治"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        14
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

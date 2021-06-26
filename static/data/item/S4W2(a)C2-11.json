@@ -1,0 +1,41 @@
+{
+    "fulltext": "即呉澤, 00-06749, 4, 南4, 西2, 本図, 即呉澤, 墨, 表, 5, C2",
+    "group": [
+        "main"
+    ],
+    "label": "即呉澤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24923,13446,96,50",
+    "objectID": "S4W2(a)C2-11",
+    "sort": [
+        "00-06749"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24923,13446,96,50/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即呉澤"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

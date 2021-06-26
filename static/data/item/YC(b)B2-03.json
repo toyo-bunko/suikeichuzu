@@ -1,0 +1,41 @@
+{
+    "fulltext": "九德郡, 03-00190, 8, 越南, 中, 越南, 九德郡, 墨, 裏, 7, B2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "九德郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1344,3966,140,69",
+    "objectID": "YC(b)B2-03",
+    "sort": [
+        "03-00190"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1344,3966,140,69/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "九德郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

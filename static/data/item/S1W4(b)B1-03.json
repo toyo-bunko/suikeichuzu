@@ -1,0 +1,41 @@
+{
+    "fulltext": "沙陵, 00-02977, 3, 南1, 西4, 本図, 沙陵, 墨, 裏, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "沙陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19416,8259,39,87",
+    "objectID": "S1W4(b)B1-03",
+    "sort": [
+        "00-02977"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19416,8259,39,87/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沙陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

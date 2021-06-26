@@ -1,0 +1,41 @@
+{
+    "fulltext": "鳳陽門, 04-00083, 8, 0, 0, 鄴城図, 鳳陽門, 墨, 表, 34, 0",
+    "group": [
+        "jouzu02_gyoujou"
+    ],
+    "label": "鳳陽門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=1682,2472,214,79",
+    "objectID": "CTYC(a)0-35",
+    "sort": [
+        "04-00083"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/1682,2472,214,79/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "鄴城図"
+    ],
+    "地名/記述": [
+        "鳳陽門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        0
+    ]
+}

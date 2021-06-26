@@ -1,0 +1,41 @@
+{
+    "fulltext": "安岳, 00-02386, 3, 南1, 東5, 本図, 安岳, 朱, 裏, 19, B3",
+    "group": [
+        "main"
+    ],
+    "label": "安岳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39510,8475,71,70",
+    "objectID": "S1E5(b)B3-01",
+    "sort": [
+        "00-02386"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39510,8475,71,70/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "安岳"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

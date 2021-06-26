@@ -1,0 +1,41 @@
+{
+    "fulltext": "高陽僑郡, 00-03332, 3, 南2, 東1, 本図, 高陽僑郡, 墨, 裏, 7, D1",
+    "group": [
+        "main"
+    ],
+    "label": "高陽僑郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30927,10758,53,48",
+    "objectID": "S2E1(b)D1-17",
+    "sort": [
+        "00-03332"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30927,10758,53,48/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高陽僑郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

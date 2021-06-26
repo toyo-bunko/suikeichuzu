@@ -1,0 +1,41 @@
+{
+    "fulltext": "扎遜池, 00-07817, 4, 南4, 西10, 本図, 扎遜池, 朱, 表, 5, D2",
+    "group": [
+        "main"
+    ],
+    "label": "扎遜池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6228,13654,103,41",
+    "objectID": "S4W10(a)D2-01",
+    "sort": [
+        "00-07817"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6228,13654,103,41/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "扎遜池"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

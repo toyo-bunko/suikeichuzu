@@ -1,0 +1,41 @@
+{
+    "fulltext": "陰溝水故瀆, 00-06662, 4, 南4, 西1, 本図, 陰溝水故瀆, 墨, 裏, 2, D3",
+    "group": [
+        "main"
+    ],
+    "label": "陰溝水故瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25742,13871,82,128",
+    "objectID": "S4W1(b)D3-08",
+    "sort": [
+        "00-06662"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25742,13871,82,128/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陰溝水故瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "討綱港, 01-10120, 8, 南19, 西5, 本図, 討綱港, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "討綱港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18288,36905,62,96",
+    "objectID": "S19W5(a)D1-01",
+    "sort": [
+        "01-10120"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18288,36905,62,96/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南19"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "討綱港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

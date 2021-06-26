@@ -1,0 +1,41 @@
+{
+    "fulltext": "石堰, 00-06485, 4, 南4, 西1, 本図, 石堰, 墨, 裏, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "石堰",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25904,12757,44,26",
+    "objectID": "S4W1(b)A2-17",
+    "sort": [
+        "00-06485"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25904,12757,44,26/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石堰"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

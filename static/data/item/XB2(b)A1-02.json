@@ -1,0 +1,41 @@
+{
+    "fulltext": "給爾滿, 02-00324, 1, 下, 2, 西域, 給爾滿, 朱, 裏, 0, A1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "給爾滿",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=1626,3482,225,96",
+    "objectID": "XB2(b)A1-02",
+    "sort": [
+        "02-00324"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/1626,3482,225,96/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        2
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "給爾滿"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

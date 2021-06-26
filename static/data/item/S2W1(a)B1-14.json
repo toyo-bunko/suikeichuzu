@@ -1,0 +1,41 @@
+{
+    "fulltext": "故安城鄕, 00-03580, 3, 南2, 西1, 本図, 故安城鄕, 墨, 表, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "故安城鄕",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27383,10016,127,60",
+    "objectID": "S2W1(a)B1-14",
+    "sort": [
+        "00-03580"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27383,10016,127,60/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故安城鄕"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

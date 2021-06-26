@@ -1,0 +1,44 @@
+{
+    "fulltext": "二石人, 00-10109, 2点あり, 4, 南5, 西4, 本図, 二石人, 墨, 裏, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "二石人",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18749,15007,45,20",
+    "objectID": "S5W4(b)C3-24",
+    "sort": [
+        "00-10109"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18749,15007,45,20/200,/0/default.jpg",
+    "備考": [
+        "2点あり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "二石人"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

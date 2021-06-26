@@ -1,0 +1,41 @@
+{
+    "fulltext": "隆水, 01-08845, 7, 南15, 西2, 本図, 隆水, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "隆水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23937,30722,72,52",
+    "objectID": "S15W2(b)D1-01",
+    "sort": [
+        "01-08845"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23937,30722,72,52/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "隆水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

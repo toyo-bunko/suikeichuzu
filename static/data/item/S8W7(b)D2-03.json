@@ -1,0 +1,41 @@
+{
+    "fulltext": "鴨子河, 01-03653, 5, 南8, 西7, 本図, 鴨子河, 朱 , 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "鴨子河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12122,20069,93,36",
+    "objectID": "S8W7(b)D2-03",
+    "sort": [
+        "01-03653"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12122,20069,93,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鴨子河"
+    ],
+    "墨朱": [
+        "朱 "
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

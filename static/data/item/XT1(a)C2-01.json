@@ -1,0 +1,41 @@
+{
+    "fulltext": "大江源, 02-00070, 1, 上, 1, 西域, 大江源, 朱, 表, 1, C2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "大江源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8288,2852,96,204",
+    "objectID": "XT1(a)C2-01",
+    "sort": [
+        "02-00070"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8288,2852,96,204/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "大江源"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

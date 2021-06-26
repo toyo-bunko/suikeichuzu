@@ -1,0 +1,41 @@
+{
+    "fulltext": "貼渠, 00-04109, 3, 南2, 西6, 本図, 貼渠, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "貼渠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14660,10027,60,31",
+    "objectID": "S2W6(b)B1-03",
+    "sort": [
+        "00-04109"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14660,10027,60,31/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "貼渠"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

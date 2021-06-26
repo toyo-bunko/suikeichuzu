@@ -1,0 +1,41 @@
+{
+    "fulltext": "察哈爾右翼正紅旗, 00-00571, 1, 北2, 西2, 本図, 察哈爾右翼正紅旗, 朱, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "察哈爾右翼正紅旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24652,3510,60,113",
+    "objectID": "N2W2(a)B2-01",
+    "sort": [
+        "00-00571"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24652,3510,60,113/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "察哈爾右翼正紅旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "獨石水, 00-00532, 1, 北2, 中, 本図, 獨石水, 朱, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "獨石水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27735,4480,94,36",
+    "objectID": "N2C(b)D3-07",
+    "sort": [
+        "00-00532"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27735,4480,94,36/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "獨石水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

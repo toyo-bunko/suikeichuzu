@@ -1,0 +1,41 @@
+{
+    "fulltext": "壺水, 00-01097, 2, 北1, 西1, 本図, 壺水, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "壺水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26273,5958,97,40",
+    "objectID": "N1W1(b)D1-03",
+    "sort": [
+        "00-01097"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26273,5958,97,40/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "壺水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

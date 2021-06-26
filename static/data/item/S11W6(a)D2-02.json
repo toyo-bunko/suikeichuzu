@@ -1,0 +1,41 @@
+{
+    "fulltext": "桐梓, 01-06734, 6, 南11, 西6, 本図, 桐梓, 朱, 表, 19, D2",
+    "group": [
+        "main"
+    ],
+    "label": "桐梓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15367,24795,70,37",
+    "objectID": "S11W6(a)D2-02",
+    "sort": [
+        "01-06734"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15367,24795,70,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桐梓"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

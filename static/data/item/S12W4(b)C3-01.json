@@ -1,0 +1,41 @@
+{
+    "fulltext": "沅州, 01-07171, 7, 南12, 西4, 本図, 沅州, 朱, 裏, 18, C3",
+    "group": [
+        "main"
+    ],
+    "label": "沅州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18826,25785,83,35",
+    "objectID": "S12W4(b)C3-01",
+    "sort": [
+        "01-07171"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18826,25785,83,35/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沅州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

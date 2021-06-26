@@ -1,0 +1,41 @@
+{
+    "fulltext": "石穴, 01-05869, 6, 南10, 西3, 本図, 石穴, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "石穴",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20873,22791,76,32",
+    "objectID": "S10W3(b)C3-03",
+    "sort": [
+        "01-05869"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20873,22791,76,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石穴"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

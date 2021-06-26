@@ -1,0 +1,41 @@
+{
+    "fulltext": "昭陵, 00-00338, 1, 北2, 東3, 本図, 昭陵, 朱, 表, 33, A1",
+    "group": [
+        "main"
+    ],
+    "label": "昭陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=36542,3159,73,66",
+    "objectID": "N2E3(a)A1-06",
+    "sort": [
+        "00-00338"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/36542,3159,73,66/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "昭陵"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        33
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

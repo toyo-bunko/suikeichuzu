@@ -1,0 +1,41 @@
+{
+    "fulltext": "南漳, 01-03260, 5, 南8, 西3, 本図, 南漳, 朱, 表, 19, A3",
+    "group": [
+        "main"
+    ],
+    "label": "南漳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22176,18936,63,40",
+    "objectID": "S8W3(a)A3-09",
+    "sort": [
+        "01-03260"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22176,18936,63,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南漳"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

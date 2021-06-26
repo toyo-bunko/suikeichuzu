@@ -1,0 +1,41 @@
+{
+    "fulltext": "御路, 00-01176, 2, 北1, 西2, 本図, 御路, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "御路",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24661,6112,59,34",
+    "objectID": "N1W2(a)D2-16",
+    "sort": [
+        "00-01176"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24661,6112,59,34/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "御路"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

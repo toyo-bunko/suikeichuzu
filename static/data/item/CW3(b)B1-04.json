@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄甫川, 00-02222, 2, 中, 西3, 本図, 黄甫川, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "黄甫川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21586,6955,81,37",
+    "objectID": "CW3(b)B1-04",
+    "sort": [
+        "00-02222"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21586,6955,81,37/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄甫川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "落里河, 01-04126, 6, 南9, 西1, 本図, 落里河, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "落里河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27290,20308,34,88",
+    "objectID": "S9W1(a)A2-01",
+    "sort": [
+        "01-04126"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27290,20308,34,88/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "落里河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "托克托城, 00-01314, 2, 北1, 西3, 本図, 托克托城, 朱, 表, 21, C1",
+    "group": [
+        "main"
+    ],
+    "label": "托克托城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22986,5428,59,96",
+    "objectID": "N1W3(a)C1-01",
+    "sort": [
+        "00-01314"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22986,5428,59,96/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "托克托城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        21
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

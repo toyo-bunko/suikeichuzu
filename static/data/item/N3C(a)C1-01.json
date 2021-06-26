@@ -1,0 +1,41 @@
+{
+    "fulltext": "五谷代河, 00-00223, 1, 北3, 中, 本図, 五谷代河, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "五谷代河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29673,2329,124,36",
+    "objectID": "N3C(a)C1-01",
+    "sort": [
+        "00-00223"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29673,2329,124,36/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "五谷代河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "鍾乳穴, 01-03168, 5, 南8, 西2, 本図, 鍾乳穴, 墨, 裏, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "鍾乳穴",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23676,19254,46,87",
+    "objectID": "S8W2(b)B2-13",
+    "sort": [
+        "01-03168"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23676,19254,46,87/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鍾乳穴"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

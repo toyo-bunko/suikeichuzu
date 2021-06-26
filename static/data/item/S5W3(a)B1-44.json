@@ -1,0 +1,41 @@
+{
+    "fulltext": "石墨山, 00-09416, 4, 南5, 西3, 本図, 石墨山, 墨, 表, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "石墨山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23019,14744,70,34",
+    "objectID": "S5W3(a)B1-44",
+    "sort": [
+        "00-09416"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23019,14744,70,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石墨山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

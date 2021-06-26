@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄龍江, 01-09588, 8, 南16, 西5, 本図, 黄龍江, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "黄龍江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17125,31945,100,47",
+    "objectID": "S16W5(b)C1-01",
+    "sort": [
+        "01-09588"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17125,31945,100,47/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄龍江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

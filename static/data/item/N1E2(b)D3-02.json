@@ -1,0 +1,41 @@
+{
+    "fulltext": "山海關, 00-00734, 2, 北1, 東2, 本図, 山海關, 朱, 裏, 28, D3",
+    "group": [
+        "main"
+    ],
+    "label": "山海關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32358,6081,117,89",
+    "objectID": "N1E2(b)D3-02",
+    "sort": [
+        "00-00734"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32358,6081,117,89/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "山海關"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        28
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

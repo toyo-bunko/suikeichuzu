@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄華水, 00-05202, 4, 南3, 西2, 本図, 黄華水, 墨, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "黄華水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25206,12216,33,73",
+    "objectID": "S3W2(a)D1-15",
+    "sort": [
+        "00-05202"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25206,12216,33,73/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄華水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

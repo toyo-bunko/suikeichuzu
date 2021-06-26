@@ -1,0 +1,41 @@
+{
+    "fulltext": "北爲湘水, 01-08340, 7, 南14, 西4, 本図, 北爲湘水, 墨, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "北爲湘水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20384,28604,77,117",
+    "objectID": "S14W4(a)B1-02",
+    "sort": [
+        "01-08340"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20384,28604,77,117/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北爲湘水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

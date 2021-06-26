@@ -1,0 +1,41 @@
+{
+    "fulltext": "始安, 01-08380, 7, 南14, 西4, 本図, 始安, 墨, 表, 7, D3",
+    "group": [
+        "main"
+    ],
+    "label": "始安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19707,29259,80,35",
+    "objectID": "S14W4(a)D3-10",
+    "sort": [
+        "01-08380"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19707,29259,80,35/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "始安"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "陰山, 01-07062, 陰山は県名。, 7, 南12, 西2, 本図, 陰山, 墨, 裏, 10, D3",
+    "group": [
+        "main"
+    ],
+    "label": "陰山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23382,26235,81,50",
+    "objectID": "S12W2(b)D3-04",
+    "sort": [
+        "01-07062"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23382,26235,81,50/200,/0/default.jpg",
+    "備考": [
+        "陰山は県名。"
+    ],
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陰山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

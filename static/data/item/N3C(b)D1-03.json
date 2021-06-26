@@ -1,0 +1,41 @@
+{
+    "fulltext": "曲河, 00-00252, 1, 北3, 中, 本図, 曲河, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "曲河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28755,2953,106,72",
+    "objectID": "N3C(b)D1-03",
+    "sort": [
+        "00-00252"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28755,2953,106,72/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "曲河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

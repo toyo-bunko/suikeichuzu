@@ -1,0 +1,41 @@
+{
+    "fulltext": "武隧, 00-02549, 3, 南1, 中, 本図, 武隧, 墨, 裏, 8, D3",
+    "group": [
+        "main"
+    ],
+    "label": "武隧",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27869,9036,73,71",
+    "objectID": "S1C(b)D3-05",
+    "sort": [
+        "00-02549"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27869,9036,73,71/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武隧"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

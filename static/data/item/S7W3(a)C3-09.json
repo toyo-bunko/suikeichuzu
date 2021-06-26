@@ -1,0 +1,41 @@
+{
+    "fulltext": "光化, 01-02159, 5, 南7, 西3, 本図, 光化, 朱, 表, 19, C3",
+    "group": [
+        "main"
+    ],
+    "label": "光化",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22230,18006,64,31",
+    "objectID": "S7W3(a)C3-09",
+    "sort": [
+        "01-02159"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22230,18006,64,31/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "光化"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

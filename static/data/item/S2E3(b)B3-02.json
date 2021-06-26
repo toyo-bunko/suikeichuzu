@@ -1,0 +1,41 @@
+{
+    "fulltext": "煙臺, 00-03171, 3, 南2, 東3, 本図, 煙臺, 朱, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "煙臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34817,9861,56,37",
+    "objectID": "S2E3(b)B3-02",
+    "sort": [
+        "00-03171"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34817,9861,56,37/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "煙臺"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

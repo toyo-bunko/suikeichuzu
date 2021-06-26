@@ -1,0 +1,41 @@
+{
+    "fulltext": "海陽, 03-00025, 8, 越南, 上, 越南, 海陽, 朱, 表, 17, C2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "海陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=3044,2024,134,91",
+    "objectID": "YT(a)C2-07",
+    "sort": [
+        "03-00025"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/3044,2024,134,91/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "海陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

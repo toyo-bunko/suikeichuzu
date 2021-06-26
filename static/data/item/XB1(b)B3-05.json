@@ -1,0 +1,41 @@
+{
+    "fulltext": "毗舎利, 02-00297, 1, 下, 1, 西域, 毗舎利, 墨, 裏, 7, B3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "毗舎利",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5113,4039,80,185",
+    "objectID": "XB1(b)B3-05",
+    "sort": [
+        "02-00297"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5113,4039,80,185/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "毗舎利"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

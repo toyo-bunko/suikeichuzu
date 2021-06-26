@@ -1,0 +1,44 @@
+{
+    "fulltext": "玄武觀, 00-08977, 図中は覌だが、原文は觀。, 4, 南5, 西2, 本図, 玄武觀, 墨, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "玄武觀",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23819,14174,34,65",
+    "objectID": "S5W2(b)A2-21",
+    "sort": [
+        "00-08977"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23819,14174,34,65/200,/0/default.jpg",
+    "備考": [
+        "図中は覌だが、原文は觀。"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "玄武觀"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

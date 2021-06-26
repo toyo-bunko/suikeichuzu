@@ -1,0 +1,41 @@
+{
+    "fulltext": "涅水, 01-08792, 7, 南15, 西1, 本図, 涅水, 墨, 裏, 2, D1",
+    "group": [
+        "main"
+    ],
+    "label": "涅水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26425,30991,62,88",
+    "objectID": "S15W1(b)D1-02",
+    "sort": [
+        "01-08792"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26425,30991,62,88/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "涅水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

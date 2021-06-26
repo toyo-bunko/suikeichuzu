@@ -1,0 +1,41 @@
+{
+    "fulltext": "黃水, 01-08147, 7, 南14, 西2, 本図, 黃水, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "黃水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23176,28239,85,44",
+    "objectID": "S14W2(b)A3-07",
+    "sort": [
+        "01-08147"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23176,28239,85,44/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黃水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

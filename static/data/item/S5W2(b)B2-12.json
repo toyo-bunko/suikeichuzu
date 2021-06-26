@@ -1,0 +1,41 @@
+{
+    "fulltext": "半石東山, 00-09102, 4, 南5, 西2, 本図, 半石東山, 墨, 裏, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "半石東山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23798,14558,39,44",
+    "objectID": "S5W2(b)B2-12",
+    "sort": [
+        "00-09102"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23798,14558,39,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "半石東山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

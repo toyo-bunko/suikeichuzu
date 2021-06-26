@@ -1,0 +1,41 @@
+{
+    "fulltext": "王屋西山, 00-07143, 4, 南4, 西3, 本図, 王屋西山, 墨, 表, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "王屋西山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22859,13615,110,42",
+    "objectID": "S4W3(a)D1-01",
+    "sort": [
+        "00-07143"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22859,13615,110,42/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "王屋西山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

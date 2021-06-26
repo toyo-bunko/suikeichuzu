@@ -1,0 +1,41 @@
+{
+    "fulltext": "酈亭溝水, 00-01801, 2, 中, 中, 本図, 酈亭溝水, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "酈亭溝水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27743,7135,61,130",
+    "objectID": "CC(b)C3-10",
+    "sort": [
+        "00-01801"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27743,7135,61,130/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "酈亭溝水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

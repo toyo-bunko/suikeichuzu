@@ -1,0 +1,41 @@
+{
+    "fulltext": "庫德里山, 00-04165, 3, 南2, 西9, 本図, 庫德里山, 朱, 裏, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "庫德里山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7783,9836,63,60",
+    "objectID": "S2W9(b)B1-01",
+    "sort": [
+        "00-04165"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7783,9836,63,60/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "庫德里山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

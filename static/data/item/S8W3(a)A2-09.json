@@ -1,0 +1,41 @@
+{
+    "fulltext": "故羅國, 01-03249, 5, 南8, 西3, 本図, 故羅國, 墨, 表, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "故羅國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22607,18980,82,32",
+    "objectID": "S8W3(a)A2-09",
+    "sort": [
+        "01-03249"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22607,18980,82,32/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故羅國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

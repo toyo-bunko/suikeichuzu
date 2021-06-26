@@ -1,0 +1,41 @@
+{
+    "fulltext": "秦置竟陵縣, 01-04492, 6, 南9, 西2, 本図, 秦置竟陵縣, 墨, 裏, 10, B3",
+    "group": [
+        "main"
+    ],
+    "label": "秦置竟陵縣",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23170,20799,137,37",
+    "objectID": "S9W2(b)B3-07",
+    "sort": [
+        "01-04492"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23170,20799,137,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "秦置竟陵縣"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

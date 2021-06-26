@@ -1,0 +1,44 @@
+{
+    "fulltext": "雎水, 00-08082, 2か所あり, 4, 南5, 中, 本図, 雎水, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "雎水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28941,15390,90,49",
+    "objectID": "S5C(a)D3-08",
+    "sort": [
+        "00-08082"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28941,15390,90,49/200,/0/default.jpg",
+    "備考": [
+        "2か所あり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雎水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

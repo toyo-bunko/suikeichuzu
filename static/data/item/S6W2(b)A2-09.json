@@ -1,0 +1,41 @@
+{
+    "fulltext": "滍水自下兼波水之通稱, 01-00675, 5, 南6, 西2, 本図, 滍水自下兼波水之通稱, 墨, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "滍水自下兼波水之通稱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23675,15694,61,126",
+    "objectID": "S6W2(b)A2-09",
+    "sort": [
+        "01-00675"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23675,15694,61,126/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "滍水自下兼波水之通稱"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

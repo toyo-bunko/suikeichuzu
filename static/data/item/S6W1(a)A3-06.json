@@ -1,0 +1,44 @@
+{
+    "fulltext": "漢淮陽國, 01-00327, 図中記号要確認, 5, 南6, 西1, 本図, 漢淮陽國, 墨, 表, 7, A3",
+    "group": [
+        "main"
+    ],
+    "label": "漢淮陽國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26638,15686,92,37",
+    "objectID": "S6W1(a)A3-06",
+    "sort": [
+        "01-00327"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26638,15686,92,37/200,/0/default.jpg",
+    "備考": [
+        "図中記号要確認"
+    ],
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢淮陽國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

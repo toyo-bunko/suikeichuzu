@@ -1,0 +1,41 @@
+{
+    "fulltext": "錫林河, 00-00091, 1, 北4, 中, 本図, 錫林河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "錫林河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28880,227,42,107",
+    "objectID": "N4C(a)A3-01",
+    "sort": [
+        "00-00091"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28880,227,42,107/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "錫林河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

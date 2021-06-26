@@ -1,0 +1,41 @@
+{
+    "fulltext": "即上東門, 04-00494, 8, 0, 0, 魯城図, 即上東門, 墨, 表, 34, 0",
+    "group": [
+        "jouzu08_rojou"
+    ],
+    "label": "即上東門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1530,1121,231,85",
+    "objectID": "CTLU(a)0-09",
+    "sort": [
+        "04-00494"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif/1530,1121,231,85/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "魯城図"
+    ],
+    "地名/記述": [
+        "即上東門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        0
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "浮豪水, 00-09722, 4, 南5, 西3, 本図, 浮豪水, 墨, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "浮豪水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21196,15441,58,112",
+    "objectID": "S5W3(b)D2-10",
+    "sort": [
+        "00-09722"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21196,15441,58,112/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "浮豪水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

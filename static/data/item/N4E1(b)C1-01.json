@@ -1,0 +1,41 @@
+{
+    "fulltext": "大遼水, 00-00086, 1, 北4, 東1, 本図, 大遼水, 墨, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "大遼水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30823,884,53,120",
+    "objectID": "N4E1(b)C1-01",
+    "sort": [
+        "00-00086"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30823,884,53,120/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大遼水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "西平亭, 00-05808, 4, 南3, 西8, 本図, 西平亭, 墨, 裏, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "西平亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10330,11425,61,34",
+    "objectID": "S3W8(b)B1-03",
+    "sort": [
+        "00-05808"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10330,11425,61,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西平亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

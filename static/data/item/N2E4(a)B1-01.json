@@ -1,0 +1,41 @@
+{
+    "fulltext": "通化, 00-00302, 1, 北2, 東4, 本図, 通化, 朱, 表, 19, B1",
+    "group": [
+        "main"
+    ],
+    "label": "通化",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39239,3664,34,89",
+    "objectID": "N2E4(a)B1-01",
+    "sort": [
+        "00-00302"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39239,3664,34,89/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "通化"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

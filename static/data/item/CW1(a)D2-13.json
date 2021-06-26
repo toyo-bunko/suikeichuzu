@@ -1,0 +1,41 @@
+{
+    "fulltext": "沈水, 00-01988, 2, 中, 西1, 本図, 沈水, 墨, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "沈水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27072,7721,77,46",
+    "objectID": "CW1(a)D2-13",
+    "sort": [
+        "00-01988"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27072,7721,77,46/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沈水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

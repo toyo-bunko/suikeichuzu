@@ -1,0 +1,41 @@
+{
+    "fulltext": "厲郷, 01-03100, 5, 南8, 西2, 本図, 厲郷, 墨, 表, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "厲郷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24393,18755,68,39",
+    "objectID": "S8W2(a)A3-07",
+    "sort": [
+        "01-03100"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24393,18755,68,39/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "厲郷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

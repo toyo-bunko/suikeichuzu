@@ -1,0 +1,41 @@
+{
+    "fulltext": "河崖, 00-08252, 4, 南5, 西1, 本図, 河崖, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "河崖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27373,14372,67,41",
+    "objectID": "S5W1(a)B1-02",
+    "sort": [
+        "00-08252"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27373,14372,67,41/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "河崖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

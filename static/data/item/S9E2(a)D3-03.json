@@ -1,0 +1,41 @@
+{
+    "fulltext": "山陰圖別詳, 01-03826, 6, 南9, 東2, 本図, 山陰圖別詳, 墨, 表, 35, D3",
+    "group": [
+        "main"
+    ],
+    "label": "山陰圖別詳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33832,21508,59,90",
+    "objectID": "S9E2(a)D3-03",
+    "sort": [
+        "01-03826"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33832,21508,59,90/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "山陰圖別詳"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        35
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

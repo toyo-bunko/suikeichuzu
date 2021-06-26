@@ -1,0 +1,41 @@
+{
+    "fulltext": "上庸界, 01-03391, 5, 南8, 西4, 本図, 上庸界, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "上庸界",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18480,18727,96,47",
+    "objectID": "S8W4(b)A3-01",
+    "sort": [
+        "01-03391"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18480,18727,96,47/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "上庸界"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

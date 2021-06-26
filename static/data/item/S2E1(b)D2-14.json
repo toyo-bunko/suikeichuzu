@@ -1,0 +1,41 @@
+{
+    "fulltext": "西高苑, 00-03358, 3, 南2, 東1, 本図, 西高苑, 墨, 裏, 10, D2",
+    "group": [
+        "main"
+    ],
+    "label": "西高苑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30514,10811,99,61",
+    "objectID": "S2E1(b)D2-14",
+    "sort": [
+        "00-03358"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30514,10811,99,61/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西高苑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

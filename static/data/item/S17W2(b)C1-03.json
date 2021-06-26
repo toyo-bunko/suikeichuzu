@@ -1,0 +1,41 @@
+{
+    "fulltext": "伶丁洲, 01-09785, 8, 南17, 西2, 本図, 伶丁洲, 朱, 裏, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "伶丁洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24005,33739,110,50",
+    "objectID": "S17W2(b)C1-03",
+    "sort": [
+        "01-09785"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24005,33739,110,50/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "伶丁洲"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

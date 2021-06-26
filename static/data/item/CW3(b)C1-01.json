@@ -1,0 +1,41 @@
+{
+    "fulltext": "長城, 00-02224, 2, 中, 西3, 本図, 長城, 墨, 裏, 28, C1",
+    "group": [
+        "main"
+    ],
+    "label": "長城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21634,7058,56,51",
+    "objectID": "CW3(b)C1-01",
+    "sort": [
+        "00-02224"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21634,7058,56,51/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "長城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        28
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

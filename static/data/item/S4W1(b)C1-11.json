@@ -1,0 +1,41 @@
+{
+    "fulltext": "即苑濮亭, 00-06593, 4, 南4, 西1, 本図, 即苑濮亭, 墨, 裏, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "即苑濮亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26519,13607,42,105",
+    "objectID": "S4W1(b)C1-11",
+    "sort": [
+        "00-06593"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26519,13607,42,105/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即苑濮亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

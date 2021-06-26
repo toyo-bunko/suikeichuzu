@@ -1,0 +1,44 @@
+{
+    "fulltext": "綠胡山, 00-01321, 注文は「緣」。図の「綠」は誤り。, 2, 北1, 西3, 本図, 綠胡山, 墨, 表, 4, C3",
+    "group": [
+        "main"
+    ],
+    "label": "綠胡山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22205,5718,96,56",
+    "objectID": "N1W3(a)C3-06",
+    "sort": [
+        "00-01321"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22205,5718,96,56/200,/0/default.jpg",
+    "備考": [
+        "注文は「緣」。図の「綠」は誤り。"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "綠胡山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "洧水枝津, 00-08492, 4, 南5, 西1, 本図, 洧水枝津, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "洧水枝津",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25465,15006,113,43",
+    "objectID": "S5W1(b)C3-11",
+    "sort": [
+        "00-08492"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25465,15006,113,43/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洧水枝津"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

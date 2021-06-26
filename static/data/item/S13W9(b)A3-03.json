@@ -1,0 +1,41 @@
+{
+    "fulltext": "永北, 01-07929, 7, 南13, 西9, 本図, 永北, 朱, 裏, 20, A3",
+    "group": [
+        "main"
+    ],
+    "label": "永北",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7109,26820,73,49",
+    "objectID": "S13W9(b)A3-03",
+    "sort": [
+        "01-07929"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7109,26820,73,49/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "永北"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        20
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

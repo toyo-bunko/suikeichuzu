@@ -1,0 +1,41 @@
+{
+    "fulltext": "英吉沙爾, 02-00139, 1, 上, 1, 西域, 英吉沙爾, 朱, 裏, 20, B3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "英吉沙爾",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4997,1869,127,124",
+    "objectID": "XT1(b)B3-09",
+    "sort": [
+        "02-00139"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4997,1869,127,124/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "英吉沙爾"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        20
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

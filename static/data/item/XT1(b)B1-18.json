@@ -1,0 +1,41 @@
+{
+    "fulltext": "塔里木河, 02-00114, 1, 上, 1, 西域, 塔里木河, 朱, 裏, 1, B1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "塔里木河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6509,1598,252,76",
+    "objectID": "XT1(b)B1-18",
+    "sort": [
+        "02-00114"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6509,1598,252,76/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "塔里木河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

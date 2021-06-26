@@ -1,0 +1,41 @@
+{
+    "fulltext": "松江承太湖, 01-02722, 5, 南8, 東2, 本図, 松江承太湖, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "松江承太湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33649,19873,170,56",
+    "objectID": "S8E2(a)D3-06",
+    "sort": [
+        "01-02722"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33649,19873,170,56/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "松江承太湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

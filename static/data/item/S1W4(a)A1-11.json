@@ -1,0 +1,41 @@
+{
+    "fulltext": "桑谷水, 00-02955, 3, 南1, 西4, 本図, 桑谷水, 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "桑谷水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20420,8043,127,61",
+    "objectID": "S1W4(a)A1-11",
+    "sort": [
+        "00-02955"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20420,8043,127,61/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桑谷水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

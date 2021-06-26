@@ -1,0 +1,41 @@
+{
+    "fulltext": "衢州, 01-05436, 6, 南10, 東1, 本図, 衢州, 朱, 表, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "衢州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31958,23235,61,36",
+    "objectID": "S10E1(a)D1-09",
+    "sort": [
+        "01-05436"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31958,23235,61,36/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "衢州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

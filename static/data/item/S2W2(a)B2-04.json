@@ -1,0 +1,41 @@
+{
+    "fulltext": "大要谷, 00-03751, 3, 南2, 西2, 本図, 大要谷, 墨, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "大要谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24933,10109,90,44",
+    "objectID": "S2W2(a)B2-04",
+    "sort": [
+        "00-03751"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24933,10109,90,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大要谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

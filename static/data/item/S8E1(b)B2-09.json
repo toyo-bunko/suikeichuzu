@@ -1,0 +1,41 @@
+{
+    "fulltext": "虎山城, 01-02877, 5, 南8, 東1, 本図, 虎山城, 墨, 裏, 16, B2",
+    "group": [
+        "main"
+    ],
+    "label": "虎山城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30504,19150,53,46",
+    "objectID": "S8E1(b)B2-09",
+    "sort": [
+        "01-02877"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30504,19150,53,46/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "虎山城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

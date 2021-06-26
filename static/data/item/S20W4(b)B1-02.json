@@ -1,0 +1,41 @@
+{
+    "fulltext": "分水江, 01-10130, 8, 南20, 西4, 本図, 分水江, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "分水江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19211,37758,109,45",
+    "objectID": "S20W4(b)B1-02",
+    "sort": [
+        "01-10130"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19211,37758,109,45/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南20"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "分水江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

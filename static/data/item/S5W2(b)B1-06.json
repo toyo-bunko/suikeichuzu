@@ -1,0 +1,41 @@
+{
+    "fulltext": "袁公塢, 00-09049, 4, 南5, 西2, 本図, 袁公塢, 墨, 裏, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "袁公塢",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24089,14403,57,31",
+    "objectID": "S5W2(b)B1-06",
+    "sort": [
+        "00-09049"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24089,14403,57,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "袁公塢"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

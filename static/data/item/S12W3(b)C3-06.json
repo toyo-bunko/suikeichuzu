@@ -1,0 +1,41 @@
+{
+    "fulltext": "高平, 01-07107, 7, 南12, 西3, 本図, 高平, 墨, 裏, 8, C3",
+    "group": [
+        "main"
+    ],
+    "label": "高平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20924,25908,71,48",
+    "objectID": "S12W3(b)C3-06",
+    "sort": [
+        "01-07107"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20924,25908,71,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高平"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

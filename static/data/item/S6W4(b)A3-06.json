@@ -1,0 +1,41 @@
+{
+    "fulltext": "御宿川, 01-00986, 5, 南6, 西4, 本図, 御宿川, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "御宿川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18682,15811,108,41",
+    "objectID": "S6W4(b)A3-06",
+    "sort": [
+        "01-00986"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18682,15811,108,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "御宿川"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

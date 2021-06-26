@@ -1,0 +1,41 @@
+{
+    "fulltext": "楠大溪, 01-07299, 7, 南12, 西7, 本図, 楠大溪, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "楠大溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13794,26084,40,92",
+    "objectID": "S12W7(a)D1-01",
+    "sort": [
+        "01-07299"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13794,26084,40,92/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楠大溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

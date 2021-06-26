@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏蘭徳錫山, 00-07824, 4, 南4, 西11, 本図, 烏蘭徳錫山, 朱, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "烏蘭徳錫山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=3848,12855,75,98",
+    "objectID": "S4W11(a)B2-02",
+    "sort": [
+        "00-07824"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/3848,12855,75,98/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西11"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "烏蘭徳錫山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

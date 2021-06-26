@@ -1,0 +1,41 @@
+{
+    "fulltext": "四晧廟, 01-00922, 5, 南6, 西4, 本図, 四晧廟, 墨, 表, 16, A3",
+    "group": [
+        "main"
+    ],
+    "label": "四晧廟",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19867,15838,94,48",
+    "objectID": "S6W4(a)A3-02",
+    "sort": [
+        "01-00922"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19867,15838,94,48/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "四晧廟"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

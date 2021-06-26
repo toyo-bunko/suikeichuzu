@@ -1,0 +1,41 @@
+{
+    "fulltext": "清廉山西嶺, 00-07122, 4, 南4, 西3, 本図, 清廉山西嶺, 墨, 表, 4, C3",
+    "group": [
+        "main"
+    ],
+    "label": "清廉山西嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22221,13362,131,35",
+    "objectID": "S4W3(a)C3-01",
+    "sort": [
+        "00-07122"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22221,13362,131,35/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "清廉山西嶺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

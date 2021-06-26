@@ -1,0 +1,41 @@
+{
+    "fulltext": "宋移衡陽郡治此, 01-07033, 7, 南12, 西2, 本図, 宋移衡陽郡治此, 墨, 裏, 9, A3",
+    "group": [
+        "main"
+    ],
+    "label": "宋移衡陽郡治此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23155,25041,116,64",
+    "objectID": "S12W2(b)A3-10",
+    "sort": [
+        "01-07033"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23155,25041,116,64/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宋移衡陽郡治此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

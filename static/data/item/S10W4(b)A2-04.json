@@ -1,0 +1,41 @@
+{
+    "fulltext": "李家河, 01-05937, 6, 南10, 西4, 本図, 李家河, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "李家河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19098,21945,31,93",
+    "objectID": "S10W4(b)A2-04",
+    "sort": [
+        "01-05937"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19098,21945,31,93/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "李家河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "楚太子建墳, 00-08287, 4, 南5, 西1, 本図, 楚太子建墳, 墨, 表, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "楚太子建墳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26792,15054,154,53",
+    "objectID": "S5W1(a)C3-03",
+    "sort": [
+        "00-08287"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26792,15054,154,53/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楚太子建墳"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

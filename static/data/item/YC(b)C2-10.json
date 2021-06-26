@@ -1,0 +1,41 @@
+{
+    "fulltext": "戰灣, 03-00220, 8, 越南, 中, 越南, 戰灣, 墨, 裏, 1, C2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "戰灣",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1493,5084,122,61",
+    "objectID": "YC(b)C2-10",
+    "sort": [
+        "03-00220"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1493,5084,122,61/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "戰灣"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

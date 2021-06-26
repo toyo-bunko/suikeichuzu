@@ -1,0 +1,41 @@
+{
+    "fulltext": "哲爾徳諾多山, 00-01218, 2, 北1, 西2, 本図, 哲爾徳諾多山, 朱, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "哲爾徳諾多山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23560,4861,175,64",
+    "objectID": "N1W2(b)A2-04",
+    "sort": [
+        "00-01218"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23560,4861,175,64/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "哲爾徳諾多山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

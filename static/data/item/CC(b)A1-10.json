@@ -1,0 +1,41 @@
+{
+    "fulltext": "通, 00-01681, 2, 中, 中, 本図, 通, 朱, 裏, 23, A1",
+    "group": [
+        "main"
+    ],
+    "label": "通",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28780,6311,60,51",
+    "objectID": "CC(b)A1-10",
+    "sort": [
+        "00-01681"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28780,6311,60,51/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "通"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

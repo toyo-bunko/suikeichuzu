@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍淵, 00-08794, 4, 南5, 西2, 本図, 龍淵, 墨, 表, 5, C1",
+    "group": [
+        "main"
+    ],
+    "label": "龍淵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25245,15090,47,31",
+    "objectID": "S5W2(a)C1-27",
+    "sort": [
+        "00-08794"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25245,15090,47,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍淵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢六安國, 01-02967, 5, 南8, 中, 本図, 漢六安國, 墨, 裏, 9, A1",
+    "group": [
+        "main"
+    ],
+    "label": "漢六安國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28603,18644,107,29",
+    "objectID": "S8C(b)A1-01",
+    "sort": [
+        "01-02967"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28603,18644,107,29/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢六安國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

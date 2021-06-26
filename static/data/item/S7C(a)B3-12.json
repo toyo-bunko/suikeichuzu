@@ -1,0 +1,41 @@
+{
+    "fulltext": "黎漿水口, 01-01598, 5, 南7, 中, 本図, 黎漿水口, 墨, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "黎漿水口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28879,17825,70,72",
+    "objectID": "S7C(a)B3-12",
+    "sort": [
+        "01-01598"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28879,17825,70,72/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黎漿水口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

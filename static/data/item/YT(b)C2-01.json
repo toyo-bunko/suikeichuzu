@@ -1,0 +1,41 @@
+{
+    "fulltext": "西安, 03-00092, 8, 越南, 上, 越南, 西安, 朱, 裏, 18, C2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "西安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1455,1977,128,91",
+    "objectID": "YT(b)C2-01",
+    "sort": [
+        "03-00092"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1455,1977,128,91/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "西安"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

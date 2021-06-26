@@ -1,0 +1,41 @@
+{
+    "fulltext": "晉新樂, 00-02519, 3, 南1, 中, 本図, 晉新樂, 墨, 裏, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "晉新樂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28796,9247,87,45",
+    "objectID": "S1C(b)D1-03",
+    "sort": [
+        "00-02519"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28796,9247,87,45/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "晉新樂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

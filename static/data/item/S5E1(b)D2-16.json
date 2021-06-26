@@ -1,0 +1,44 @@
+{
+    "fulltext": "三碑, 00-07966, ・印が三か所, 4, 南5, 東1, 本図, 三碑, 墨, 裏, 16, D2",
+    "group": [
+        "main"
+    ],
+    "label": "三碑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30678,15491,58,55",
+    "objectID": "S5E1(b)D2-16",
+    "sort": [
+        "00-07966"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30678,15491,58,55/200,/0/default.jpg",
+    "備考": [
+        "・印が三か所"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三碑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

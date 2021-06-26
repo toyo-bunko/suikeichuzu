@@ -1,0 +1,41 @@
+{
+    "fulltext": "金隄, 00-06371, 4, 南4, 西1, 本図, 金隄, 墨, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "金隄",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26565,12901,45,72",
+    "objectID": "S4W1(a)B3-07",
+    "sort": [
+        "00-06371"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26565,12901,45,72/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "金隄"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

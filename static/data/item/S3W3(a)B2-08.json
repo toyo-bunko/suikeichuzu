@@ -1,0 +1,41 @@
+{
+    "fulltext": "霍公故居, 00-05343, 4, 南3, 西3, 本図, 霍公故居, 墨, 表, 16, B2",
+    "group": [
+        "main"
+    ],
+    "label": "霍公故居",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22427,11567,129,44",
+    "objectID": "S3W3(a)B2-08",
+    "sort": [
+        "00-05343"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22427,11567,129,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "霍公故居"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

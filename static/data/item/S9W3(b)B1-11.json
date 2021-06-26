@@ -1,0 +1,41 @@
+{
+    "fulltext": "湖里淵, 01-04736, 6, 南9, 西3, 本図, 湖里淵, 墨, 裏, 5, B1",
+    "group": [
+        "main"
+    ],
+    "label": "湖里淵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21591,20903,59,37",
+    "objectID": "S9W3(b)B1-11",
+    "sort": [
+        "01-04736"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21591,20903,59,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "湖里淵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

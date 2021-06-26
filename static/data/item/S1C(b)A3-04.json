@@ -1,0 +1,41 @@
+{
+    "fulltext": "滱水入南易, 00-02480, 3, 南1, 中, 本図, 滱水入南易, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "滱水入南易",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27914,7890,78,94",
+    "objectID": "S1C(b)A3-04",
+    "sort": [
+        "00-02480"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27914,7890,78,94/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "滱水入南易"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

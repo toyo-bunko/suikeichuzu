@@ -1,0 +1,41 @@
+{
+    "fulltext": "白泥湖, 01-05692, 6, 南10, 西2, 本図, 白泥湖, 朱, 裏, 5, B1",
+    "group": [
+        "main"
+    ],
+    "label": "白泥湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23982,22401,83,34",
+    "objectID": "S10W2(b)B1-11",
+    "sort": [
+        "01-05692"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23982,22401,83,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白泥湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

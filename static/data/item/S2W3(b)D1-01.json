@@ -1,0 +1,41 @@
+{
+    "fulltext": "牧馬川, 00-03986, 3, 南2, 西3, 本図, 牧馬川, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "牧馬川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21776,10852,75,33",
+    "objectID": "S2W3(b)D1-01",
+    "sort": [
+        "00-03986"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21776,10852,75,33/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "牧馬川"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

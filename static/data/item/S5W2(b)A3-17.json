@@ -1,0 +1,41 @@
+{
+    "fulltext": "五龍渠, 00-09027, 4, 南5, 西2, 本図, 五龍渠, 墨, 裏, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "五龍渠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23433,14290,27,58",
+    "objectID": "S5W2(b)A3-17",
+    "sort": [
+        "00-09027"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23433,14290,27,58/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "五龍渠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

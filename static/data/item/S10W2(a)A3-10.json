@@ -1,0 +1,41 @@
+{
+    "fulltext": "下洪湖, 01-05629, 6, 南10, 西2, 本図, 下洪湖, 朱, 表, 5, A3",
+    "group": [
+        "main"
+    ],
+    "label": "下洪湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24316,21806,35,81",
+    "objectID": "S10W2(a)A3-10",
+    "sort": [
+        "01-05629"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24316,21806,35,81/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "下洪湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

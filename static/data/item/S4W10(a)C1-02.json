@@ -1,0 +1,41 @@
+{
+    "fulltext": "土爾扈特西旗, 00-07815, 4, 南4, 西10, 本図, 土爾扈特西旗, 朱, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "土爾扈特西旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6799,13332,82,98",
+    "objectID": "S4W10(a)C1-02",
+    "sort": [
+        "00-07815"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6799,13332,82,98/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "土爾扈特西旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

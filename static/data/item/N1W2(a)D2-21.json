@@ -1,0 +1,41 @@
+{
+    "fulltext": "郊郭, 00-01181, 2, 北1, 西2, 本図, 郊郭, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "郊郭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24674,6199,68,25",
+    "objectID": "N1W2(a)D2-21",
+    "sort": [
+        "00-01181"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24674,6199,68,25/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "郊郭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

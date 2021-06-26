@@ -1,0 +1,41 @@
+{
+    "fulltext": "櫟亭, 01-01798, 5, 南7, 西1, 本図, 櫟亭, 墨, 裏, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "櫟亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26338,17392,42,70",
+    "objectID": "S7W1(b)A1-07",
+    "sort": [
+        "01-01798"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26338,17392,42,70/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "櫟亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

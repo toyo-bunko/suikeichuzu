@@ -1,0 +1,41 @@
+{
+    "fulltext": "大山, 00-01335, 2, 北1, 西3, 本図, 大山, 墨, 表, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "大山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22285,5898,84,61",
+    "objectID": "N1W3(a)D3-01",
+    "sort": [
+        "00-01335"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22285,5898,84,61/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

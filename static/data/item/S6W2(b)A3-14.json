@@ -1,0 +1,44 @@
+{
+    "fulltext": "胡木山, 01-00698, 記号はない, 5, 南6, 西2, 本図, 胡木山, 墨, 裏, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "胡木山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23234,15743,86,47",
+    "objectID": "S6W2(b)A3-14",
+    "sort": [
+        "01-00698"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23234,15743,86,47/200,/0/default.jpg",
+    "備考": [
+        "記号はない"
+    ],
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "胡木山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

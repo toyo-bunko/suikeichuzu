@@ -1,0 +1,41 @@
+{
+    "fulltext": "司馬欣為塞王都此, 00-09993, 4, 南5, 西4, 本図, 司馬欣為塞王都此, 墨, 裏, 8, B2",
+    "group": [
+        "main"
+    ],
+    "label": "司馬欣為塞王都此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19198,14679,78,66",
+    "objectID": "S5W4(b)B2-18",
+    "sort": [
+        "00-09993"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19198,14679,78,66/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "司馬欣為塞王都此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

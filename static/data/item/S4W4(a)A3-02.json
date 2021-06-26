@@ -1,0 +1,41 @@
+{
+    "fulltext": "洛川, 00-07279, 4, 南4, 西4, 本図, 洛川, 朱, 表, 19, A3",
+    "group": [
+        "main"
+    ],
+    "label": "洛川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19745,12544,75,33",
+    "objectID": "S4W4(a)A3-02",
+    "sort": [
+        "00-07279"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19745,12544,75,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洛川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "新興郡, 00-02859, 3, 南1, 西2, 本図, 新興郡, 墨, 裏, 9, C1",
+    "group": [
+        "main"
+    ],
+    "label": "新興郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23966,8613,115,42",
+    "objectID": "S1W2(b)C1-01",
+    "sort": [
+        "00-02859"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23966,8613,115,42/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新興郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "澗口河, 00-10426, 4, 南5, 西5, 本図, 澗口河, 朱, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "澗口河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16877,14545,34,87",
+    "objectID": "S5W5(b)B2-02",
+    "sort": [
+        "00-10426"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16877,14545,34,87/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "澗口河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "成都圖別詳, 01-05075, 6, 南9, 西7, 本図, 成都圖別詳, 墨, 裏, 35, B2",
+    "group": [
+        "main"
+    ],
+    "label": "成都圖別詳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12290,20677,88,83",
+    "objectID": "S9W7(b)B2-01",
+    "sort": [
+        "01-05075"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12290,20677,88,83/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "成都圖別詳"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        35
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "布哈爾, 02-00200, 1, 上, 2, 西域, 布哈爾, 朱, 表, 0, B3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "布哈爾",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=2630,1523,223,88",
+    "objectID": "XT2(a)B3-01",
+    "sort": [
+        "02-00200"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/2630,1523,223,88/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        2
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "布哈爾"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

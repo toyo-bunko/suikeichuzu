@@ -1,0 +1,41 @@
+{
+    "fulltext": "期思, 01-01754, 5, 南7, 西1, 本図, 期思, 墨, 表, 10, B2",
+    "group": [
+        "main"
+    ],
+    "label": "期思",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26999,17767,71,33",
+    "objectID": "S7W1(a)B2-06",
+    "sort": [
+        "01-01754"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26999,17767,71,33/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "期思"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

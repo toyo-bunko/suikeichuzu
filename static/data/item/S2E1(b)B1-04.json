@@ -1,0 +1,41 @@
+{
+    "fulltext": "商河入海, 00-03292, 3, 南2, 東1, 本図, 商河入海, 墨, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "商河入海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30799,9753,43,140",
+    "objectID": "S2E1(b)B1-04",
+    "sort": [
+        "00-03292"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30799,9753,43,140/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "商河入海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

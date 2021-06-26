@@ -1,0 +1,44 @@
+{
+    "fulltext": "沛, 00-07978, 三重四角か？, 4, 南5, 中, 本図, 沛, 墨, 表, 12, A2",
+    "group": [
+        "main"
+    ],
+    "label": "沛",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29332,14210,36,25",
+    "objectID": "S5C(a)A2-04",
+    "sort": [
+        "00-07978"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29332,14210,36,25/200,/0/default.jpg",
+    "備考": [
+        "三重四角か？"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沛"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        12
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

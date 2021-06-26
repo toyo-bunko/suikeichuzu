@@ -1,0 +1,41 @@
+{
+    "fulltext": "勝業水, 01-07547, 7, 南13, 西2, 本図, 勝業水, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "勝業水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24973,26563,49,96",
+    "objectID": "S13W2(a)A2-01",
+    "sort": [
+        "01-07547"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24973,26563,49,96/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "勝業水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

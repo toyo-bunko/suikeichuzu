@@ -1,0 +1,41 @@
+{
+    "fulltext": "蠡川水, 00-05824, 4, 南3, 西8, 本図, 蠡川水, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "蠡川水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9949,11560,50,95",
+    "objectID": "S3W8(b)B2-06",
+    "sort": [
+        "00-05824"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9949,11560,50,95/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蠡川水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

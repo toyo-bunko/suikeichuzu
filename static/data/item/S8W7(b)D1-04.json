@@ -1,0 +1,41 @@
+{
+    "fulltext": "什邡, 01-03648, 5, 南8, 西7, 本図, 什邡, 朱 , 裏, 8, D1",
+    "group": [
+        "main"
+    ],
+    "label": "什邡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12347,20060,67,36",
+    "objectID": "S8W7(b)D1-04",
+    "sort": [
+        "01-03648"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12347,20060,67,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "什邡"
+    ],
+    "墨朱": [
+        "朱 "
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

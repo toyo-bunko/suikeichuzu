@@ -1,0 +1,41 @@
+{
+    "fulltext": "九折坂, 01-06129, 6, 南10, 西8, 本図, 九折坂, 墨, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "九折坂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9784,22098,80,30",
+    "objectID": "S10W8(b)A2-03",
+    "sort": [
+        "01-06129"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9784,22098,80,30/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "九折坂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

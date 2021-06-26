@@ -1,0 +1,41 @@
+{
+    "fulltext": "洪井, 01-06358, 6, 南11, 西1, 本図, 洪井, 墨, 表, 30, B2",
+    "group": [
+        "main"
+    ],
+    "label": "洪井",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27313,23680,35,57",
+    "objectID": "S11W1(a)B2-01",
+    "sort": [
+        "01-06358"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27313,23680,35,57/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洪井"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        30
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

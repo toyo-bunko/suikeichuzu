@@ -1,0 +1,41 @@
+{
+    "fulltext": "者賴河, 01-09668, 8, 南16, 西7, 本図, 者賴河, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "者賴河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12416,32262,50,103",
+    "objectID": "S16W7(b)D1-01",
+    "sort": [
+        "01-09668"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12416,32262,50,103/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "者賴河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

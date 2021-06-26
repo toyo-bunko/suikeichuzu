@@ -1,0 +1,41 @@
+{
+    "fulltext": "石山水口, 00-01041, 2, 北1, 西1, 本図, 石山水口, 墨, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "石山水口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26640,5804,100,34",
+    "objectID": "N1W1(a)C3-07",
+    "sort": [
+        "00-01041"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26640,5804,100,34/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石山水口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

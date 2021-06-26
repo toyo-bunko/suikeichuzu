@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍翔祠, 00-00391, 1, 北2, 東2, 本図, 龍翔祠, 墨, 表, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "龍翔祠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33634,3630,116,42",
+    "objectID": "N2E2(a)B3-06",
+    "sort": [
+        "00-00391"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33634,3630,116,42/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍翔祠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

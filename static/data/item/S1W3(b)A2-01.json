@@ -1,0 +1,41 @@
+{
+    "fulltext": "神池, 00-02919, 3, 南1, 西3, 本図, 神池, 朱, 裏, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "神池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21559,8033,73,56",
+    "objectID": "S1W3(b)A2-01",
+    "sort": [
+        "00-02919"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21559,8033,73,56/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "神池"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

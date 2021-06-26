@@ -1,0 +1,41 @@
+{
+    "fulltext": "氷玉水, 01-06245, 6, 南11, 東1, 本図, 氷玉水, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "氷玉水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30998,23427,35,94",
+    "objectID": "S11E1(b)A1-01",
+    "sort": [
+        "01-06245"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30998,23427,35,94/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "氷玉水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

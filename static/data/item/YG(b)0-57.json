@@ -1,0 +1,41 @@
+{
+    "fulltext": "皮氏, 05-00263, 8, 0, 0, 禹貢山水澤地所在, 皮氏, 墨, 裏, 10, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "皮氏",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2092,768,76,46",
+    "objectID": "YG(b)0-57",
+    "sort": [
+        "05-00263"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2092,768,76,46/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "皮氏"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        0
+    ]
+}

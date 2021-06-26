@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍門, 00-00995, 2, 北1, 西1, 本図, 龍門, 朱, 表, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "龍門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27501,4919,64,70",
+    "objectID": "N1W1(a)A1-02",
+    "sort": [
+        "00-00995"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27501,4919,64,70/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍門"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

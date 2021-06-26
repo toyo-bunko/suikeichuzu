@@ -1,0 +1,44 @@
+{
+    "fulltext": "西安, 01-08110, 南安の誤記, 7, 南14, 西2, 本図, 西安, 朱, 表, 18, C1",
+    "group": [
+        "main"
+    ],
+    "label": "西安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24967,28768,73,40",
+    "objectID": "S14W2(a)C1-02",
+    "sort": [
+        "01-08110"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24967,28768,73,40/200,/0/default.jpg",
+    "備考": [
+        "南安の誤記"
+    ],
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西安"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

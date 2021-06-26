@@ -1,0 +1,41 @@
+{
+    "fulltext": "十二墱, 04-00074, 8, 0, 0, 鄴城図, 十二墱, 墨, 表, 0, 0",
+    "group": [
+        "jouzu02_gyoujou"
+    ],
+    "label": "十二墱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=400,1286,218,68",
+    "objectID": "CTYC(a)0-26",
+    "sort": [
+        "04-00074"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/400,1286,218,68/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "鄴城図"
+    ],
+    "地名/記述": [
+        "十二墱"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        0
+    ]
+}

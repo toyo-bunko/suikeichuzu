@@ -1,0 +1,41 @@
+{
+    "fulltext": "天池山, 01-08018, 7, 南13, 西10, 本図, 天池山, 朱, 裏, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "天池山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4857,27629,110,53",
+    "objectID": "S13W10(b)D3-01",
+    "sort": [
+        "01-08018"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4857,27629,110,53/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "天池山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

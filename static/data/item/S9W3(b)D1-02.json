@@ -1,0 +1,41 @@
+{
+    "fulltext": "白水港, 01-04795, 6, 南9, 西3, 本図, 白水港, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "白水港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21607,21371,29,88",
+    "objectID": "S9W3(b)D1-02",
+    "sort": [
+        "01-04795"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21607,21371,29,88/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白水港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

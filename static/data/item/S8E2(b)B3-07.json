@@ -1,0 +1,41 @@
+{
+    "fulltext": "徐舎河, 01-02756, 5, 南8, 東2, 本図, 徐舎河, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "徐舎河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32521,19242,42,87",
+    "objectID": "S8E2(b)B3-07",
+    "sort": [
+        "01-02756"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32521,19242,42,87/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "徐舎河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

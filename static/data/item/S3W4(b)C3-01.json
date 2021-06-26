@@ -1,0 +1,41 @@
+{
+    "fulltext": "葦谷, 00-05528, 4, 南3, 西4, 本図, 葦谷, 墨, 裏, 4, C3",
+    "group": [
+        "main"
+    ],
+    "label": "葦谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18586,11766,65,55",
+    "objectID": "S3W4(b)C3-01",
+    "sort": [
+        "00-05528"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18586,11766,65,55/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "葦谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

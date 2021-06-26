@@ -1,0 +1,41 @@
+{
+    "fulltext": "導公寺, 01-01593, 5, 南7, 中, 本図, 導公寺, 墨, 表, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "導公寺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28949,17665,88,48",
+    "objectID": "S7C(a)B3-07",
+    "sort": [
+        "01-01593"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28949,17665,88,48/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "導公寺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

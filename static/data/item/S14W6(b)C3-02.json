@@ -1,0 +1,41 @@
+{
+    "fulltext": "蒙江, 01-08445, 7, 南14, 西6, 本図, 蒙江, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "蒙江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14172,29054,41,74",
+    "objectID": "S14W6(b)C3-02",
+    "sort": [
+        "01-08445"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14172,29054,41,74/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蒙江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

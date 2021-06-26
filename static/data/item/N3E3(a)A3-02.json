@@ -1,0 +1,41 @@
+{
+    "fulltext": "法庫山, 00-00181, 1, 北3, 東3, 本図, 法庫山, 朱, 表, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "法庫山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35875,1846,117,46",
+    "objectID": "N3E3(a)A3-02",
+    "sort": [
+        "00-00181"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35875,1846,117,46/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "法庫山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "正定, 00-02768, 3, 南1, 西1, 本図, 正定, 朱, 裏, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "正定",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26343,8982,62,28",
+    "objectID": "S1W1(b)D1-07",
+    "sort": [
+        "00-02768"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26343,8982,62,28/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "正定"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

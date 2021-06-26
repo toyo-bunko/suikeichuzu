@@ -1,0 +1,41 @@
+{
+    "fulltext": "蜀嘗置宕渠郡, 01-03524, 5, 南8, 西5, 本図, 蜀嘗置宕渠郡, 墨, 裏, 10, D3",
+    "group": [
+        "main"
+    ],
+    "label": "蜀嘗置宕渠郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16302,20083,94,76",
+    "objectID": "S8W5(b)D3-03",
+    "sort": [
+        "01-03524"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16302,20083,94,76/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蜀嘗置宕渠郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

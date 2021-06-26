@@ -1,0 +1,41 @@
+{
+    "fulltext": "青陵陂水, 01-00536, 5, 南6, 西2, 本図, 青陵陂水, 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "青陵陂水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25229,15888,70,61",
+    "objectID": "S6W2(a)A1-22",
+    "sort": [
+        "01-00536"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25229,15888,70,61/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "青陵陂水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

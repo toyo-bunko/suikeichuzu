@@ -1,0 +1,41 @@
+{
+    "fulltext": "平陰, 00-09014, 4, 南5, 西2, 本図, 平陰, 墨, 裏, 8, A3",
+    "group": [
+        "main"
+    ],
+    "label": "平陰",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23400,14125,63,34",
+    "objectID": "S5W2(b)A3-04",
+    "sort": [
+        "00-09014"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23400,14125,63,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "平陰"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

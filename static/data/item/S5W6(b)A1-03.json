@@ -1,0 +1,41 @@
+{
+    "fulltext": "新陽峡, 00-10707, 4, 南5, 西6, 本図, 新陽峡, 墨, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "新陽峡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14926,14301,91,37",
+    "objectID": "S5W6(b)A1-03",
+    "sort": [
+        "00-10707"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14926,14301,91,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新陽峡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

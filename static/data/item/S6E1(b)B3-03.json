@@ -1,0 +1,41 @@
+{
+    "fulltext": "潼陂, 01-00138, 5, 南6, 東1, 本図, 潼陂, 墨, 裏, 5, B3",
+    "group": [
+        "main"
+    ],
+    "label": "潼陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30080,16184,61,81",
+    "objectID": "S6E1(b)B3-03",
+    "sort": [
+        "01-00138"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30080,16184,61,81/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "潼陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

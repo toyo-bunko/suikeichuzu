@@ -1,0 +1,41 @@
+{
+    "fulltext": "洛水, 00-00774, 2, 北1, 東1, 本図, 洛水, 墨, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "洛水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30872,5496,43,79",
+    "objectID": "N1E1(b)C1-04",
+    "sort": [
+        "00-00774"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30872,5496,43,79/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洛水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

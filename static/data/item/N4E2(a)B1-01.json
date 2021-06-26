@@ -1,0 +1,41 @@
+{
+    "fulltext": "西拉木倫河, 00-00064, 1, 北4, 東2, 本図, 西拉木倫河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "西拉木倫河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34305,445,46,168",
+    "objectID": "N4E2(a)B1-01",
+    "sort": [
+        "00-00064"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34305,445,46,168/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西拉木倫河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "潛行地下, 00-06576, 4, 南4, 西1, 本図, 潛行地下, 墨, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "潛行地下",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25718,13068,103,43",
+    "objectID": "S4W1(b)B3-07",
+    "sort": [
+        "00-06576"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25718,13068,103,43/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "潛行地下"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "滄海, 01-08818, 7, 南15, 西2, 本図, 滄海, 墨, 裏, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "滄海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23665,29589,57,26",
+    "objectID": "S15W2(b)A2-07",
+    "sort": [
+        "01-08818"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23665,29589,57,26/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "滄海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

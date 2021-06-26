@@ -1,0 +1,41 @@
+{
+    "fulltext": "敏你雅克山, 01-05193, 6, 南9, 西9, 本図, 敏你雅克山, 朱, 表, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "敏你雅克山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8148,20423,154,35",
+    "objectID": "S9W9(a)A3-03",
+    "sort": [
+        "01-05193"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8148,20423,154,35/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "敏你雅克山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

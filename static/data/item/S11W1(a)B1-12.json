@@ -1,0 +1,41 @@
+{
+    "fulltext": "豫章郡, 01-06344, 6, 南11, 西1, 本図, 豫章郡, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "豫章郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27517,23848,100,32",
+    "objectID": "S11W1(a)B1-12",
+    "sort": [
+        "01-06344"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27517,23848,100,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "豫章郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

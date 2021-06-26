@@ -1,0 +1,41 @@
+{
+    "fulltext": "快州, 03-00121, 8, 越南, 中, 越南, 快州, 朱, 表, 17, A3",
+    "group": [
+        "etsunan"
+    ],
+    "label": "快州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2792,3274,144,63",
+    "objectID": "YC(a)A3-06",
+    "sort": [
+        "03-00121"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2792,3274,144,63/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "快州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

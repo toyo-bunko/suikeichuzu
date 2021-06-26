@@ -1,0 +1,41 @@
+{
+    "fulltext": "横槎水, 01-09395, 8, 南16, 西2, 本図, 横槎水, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "横槎水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25019,32589,107,48",
+    "objectID": "S16W2(a)D1-04",
+    "sort": [
+        "01-09395"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25019,32589,107,48/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "横槎水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

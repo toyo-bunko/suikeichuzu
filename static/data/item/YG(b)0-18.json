@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬城, 05-00224, 8, 0, 0, 禹貢山水澤地所在, 馬城, 墨, 裏, 10, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "馬城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1137,353,88,56",
+    "objectID": "YG(b)0-18",
+    "sort": [
+        "05-00224"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1137,353,88,56/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "馬城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        0
+    ]
+}

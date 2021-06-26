@@ -1,0 +1,41 @@
+{
+    "fulltext": "鬱水, 01-09799, 8, 南17, 西3, 本図, 鬱水, 朱, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "鬱水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22752,32792,77,41",
+    "objectID": "S17W3(a)A1-03",
+    "sort": [
+        "01-09799"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22752,32792,77,41/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鬱水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

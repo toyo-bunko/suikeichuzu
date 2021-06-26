@@ -1,0 +1,41 @@
+{
+    "fulltext": "大明寺, 04-00017, 8, 0, 0, 歴城図, 大明寺, 墨, 表, 16, 0",
+    "group": [
+        "jouzu01_rekijou"
+    ],
+    "label": "大明寺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=276,1327,86,216",
+    "objectID": "CTLI(a)0-17",
+    "sort": [
+        "04-00017"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/276,1327,86,216/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "歴城図"
+    ],
+    "地名/記述": [
+        "大明寺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        0
+    ]
+}

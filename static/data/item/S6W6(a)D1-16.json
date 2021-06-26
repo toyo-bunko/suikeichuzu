@@ -1,0 +1,41 @@
+{
+    "fulltext": "武侯葬此, 01-01224, 5, 南6, 西6, 本図, 武侯葬此, 墨, 表, 16, D1",
+    "group": [
+        "main"
+    ],
+    "label": "武侯葬此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16016,16949,31,101",
+    "objectID": "S6W6(a)D1-16",
+    "sort": [
+        "01-01224"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16016,16949,31,101/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武侯葬此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

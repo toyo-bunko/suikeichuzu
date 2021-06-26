@@ -1,0 +1,41 @@
+{
+    "fulltext": "屯氏別河南瀆, 00-03509, 3, 南2, 中, 本図, 屯氏別河南瀆, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "屯氏別河南瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28601,10600,48,83",
+    "objectID": "S2C(b)D1-11",
+    "sort": [
+        "00-03509"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28601,10600,48,83/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "屯氏別河南瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

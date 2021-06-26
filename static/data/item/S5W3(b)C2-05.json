@@ -1,0 +1,41 @@
+{
+    "fulltext": "石城, 00-09693, 4, 南5, 西3, 本図, 石城, 墨, 裏, 16, C2",
+    "group": [
+        "main"
+    ],
+    "label": "石城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21290,14953,60,33",
+    "objectID": "S5W3(b)C2-05",
+    "sort": [
+        "00-09693"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21290,14953,60,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "周懿王都此, 00-10272, 4, 南5, 西5, 本図, 周懿王都此, 墨, 表, 10, C1",
+    "group": [
+        "main"
+    ],
+    "label": "周懿王都此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18259,15085,77,50",
+    "objectID": "S5W5(a)C1-14",
+    "sort": [
+        "00-10272"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18259,15085,77,50/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "周懿王都此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

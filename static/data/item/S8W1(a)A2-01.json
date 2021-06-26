@@ -1,0 +1,41 @@
+{
+    "fulltext": "商城, 01-03008, 5, 南8, 西1, 本図, 商城, 朱, 表, 19, A2",
+    "group": [
+        "main"
+    ],
+    "label": "商城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26994,18698,41,68",
+    "objectID": "S8W1(a)A2-01",
+    "sort": [
+        "01-03008"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26994,18698,41,68/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "商城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

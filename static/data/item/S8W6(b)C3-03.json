@@ -1,0 +1,41 @@
+{
+    "fulltext": "梓潼水, 01-03576, 5, 南8, 西6, 本図, 梓潼水, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "梓潼水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13853,19668,107,43",
+    "objectID": "S8W6(b)C3-03",
+    "sort": [
+        "01-03576"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13853,19668,107,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "梓潼水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "海城, 00-00700, 2, 北1, 東3, 本図, 海城, 朱, 表, 19, A3",
+    "group": [
+        "main"
+    ],
+    "label": "海城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35880,4717,72,72",
+    "objectID": "N1E3(a)A3-01",
+    "sort": [
+        "00-00700"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35880,4717,72,72/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "海城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

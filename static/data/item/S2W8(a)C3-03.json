@@ -1,0 +1,41 @@
+{
+    "fulltext": "養女川水二源, 00-04130, 3, 南2, 西8, 本図, 養女川水二源, 墨, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "養女川水二源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10466,10306,120,28",
+    "objectID": "S2W8(a)C3-03",
+    "sort": [
+        "00-04130"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10466,10306,120,28/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "養女川水二源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

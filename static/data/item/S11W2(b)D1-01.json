@@ -1,0 +1,41 @@
+{
+    "fulltext": "瀏水, 01-06507, 6, 南11, 西2, 本図, 瀏水, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "瀏水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23899,24587,45,85",
+    "objectID": "S11W2(b)D1-01",
+    "sort": [
+        "01-06507"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23899,24587,45,85/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "瀏水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

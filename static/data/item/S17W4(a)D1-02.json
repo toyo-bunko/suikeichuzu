@@ -1,0 +1,41 @@
+{
+    "fulltext": "三甲河, 01-09843, 8, 南17, 西4, 本図, 三甲河, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "三甲河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20399,34124,86,47",
+    "objectID": "S17W4(a)D1-02",
+    "sort": [
+        "01-09843"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20399,34124,86,47/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三甲河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

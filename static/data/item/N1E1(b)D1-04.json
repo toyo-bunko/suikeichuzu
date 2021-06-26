@@ -1,0 +1,41 @@
+{
+    "fulltext": "令支, 00-00799, 2, 北1, 東1, 本図, 令支, 墨, 裏, 8, D1",
+    "group": [
+        "main"
+    ],
+    "label": "令支",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31084,6135,60,78",
+    "objectID": "N1E1(b)D1-04",
+    "sort": [
+        "00-00799"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31084,6135,60,78/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "令支"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

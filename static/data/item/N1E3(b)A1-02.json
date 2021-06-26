@@ -1,0 +1,41 @@
+{
+    "fulltext": "房, 00-00708, 2, 北1, 東3, 本図, 房, 墨, 裏, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "房",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35563,4766,60,58",
+    "objectID": "N1E3(b)A1-02",
+    "sort": [
+        "00-00708"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35563,4766,60,58/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "房"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

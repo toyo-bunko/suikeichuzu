@@ -1,0 +1,41 @@
+{
+    "fulltext": "建昌, 03-00114, 8, 越南, 中, 越南, 建昌, 朱, 表, 18, A2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "建昌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=3192,3478,121,87",
+    "objectID": "YC(a)A2-04",
+    "sort": [
+        "03-00114"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/3192,3478,121,87/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "建昌"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

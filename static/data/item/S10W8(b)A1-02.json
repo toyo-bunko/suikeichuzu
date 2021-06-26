@@ -1,0 +1,41 @@
+{
+    "fulltext": "嚴道, 01-06125, 6, 南10, 西8, 本図, 嚴道, 墨, 裏, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "嚴道",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10179,21952,70,38",
+    "objectID": "S10W8(b)A1-02",
+    "sort": [
+        "01-06125"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10179,21952,70,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "嚴道"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

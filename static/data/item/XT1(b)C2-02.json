@@ -1,0 +1,41 @@
+{
+    "fulltext": "和闐, 02-00147, 1, 上, 1, 西域, 和闐, 朱, 裏, 22, C2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "和闐",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5974,2492,91,123",
+    "objectID": "XT1(b)C2-02",
+    "sort": [
+        "02-00147"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5974,2492,91,123/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "和闐"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

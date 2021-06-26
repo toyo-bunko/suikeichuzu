@@ -1,0 +1,41 @@
+{
+    "fulltext": "觀渡河, 01-03382, 5, 南8, 西4, 本図, 觀渡河, 朱, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "觀渡河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19650,20132,95,42",
+    "objectID": "S8W4(a)D3-11",
+    "sort": [
+        "01-03382"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19650,20132,95,42/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "觀渡河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "故焦夷地, 01-00277, 5, 南6, 中, 本図, 故焦夷地, 墨, 裏, 10, B3",
+    "group": [
+        "main"
+    ],
+    "label": "故焦夷地",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28020,16175,130,41",
+    "objectID": "S6C(b)B3-04",
+    "sort": [
+        "01-00277"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28020,16175,130,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故焦夷地"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "南水, 00-09459, 渭水南水, 4, 南5, 西3, 本図, 南水, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "南水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22962,14938,61,34",
+    "objectID": "S5W3(a)C1-11",
+    "sort": [
+        "00-09459"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22962,14938,61,34/200,/0/default.jpg",
+    "備考": [
+        "渭水南水"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

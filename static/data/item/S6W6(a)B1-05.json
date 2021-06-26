@@ -1,0 +1,41 @@
+{
+    "fulltext": "大獅子河, 01-01179, 5, 南6, 西6, 本図, 大獅子河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "大獅子河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15973,16244,119,41",
+    "objectID": "S6W6(a)B1-05",
+    "sort": [
+        "01-01179"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15973,16244,119,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大獅子河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

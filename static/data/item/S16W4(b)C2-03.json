@@ -1,0 +1,41 @@
+{
+    "fulltext": "潯州, 01-09547, 8, 南16, 西4, 本図, 潯州, 朱, 裏, 18, C2",
+    "group": [
+        "main"
+    ],
+    "label": "潯州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18960,31876,80,35",
+    "objectID": "S16W4(b)C2-03",
+    "sort": [
+        "01-09547"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18960,31876,80,35/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "潯州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

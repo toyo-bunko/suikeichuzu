@@ -1,0 +1,41 @@
+{
+    "fulltext": "銅陵, 01-02921, 5, 南8, 東1, 本図, 銅陵, 朱, 裏, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "銅陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30319,20131,70,36",
+    "objectID": "S8E1(b)D3-02",
+    "sort": [
+        "01-02921"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30319,20131,70,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "銅陵"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

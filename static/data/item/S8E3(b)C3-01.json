@@ -1,0 +1,41 @@
+{
+    "fulltext": "東江入海, 01-02626, 5, 南8, 東3, 本図, 東江入海, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "東江入海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34884,19624,56,142",
+    "objectID": "S8E3(b)C3-01",
+    "sort": [
+        "01-02626"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34884,19624,56,142/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東江入海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

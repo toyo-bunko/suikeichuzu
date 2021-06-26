@@ -1,0 +1,41 @@
+{
+    "fulltext": "臨湘新治, 01-06510, 6, 南11, 西2, 本図, 臨湘新治, 墨, 裏, 6, D2",
+    "group": [
+        "main"
+    ],
+    "label": "臨湘新治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23488,24503,87,19",
+    "objectID": "S11W2(b)D2-02",
+    "sort": [
+        "01-06510"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23488,24503,87,19/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "臨湘新治"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

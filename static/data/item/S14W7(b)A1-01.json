@@ -1,0 +1,41 @@
+{
+    "fulltext": "普安, 01-08461, 7, 南14, 西7, 本図, 普安, 朱, 裏, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "普安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12464,28284,73,38",
+    "objectID": "S14W7(b)A1-01",
+    "sort": [
+        "01-08461"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12464,28284,73,38/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "普安"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

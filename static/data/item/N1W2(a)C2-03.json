@@ -1,0 +1,41 @@
+{
+    "fulltext": "方山, 00-01150, 2, 北1, 西2, 本図, 方山, 墨, 表, 4, C2",
+    "group": [
+        "main"
+    ],
+    "label": "方山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24742,5764,114,37",
+    "objectID": "N1W2(a)C2-03",
+    "sort": [
+        "00-01150"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24742,5764,114,37/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "方山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

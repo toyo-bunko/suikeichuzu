@@ -1,0 +1,41 @@
+{
+    "fulltext": "呉臨水, 01-03931, 6, 南9, 東2, 本図, 呉臨水, 墨, 裏, 8, D2",
+    "group": [
+        "main"
+    ],
+    "label": "呉臨水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32761,21379,83,32",
+    "objectID": "S9E2(b)D2-02",
+    "sort": [
+        "01-03931"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32761,21379,83,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呉臨水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

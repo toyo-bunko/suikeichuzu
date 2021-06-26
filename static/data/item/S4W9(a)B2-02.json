@@ -1,0 +1,41 @@
+{
+    "fulltext": "羌迷唐鍾存所居, 00-07791, 4, 南4, 西9, 本図, 羌迷唐鍾存所居, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "羌迷唐鍾存所居",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8627,12988,114,122",
+    "objectID": "S4W9(a)B2-02",
+    "sort": [
+        "00-07791"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8627,12988,114,122/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羌迷唐鍾存所居"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

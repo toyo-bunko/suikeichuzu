@@ -1,0 +1,41 @@
+{
+    "fulltext": "平郷亭, 00-00956, 2, 北1, 中, 本図, 平郷亭, 墨, 裏, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "平郷亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28041,5500,81,35",
+    "objectID": "N1C(b)C3-08",
+    "sort": [
+        "00-00956"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28041,5500,81,35/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "平郷亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "邯鄲, 00-05062, 邯鄲の城郭を大きく画いた, 4, 南3, 西1, 本図, 邯鄲, 墨, 裏, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "邯鄲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26236,11344,50,25",
+    "objectID": "S3W1(b)B1-04",
+    "sort": [
+        "00-05062"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26236,11344,50,25/200,/0/default.jpg",
+    "備考": [
+        "邯鄲の城郭を大きく画いた"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "邯鄲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

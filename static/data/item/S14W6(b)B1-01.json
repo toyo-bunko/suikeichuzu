@@ -1,0 +1,41 @@
+{
+    "fulltext": "藤茶河, 01-08440, 7, 南14, 西6, 本図, 藤茶河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "藤茶河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14860,28410,105,42",
+    "objectID": "S14W6(b)B1-01",
+    "sort": [
+        "01-08440"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14860,28410,105,42/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "藤茶河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

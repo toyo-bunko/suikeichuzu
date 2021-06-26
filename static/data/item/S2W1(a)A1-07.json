@@ -1,0 +1,41 @@
+{
+    "fulltext": "下博, 00-03538, 3, 南2, 西1, 本図, 下博, 墨, 表, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "下博",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27512,9448,77,48",
+    "objectID": "S2W1(a)A1-07",
+    "sort": [
+        "00-03538"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27512,9448,77,48/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "下博"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

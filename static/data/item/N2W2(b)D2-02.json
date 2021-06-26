@@ -1,0 +1,41 @@
+{
+    "fulltext": "即陰山, 00-00581, 1, 北2, 西2, 本図, 即陰山, 墨, 裏, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "即陰山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23741,4395,93,41",
+    "objectID": "N2W2(b)D2-02",
+    "sort": [
+        "00-00581"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23741,4395,93,41/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即陰山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "竇氏青山, 00-03452, 3, 南2, 中, 本図, 竇氏青山, 墨, 裏, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "竇氏青山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28123,9593,50,54",
+    "objectID": "S2C(b)A2-24",
+    "sort": [
+        "00-03452"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28123,9593,50,54/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "竇氏青山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

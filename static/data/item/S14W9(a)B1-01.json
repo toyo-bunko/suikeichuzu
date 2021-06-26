@@ -1,0 +1,41 @@
+{
+    "fulltext": "掌鳩河, 01-08579, 7, 南14, 西9, 本図, 掌鳩河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "掌鳩河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9142,28379,48,98",
+    "objectID": "S14W9(a)B1-01",
+    "sort": [
+        "01-08579"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9142,28379,48,98/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "掌鳩河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

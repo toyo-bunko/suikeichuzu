@@ -1,0 +1,41 @@
+{
+    "fulltext": "伊克池, 02-00265, 1, 下, 1, 西域, 伊克池, 朱, 裏, 5, A1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "伊克池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6356,3108,150,142",
+    "objectID": "XB1(b)A1-01",
+    "sort": [
+        "02-00265"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6356,3108,150,142/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "伊克池"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

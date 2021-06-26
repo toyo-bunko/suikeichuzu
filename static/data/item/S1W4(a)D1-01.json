@@ -1,0 +1,41 @@
+{
+    "fulltext": "真鄕川, 00-02966, 3, 南1, 西4, 本図, 真鄕川, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "真鄕川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20686,8935,39,86",
+    "objectID": "S1W4(a)D1-01",
+    "sort": [
+        "00-02966"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20686,8935,39,86/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "真鄕川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

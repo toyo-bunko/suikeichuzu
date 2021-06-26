@@ -1,0 +1,41 @@
+{
+    "fulltext": "船官浦, 01-04284, 6, 南9, 西1, 本図, 船官浦, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "船官浦",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25531,20817,61,32",
+    "objectID": "S9W1(b)B3-25",
+    "sort": [
+        "01-04284"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25531,20817,61,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "船官浦"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

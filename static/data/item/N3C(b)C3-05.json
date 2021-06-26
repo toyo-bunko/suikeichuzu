@@ -1,0 +1,41 @@
+{
+    "fulltext": "衮泊, 00-00248, 1, 北3, 中, 本図, 衮泊, 朱, 裏, 5, C3",
+    "group": [
+        "main"
+    ],
+    "label": "衮泊",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27816,2540,65,91",
+    "objectID": "N3C(b)C3-05",
+    "sort": [
+        "00-00248"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27816,2540,65,91/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "衮泊"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

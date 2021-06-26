@@ -1,0 +1,41 @@
+{
+    "fulltext": "石鍾山, 01-05474, 6, 南10, 中, 本図, 石鍾山, 墨, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "石鍾山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28265,21913,86,33",
+    "objectID": "S10C(b)A2-05",
+    "sort": [
+        "01-05474"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28265,21913,86,33/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石鍾山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

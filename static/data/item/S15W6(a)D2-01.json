@@ -1,0 +1,41 @@
+{
+    "fulltext": "卯山, 01-09045, 7, 南15, 西6, 本図, 卯山, 朱, 表, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "卯山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15470,30684,75,52",
+    "objectID": "S15W6(a)D2-01",
+    "sort": [
+        "01-09045"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15470,30684,75,52/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "卯山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

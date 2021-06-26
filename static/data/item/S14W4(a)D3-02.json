@@ -1,0 +1,41 @@
+{
+    "fulltext": "彈丸山, 01-08372, 7, 南14, 西4, 本図, 彈丸山, 墨, 表, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "彈丸山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19831,29161,89,39",
+    "objectID": "S14W4(a)D3-02",
+    "sort": [
+        "01-08372"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19831,29161,89,39/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "彈丸山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "高州　, 01-09987, 8, 南18, 西4, 本図, 高州　, 朱, 表, 18, A3",
+    "group": [
+        "main"
+    ],
+    "label": "高州　",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19783,34359,81,39",
+    "objectID": "S18W4(a)A3-01",
+    "sort": [
+        "01-09987"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19783,34359,81,39/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南18"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高州　"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

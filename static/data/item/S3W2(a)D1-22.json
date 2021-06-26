@@ -1,0 +1,41 @@
+{
+    "fulltext": "偏橋, 00-05209, 4, 南3, 西2, 本図, 偏橋, 墨, 表, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "偏橋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25059,12121,78,40",
+    "objectID": "S3W2(a)D1-22",
+    "sort": [
+        "00-05209"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25059,12121,78,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "偏橋"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

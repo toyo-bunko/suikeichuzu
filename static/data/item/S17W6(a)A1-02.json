@@ -1,0 +1,41 @@
+{
+    "fulltext": "永康, 01-09908, 8, 南17, 西6, 本図, 永康, 朱, 表, 23, A1",
+    "group": [
+        "main"
+    ],
+    "label": "永康",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15818,32757,80,41",
+    "objectID": "S17W6(a)A1-02",
+    "sort": [
+        "01-09908"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15818,32757,80,41/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "永康"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

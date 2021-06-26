@@ -1,0 +1,41 @@
+{
+    "fulltext": "西漢池頭, 00-02304, 2, 中, 西10, 本図, 西漢池頭, 墨, 表, 10, B2",
+    "group": [
+        "main"
+    ],
+    "label": "西漢池頭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6132,6877,139,58",
+    "objectID": "CW10(a)B2-01",
+    "sort": [
+        "00-02304"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6132,6877,139,58/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西漢池頭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

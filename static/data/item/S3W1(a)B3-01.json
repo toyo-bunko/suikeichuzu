@@ -1,0 +1,41 @@
+{
+    "fulltext": "曹操引漳水入清洹名曰利漕渠, 00-04974, 4, 南3, 西1, 本図, 曹操引漳水入清洹名曰利漕渠, 墨, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "曹操引漳水入清洹名曰利漕渠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26769,11291,120,120",
+    "objectID": "S3W1(a)B3-01",
+    "sort": [
+        "00-04974"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26769,11291,120,120/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "曹操引漳水入清洹名曰利漕渠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

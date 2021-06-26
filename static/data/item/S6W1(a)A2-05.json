@@ -1,0 +1,41 @@
+{
+    "fulltext": "寍平, 01-00319, 5, 南6, 西1, 本図, 寍平, 墨, 表, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "寍平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27040,15744,66,52",
+    "objectID": "S6W1(a)A2-05",
+    "sort": [
+        "01-00319"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27040,15744,66,52/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "寍平"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

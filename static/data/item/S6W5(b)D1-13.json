@@ -1,0 +1,41 @@
+{
+    "fulltext": "韓信臺, 01-01119, 5, 南6, 西5, 本図, 韓信臺, 墨, 裏, 16, D1",
+    "group": [
+        "main"
+    ],
+    "label": "韓信臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17031,16962,76,43",
+    "objectID": "S6W5(b)D1-13",
+    "sort": [
+        "01-01119"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17031,16962,76,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "韓信臺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

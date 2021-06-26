@@ -1,0 +1,41 @@
+{
+    "fulltext": "𧙓亭, 00-01022, 2, 北1, 西1, 本図, 𧙓亭, 墨, 表, 16, C1",
+    "group": [
+        "main"
+    ],
+    "label": "𧙓亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27353,5707,46,98",
+    "objectID": "N1W1(a)C1-11",
+    "sort": [
+        "00-01022"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27353,5707,46,98/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "𧙓亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

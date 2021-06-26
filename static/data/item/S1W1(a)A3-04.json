@@ -1,0 +1,41 @@
+{
+    "fulltext": "高昌城, 00-02596, 3, 南1, 西1, 本図, 高昌城, 墨, 表, 10, A3",
+    "group": [
+        "main"
+    ],
+    "label": "高昌城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26856,8017,76,44",
+    "objectID": "S1W1(a)A3-04",
+    "sort": [
+        "00-02596"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26856,8017,76,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高昌城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

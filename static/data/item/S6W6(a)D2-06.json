@@ -1,0 +1,41 @@
+{
+    "fulltext": "南沙河, 01-01237, 5, 南6, 西6, 本図, 南沙河, 朱, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "南沙河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15429,16963,38,93",
+    "objectID": "S6W6(a)D2-06",
+    "sort": [
+        "01-01237"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15429,16963,38,93/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南沙河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

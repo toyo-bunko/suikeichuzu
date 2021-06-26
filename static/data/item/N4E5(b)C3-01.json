@@ -1,0 +1,41 @@
+{
+    "fulltext": "庫勒嶺, 00-00026, 1, 北4, 東5, 本図, 庫勒嶺, 朱, 裏, 0, C3",
+    "group": [
+        "main"
+    ],
+    "label": "庫勒嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39445,871,100,45",
+    "objectID": "N4E5(b)C3-01",
+    "sort": [
+        "00-00026"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39445,871,100,45/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "庫勒嶺"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "舊茆塘港, 01-01477, 5, 南7, 東1, 本図, 舊茆塘港, 朱, 表, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "舊茆塘港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31851,17128,34,119",
+    "objectID": "S7E1(a)A2-03",
+    "sort": [
+        "01-01477"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31851,17128,34,119/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "舊茆塘港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

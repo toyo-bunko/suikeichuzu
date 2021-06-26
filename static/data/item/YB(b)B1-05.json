@@ -1,0 +1,41 @@
+{
+    "fulltext": "永隆, 03-00297, 8, 越南, 下, 越南, 永隆, 朱, 裏, 17, B1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "永隆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1591,7559,160,79",
+    "objectID": "YB(b)B1-05",
+    "sort": [
+        "03-00297"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1591,7559,160,79/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "下"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "永隆"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

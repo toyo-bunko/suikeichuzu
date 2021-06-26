@@ -1,0 +1,41 @@
+{
+    "fulltext": "鹽漑, 01-06088, 6, 南10, 西7, 本図, 鹽漑, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "鹽漑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11672,22529,97,30",
+    "objectID": "S10W7(b)B3-06",
+    "sort": [
+        "01-06088"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11672,22529,97,30/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹽漑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

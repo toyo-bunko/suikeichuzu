@@ -1,0 +1,41 @@
+{
+    "fulltext": "白渠首承涇水, 00-10001, 4, 南5, 西4, 本図, 白渠首承涇水, 墨, 裏, 2, B3",
+    "group": [
+        "main"
+    ],
+    "label": "白渠首承涇水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18491,14416,89,68",
+    "objectID": "S5W4(b)B3-03",
+    "sort": [
+        "00-10001"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18491,14416,89,68/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白渠首承涇水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

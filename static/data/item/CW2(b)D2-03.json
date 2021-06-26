@@ -1,0 +1,41 @@
+{
+    "fulltext": "甯武, 00-02192, 2, 中, 西2, 本図, 甯武, 朱, 裏, 18, D2",
+    "group": [
+        "main"
+    ],
+    "label": "甯武",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23501,7670,55,36",
+    "objectID": "CW2(b)D2-03",
+    "sort": [
+        "00-02192"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23501,7670,55,36/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "甯武"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

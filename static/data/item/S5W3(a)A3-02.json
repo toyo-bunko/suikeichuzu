@@ -1,0 +1,41 @@
+{
+    "fulltext": "自砥柱至五戸有十九灘, 00-09354, 4, 南5, 西3, 本図, 自砥柱至五戸有十九灘, 墨, 表, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "自砥柱至五戸有十九灘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22088,14045,112,105",
+    "objectID": "S5W3(a)A3-02",
+    "sort": [
+        "00-09354"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22088,14045,112,105/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "自砥柱至五戸有十九灘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

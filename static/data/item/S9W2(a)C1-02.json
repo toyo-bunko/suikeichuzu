@@ -1,0 +1,41 @@
+{
+    "fulltext": "南家湖, 01-04415, 6, 南9, 西2, 本図, 南家湖, 朱, 表, 5, C1",
+    "group": [
+        "main"
+    ],
+    "label": "南家湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25224,21042,90,39",
+    "objectID": "S9W2(a)C1-02",
+    "sort": [
+        "01-04415"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25224,21042,90,39/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南家湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

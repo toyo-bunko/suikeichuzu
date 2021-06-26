@@ -1,0 +1,41 @@
+{
+    "fulltext": "無名島, 00-01527, 2, 中, 東3, 本図, 無名島, 朱, 表, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "無名島",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=36365,7018,160,102",
+    "objectID": "CE3(a)C2-01",
+    "sort": [
+        "00-01527"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/36365,7018,160,102/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "無名島"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

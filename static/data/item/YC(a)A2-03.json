@@ -1,0 +1,41 @@
+{
+    "fulltext": "先興, 03-00113, 8, 越南, 中, 越南, 先興, 朱, 表, 18, A2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "先興",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=3063,3328,126,89",
+    "objectID": "YC(a)A2-03",
+    "sort": [
+        "03-00113"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/3063,3328,126,89/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "先興"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

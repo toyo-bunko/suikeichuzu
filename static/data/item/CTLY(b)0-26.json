@@ -1,0 +1,41 @@
+{
+    "fulltext": "旅人橋, 04-00109, 8, 0, 0, 洛陽城図, 旅人橋, 墨, 裏, 29, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "旅人橋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=3745,1464,104,173",
+    "objectID": "CTLY(b)0-26",
+    "sort": [
+        "04-00109"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/3745,1464,104,173/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "旅人橋"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        0
+    ]
+}

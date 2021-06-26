@@ -1,0 +1,41 @@
+{
+    "fulltext": "鐵城, 01-01055, 5, 南6, 西5, 本図, 鐵城, 墨, 表, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "鐵城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17699,16940,35,53",
+    "objectID": "S6W5(a)D3-04",
+    "sort": [
+        "01-01055"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17699,16940,35,53/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鐵城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "宕備水, 00-10860, 注文は「巖備水」, 4, 南5, 西6, 本図, 宕備水, 墨, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "宕備水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14368,15312,67,86",
+    "objectID": "S5W6(b)D2-29",
+    "sort": [
+        "00-10860"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14368,15312,67,86/200,/0/default.jpg",
+    "備考": [
+        "注文は「巖備水」"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宕備水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

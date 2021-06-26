@@ -1,0 +1,44 @@
+{
+    "fulltext": "涿, 00-01768, 11か？, 2, 中, 中, 本図, 涿, 墨, 裏, 7, B3",
+    "group": [
+        "main"
+    ],
+    "label": "涿",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27964,7028,44,27",
+    "objectID": "CC(b)B3-28",
+    "sort": [
+        "00-01768"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27964,7028,44,27/200,/0/default.jpg",
+    "備考": [
+        "11か？"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "涿"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

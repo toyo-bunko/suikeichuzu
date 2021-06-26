@@ -1,0 +1,41 @@
+{
+    "fulltext": "蒲谷, 00-03779, 3, 南2, 西2, 本図, 蒲谷, 墨, 表, 4, C3",
+    "group": [
+        "main"
+    ],
+    "label": "蒲谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24442,10180,78,44",
+    "objectID": "S2W2(a)C3-04",
+    "sort": [
+        "00-03779"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24442,10180,78,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蒲谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

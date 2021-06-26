@@ -1,0 +1,41 @@
+{
+    "fulltext": "勞村江, 01-08429, 7, 南14, 西5, 本図, 勞村江, 朱, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "勞村江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16305,29360,99,48",
+    "objectID": "S14W5(b)D3-01",
+    "sort": [
+        "01-08429"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16305,29360,99,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "勞村江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

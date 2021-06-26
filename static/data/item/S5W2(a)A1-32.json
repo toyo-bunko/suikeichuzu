@@ -1,0 +1,41 @@
+{
+    "fulltext": "中陽城, 00-08581, 4, 南5, 西2, 本図, 中陽城, 墨, 表, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "中陽城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25356,14303,31,56",
+    "objectID": "S5W2(a)A1-32",
+    "sort": [
+        "00-08581"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25356,14303,31,56/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "中陽城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

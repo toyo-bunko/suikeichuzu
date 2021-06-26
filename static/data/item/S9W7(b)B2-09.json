@@ -1,0 +1,41 @@
+{
+    "fulltext": "走馬河, 01-05083, 6, 南9, 西7, 本図, 走馬河, 朱, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "走馬河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12028,20668,78,31",
+    "objectID": "S9W7(b)B2-09",
+    "sort": [
+        "01-05083"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12028,20668,78,31/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "走馬河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "澧, 01-05809, 6, 南10, 西3, 本図, 澧, 朱, 表, 22, B3",
+    "group": [
+        "main"
+    ],
+    "label": "澧",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22062,22288,38,35",
+    "objectID": "S10W3(a)B3-02",
+    "sort": [
+        "01-05809"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22062,22288,38,35/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "澧"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

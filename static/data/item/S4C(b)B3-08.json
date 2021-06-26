@@ -1,0 +1,41 @@
+{
+    "fulltext": "濟渠, 00-06232, 4, 南4, 中, 本図, 濟渠, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "濟渠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27890,13085,51,105",
+    "objectID": "S4C(b)B3-08",
+    "sort": [
+        "00-06232"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27890,13085,51,105/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濟渠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

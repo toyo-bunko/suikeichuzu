@@ -1,0 +1,41 @@
+{
+    "fulltext": "大游墓, 00-08267, 4, 南5, 西1, 本図, 大游墓, 墨, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "大游墓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26820,14383,108,45",
+    "objectID": "S5W1(a)B3-01",
+    "sort": [
+        "00-08267"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26820,14383,108,45/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大游墓"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

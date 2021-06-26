@@ -1,0 +1,41 @@
+{
+    "fulltext": "營口, 00-00712, 2, 北1, 東3, 本図, 營口, 朱, 裏, 21, A1",
+    "group": [
+        "main"
+    ],
+    "label": "營口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35398,4968,90,46",
+    "objectID": "N1E3(b)A1-06",
+    "sort": [
+        "00-00712"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35398,4968,90,46/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "營口"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        21
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

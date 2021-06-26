@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣宗, 00-03636, 3, 南2, 西1, 本図, 廣宗, 墨, 表, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "廣宗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27269,10765,47,25",
+    "objectID": "S2W1(a)D2-05",
+    "sort": [
+        "00-03636"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27269,10765,47,25/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "廣宗"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

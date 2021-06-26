@@ -1,0 +1,41 @@
+{
+    "fulltext": "河南摩强水, 02-00292, 1, 下, 1, 西域, 河南摩强水, 墨, 裏, 1, B2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "河南摩强水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5323,4687,212,161",
+    "objectID": "XB1(b)B2-03",
+    "sort": [
+        "02-00292"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5323,4687,212,161/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "河南摩强水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

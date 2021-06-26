@@ -1,0 +1,44 @@
+{
+    "fulltext": "望夫山, 00-05158, 記号ないが山名, 4, 南3, 西2, 本図, 望夫山, 墨, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "望夫山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24505,11589,87,40",
+    "objectID": "S3W2(a)B3-02",
+    "sort": [
+        "00-05158"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24505,11589,87,40/200,/0/default.jpg",
+    "備考": [
+        "記号ないが山名"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "望夫山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

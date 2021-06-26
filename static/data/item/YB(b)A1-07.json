@@ -1,0 +1,41 @@
+{
+    "fulltext": "高橋, 03-00274, 8, 越南, 下, 越南, 高橋, 墨, 裏, 29, A1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "高橋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2052,6333,117,65",
+    "objectID": "YB(b)A1-07",
+    "sort": [
+        "03-00274"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2052,6333,117,65/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "下"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "高橋"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

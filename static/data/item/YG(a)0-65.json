@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣平, 05-00065, 8, 0, 0, 禹貢山水澤地所在, 廣平, 朱, 表, 7, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "廣平",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2549,670,88,57",
+    "objectID": "YG(a)0-65",
+    "sort": [
+        "05-00065"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2549,670,88,57/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "廣平"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        0
+    ]
+}

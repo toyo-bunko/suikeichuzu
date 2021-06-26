@@ -1,0 +1,41 @@
+{
+    "fulltext": "黄澤, 00-05130, 4, 南3, 西1, 本図, 黄澤, 墨, 裏, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "黄澤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26270,12383,70,46",
+    "objectID": "S3W1(b)D1-09",
+    "sort": [
+        "00-05130"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26270,12383,70,46/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黄澤"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

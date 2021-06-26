@@ -1,0 +1,41 @@
+{
+    "fulltext": "仙人樓, 01-05854, 6, 南10, 西3, 本図, 仙人樓, 墨, 裏, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "仙人樓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21470,22514,102,32",
+    "objectID": "S10W3(b)B2-10",
+    "sort": [
+        "01-05854"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21470,22514,102,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "仙人樓"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

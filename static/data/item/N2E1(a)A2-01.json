@@ -1,0 +1,41 @@
+{
+    "fulltext": "哈喇沁右翼旗, 00-00433, 1, 北2, 東1, 本図, 哈喇沁右翼旗, 朱, 表, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "哈喇沁右翼旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31777,3283,74,111",
+    "objectID": "N2E1(a)A2-01",
+    "sort": [
+        "00-00433"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31777,3283,74,111/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "哈喇沁右翼旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "漁陽郡, 00-00860, 2, 北1, 中, 本図, 漁陽郡, 墨, 表, 9, C3",
+    "group": [
+        "main"
+    ],
+    "label": "漁陽郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28880,5632,70,52",
+    "objectID": "N1C(a)C3-03",
+    "sort": [
+        "00-00860"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28880,5632,70,52/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漁陽郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "小沛, 00-07986, 4, 南5, 中, 本図, 小沛, 墨, 表, 8, A2",
+    "group": [
+        "main"
+    ],
+    "label": "小沛",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29312,14243,61,43",
+    "objectID": "S5C(a)A2-12",
+    "sort": [
+        "00-07986"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29312,14243,61,43/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小沛"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

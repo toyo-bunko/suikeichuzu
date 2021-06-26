@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名扶蘇水, 00-07121, 4, 南4, 西3, 本図, 一名扶蘇水, 墨, 表, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "一名扶蘇水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22464,13557,79,127",
+    "objectID": "S4W3(a)C2-28",
+    "sort": [
+        "00-07121"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22464,13557,79,127/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一名扶蘇水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

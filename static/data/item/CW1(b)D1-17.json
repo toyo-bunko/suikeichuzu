@@ -1,0 +1,41 @@
+{
+    "fulltext": "兩嶺水, 00-02071, 2, 中, 西1, 本図, 兩嶺水, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "兩嶺水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26370,7731,95,35",
+    "objectID": "CW1(b)D1-17",
+    "sort": [
+        "00-02071"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26370,7731,95,35/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "兩嶺水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

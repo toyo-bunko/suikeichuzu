@@ -1,0 +1,41 @@
+{
+    "fulltext": "羌中, 00-03089, 3, 南1, 西10, 本図, 羌中, 墨, 表, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "羌中",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6336,8051,77,59",
+    "objectID": "S1W10(a)A2-01",
+    "sort": [
+        "00-03089"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6336,8051,77,59/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羌中"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

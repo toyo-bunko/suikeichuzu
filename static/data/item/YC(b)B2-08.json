@@ -1,0 +1,41 @@
+{
+    "fulltext": "南陵究, 03-00195, 8, 越南, 中, 越南, 南陵究, 墨, 裏, 1, B2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "南陵究",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1160,4116,192,85",
+    "objectID": "YC(b)B2-08",
+    "sort": [
+        "03-00195"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1160,4116,192,85/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "南陵究"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

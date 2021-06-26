@@ -1,0 +1,41 @@
+{
+    "fulltext": "凹必河, 01-09744, 8, 南16, 西9, 本図, 凹必河, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "凹必河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7312,31147,109,41",
+    "objectID": "S16W9(b)A2-01",
+    "sort": [
+        "01-09744"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7312,31147,109,41/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "凹必河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

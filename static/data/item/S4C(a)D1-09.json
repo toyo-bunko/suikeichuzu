@@ -1,0 +1,41 @@
+{
+    "fulltext": "夏奚仲國, 00-06144, 4, 南4, 中, 本図, 夏奚仲國, 墨, 表, 8, D1",
+    "group": [
+        "main"
+    ],
+    "label": "夏奚仲國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29637,13949,65,66",
+    "objectID": "S4C(a)D1-09",
+    "sort": [
+        "00-06144"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29637,13949,65,66/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "夏奚仲國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

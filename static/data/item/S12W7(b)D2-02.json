@@ -1,0 +1,41 @@
+{
+    "fulltext": "菩薩海, 01-07332, 7, 南12, 西7, 本図, 菩薩海, 朱, 裏, 5, D2",
+    "group": [
+        "main"
+    ],
+    "label": "菩薩海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12117,26316,46,97",
+    "objectID": "S12W7(b)D2-02",
+    "sort": [
+        "01-07332"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12117,26316,46,97/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "菩薩海"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

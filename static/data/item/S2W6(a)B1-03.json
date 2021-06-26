@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢渠, 00-04094, 3, 南2, 西6, 本図, 漢渠, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "漢渠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15869,9896,34,68",
+    "objectID": "S2W6(a)B1-03",
+    "sort": [
+        "00-04094"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15869,9896,34,68/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢渠"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

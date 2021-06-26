@@ -1,0 +1,41 @@
+{
+    "fulltext": "鉅鹿郡, 00-03660, 3, 南2, 西1, 本図, 鉅鹿郡, 墨, 表, 9, D3",
+    "group": [
+        "main"
+    ],
+    "label": "鉅鹿郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26659,10833,94,27",
+    "objectID": "S2W1(a)D3-14",
+    "sort": [
+        "00-03660"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26659,10833,94,27/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鉅鹿郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

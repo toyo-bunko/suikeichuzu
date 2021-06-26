@@ -1,0 +1,41 @@
+{
+    "fulltext": "哈爾吉河, 00-11070, 4, 南5, 西10, 本図, 哈爾吉河, 朱, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "哈爾吉河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=5998,15197,120,40",
+    "objectID": "S5W10(a)D3-01",
+    "sort": [
+        "00-11070"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/5998,15197,120,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "哈爾吉河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

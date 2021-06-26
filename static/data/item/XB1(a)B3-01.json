@@ -1,0 +1,44 @@
+{
+    "fulltext": "扎什倫市, 02-00244, 「扎什倫布寺」か？, 1, 下, 1, 西域, 扎什倫市, 朱, 表, 25, B3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "扎什倫市",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7395,4074,182,155",
+    "objectID": "XB1(a)B3-01",
+    "sort": [
+        "02-00244"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7395,4074,182,155/200,/0/default.jpg",
+    "備考": [
+        "「扎什倫布寺」か？"
+    ],
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "扎什倫市"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        25
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

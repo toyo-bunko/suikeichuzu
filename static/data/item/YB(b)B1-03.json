@@ -1,0 +1,41 @@
+{
+    "fulltext": "扶南, 03-00295, 8, 越南, 下, 越南, 扶南, 墨, 裏, 0, B1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "扶南",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2047,7393,95,154",
+    "objectID": "YB(b)B1-03",
+    "sort": [
+        "03-00295"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2047,7393,95,154/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "下"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "扶南"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

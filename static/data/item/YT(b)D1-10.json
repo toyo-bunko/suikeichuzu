@@ -1,0 +1,41 @@
+{
+    "fulltext": "西漢交趾郡, 03-00103, 8, 越南, 上, 越南, 西漢交趾郡, 墨, 裏, 15, D1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "西漢交趾郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2134,2749,170,93",
+    "objectID": "YT(b)D1-10",
+    "sort": [
+        "03-00103"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2134,2749,170,93/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "西漢交趾郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        15
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

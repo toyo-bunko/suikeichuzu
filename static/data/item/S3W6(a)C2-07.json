@@ -1,0 +1,41 @@
+{
+    "fulltext": "大黑河, 00-05613, 4, 南3, 西6, 本図, 大黑河, 朱, 表, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "大黑河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15603,11865,68,29",
+    "objectID": "S3W6(a)C2-07",
+    "sort": [
+        "00-05613"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15603,11865,68,29/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大黑河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

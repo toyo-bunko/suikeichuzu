@@ -1,0 +1,41 @@
+{
+    "fulltext": "泰安, 00-04698, 4, 南3, 中, 本図, 泰安, 朱, 表, 18, C2",
+    "group": [
+        "main"
+    ],
+    "label": "泰安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29482,12008,61,30",
+    "objectID": "S3C(a)C2-14",
+    "sort": [
+        "00-04698"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29482,12008,61,30/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "泰安"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

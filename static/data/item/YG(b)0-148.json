@@ -1,0 +1,41 @@
+{
+    "fulltext": "辰州, 05-00355, 8, 0, 0, 禹貢山水澤地所在, 辰州, 朱, 裏, 7, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "辰州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2008,1666,94,65",
+    "objectID": "YG(b)0-148",
+    "sort": [
+        "05-00355"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2008,1666,94,65/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "辰州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        0
+    ]
+}

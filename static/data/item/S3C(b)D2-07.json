@@ -1,0 +1,41 @@
+{
+    "fulltext": "濟水, 00-04912, 4, 南3, 中, 本図, 濟水, 墨, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "濟水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28411,12378,47,57",
+    "objectID": "S3C(b)D2-07",
+    "sort": [
+        "00-04912"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28411,12378,47,57/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "濟水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

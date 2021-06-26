@@ -1,0 +1,44 @@
+{
+    "fulltext": "●口, 00-01672, ●＝［氵/𡻷］, 2, 中, 中, 本図, ●口, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "●口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28867,7623,72,39",
+    "objectID": "CC(a)D3-05",
+    "sort": [
+        "00-01672"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28867,7623,72,39/200,/0/default.jpg",
+    "備考": [
+        "●＝［氵/𡻷］"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "●口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

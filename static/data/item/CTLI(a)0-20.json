@@ -1,0 +1,41 @@
+{
+    "fulltext": "舜祠, 04-00020, 8, 0, 0, 歴城図, 舜祠, 墨, 表, 16, 0",
+    "group": [
+        "jouzu01_rekijou"
+    ],
+    "label": "舜祠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1215,2510,160,103",
+    "objectID": "CTLI(a)0-20",
+    "sort": [
+        "04-00020"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1215,2510,160,103/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "歴城図"
+    ],
+    "地名/記述": [
+        "舜祠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        0
+    ]
+}

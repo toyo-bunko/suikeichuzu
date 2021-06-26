@@ -1,0 +1,41 @@
+{
+    "fulltext": "荊山, 05-00325, 8, 0, 0, 禹貢山水澤地所在, 荊山, 墨, 裏, 4, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "荊山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2146,1260,81,49",
+    "objectID": "YG(b)0-119",
+    "sort": [
+        "05-00325"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2146,1260,81,49/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "荊山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        0
+    ]
+}

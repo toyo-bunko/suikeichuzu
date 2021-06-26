@@ -1,0 +1,44 @@
+{
+    "fulltext": "鹽道山, 00-09597, 江蘇本には「壇道山」, 4, 南5, 西3, 本図, 鹽道山, 墨, 裏, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "鹽道山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20890,14229,51,64",
+    "objectID": "S5W3(b)A3-08",
+    "sort": [
+        "00-09597"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20890,14229,51,64/200,/0/default.jpg",
+    "備考": [
+        "江蘇本には「壇道山」"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹽道山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

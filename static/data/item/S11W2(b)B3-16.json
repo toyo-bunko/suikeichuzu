@@ -1,0 +1,41 @@
+{
+    "fulltext": "王堂江, 01-06487, 6, 南11, 西2, 本図, 王堂江, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "王堂江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23137,23914,86,33",
+    "objectID": "S11W2(b)B3-16",
+    "sort": [
+        "01-06487"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23137,23914,86,33/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "王堂江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

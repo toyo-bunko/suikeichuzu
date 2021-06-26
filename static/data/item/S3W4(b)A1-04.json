@@ -1,0 +1,41 @@
+{
+    "fulltext": "高奴, 00-05515, 4, 南3, 西4, 本図, 高奴, 墨, 裏, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "高奴",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19328,10921,89,43",
+    "objectID": "S3W4(b)A1-04",
+    "sort": [
+        "00-05515"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19328,10921,89,43/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高奴"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

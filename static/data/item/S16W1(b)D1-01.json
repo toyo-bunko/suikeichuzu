@@ -1,0 +1,41 @@
+{
+    "fulltext": "小液水, 01-09369, 8, 南16, 西1, 本図, 小液水, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "小液水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26523,32481,49,93",
+    "objectID": "S16W1(b)D1-01",
+    "sort": [
+        "01-09369"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26523,32481,49,93/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小液水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

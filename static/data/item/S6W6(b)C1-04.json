@@ -1,0 +1,41 @@
+{
+    "fulltext": "除溪, 01-01300, 5, 南6, 西6, 本図, 除溪, 墨, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "除溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14704,16661,81,45",
+    "objectID": "S6W6(b)C1-04",
+    "sort": [
+        "01-01300"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14704,16661,81,45/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "除溪"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

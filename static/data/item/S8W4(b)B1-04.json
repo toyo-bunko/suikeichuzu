@@ -1,0 +1,41 @@
+{
+    "fulltext": "鹽井, 01-03396, 5, 南8, 西4, 本図, 鹽井, 墨, 裏, 30, B1",
+    "group": [
+        "main"
+    ],
+    "label": "鹽井",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19389,19154,77,47",
+    "objectID": "S8W4(b)B1-04",
+    "sort": [
+        "01-03396"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19389,19154,77,47/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹽井"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        30
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

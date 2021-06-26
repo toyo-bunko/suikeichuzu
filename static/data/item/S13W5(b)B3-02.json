@@ -1,0 +1,41 @@
+{
+    "fulltext": "麻哈河, 01-07757, 7, 南13, 西5, 本図, 麻哈河, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "麻哈河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16167,26870,105,44",
+    "objectID": "S13W5(b)B3-02",
+    "sort": [
+        "01-07757"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16167,26870,105,44/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "麻哈河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

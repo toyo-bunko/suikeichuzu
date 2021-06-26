@@ -1,0 +1,41 @@
+{
+    "fulltext": "慶符, 01-06822, 6, 南11, 西7, 本図, 慶符, 朱, 裏, 19, C2",
+    "group": [
+        "main"
+    ],
+    "label": "慶符",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12278,24394,42,68",
+    "objectID": "S11W7(b)C2-05",
+    "sort": [
+        "01-06822"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12278,24394,42,68/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "慶符"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

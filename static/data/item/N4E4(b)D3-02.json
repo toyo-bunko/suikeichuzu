@@ -1,0 +1,41 @@
+{
+    "fulltext": "昌圖, 00-00055, 1, 北4, 東4, 本図, 昌圖, 朱, 裏, 18, D3",
+    "group": [
+        "main"
+    ],
+    "label": "昌圖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=37187,1435,59,70",
+    "objectID": "N4E4(b)D3-02",
+    "sort": [
+        "00-00055"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/37187,1435,59,70/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "昌圖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

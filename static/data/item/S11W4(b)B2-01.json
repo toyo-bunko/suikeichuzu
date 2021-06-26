@@ -1,0 +1,41 @@
+{
+    "fulltext": "永綏, 01-06667, 6, 南11, 西4, 本図, 永綏, 朱, 裏, 20, B2",
+    "group": [
+        "main"
+    ],
+    "label": "永綏",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19005,23769,62,34",
+    "objectID": "S11W4(b)B2-01",
+    "sort": [
+        "01-06667"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19005,23769,62,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "永綏"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        20
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

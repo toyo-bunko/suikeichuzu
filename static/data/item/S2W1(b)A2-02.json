@@ -1,0 +1,41 @@
+{
+    "fulltext": "封龍山, 00-03670, 3, 南2, 西1, 本図, 封龍山, 朱, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "封龍山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25937,9475,102,43",
+    "objectID": "S2W1(b)A2-02",
+    "sort": [
+        "00-03670"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25937,9475,102,43/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "封龍山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "福溪, 01-06096, 6, 南10, 西7, 本図, 福溪, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "福溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12650,23239,36,64",
+    "objectID": "S10W7(b)D1-01",
+    "sort": [
+        "01-06096"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12650,23239,36,64/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "福溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

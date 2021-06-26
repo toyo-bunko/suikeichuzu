@@ -1,0 +1,41 @@
+{
+    "fulltext": "清水河, 00-02814, 3, 南1, 西2, 本図, 清水河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "清水河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24993,8345,93,35",
+    "objectID": "S1W2(a)B1-07",
+    "sort": [
+        "00-02814"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24993,8345,93,35/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "清水河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

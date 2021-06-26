@@ -1,0 +1,41 @@
+{
+    "fulltext": "銅仁, 01-07193, 7, 南12, 西5, 本図, 銅仁, 朱, 表, 18, B1",
+    "group": [
+        "main"
+    ],
+    "label": "銅仁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18284,25475,64,27",
+    "objectID": "S12W5(a)B1-02",
+    "sort": [
+        "01-07193"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18284,25475,64,27/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "銅仁"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

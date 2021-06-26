@@ -1,0 +1,41 @@
+{
+    "fulltext": "巴爾渾山, 02-00096, 1, 上, 1, 西域, 巴爾渾山, 朱, 裏, 4, A3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "巴爾渾山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4642,1104,276,99",
+    "objectID": "XT1(b)A3-03",
+    "sort": [
+        "02-00096"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4642,1104,276,99/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "巴爾渾山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

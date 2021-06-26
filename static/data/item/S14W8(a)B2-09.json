@@ -1,0 +1,41 @@
+{
+    "fulltext": "蜀置建寍郡, 01-08497, 7, 南14, 西8, 本図, 蜀置建寍郡, 墨, 表, 6, B2",
+    "group": [
+        "main"
+    ],
+    "label": "蜀置建寍郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10786,28736,136,34",
+    "objectID": "S14W8(a)B2-09",
+    "sort": [
+        "01-08497"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10786,28736,136,34/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蜀置建寍郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

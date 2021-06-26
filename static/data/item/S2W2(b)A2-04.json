@@ -1,0 +1,41 @@
+{
+    "fulltext": "太原成王碑, 00-03809, 3, 南2, 西2, 本図, 太原成王碑, 墨, 裏, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "太原成王碑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23680,9659,76,61",
+    "objectID": "S2W2(b)A2-04",
+    "sort": [
+        "00-03809"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23680,9659,76,61/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "太原成王碑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

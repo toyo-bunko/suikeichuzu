@@ -1,0 +1,41 @@
+{
+    "fulltext": "安陽, 00-05143, 4, 南3, 西1, 本図, 安陽, 朱, 裏, 18, D2",
+    "group": [
+        "main"
+    ],
+    "label": "安陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26019,12302,63,31",
+    "objectID": "S3W1(b)D2-11",
+    "sort": [
+        "00-05143"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26019,12302,63,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "安陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

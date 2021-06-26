@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏什, 02-00125, 1, 上, 1, 西域, 烏什, 朱, 裏, 20, B2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "烏什",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5455,1475,131,75",
+    "objectID": "XT1(b)B2-09",
+    "sort": [
+        "02-00125"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5455,1475,131,75/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "烏什"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        20
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

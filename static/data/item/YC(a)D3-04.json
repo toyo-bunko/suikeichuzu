@@ -1,0 +1,41 @@
+{
+    "fulltext": "盧容浦口, 03-00152, 8, 越南, 中, 越南, 盧容浦口, 墨, 表, 1, D3",
+    "group": [
+        "etsunan"
+    ],
+    "label": "盧容浦口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2301,5905,193,95",
+    "objectID": "YC(a)D3-04",
+    "sort": [
+        "03-00152"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2301,5905,193,95/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "盧容浦口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

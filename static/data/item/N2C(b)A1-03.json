@@ -1,0 +1,41 @@
+{
+    "fulltext": "禦夷北塞, 00-00507, 1, 北2, 中, 本図, 禦夷北塞, 墨, 裏, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "禦夷北塞",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28538,3408,146,80",
+    "objectID": "N2C(b)A1-03",
+    "sort": [
+        "00-00507"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28538,3408,146,80/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "禦夷北塞"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

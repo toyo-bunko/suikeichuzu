@@ -1,0 +1,41 @@
+{
+    "fulltext": "橘洲, 01-06528, 6, 南11, 西2, 本図, 橘洲, 墨, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "橘洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23347,24690,54,35",
+    "objectID": "S11W2(b)D3-14",
+    "sort": [
+        "01-06528"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23347,24690,54,35/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "橘洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

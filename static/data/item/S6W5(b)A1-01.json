@@ -1,0 +1,41 @@
+{
+    "fulltext": "磨房溝, 01-01068, 5, 南6, 西5, 本図, 磨房溝, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "磨房溝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17047,15546,91,44",
+    "objectID": "S6W5(b)A1-01",
+    "sort": [
+        "01-01068"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17047,15546,91,44/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "磨房溝"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

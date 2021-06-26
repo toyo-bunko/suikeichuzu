@@ -1,0 +1,44 @@
+{
+    "fulltext": "長洲, 01-05723, 中洲, 6, 南10, 西2, 本図, 長洲, 墨, 裏, 5, C2",
+    "group": [
+        "main"
+    ],
+    "label": "長洲",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23554,22652,50,47",
+    "objectID": "S10W2(b)C2-06",
+    "sort": [
+        "01-05723"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23554,22652,50,47/200,/0/default.jpg",
+    "備考": [
+        "中洲"
+    ],
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "長洲"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

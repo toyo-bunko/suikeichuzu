@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣鬱, 01-09053, 7, 南15, 西6, 本図, 廣鬱, 墨, 裏, 8, C1",
+    "group": [
+        "main"
+    ],
+    "label": "廣鬱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14627,30602,100,62",
+    "objectID": "S15W6(b)C1-03",
+    "sort": [
+        "01-09053"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14627,30602,100,62/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "廣鬱"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

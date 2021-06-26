@@ -1,0 +1,41 @@
+{
+    "fulltext": "羊馬河, 01-05106, 6, 南9, 西7, 本図, 羊馬河, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "羊馬河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11822,20931,34,87",
+    "objectID": "S9W7(b)B3-13",
+    "sort": [
+        "01-05106"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11822,20931,34,87/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羊馬河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

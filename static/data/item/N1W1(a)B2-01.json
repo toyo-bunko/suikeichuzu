@@ -1,0 +1,41 @@
+{
+    "fulltext": "燕然山, 00-01003, 2, 北1, 西1, 本図, 燕然山, 朱, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "燕然山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27196,5247,113,66",
+    "objectID": "N1W1(a)B2-01",
+    "sort": [
+        "00-01003"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27196,5247,113,66/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "燕然山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

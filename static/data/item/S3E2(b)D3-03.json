@@ -1,0 +1,41 @@
+{
+    "fulltext": "姑幕, 00-04301, 4, 南3, 東2, 本図, 姑幕, 墨, 裏, 8, D3",
+    "group": [
+        "main"
+    ],
+    "label": "姑幕",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32406,12075,63,46",
+    "objectID": "S3E2(b)D3-03",
+    "sort": [
+        "00-04301"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32406,12075,63,46/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "姑幕"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

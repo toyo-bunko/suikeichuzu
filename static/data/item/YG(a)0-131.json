@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名章山, 05-00131, 8, 0, 0, 禹貢山水澤地所在, 一名章山, 墨, 表, 4, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "一名章山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2339,1316,73,79",
+    "objectID": "YG(a)0-131",
+    "sort": [
+        "05-00131"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2339,1316,73,79/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "一名章山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        0
+    ]
+}

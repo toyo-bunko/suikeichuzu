@@ -1,0 +1,41 @@
+{
+    "fulltext": "厭次河, 00-03323, 3, 南2, 東1, 本図, 厭次河, 墨, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "厭次河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30203,10137,112,114",
+    "objectID": "S2E1(b)C3-01",
+    "sort": [
+        "00-03323"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30203,10137,112,114/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "厭次河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

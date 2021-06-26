@@ -1,0 +1,41 @@
+{
+    "fulltext": "北為濟瀆, 00-06386, 4, 南4, 西1, 本図, 北為濟瀆, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "北為濟瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27593,13470,114,97",
+    "objectID": "S4W1(a)C1-07",
+    "sort": [
+        "00-06386"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27593,13470,114,97/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北為濟瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "威遠堡門, 00-00167, 1, 北3, 東4, 本図, 威遠堡門, 朱, 裏, 34, B1",
+    "group": [
+        "main"
+    ],
+    "label": "威遠堡門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=37730,2003,121,81",
+    "objectID": "N3E4(b)B1-01",
+    "sort": [
+        "00-00167"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/37730,2003,121,81/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "威遠堡門"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

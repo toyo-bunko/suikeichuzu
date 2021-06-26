@@ -1,0 +1,41 @@
+{
+    "fulltext": "即勞水, 00-05367, 4, 南3, 西3, 本図, 即勞水, 墨, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "即勞水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22861,12393,115,44",
+    "objectID": "S3W3(a)D1-05",
+    "sort": [
+        "00-05367"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22861,12393,115,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即勞水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

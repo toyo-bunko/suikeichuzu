@@ -1,0 +1,41 @@
+{
+    "fulltext": "吉木薩, 02-00007, 1, 上, 1, 西域, 吉木薩, 朱, 表, 25, A2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "吉木薩",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7837,315,167,69",
+    "objectID": "XT1(a)A2-01",
+    "sort": [
+        "02-00007"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7837,315,167,69/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "吉木薩"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        25
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

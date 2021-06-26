@@ -1,0 +1,41 @@
+{
+    "fulltext": "膚施, 00-02969, 3, 南1, 西4, 本図, 膚施, 墨, 表, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "膚施",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20023,9255,77,44",
+    "objectID": "S1W4(a)D2-02",
+    "sort": [
+        "00-02969"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20023,9255,77,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "膚施"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

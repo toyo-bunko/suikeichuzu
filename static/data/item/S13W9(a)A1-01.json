@@ -1,0 +1,41 @@
+{
+    "fulltext": "天馬徑, 01-07896, 7, 南13, 西9, 本図, 天馬徑, 墨, 表, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "天馬徑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9138,26475,88,41",
+    "objectID": "S13W9(a)A1-01",
+    "sort": [
+        "01-07896"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9138,26475,88,41/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "天馬徑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

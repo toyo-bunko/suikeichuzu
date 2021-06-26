@@ -1,0 +1,41 @@
+{
+    "fulltext": "黃石山, 00-03696, 3, 南2, 西1, 本図, 黃石山, 墨, 裏, 4, B3",
+    "group": [
+        "main"
+    ],
+    "label": "黃石山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25732,9781,94,69",
+    "objectID": "S2W1(b)B3-01",
+    "sort": [
+        "00-03696"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25732,9781,94,69/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黃石山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

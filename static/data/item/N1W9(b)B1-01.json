@@ -1,0 +1,44 @@
+{
+    "fulltext": "齊格景, 00-01449, 凡例にない記号あり, 2, 北1, 西9, 本図, 齊格景, 朱, 裏, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "齊格景",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7955,5347,40,102",
+    "objectID": "N1W9(b)B1-01",
+    "sort": [
+        "00-01449"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7955,5347,40,102/200,/0/default.jpg",
+    "備考": [
+        "凡例にない記号あり"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "齊格景"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "洞穴潛通洞庭, 01-02769, 5, 南8, 東2, 本図, 洞穴潛通洞庭, 墨, 裏, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "洞穴潛通洞庭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33378,19750,79,93",
+    "objectID": "S8E2(b)C1-10",
+    "sort": [
+        "01-02769"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33378,19750,79,93/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洞穴潛通洞庭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "伏道, 04-00482, 「……」で表記される。, 8, 0, 0, 薊城図, 伏道, 墨, 表, 0, 0",
+    "group": [
+        "jouzu07_keijou"
+    ],
+    "label": "伏道",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=1815,2102,178,94",
+    "objectID": "CTJC(a)0-20",
+    "sort": [
+        "04-00482"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1815,2102,178,94/200,/0/default.jpg",
+    "備考": [
+        "「……」で表記される。"
+    ],
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "薊城図"
+    ],
+    "地名/記述": [
+        "伏道"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        0
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "陽湖, 01-02733, 5, 南8, 東2, 本図, 陽湖, 朱, 裏, 18, A2",
+    "group": [
+        "main"
+    ],
+    "label": "陽湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32896,18784,37,61",
+    "objectID": "S8E2(b)A2-04",
+    "sort": [
+        "01-02733"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32896,18784,37,61/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陽湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

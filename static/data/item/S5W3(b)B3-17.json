@@ -1,0 +1,41 @@
+{
+    "fulltext": "湖水, 00-09666, 4, 南5, 西3, 本図, 湖水, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "湖水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20843,14626,50,60",
+    "objectID": "S5W3(b)B3-17",
+    "sort": [
+        "00-09666"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20843,14626,50,60/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "湖水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

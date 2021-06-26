@@ -1,0 +1,41 @@
+{
+    "fulltext": "西寧水, 01-06905, 7, 南12, 中, 本図, 西寧水, 朱, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "西寧水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27787,25315,42,88",
+    "objectID": "S12C(b)B3-01",
+    "sort": [
+        "01-06905"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27787,25315,42,88/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西寧水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

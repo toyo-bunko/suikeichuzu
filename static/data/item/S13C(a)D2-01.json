@@ -1,0 +1,41 @@
+{
+    "fulltext": "蓮花山, 01-07457, 7, 南13, 中, 本図, 蓮花山, 朱, 表, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "蓮花山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29615,27812,91,61",
+    "objectID": "S13C(a)D2-01",
+    "sort": [
+        "01-07457"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29615,27812,91,61/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蓮花山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

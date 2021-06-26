@@ -1,0 +1,44 @@
+{
+    "fulltext": "京師, 00-01683, 凡例にない記号あり（首都）, 2, 中, 中, 本図, 京師, 朱, 裏, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "京師",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28461,6272,70,36",
+    "objectID": "CC(b)A1-12",
+    "sort": [
+        "00-01683"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28461,6272,70,36/200,/0/default.jpg",
+    "備考": [
+        "凡例にない記号あり（首都）"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "京師"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

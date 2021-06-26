@@ -1,0 +1,41 @@
+{
+    "fulltext": "具區, 01-02782, 5, 南8, 東2, 本図, 具區, 墨, 裏, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "具區",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33204,19838,69,42",
+    "objectID": "S8E2(b)D1-03",
+    "sort": [
+        "01-02782"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33204,19838,69,42/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "具區"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

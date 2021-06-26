@@ -1,0 +1,41 @@
+{
+    "fulltext": "故當塗, 01-01568, 5, 南7, 中, 本図, 故當塗, 墨, 表, 7, A2",
+    "group": [
+        "main"
+    ],
+    "label": "故當塗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29353,17302,110,50",
+    "objectID": "S7C(a)A2-10",
+    "sort": [
+        "01-01568"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29353,17302,110,50/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故當塗"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

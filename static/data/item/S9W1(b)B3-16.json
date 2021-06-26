@@ -1,0 +1,41 @@
+{
+    "fulltext": "湖口, 01-04275, 6, 南9, 西1, 本図, 湖口, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "湖口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25423,20708,40,21",
+    "objectID": "S9W1(b)B3-16",
+    "sort": [
+        "01-04275"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25423,20708,40,21/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "湖口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

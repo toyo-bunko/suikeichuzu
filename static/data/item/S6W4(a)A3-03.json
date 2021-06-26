@@ -1,0 +1,41 @@
+{
+    "fulltext": "高車嶺, 01-00923, 5, 南6, 西4, 本図, 高車嶺, 墨, 表, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "高車嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19938,15860,59,75",
+    "objectID": "S6W4(a)A3-03",
+    "sort": [
+        "01-00923"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19938,15860,59,75/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高車嶺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

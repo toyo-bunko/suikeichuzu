@@ -1,0 +1,41 @@
+{
+    "fulltext": "東漢定襄郡, 00-01263, 2, 北1, 西2, 本図, 東漢定襄郡, 墨, 裏, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "東漢定襄郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23573,5930,146,37",
+    "objectID": "N1W2(b)D2-08",
+    "sort": [
+        "00-01263"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23573,5930,146,37/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東漢定襄郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

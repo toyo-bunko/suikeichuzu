@@ -1,0 +1,41 @@
+{
+    "fulltext": "嘉定城, 03-00305, 8, 越南, 下, 越南, 嘉定城, 朱, 裏, 17, D1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "嘉定城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1848,8509,176,85",
+    "objectID": "YB(b)D1-01",
+    "sort": [
+        "03-00305"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1848,8509,176,85/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "下"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "嘉定城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

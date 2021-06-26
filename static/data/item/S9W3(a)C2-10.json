@@ -1,0 +1,41 @@
+{
+    "fulltext": "荊州, 01-04595, 6, 南9, 西3, 本図, 荊州, 墨, 表, 6, C2",
+    "group": [
+        "main"
+    ],
+    "label": "荊州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22680,21083,37,34",
+    "objectID": "S9W3(a)C2-10",
+    "sort": [
+        "01-04595"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22680,21083,37,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "荊州"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

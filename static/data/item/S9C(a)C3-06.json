@@ -1,0 +1,41 @@
+{
+    "fulltext": "小雷口, 01-04080, 6, 南9, 中, 本図, 小雷口, 墨, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "小雷口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28901,21361,58,80",
+    "objectID": "S9C(a)C3-06",
+    "sort": [
+        "01-04080"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28901,21361,58,80/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小雷口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

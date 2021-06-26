@@ -1,0 +1,41 @@
+{
+    "fulltext": "武植戍水二源, 00-10810, 4, 南5, 西6, 本図, 武植戍水二源, 墨, 裏, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "武植戍水二源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14372,14925,178,124",
+    "objectID": "S5W6(b)C2-05",
+    "sort": [
+        "00-10810"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14372,14925,178,124/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武植戍水二源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

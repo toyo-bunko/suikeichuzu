@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏藍衮河, 00-00214, 1, 北3, 中, 本図, 烏藍衮河, 朱, 表, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "烏藍衮河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29172,1732,36,116",
+    "objectID": "N3C(a)A3-02",
+    "sort": [
+        "00-00214"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29172,1732,36,116/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "烏藍衮河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

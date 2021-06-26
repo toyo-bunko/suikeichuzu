@@ -1,0 +1,41 @@
+{
+    "fulltext": "章邱, 00-04596, 4, 南3, 中, 本図, 章邱, 朱, 表, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "章邱",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29893,11065,33,59",
+    "objectID": "S3C(a)A1-01",
+    "sort": [
+        "00-04596"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29893,11065,33,59/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "章邱"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

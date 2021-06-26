@@ -1,0 +1,41 @@
+{
+    "fulltext": "潮河源, 00-00511, 1, 北2, 中, 本図, 潮河源, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "潮河源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28700,3835,104,49",
+    "objectID": "N2C(b)B1-02",
+    "sort": [
+        "00-00511"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28700,3835,104,49/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "潮河源"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

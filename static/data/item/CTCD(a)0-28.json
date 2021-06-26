@@ -1,0 +1,41 @@
+{
+    "fulltext": "萬里橋, 04-00705, 8, 0, 0, 成都橋図, 萬里橋, 墨, 表, 29, 0",
+    "group": [
+        "jouzu12_seito"
+    ],
+    "label": "萬里橋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1281,1924,207,105",
+    "objectID": "CTCD(a)0-28",
+    "sort": [
+        "04-00705"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1281,1924,207,105/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "成都橋図"
+    ],
+    "地名/記述": [
+        "萬里橋"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        0
+    ]
+}

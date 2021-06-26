@@ -1,0 +1,41 @@
+{
+    "fulltext": "科爾沁左翼中旗, 00-00057, 1, 北4, 東3, 本図, 科爾沁左翼中旗, 朱, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "科爾沁左翼中旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35837,556,68,140",
+    "objectID": "N4E3(a)B3-01",
+    "sort": [
+        "00-00057"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35837,556,68,140/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "科爾沁左翼中旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

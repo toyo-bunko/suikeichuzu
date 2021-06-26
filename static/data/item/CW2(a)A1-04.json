@@ -1,0 +1,41 @@
+{
+    "fulltext": "狋氏, 00-02077, 2, 中, 西2, 本図, 狋氏, 墨, 表, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "狋氏",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25276,6537,77,70",
+    "objectID": "CW2(a)A1-04",
+    "sort": [
+        "00-02077"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25276,6537,77,70/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "狋氏"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

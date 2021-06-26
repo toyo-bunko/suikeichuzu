@@ -1,0 +1,41 @@
+{
+    "fulltext": "土爾扈特南前旗, 00-11042, 4, 南5, 西9, 本図, 土爾扈特南前旗, 朱, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "土爾扈特南前旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8087,14447,194,46",
+    "objectID": "S5W9(a)B3-02",
+    "sort": [
+        "00-11042"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8087,14447,194,46/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "土爾扈特南前旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

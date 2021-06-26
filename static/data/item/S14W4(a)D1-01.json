@@ -1,0 +1,41 @@
+{
+    "fulltext": "觀水, 01-08360, 7, 南14, 西4, 本図, 觀水, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "觀水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20725,29232,48,63",
+    "objectID": "S14W4(a)D1-01",
+    "sort": [
+        "01-08360"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20725,29232,48,63/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "觀水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

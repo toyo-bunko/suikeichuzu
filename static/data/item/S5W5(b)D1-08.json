@@ -1,0 +1,41 @@
+{
+    "fulltext": "桃川, 00-10494, 4, 南5, 西5, 本図, 桃川, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "桃川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17240,15380,63,31",
+    "objectID": "S5W5(b)D1-08",
+    "sort": [
+        "00-10494"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17240,15380,63,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桃川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

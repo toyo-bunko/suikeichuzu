@@ -1,0 +1,41 @@
+{
+    "fulltext": "范壁水, 00-07071, 4, 南4, 西3, 本図, 范壁水, 墨, 表, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "范壁水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22474,13071,57,46",
+    "objectID": "S4W3(a)B2-15",
+    "sort": [
+        "00-07071"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22474,13071,57,46/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "范壁水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

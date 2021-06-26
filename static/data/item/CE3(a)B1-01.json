@@ -1,0 +1,41 @@
+{
+    "fulltext": "王家島, 00-01525, 2, 中, 東3, 本図, 王家島, 朱, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "王家島",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=36691,6636,104,100",
+    "objectID": "CE3(a)B1-01",
+    "sort": [
+        "00-01525"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/36691,6636,104,100/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "王家島"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "彭山, 01-05134, 6, 南9, 西7, 本図, 彭山, 朱, 裏, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "彭山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11747,21403,72,31",
+    "objectID": "S9W7(b)D3-05",
+    "sort": [
+        "01-05134"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11747,21403,72,31/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "彭山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

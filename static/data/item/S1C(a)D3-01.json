@@ -1,0 +1,41 @@
+{
+    "fulltext": "大連淀, 00-02461, 3, 南1, 中, 本図, 大連淀, 朱, 表, 5, D3",
+    "group": [
+        "main"
+    ],
+    "label": "大連淀",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29153,9055,92,45",
+    "objectID": "S1C(a)D3-01",
+    "sort": [
+        "00-02461"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29153,9055,92,45/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大連淀"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

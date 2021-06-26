@@ -1,0 +1,41 @@
+{
+    "fulltext": "鄂爾多斯左翼中旗, 00-02246, 2, 中, 西4, 本図, 鄂爾多斯左翼中旗, 朱, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "鄂爾多斯左翼中旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20383,7016,68,125",
+    "objectID": "CW4(a)C1-01",
+    "sort": [
+        "00-02246"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20383,7016,68,125/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鄂爾多斯左翼中旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

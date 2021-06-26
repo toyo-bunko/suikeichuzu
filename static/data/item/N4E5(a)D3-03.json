@@ -1,0 +1,41 @@
+{
+    "fulltext": "松花江, 00-00015, 1, 北4, 東5, 本図, 松花江, 朱, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "松花江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40581,1448,98,48",
+    "objectID": "N4E5(a)D3-03",
+    "sort": [
+        "00-00015"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40581,1448,98,48/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "松花江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

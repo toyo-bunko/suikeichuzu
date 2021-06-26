@@ -1,0 +1,44 @@
+{
+    "fulltext": "竹圃, 00-08161, 点線で囲む, 4, 南5, 中, 本図, 竹圃, 墨, 裏, 31, B3",
+    "group": [
+        "main"
+    ],
+    "label": "竹圃",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27795,14710,63,33",
+    "objectID": "S5C(b)B3-23",
+    "sort": [
+        "00-08161"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27795,14710,63,33/200,/0/default.jpg",
+    "備考": [
+        "点線で囲む"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "竹圃"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        31
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

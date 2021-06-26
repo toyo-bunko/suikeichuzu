@@ -1,0 +1,41 @@
+{
+    "fulltext": "鄢陵, 00-08500, 4, 南5, 西1, 本図, 鄢陵, 墨, 裏, 10, C3",
+    "group": [
+        "main"
+    ],
+    "label": "鄢陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25731,15063,83,47",
+    "objectID": "S5W1(b)C3-19",
+    "sort": [
+        "00-08500"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25731,15063,83,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鄢陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

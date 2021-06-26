@@ -1,0 +1,41 @@
+{
+    "fulltext": "臧洪為東郡治此, 00-04989, 4, 南3, 西1, 本図, 臧洪為東郡治此, 墨, 表, 10, C1",
+    "group": [
+        "main"
+    ],
+    "label": "臧洪為東郡治此",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27575,11916,96,50",
+    "objectID": "S3W1(a)C1-08",
+    "sort": [
+        "00-04989"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27575,11916,96,50/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "臧洪為東郡治此"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

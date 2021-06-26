@@ -1,0 +1,41 @@
+{
+    "fulltext": "虎街河, 01-09264, 7, 南15, 西10, 本図, 虎街河, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "虎街河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6476,29675,43,88",
+    "objectID": "S15W10(a)A2-02",
+    "sort": [
+        "01-09264"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6476,29675,43,88/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "虎街河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "莒溪, 01-08028, 7, 南14, 中, 本図, 莒溪, 朱, 表, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "莒溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29365,28585,44,79",
+    "objectID": "S14C(a)B2-02",
+    "sort": [
+        "01-08028"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29365,28585,44,79/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "莒溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

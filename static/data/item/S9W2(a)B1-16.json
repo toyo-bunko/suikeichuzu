@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢陽, 01-04386, 6, 南9, 西2, 本図, 漢陽, 朱, 表, 18, B1",
+    "group": [
+        "main"
+    ],
+    "label": "漢陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25291,20838,55,27",
+    "objectID": "S9W2(a)B1-16",
+    "sort": [
+        "01-04386"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25291,20838,55,27/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

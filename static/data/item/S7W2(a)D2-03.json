@@ -1,0 +1,41 @@
+{
+    "fulltext": "北魏置郢州, 01-01980, 5, 南7, 西2, 本図, 北魏置郢州, 墨, 表, 6, D2",
+    "group": [
+        "main"
+    ],
+    "label": "北魏置郢州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24873,18463,142,41",
+    "objectID": "S7W2(a)D2-03",
+    "sort": [
+        "01-01980"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24873,18463,142,41/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北魏置郢州"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

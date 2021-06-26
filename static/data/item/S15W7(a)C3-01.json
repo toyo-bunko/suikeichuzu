@@ -1,0 +1,41 @@
+{
+    "fulltext": "駄娘江, 01-09069, 7, 南15, 西7, 本図, 駄娘江, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "駄娘江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12935,30423,105,41",
+    "objectID": "S15W7(a)C3-01",
+    "sort": [
+        "01-09069"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12935,30423,105,41/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "駄娘江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

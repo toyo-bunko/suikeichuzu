@@ -1,0 +1,41 @@
+{
+    "fulltext": "思善, 01-00292, 5, 南6, 中, 本図, 思善, 墨, 裏, 10, C3",
+    "group": [
+        "main"
+    ],
+    "label": "思善",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27987,16546,56,83",
+    "objectID": "S6C(b)C3-04",
+    "sort": [
+        "01-00292"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27987,16546,56,83/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "思善"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

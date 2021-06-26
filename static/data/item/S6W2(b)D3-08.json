@@ -1,0 +1,41 @@
+{
+    "fulltext": "史定伯碑, 01-00782, 5, 南6, 西2, 本図, 史定伯碑, 墨, 裏, 16, D3",
+    "group": [
+        "main"
+    ],
+    "label": "史定伯碑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23368,16842,89,27",
+    "objectID": "S6W2(b)D3-08",
+    "sort": [
+        "01-00782"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23368,16842,89,27/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "史定伯碑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

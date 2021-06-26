@@ -1,0 +1,41 @@
+{
+    "fulltext": "中夏口, 01-04584, 6, 南9, 西3, 本図, 中夏口, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "中夏口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22704,21291,57,71",
+    "objectID": "S9W3(a)C1-22",
+    "sort": [
+        "01-04584"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22704,21291,57,71/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "中夏口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

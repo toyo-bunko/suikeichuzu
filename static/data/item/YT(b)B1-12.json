@@ -1,0 +1,41 @@
+{
+    "fulltext": "石隴關, 03-00072, 8, 越南, 上, 越南, 石隴關, 朱, 裏, 0, B1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "石隴關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1719,1154,71,170",
+    "objectID": "YT(b)B1-12",
+    "sort": [
+        "03-00072"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1719,1154,71,170/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "石隴關"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

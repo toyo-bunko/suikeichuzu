@@ -1,0 +1,41 @@
+{
+    "fulltext": "東蘭土州同, 01-09051, 7, 南15, 西6, 本図, 東蘭土州同, 朱, 裏, 24, C1",
+    "group": [
+        "main"
+    ],
+    "label": "東蘭土州同",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14915,30393,68,95",
+    "objectID": "S15W6(b)C1-01",
+    "sort": [
+        "01-09051"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14915,30393,68,95/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東蘭土州同"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        24
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

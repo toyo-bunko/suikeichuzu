@@ -1,0 +1,41 @@
+{
+    "fulltext": "官埧河, 01-05918, 6, 南10, 西4, 本図, 官埧河, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "官埧河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19719,22882,33,94",
+    "objectID": "S10W4(a)C3-02",
+    "sort": [
+        "01-05918"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19719,22882,33,94/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "官埧河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

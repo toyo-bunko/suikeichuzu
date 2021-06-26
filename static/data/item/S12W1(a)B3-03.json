@@ -1,0 +1,44 @@
+{
+    "fulltext": "●水, 01-06940, ●=氵+匽, 7, 南12, 西1, 本図, ●水, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "●水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26682,25239,42,67",
+    "objectID": "S12W1(a)B3-03",
+    "sort": [
+        "01-06940"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26682,25239,42,67/200,/0/default.jpg",
+    "備考": [
+        "●=氵+匽"
+    ],
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "●水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

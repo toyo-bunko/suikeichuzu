@@ -1,0 +1,41 @@
+{
+    "fulltext": "拘澗水, 00-05075, 4, 南3, 西1, 本図, 拘澗水, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "拘澗水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25942,11460,102,39",
+    "objectID": "S3W1(b)B2-02",
+    "sort": [
+        "00-05075"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25942,11460,102,39/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "拘澗水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

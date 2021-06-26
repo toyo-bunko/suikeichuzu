@@ -1,0 +1,41 @@
+{
+    "fulltext": "郎山君中子觸鋒將軍廟, 00-01981, 2, 中, 西1, 本図, 郎山君中子觸鋒將軍廟, 墨, 表, 16, D2",
+    "group": [
+        "main"
+    ],
+    "label": "郎山君中子觸鋒將軍廟",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27170,7478,82,106",
+    "objectID": "CW1(a)D2-06",
+    "sort": [
+        "00-01981"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27170,7478,82,106/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "郎山君中子觸鋒將軍廟"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

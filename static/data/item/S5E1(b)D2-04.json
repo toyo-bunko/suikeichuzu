@@ -1,0 +1,41 @@
+{
+    "fulltext": "下邳, 00-07954, 4, 南5, 東1, 本図, 下邳, 墨, 裏, 7, D2",
+    "group": [
+        "main"
+    ],
+    "label": "下邳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30735,15307,46,32",
+    "objectID": "S5E1(b)D2-04",
+    "sort": [
+        "00-07954"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30735,15307,46,32/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "下邳"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "殺虎口, 00-01243, 2, 北1, 西2, 本図, 殺虎口, 朱, 裏, 28, C2",
+    "group": [
+        "main"
+    ],
+    "label": "殺虎口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23507,5638,102,44",
+    "objectID": "N1W2(b)C2-06",
+    "sort": [
+        "00-01243"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23507,5638,102,44/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "殺虎口"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        28
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

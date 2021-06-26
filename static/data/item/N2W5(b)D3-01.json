@@ -1,0 +1,41 @@
+{
+    "fulltext": "戈壁, 00-00628, 1, 北2, 西5, 本図, 戈壁, 朱, 裏, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "戈壁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16199,4439,53,126",
+    "objectID": "N2W5(b)D3-01",
+    "sort": [
+        "00-00628"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16199,4439,53,126/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "戈壁"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "周首亭, 00-04847, 4, 南3, 中, 本図, 周首亭, 墨, 裏, 9, C1",
+    "group": [
+        "main"
+    ],
+    "label": "周首亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28568,11834,62,31",
+    "objectID": "S3C(b)C1-09",
+    "sort": [
+        "00-04847"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28568,11834,62,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "周首亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "仄瑚爾巴顔喀喇山, 01-01416, 5, 南6, 西10, 本図, 仄瑚爾巴顔喀喇山, 朱, 裏, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "仄瑚爾巴顔喀喇山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=5513,15581,90,124",
+    "objectID": "S6W10(b)A1-01",
+    "sort": [
+        "01-01416"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/5513,15581,90,124/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "仄瑚爾巴顔喀喇山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

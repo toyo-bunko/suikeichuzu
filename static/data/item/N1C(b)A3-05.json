@@ -1,0 +1,41 @@
+{
+    "fulltext": "狼山, 00-00899, 2, 北1, 中, 本図, 狼山, 墨, 裏, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "狼山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27959,4969,70,68",
+    "objectID": "N1C(b)A3-05",
+    "sort": [
+        "00-00899"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27959,4969,70,68/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "狼山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

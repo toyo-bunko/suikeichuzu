@@ -1,0 +1,41 @@
+{
+    "fulltext": "敘州, 01-06809, 6, 南11, 西7, 本図, 敘州, 朱, 裏, 18, B1",
+    "group": [
+        "main"
+    ],
+    "label": "敘州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12609,23822,64,28",
+    "objectID": "S11W7(b)B1-03",
+    "sort": [
+        "01-06809"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12609,23822,64,28/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "敘州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

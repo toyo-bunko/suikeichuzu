@@ -1,0 +1,41 @@
+{
+    "fulltext": "盤龍江, 01-08559, 7, 南14, 西8, 本図, 盤龍江, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "盤龍江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9616,29155,107,39",
+    "objectID": "S14W8(b)D2-05",
+    "sort": [
+        "01-08559"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9616,29155,107,39/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "盤龍江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "即鴻上關, 00-01992, 2, 中, 西1, 本図, 即鴻上關, 墨, 表, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "即鴻上關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26565,7724,50,45",
+    "objectID": "CW1(a)D3-03",
+    "sort": [
+        "00-01992"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26565,7724,50,45/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即鴻上關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

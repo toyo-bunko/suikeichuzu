@@ -1,0 +1,41 @@
+{
+    "fulltext": "夏津, 00-03522, 3, 南2, 中, 本図, 夏津, 朱, 裏, 19, D2",
+    "group": [
+        "main"
+    ],
+    "label": "夏津",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28183,10800,88,76",
+    "objectID": "S2C(b)D2-09",
+    "sort": [
+        "00-03522"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28183,10800,88,76/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "夏津"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

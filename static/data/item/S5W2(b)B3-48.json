@@ -1,0 +1,41 @@
+{
+    "fulltext": "楊僕家僮所築散關障, 00-09181, 4, 南5, 西2, 本図, 楊僕家僮所築散關障, 墨, 裏, 32, B3",
+    "group": [
+        "main"
+    ],
+    "label": "楊僕家僮所築散關障",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23093,14666,53,107",
+    "objectID": "S5W2(b)B3-48",
+    "sort": [
+        "00-09181"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23093,14666,53,107/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楊僕家僮所築散關障"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        32
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

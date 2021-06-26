@@ -1,0 +1,41 @@
+{
+    "fulltext": "塗君祠, 01-06008, 6, 南10, 西6, 本図, 塗君祠, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "塗君祠",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15436,22192,29,62",
+    "objectID": "S10W6(a)B2-05",
+    "sort": [
+        "01-06008"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15436,22192,29,62/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "塗君祠"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

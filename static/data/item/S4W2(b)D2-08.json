@@ -1,0 +1,41 @@
+{
+    "fulltext": "原城, 00-07002, 4, 南4, 西2, 本図, 原城, 墨, 裏, 16, D2",
+    "group": [
+        "main"
+    ],
+    "label": "原城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23523,13663,57,27",
+    "objectID": "S4W2(b)D2-08",
+    "sort": [
+        "00-07002"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23523,13663,57,27/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "原城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

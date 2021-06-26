@@ -1,0 +1,44 @@
+{
+    "fulltext": "呂梁, 00-07968, 橋, 4, 南5, 東1, 本図, 呂梁, 墨, 裏, 29, D3",
+    "group": [
+        "main"
+    ],
+    "label": "呂梁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30027,15172,40,78",
+    "objectID": "S5E1(b)D3-01",
+    "sort": [
+        "00-07968"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30027,15172,40,78/200,/0/default.jpg",
+    "備考": [
+        "橋"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呂梁"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

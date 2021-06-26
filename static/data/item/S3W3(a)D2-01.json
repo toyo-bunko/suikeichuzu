@@ -1,0 +1,41 @@
+{
+    "fulltext": "楊, 00-05369, 4, 南3, 西3, 本図, 楊, 墨, 表, 15, D2",
+    "group": [
+        "main"
+    ],
+    "label": "楊",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22551,12025,54,37",
+    "objectID": "S3W3(a)D2-01",
+    "sort": [
+        "00-05369"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22551,12025,54,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "楊"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        15
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "汾陂, 01-00444, 5, 南6, 西1, 本図, 汾陂, 墨, 裏, 5, B2",
+    "group": [
+        "main"
+    ],
+    "label": "汾陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25929,15999,84,43",
+    "objectID": "S6W1(b)B2-02",
+    "sort": [
+        "01-00444"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25929,15999,84,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "汾陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

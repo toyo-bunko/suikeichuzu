@@ -1,0 +1,41 @@
+{
+    "fulltext": "葰人, 00-02148, 2, 中, 西2, 本図, 葰人, 墨, 表, 10, D2",
+    "group": [
+        "main"
+    ],
+    "label": "葰人",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24595,7438,66,50",
+    "objectID": "CW2(a)D2-02",
+    "sort": [
+        "00-02148"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24595,7438,66,50/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "葰人"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "石苞胡質王渾石崇四碑, 00-07956, 4, 南5, 東1, 本図, 石苞胡質王渾石崇四碑, 墨, 裏, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "石苞胡質王渾石崇四碑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30661,15263,83,75",
+    "objectID": "S5E1(b)D2-06",
+    "sort": [
+        "00-07956"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30661,15263,83,75/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石苞胡質王渾石崇四碑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

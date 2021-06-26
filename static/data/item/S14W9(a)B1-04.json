@@ -1,0 +1,41 @@
+{
+    "fulltext": "鷹雞河, 01-08582, 7, 南14, 西9, 本図, 鷹雞河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "鷹雞河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8973,28595,52,104",
+    "objectID": "S14W9(a)B1-04",
+    "sort": [
+        "01-08582"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8973,28595,52,104/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鷹雞河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

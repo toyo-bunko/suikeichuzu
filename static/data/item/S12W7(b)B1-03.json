@@ -1,0 +1,41 @@
+{
+    "fulltext": "二寨河, 01-07316, 7, 南12, 西7, 本図, 二寨河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "二寨河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12383,25553,93,51",
+    "objectID": "S12W7(b)B1-03",
+    "sort": [
+        "01-07316"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12383,25553,93,51/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "二寨河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "一窩泉, 00-04079, 3, 南2, 西5, 本図, 一窩泉, 朱, 裏, 5, B2",
+    "group": [
+        "main"
+    ],
+    "label": "一窩泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16809,9840,84,36",
+    "objectID": "S2W5(b)B2-01",
+    "sort": [
+        "00-04079"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16809,9840,84,36/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一窩泉"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

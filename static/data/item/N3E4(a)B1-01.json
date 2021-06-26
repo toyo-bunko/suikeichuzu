@@ -1,0 +1,41 @@
+{
+    "fulltext": "富爾哈河, 00-00151, 1, 北3, 東4, 本図, 富爾哈河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "富爾哈河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38915,2003,141,50",
+    "objectID": "N3E4(a)B1-01",
+    "sort": [
+        "00-00151"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38915,2003,141,50/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "富爾哈河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

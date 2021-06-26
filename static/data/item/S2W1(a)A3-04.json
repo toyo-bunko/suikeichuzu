@@ -1,0 +1,41 @@
+{
+    "fulltext": "歷鄕, 00-03559, 3, 南2, 西1, 本図, 歷鄕, 墨, 表, 10, A3",
+    "group": [
+        "main"
+    ],
+    "label": "歷鄕",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26876,9663,67,44",
+    "objectID": "S2W1(a)A3-04",
+    "sort": [
+        "00-03559"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26876,9663,67,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "歷鄕"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

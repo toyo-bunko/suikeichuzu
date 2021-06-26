@@ -1,0 +1,41 @@
+{
+    "fulltext": "故陽安, 01-08161, 7, 南14, 西2, 本図, 故陽安, 墨, 裏, 8, B2",
+    "group": [
+        "main"
+    ],
+    "label": "故陽安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23480,28465,84,29",
+    "objectID": "S14W2(b)B2-06",
+    "sort": [
+        "01-08161"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23480,28465,84,29/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故陽安"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

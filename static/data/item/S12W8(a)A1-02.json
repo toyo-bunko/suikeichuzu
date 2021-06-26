@@ -1,0 +1,44 @@
+{
+    "fulltext": "高山, 01-07338, 記号なし, 7, 南12, 西8, 本図, 高山, 墨, 表, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "高山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11320,25176,41,86",
+    "objectID": "S12W8(a)A1-02",
+    "sort": [
+        "01-07338"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11320,25176,41,86/200,/0/default.jpg",
+    "備考": [
+        "記号なし"
+    ],
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

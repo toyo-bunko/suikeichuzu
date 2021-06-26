@@ -1,0 +1,41 @@
+{
+    "fulltext": "襲玄之墓, 01-05884, 6, 南10, 西3, 本図, 襲玄之墓, 墨, 裏, 0, D1",
+    "group": [
+        "main"
+    ],
+    "label": "襲玄之墓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21661,23300,103,40",
+    "objectID": "S10W3(b)D1-14",
+    "sort": [
+        "01-05884"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21661,23300,103,40/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "襲玄之墓"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

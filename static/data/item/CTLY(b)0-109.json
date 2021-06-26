@@ -1,0 +1,41 @@
+{
+    "fulltext": "北宮, 04-00192, 8, 0, 0, 洛陽城図, 北宮, 墨, 裏, 0, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "北宮",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=1746,1249,138,80",
+    "objectID": "CTLY(b)0-109",
+    "sort": [
+        "04-00192"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/1746,1249,138,80/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "北宮"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        0
+    ]
+}

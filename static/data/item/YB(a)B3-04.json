@@ -1,0 +1,41 @@
+{
+    "fulltext": "邊和, 03-00264, 8, 越南, 下, 越南, 邊和, 朱, 表, 17, B3",
+    "group": [
+        "etsunan"
+    ],
+    "label": "邊和",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2442,7520,144,87",
+    "objectID": "YB(a)B3-04",
+    "sort": [
+        "03-00264"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2442,7520,144,87/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "下"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "邊和"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

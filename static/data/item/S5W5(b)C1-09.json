@@ -1,0 +1,41 @@
+{
+    "fulltext": "鳳翔, 00-10449, 4, 南5, 西5, 本図, 鳳翔, 朱, 裏, 18, C1",
+    "group": [
+        "main"
+    ],
+    "label": "鳳翔",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17105,14774,44,63",
+    "objectID": "S5W5(b)C1-09",
+    "sort": [
+        "00-10449"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17105,14774,44,63/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鳳翔"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "古斟觀, 00-06302, 4, 南4, 西1, 本図, 古斟觀, 墨, 表, 10, A2",
+    "group": [
+        "main"
+    ],
+    "label": "古斟觀",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27076,12523,93,35",
+    "objectID": "S4W1(a)A2-04",
+    "sort": [
+        "00-06302"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27076,12523,93,35/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "古斟觀"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

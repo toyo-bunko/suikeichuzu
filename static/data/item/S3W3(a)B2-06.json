@@ -1,0 +1,41 @@
+{
+    "fulltext": "唐城, 00-05341, 4, 南3, 西3, 本図, 唐城, 墨, 表, 16, B2",
+    "group": [
+        "main"
+    ],
+    "label": "唐城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22456,11442,77,57",
+    "objectID": "S3W3(a)B2-06",
+    "sort": [
+        "00-05341"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22456,11442,77,57/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "唐城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "池, 01-05088, 6, 南9, 西7, 本図, 池, 墨, 裏, 5, B2",
+    "group": [
+        "main"
+    ],
+    "label": "池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11961,20674,27,27",
+    "objectID": "S9W7(b)B2-14",
+    "sort": [
+        "01-05088"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11961,20674,27,27/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "池"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "増食, 01-09642, 8, 南16, 西6, 本図, 増食, 墨, 裏, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "増食",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14964,32373,53,90",
+    "objectID": "S16W6(b)D1-01",
+    "sort": [
+        "01-09642"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14964,32373,53,90/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "増食"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

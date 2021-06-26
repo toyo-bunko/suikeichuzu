@@ -1,0 +1,41 @@
+{
+    "fulltext": "雹水, 00-06569, 4, 南4, 西1, 本図, 雹水, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "雹水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25785,13118,71,59",
+    "objectID": "S4W1(b)B2-34",
+    "sort": [
+        "00-06569"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25785,13118,71,59/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雹水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

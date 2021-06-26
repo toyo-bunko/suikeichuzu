@@ -1,0 +1,41 @@
+{
+    "fulltext": "鵲甫谷, 01-01580, 5, 南7, 中, 本図, 鵲甫谷, 墨, 表, 4, B1",
+    "group": [
+        "main"
+    ],
+    "label": "鵲甫谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29707,17680,103,47",
+    "objectID": "S7C(a)B1-07",
+    "sort": [
+        "01-01580"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29707,17680,103,47/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鵲甫谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

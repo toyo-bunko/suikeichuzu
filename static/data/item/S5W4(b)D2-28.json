@@ -1,0 +1,41 @@
+{
+    "fulltext": "杜京, 00-10181, 4, 南5, 西4, 本図, 杜京, 墨, 裏, 16, D2",
+    "group": [
+        "main"
+    ],
+    "label": "杜京",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18857,15350,63,33",
+    "objectID": "S5W4(b)D2-28",
+    "sort": [
+        "00-10181"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18857,15350,63,33/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "杜京"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

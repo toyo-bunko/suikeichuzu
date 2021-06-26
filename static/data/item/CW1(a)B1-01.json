@@ -1,0 +1,41 @@
+{
+    "fulltext": "大亘, 00-01844, 2, 中, 西1, 本図, 大亘, 墨, 表, 16, B1",
+    "group": [
+        "main"
+    ],
+    "label": "大亘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27414,6611,55,53",
+    "objectID": "CW1(a)B1-01",
+    "sort": [
+        "00-01844"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27414,6611,55,53/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大亘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

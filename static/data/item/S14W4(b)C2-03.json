@@ -1,0 +1,41 @@
+{
+    "fulltext": "黃源水, 01-08393, 7, 南14, 西4, 本図, 黃源水, 朱, 裏, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "黃源水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18968,28972,37,94",
+    "objectID": "S14W4(b)C2-03",
+    "sort": [
+        "01-08393"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18968,28972,37,94/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黃源水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

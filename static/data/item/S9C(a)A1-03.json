@@ -1,0 +1,41 @@
+{
+    "fulltext": "破虜磯, 01-04042, 6, 南9, 中, 本図, 破虜磯, 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "破虜磯",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29746,20369,52,102",
+    "objectID": "S9C(a)A1-03",
+    "sort": [
+        "01-04042"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29746,20369,52,102/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "破虜磯"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

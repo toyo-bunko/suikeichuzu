@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿拉善額魯特旗, 00-03025, 3, 南1, 西6, 本図, 阿拉善額魯特旗, 朱, 裏, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "阿拉善額魯特旗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13951,8403,75,126",
+    "objectID": "S1W6(b)B3-01",
+    "sort": [
+        "00-03025"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13951,8403,75,126/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阿拉善額魯特旗"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

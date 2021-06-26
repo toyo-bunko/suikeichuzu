@@ -1,0 +1,41 @@
+{
+    "fulltext": "柴達木河, 00-07818, 4, 南4, 西10, 本図, 柴達木河, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "柴達木河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=5520,13249,125,44",
+    "objectID": "S4W10(b)C1-01",
+    "sort": [
+        "00-07818"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/5520,13249,125,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "柴達木河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

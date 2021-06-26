@@ -1,0 +1,44 @@
+{
+    "fulltext": "悤谷水四源, 00-05762, 注文は蔥谷水、と「くさかんむり」が付いている, 4, 南3, 西8, 本図, 悤谷水四源, 墨, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "悤谷水四源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10425,11541,51,134",
+    "objectID": "S3W8(a)B3-14",
+    "sort": [
+        "00-05762"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10425,11541,51,134/200,/0/default.jpg",
+    "備考": [
+        "注文は蔥谷水、と「くさかんむり」が付いている"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "悤谷水四源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

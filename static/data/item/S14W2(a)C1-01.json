@@ -1,0 +1,41 @@
+{
+    "fulltext": "洪崖山, 01-08109, 7, 南14, 西2, 本図, 洪崖山, 朱, 表, 4, C1",
+    "group": [
+        "main"
+    ],
+    "label": "洪崖山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25175,28976,116,48",
+    "objectID": "S14W2(a)C1-01",
+    "sort": [
+        "01-08109"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25175,28976,116,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洪崖山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

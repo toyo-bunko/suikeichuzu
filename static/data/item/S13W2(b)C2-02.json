@@ -1,0 +1,41 @@
+{
+    "fulltext": "耒陽, 01-07588, 7, 南13, 西2, 本図, 耒陽, 墨, 裏, 10, C2",
+    "group": [
+        "main"
+    ],
+    "label": "耒陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23469,27259,85,48",
+    "objectID": "S13W2(b)C2-02",
+    "sort": [
+        "01-07588"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23469,27259,85,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "耒陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

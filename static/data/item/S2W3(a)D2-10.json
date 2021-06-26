@@ -1,0 +1,41 @@
+{
+    "fulltext": "閣道, 00-03962, 3, 南2, 西3, 本図, 閣道, 墨, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "閣道",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22546,10808,39,70",
+    "objectID": "S2W3(a)D2-10",
+    "sort": [
+        "00-03962"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22546,10808,39,70/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "閣道"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

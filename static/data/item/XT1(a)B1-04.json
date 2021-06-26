@@ -1,0 +1,41 @@
+{
+    "fulltext": "敦煌, 02-00037, 1, 上, 1, 西域, 敦煌, 朱, 表, 19, B1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "敦煌",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8798,1751,126,91",
+    "objectID": "XT1(a)B1-04",
+    "sort": [
+        "02-00037"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8798,1751,126,91/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "敦煌"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

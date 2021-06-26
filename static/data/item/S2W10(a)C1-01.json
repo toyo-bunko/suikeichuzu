@@ -1,0 +1,41 @@
+{
+    "fulltext": "西爾哈河, 00-04180, 3, 南2, 西10, 本図, 西爾哈河, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "西爾哈河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6633,10180,121,40",
+    "objectID": "S2W10(a)C1-01",
+    "sort": [
+        "00-04180"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6633,10180,121,40/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西爾哈河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "布穆巴圖, 00-03098, 別記号あり, 3, 南1, 西10, 本図, 布穆巴圖, 朱, 裏, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "布穆巴圖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4769,7927,146,119",
+    "objectID": "S1W10(b)A3-01",
+    "sort": [
+        "00-03098"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4769,7927,146,119/200,/0/default.jpg",
+    "備考": [
+        "別記号あり"
+    ],
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "布穆巴圖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

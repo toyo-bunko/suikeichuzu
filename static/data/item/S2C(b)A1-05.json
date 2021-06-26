@@ -1,0 +1,41 @@
+{
+    "fulltext": "滹沱別河故瀆, 00-03426, 3, 南2, 中, 本図, 滹沱別河故瀆, 墨, 裏, 2, A1",
+    "group": [
+        "main"
+    ],
+    "label": "滹沱別河故瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28492,9320,101,168",
+    "objectID": "S2C(b)A1-05",
+    "sort": [
+        "00-03426"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28492,9320,101,168/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "滹沱別河故瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

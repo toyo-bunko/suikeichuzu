@@ -1,0 +1,41 @@
+{
+    "fulltext": "澇水, 01-00988, 5, 南6, 西4, 本図, 澇水, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "澇水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18484,15860,79,47",
+    "objectID": "S6W4(b)A3-08",
+    "sort": [
+        "01-00988"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18484,15860,79,47/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "澇水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

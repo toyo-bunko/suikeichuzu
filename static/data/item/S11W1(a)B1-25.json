@@ -1,0 +1,41 @@
+{
+    "fulltext": "豫章江, 01-06357, 6, 南11, 西1, 本図, 豫章江, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "豫章江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27508,24058,93,32",
+    "objectID": "S11W1(a)B1-25",
+    "sort": [
+        "01-06357"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27508,24058,93,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "豫章江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

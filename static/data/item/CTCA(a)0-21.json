@@ -1,0 +1,41 @@
+{
+    "fulltext": "亦曰籍田門, 04-00277, 8, 0, 0, 長安城図, 亦曰籍田門, 墨, 表, 34, 0",
+    "group": [
+        "jouzu04_chouan"
+    ],
+    "label": "亦曰籍田門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3169,1566,127,199",
+    "objectID": "CTCA(a)0-21",
+    "sort": [
+        "04-00277"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/3169,1566,127,199/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "長安城図"
+    ],
+    "地名/記述": [
+        "亦曰籍田門"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        0
+    ]
+}

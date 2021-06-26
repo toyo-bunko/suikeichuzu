@@ -1,0 +1,41 @@
+{
+    "fulltext": "勇士, 00-05676, 4, 南3, 西7, 本図, 勇士, 墨, 表, 10, D2",
+    "group": [
+        "main"
+    ],
+    "label": "勇士",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13380,12121,63,44",
+    "objectID": "S3W7(a)D2-03",
+    "sort": [
+        "00-05676"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13380,12121,63,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "勇士"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

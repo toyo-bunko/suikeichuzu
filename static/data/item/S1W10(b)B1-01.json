@@ -1,0 +1,41 @@
+{
+    "fulltext": "籍端水, 00-03099, 3, 南1, 西10, 本図, 籍端水, 墨, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "籍端水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=5624,8193,127,48",
+    "objectID": "S1W10(b)B1-01",
+    "sort": [
+        "00-03099"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/5624,8193,127,48/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "籍端水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

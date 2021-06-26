@@ -1,0 +1,41 @@
+{
+    "fulltext": "北益都城, 00-03273, 3, 南2, 東1, 本図, 北益都城, 墨, 表, 16, D2",
+    "group": [
+        "main"
+    ],
+    "label": "北益都城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31569,10748,72,88",
+    "objectID": "S2E1(a)D2-04",
+    "sort": [
+        "00-03273"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31569,10748,72,88/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北益都城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

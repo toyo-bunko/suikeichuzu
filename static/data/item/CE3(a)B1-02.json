@@ -1,0 +1,41 @@
+{
+    "fulltext": "石城島, 00-01526, 2, 中, 東3, 本図, 石城島, 朱, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "石城島",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=36589,6738,74,98",
+    "objectID": "CE3(a)B1-02",
+    "sort": [
+        "00-01526"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/36589,6738,74,98/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石城島"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

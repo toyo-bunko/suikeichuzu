@@ -1,0 +1,44 @@
+{
+    "fulltext": "通道, 00-07043, 2カ所あり, 4, 南4, 西3, 本図, 通道, 墨, 表, 0, A1",
+    "group": [
+        "main"
+    ],
+    "label": "通道",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22886,12693,69,48",
+    "objectID": "S4W3(a)A1-06",
+    "sort": [
+        "00-07043"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22886,12693,69,48/200,/0/default.jpg",
+    "備考": [
+        "2カ所あり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "通道"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

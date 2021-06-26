@@ -1,0 +1,41 @@
+{
+    "fulltext": "羅溪, 01-06314, 6, 南11, 中, 本図, 羅溪, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "羅溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27938,24269,33,59",
+    "objectID": "S11C(b)C3-01",
+    "sort": [
+        "01-06314"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27938,24269,33,59/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羅溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

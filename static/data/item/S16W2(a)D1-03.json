@@ -1,0 +1,41 @@
+{
+    "fulltext": "歸善, 01-09394, 8, 南16, 西2, 本図, 歸善, 朱, 表, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "歸善",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25165,32607,76,42",
+    "objectID": "S16W2(a)D1-03",
+    "sort": [
+        "01-09394"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25165,32607,76,42/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "歸善"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

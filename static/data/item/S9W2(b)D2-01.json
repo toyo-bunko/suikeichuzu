@@ -1,0 +1,41 @@
+{
+    "fulltext": "監利, 01-04515, 6, 南9, 西2, 本図, 監利, 墨, 裏, 8, D2",
+    "group": [
+        "main"
+    ],
+    "label": "監利",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23705,21655,68,43",
+    "objectID": "S9W2(b)D2-01",
+    "sort": [
+        "01-04515"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23705,21655,68,43/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "監利"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

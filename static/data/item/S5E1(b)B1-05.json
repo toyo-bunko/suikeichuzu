@@ -1,0 +1,41 @@
+{
+    "fulltext": "芙蓉河, 00-07921, 4, 南5, 東1, 本図, 芙蓉河, 朱, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "芙蓉河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30798,14419,33,91",
+    "objectID": "S5E1(b)B1-05",
+    "sort": [
+        "00-07921"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30798,14419,33,91/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "芙蓉河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "秦嶺, 01-00963, 5, 南6, 西4, 本図, 秦嶺, 朱, 裏, 4, A1",
+    "group": [
+        "main"
+    ],
+    "label": "秦嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19478,15882,74,39",
+    "objectID": "S6W4(b)A1-10",
+    "sort": [
+        "01-00963"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19478,15882,74,39/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "秦嶺"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

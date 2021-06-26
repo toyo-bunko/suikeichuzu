@@ -1,0 +1,41 @@
+{
+    "fulltext": "鹽亭, 01-03580, 5, 南8, 西6, 本図, 鹽亭, 朱, 裏, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "鹽亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13970,19787,67,43",
+    "objectID": "S8W6(b)D3-01",
+    "sort": [
+        "01-03580"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13970,19787,67,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹽亭"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "宣光, 03-00064, 8, 越南, 上, 越南, 宣光, 朱, 裏, 17, B1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "宣光",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2023,1041,138,93",
+    "objectID": "YT(b)B1-04",
+    "sort": [
+        "03-00064"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2023,1041,138,93/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "宣光"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

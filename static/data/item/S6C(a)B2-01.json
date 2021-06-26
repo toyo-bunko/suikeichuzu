@@ -1,0 +1,41 @@
+{
+    "fulltext": "八丈故溝承洨水, 01-00202, 5, 南6, 中, 本図, 八丈故溝承洨水, 墨, 表, 2, B2",
+    "group": [
+        "main"
+    ],
+    "label": "八丈故溝承洨水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29312,16136,65,107",
+    "objectID": "S6C(a)B2-01",
+    "sort": [
+        "01-00202"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29312,16136,65,107/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "八丈故溝承洨水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

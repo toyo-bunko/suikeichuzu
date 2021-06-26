@@ -1,0 +1,41 @@
+{
+    "fulltext": "普安, 05-00404, 8, 0, 0, 禹貢山水澤地所在, 普安, 朱, 裏, 21, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "普安",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1299,2039,63,118",
+    "objectID": "YG(b)0-197",
+    "sort": [
+        "05-00404"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1299,2039,63,118/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "普安"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        21
+    ],
+    "詳細区画": [
+        0
+    ]
+}

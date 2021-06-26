@@ -1,0 +1,41 @@
+{
+    "fulltext": "苦水, 00-07644, 4, 南4, 西7, 本図, 苦水, 朱, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "苦水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13620,13226,47,67",
+    "objectID": "S4W7(a)C1-02",
+    "sort": [
+        "00-07644"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13620,13226,47,67/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "苦水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

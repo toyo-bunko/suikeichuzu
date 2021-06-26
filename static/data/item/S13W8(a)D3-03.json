@@ -1,0 +1,41 @@
+{
+    "fulltext": "野馬川, 01-07881, 7, 南13, 西8, 本図, 野馬川, 朱, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "野馬川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10533,27729,41,96",
+    "objectID": "S13W8(a)D3-03",
+    "sort": [
+        "01-07881"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10533,27729,41,96/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "野馬川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

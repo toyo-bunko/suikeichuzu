@@ -1,0 +1,41 @@
+{
+    "fulltext": "黃帝冢, 00-04017, 3, 南2, 西4, 本図, 黃帝冢, 墨, 表, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "黃帝冢",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19753,9917,80,44",
+    "objectID": "S2W4(a)B3-04",
+    "sort": [
+        "00-04017"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19753,9917,80,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "黃帝冢"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

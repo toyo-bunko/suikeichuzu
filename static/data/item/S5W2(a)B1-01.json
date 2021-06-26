@@ -1,0 +1,44 @@
+{
+    "fulltext": "即龍淵水, 00-08659, S5W1(b)B3の「期水」とつながる, 4, 南5, 西2, 本図, 即龍淵水, 墨, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "即龍淵水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25331,14417,87,86",
+    "objectID": "S5W2(a)B1-01",
+    "sort": [
+        "00-08659"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25331,14417,87,86/200,/0/default.jpg",
+    "備考": [
+        "S5W1(b)B3の「期水」とつながる"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即龍淵水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "成武, 00-06285, 4, 南4, 中, 本図, 成武, 墨, 裏, 8, D3",
+    "group": [
+        "main"
+    ],
+    "label": "成武",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27934,13803,72,49",
+    "objectID": "S4C(b)D3-05",
+    "sort": [
+        "00-06285"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27934,13803,72,49/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "成武"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

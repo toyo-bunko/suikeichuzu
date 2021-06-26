@@ -1,0 +1,41 @@
+{
+    "fulltext": "稽徐, 03-00119, 8, 越南, 中, 越南, 稽徐, 墨, 表, 10, A3",
+    "group": [
+        "etsunan"
+    ],
+    "label": "稽徐",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2956,3264,148,87",
+    "objectID": "YC(a)A3-04",
+    "sort": [
+        "03-00119"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/2956,3264,148,87/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "稽徐"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "樓臺, 01-00510, 5, 南6, 西1, 本図, 樓臺, 墨, 裏, 16, D3",
+    "group": [
+        "main"
+    ],
+    "label": "樓臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25676,17039,57,30",
+    "objectID": "S6W1(b)D3-10",
+    "sort": [
+        "01-00510"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25676,17039,57,30/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "樓臺"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

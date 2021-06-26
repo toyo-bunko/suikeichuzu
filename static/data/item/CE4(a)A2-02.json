@@ -1,0 +1,41 @@
+{
+    "fulltext": "宣川, 00-01504, 2, 中, 東4, 本図, 宣川, 朱, 表, 26, A2",
+    "group": [
+        "main"
+    ],
+    "label": "宣川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38663,6530,77,70",
+    "objectID": "CE4(a)A2-02",
+    "sort": [
+        "00-01504"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38663,6530,77,70/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宣川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        26
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

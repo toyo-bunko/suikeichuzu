@@ -1,0 +1,41 @@
+{
+    "fulltext": "涼城郡, 00-01214, 2, 北1, 西2, 本図, 涼城郡, 墨, 裏, 7, A1",
+    "group": [
+        "main"
+    ],
+    "label": "涼城郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24135,4927,97,86",
+    "objectID": "N1W2(b)A1-03",
+    "sort": [
+        "00-01214"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24135,4927,97,86/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "涼城郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

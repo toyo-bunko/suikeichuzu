@@ -1,0 +1,41 @@
+{
+    "fulltext": "承慶, 03-00020, 8, 越南, 上, 越南, 承慶, 朱, 表, 17, C2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "承慶",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=3038,1684,156,69",
+    "objectID": "YT(a)C2-02",
+    "sort": [
+        "03-00020"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/3038,1684,156,69/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "承慶"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

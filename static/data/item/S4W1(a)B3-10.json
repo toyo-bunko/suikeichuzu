@@ -1,0 +1,41 @@
+{
+    "fulltext": "白馬關, 00-06374, 4, 南4, 西1, 本図, 白馬關, 墨, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "白馬關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26569,13005,37,82",
+    "objectID": "S4W1(a)B3-10",
+    "sort": [
+        "00-06374"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26569,13005,37,82/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白馬關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

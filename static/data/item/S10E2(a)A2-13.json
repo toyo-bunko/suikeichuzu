@@ -1,0 +1,41 @@
+{
+    "fulltext": "桐亭樓, 01-05258, 6, 南10, 東2, 本図, 桐亭樓, 墨, 表, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "桐亭樓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34213,22017,72,28",
+    "objectID": "S10E2(a)A2-13",
+    "sort": [
+        "01-05258"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34213,22017,72,28/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "桐亭樓"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "葦壁, 00-01160, 2, 北1, 西2, 本図, 葦壁, 墨, 表, 16, D1",
+    "group": [
+        "main"
+    ],
+    "label": "葦壁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25172,6184,73,37",
+    "objectID": "N1W2(a)D1-05",
+    "sort": [
+        "00-01160"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25172,6184,73,37/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "葦壁"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

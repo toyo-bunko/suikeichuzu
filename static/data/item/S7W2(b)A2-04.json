@@ -1,0 +1,41 @@
+{
+    "fulltext": "謝城, 01-02002, 5, 南7, 西2, 本図, 謝城, 墨, 裏, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "謝城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23572,17157,81,39",
+    "objectID": "S7W2(b)A2-04",
+    "sort": [
+        "01-02002"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23572,17157,81,39/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "謝城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

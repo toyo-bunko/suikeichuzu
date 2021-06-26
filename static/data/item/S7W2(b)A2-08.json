@@ -1,0 +1,41 @@
+{
+    "fulltext": "會口, 01-02006, 5, 南7, 西2, 本図, 會口, 墨, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "會口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23777,17290,63,59",
+    "objectID": "S7W2(b)A2-08",
+    "sort": [
+        "01-02006"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23777,17290,63,59/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "會口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

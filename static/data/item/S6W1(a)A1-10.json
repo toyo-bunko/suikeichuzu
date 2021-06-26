@@ -1,0 +1,41 @@
+{
+    "fulltext": "賴郷城, 01-00310, 5, 南6, 西1, 本図, 賴郷城, 墨, 表, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "賴郷城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27415,15582,58,25",
+    "objectID": "S6W1(a)A1-10",
+    "sort": [
+        "01-00310"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27415,15582,58,25/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "賴郷城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

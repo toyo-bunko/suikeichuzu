@@ -1,0 +1,41 @@
+{
+    "fulltext": "謝楚河, 01-02605, 5, 南7, 西9, 本図, 謝楚河, 朱, 表, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "謝楚河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8647,17667,96,40",
+    "objectID": "S7W9(a)B2-02",
+    "sort": [
+        "01-02605"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8647,17667,96,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "謝楚河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

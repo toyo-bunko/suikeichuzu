@@ -1,0 +1,41 @@
+{
+    "fulltext": "高闕, 00-00621, 1, 北2, 西5, 本図, 高闕, 墨, 表, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "高闕",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17724,4358,96,46",
+    "objectID": "N2W5(a)D2-03",
+    "sort": [
+        "00-00621"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17724,4358,96,46/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高闕"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

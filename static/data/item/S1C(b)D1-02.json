@@ -1,0 +1,41 @@
+{
+    "fulltext": "王莽樂亭, 00-02518, 3, 南1, 中, 本図, 王莽樂亭, 墨, 裏, 10, D1",
+    "group": [
+        "main"
+    ],
+    "label": "王莽樂亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28793,9219,91,38",
+    "objectID": "S1C(b)D1-02",
+    "sort": [
+        "00-02518"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28793,9219,91,38/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "王莽樂亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "潯陽江, 01-04122, 6, 南9, 中, 本図, 潯陽江, 朱, 裏, 5, D3",
+    "group": [
+        "main"
+    ],
+    "label": "潯陽江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28039,21742,89,32",
+    "objectID": "S9C(b)D3-03",
+    "sort": [
+        "01-04122"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28039,21742,89,32/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "潯陽江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

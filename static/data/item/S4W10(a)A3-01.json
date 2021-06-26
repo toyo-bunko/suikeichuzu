@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿拉克沙爾山, 00-07813, 4, 南4, 西10, 本図, 阿拉克沙爾山, 朱, 表, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "阿拉克沙爾山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=5964,12562,79,92",
+    "objectID": "S4W10(a)A3-01",
+    "sort": [
+        "00-07813"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/5964,12562,79,92/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "阿拉克沙爾山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

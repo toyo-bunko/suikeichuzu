@@ -1,0 +1,41 @@
+{
+    "fulltext": "梅港, 01-06289, 6, 南11, 中, 本図, 梅港, 朱, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "梅港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29408,24650,2,2",
+    "objectID": "S11C(a)C3-02",
+    "sort": [
+        "01-06289"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29408,24650,2,2/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "梅港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

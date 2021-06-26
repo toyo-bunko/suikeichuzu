@@ -1,0 +1,41 @@
+{
+    "fulltext": "空格斯河, 02-00082, 1, 上, 1, 西域, 空格斯河, 朱, 裏, 1, A1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "空格斯河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6658,671,274,75",
+    "objectID": "XT1(b)A1-09",
+    "sort": [
+        "02-00082"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6658,671,274,75/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "空格斯河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

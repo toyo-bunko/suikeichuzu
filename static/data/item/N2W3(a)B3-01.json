@@ -1,0 +1,41 @@
+{
+    "fulltext": "塔爾渾河, 00-00585, 1, 北2, 西3, 本図, 塔爾渾河, 朱, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "塔爾渾河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22029,3647,154,225",
+    "objectID": "N2W3(a)B3-01",
+    "sort": [
+        "00-00585"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22029,3647,154,225/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "塔爾渾河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

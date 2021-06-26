@@ -1,0 +1,41 @@
+{
+    "fulltext": "馬陘山, 00-01020, 2, 北1, 西1, 本図, 馬陘山, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "馬陘山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27435,5714,101,54",
+    "objectID": "N1W1(a)C1-09",
+    "sort": [
+        "00-01020"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27435,5714,101,54/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "馬陘山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

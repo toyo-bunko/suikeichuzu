@@ -1,0 +1,41 @@
+{
+    "fulltext": "舂陵新縣, 01-08286, 7, 南14, 西3, 本図, 舂陵新縣, 墨, 裏, 8, B1",
+    "group": [
+        "main"
+    ],
+    "label": "舂陵新縣",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21767,28545,68,79",
+    "objectID": "S14W3(b)B1-03",
+    "sort": [
+        "01-08286"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21767,28545,68,79/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "舂陵新縣"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

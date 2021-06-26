@@ -1,0 +1,41 @@
+{
+    "fulltext": "野王, 05-00074, 8, 0, 0, 禹貢山水澤地所在, 野王, 墨, 表, 10, 0",
+    "group": [
+        "ukou"
+    ],
+    "label": "野王",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2431,811,80,57",
+    "objectID": "YG(a)0-74",
+    "sort": [
+        "05-00074"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2431,811,80,57/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "禹貢山水澤地所在"
+    ],
+    "地名/記述": [
+        "野王"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        0
+    ]
+}

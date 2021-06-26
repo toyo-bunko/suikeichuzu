@@ -1,0 +1,41 @@
+{
+    "fulltext": "臨桂, 01-08378, 7, 南14, 西4, 本図, 臨桂, 朱, 表, 17, D3",
+    "group": [
+        "main"
+    ],
+    "label": "臨桂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19768,29256,69,37",
+    "objectID": "S14W4(a)D3-08",
+    "sort": [
+        "01-08378"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19768,29256,69,37/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "臨桂"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

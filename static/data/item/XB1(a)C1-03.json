@@ -1,0 +1,41 @@
+{
+    "fulltext": "蒲甘新都, 02-00250, 1, 下, 1, 西域, 蒲甘新都, 朱, 表, 19, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "蒲甘新都",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8824,5481,182,158",
+    "objectID": "XB1(a)C1-03",
+    "sort": [
+        "02-00250"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8824,5481,182,158/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "蒲甘新都"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

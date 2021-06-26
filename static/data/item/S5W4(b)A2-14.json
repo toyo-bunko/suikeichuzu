@@ -1,0 +1,41 @@
+{
+    "fulltext": "土門南原, 00-09951, 4, 南5, 西4, 本図, 土門南原, 墨, 裏, 16, A2",
+    "group": [
+        "main"
+    ],
+    "label": "土門南原",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19075,14293,65,62",
+    "objectID": "S5W4(b)A2-14",
+    "sort": [
+        "00-09951"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19075,14293,65,62/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "土門南原"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

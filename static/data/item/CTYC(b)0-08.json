@@ -1,0 +1,41 @@
+{
+    "fulltext": "溝水, 04-00034, 8, 0, 0, 鄴城図, 溝水, 墨, 裏, 1, 0",
+    "group": [
+        "jouzu02_gyoujou"
+    ],
+    "label": "溝水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2492,1466,151,118",
+    "objectID": "CTYC(b)0-08",
+    "sort": [
+        "04-00034"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/2492,1466,151,118/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "鄴城図"
+    ],
+    "地名/記述": [
+        "溝水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        0
+    ]
+}

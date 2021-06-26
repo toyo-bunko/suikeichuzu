@@ -1,0 +1,44 @@
+{
+    "fulltext": "三川, 00-10016, 2か所あり, 4, 南5, 西4, 本図, 三川, 墨, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "三川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19368,14950,27,39",
+    "objectID": "S5W4(b)C1-11",
+    "sort": [
+        "00-10016"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19368,14950,27,39/200,/0/default.jpg",
+    "備考": [
+        "2か所あり"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "三川"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

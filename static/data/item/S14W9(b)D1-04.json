@@ -1,0 +1,41 @@
+{
+    "fulltext": "白魚河, 01-08642, 7, 南14, 西9, 本図, 白魚河, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "白魚河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7790,29404,39,90",
+    "objectID": "S14W9(b)D1-04",
+    "sort": [
+        "01-08642"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7790,29404,39,90/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白魚河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

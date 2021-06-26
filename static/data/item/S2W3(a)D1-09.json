@@ -1,0 +1,41 @@
+{
+    "fulltext": "注文水入汾, 00-03948, 3, 南2, 西3, 本図, 注文水入汾, 墨, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "注文水入汾",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22749,10567,58,93",
+    "objectID": "S2W3(a)D1-09",
+    "sort": [
+        "00-03948"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22749,10567,58,93/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "注文水入汾"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

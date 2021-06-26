@@ -1,0 +1,41 @@
+{
+    "fulltext": "梅林江, 01-08065, 7, 南14, 西1, 本図, 梅林江, 朱, 表, 1, C2",
+    "group": [
+        "main"
+    ],
+    "label": "梅林江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26947,28835,101,39",
+    "objectID": "S14W1(a)C2-01",
+    "sort": [
+        "01-08065"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26947,28835,101,39/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "梅林江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

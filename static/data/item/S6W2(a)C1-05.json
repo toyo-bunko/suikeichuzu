@@ -1,0 +1,41 @@
+{
+    "fulltext": "即西陵亭, 01-00601, 5, 南6, 西2, 本図, 即西陵亭, 墨, 表, 16, C1",
+    "group": [
+        "main"
+    ],
+    "label": "即西陵亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25098,16493,113,45",
+    "objectID": "S6W2(a)C1-05",
+    "sort": [
+        "01-00601"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25098,16493,113,45/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即西陵亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "洛谷, 01-01091, 5, 南6, 西5, 本図, 洛谷, 墨, 裏, 4, C1",
+    "group": [
+        "main"
+    ],
+    "label": "洛谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17063,16306,84,40",
+    "objectID": "S6W5(b)C1-01",
+    "sort": [
+        "01-01091"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17063,16306,84,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洛谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

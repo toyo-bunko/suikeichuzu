@@ -1,0 +1,41 @@
+{
+    "fulltext": "清河枝津又名浮瀆, 00-02437, 3, 南1, 中, 本図, 清河枝津又名浮瀆, 墨, 表, 2, C3",
+    "group": [
+        "main"
+    ],
+    "label": "清河枝津又名浮瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29094,8724,209,41",
+    "objectID": "S1C(a)C3-01",
+    "sort": [
+        "00-02437"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29094,8724,209,41/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "清河枝津又名浮瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

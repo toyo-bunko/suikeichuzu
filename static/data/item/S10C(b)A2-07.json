@@ -1,0 +1,44 @@
+{
+    "fulltext": "深潭, 01-05476, 注で検索出来ず, 6, 南10, 中, 本図, 深潭, 墨, 裏, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "深潭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28206,21947,34,70",
+    "objectID": "S10C(b)A2-07",
+    "sort": [
+        "01-05476"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28206,21947,34,70/200,/0/default.jpg",
+    "備考": [
+        "注で検索出来ず"
+    ],
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "深潭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

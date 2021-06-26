@@ -1,0 +1,41 @@
+{
+    "fulltext": "渾懷障, 00-03007, 3, 南1, 西5, 本図, 渾懷障, 墨, 裏, 16, C3",
+    "group": [
+        "main"
+    ],
+    "label": "渾懷障",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16414,8827,117,41",
+    "objectID": "S1W5(b)C3-01",
+    "sort": [
+        "00-03007"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16414,8827,117,41/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "渾懷障"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿耨達大山, 02-00266, 1, 下, 1, 西域, 阿耨達大山, 墨, 裏, 4, A1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "阿耨達大山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5987,3307,397,88",
+    "objectID": "XB1(b)A1-02",
+    "sort": [
+        "02-00266"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5987,3307,397,88/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "阿耨達大山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

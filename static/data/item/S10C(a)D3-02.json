@@ -1,0 +1,41 @@
+{
+    "fulltext": "上東湖, 01-05468, 6, 南10, 中, 本図, 上東湖, 朱, 表, 5, D3",
+    "group": [
+        "main"
+    ],
+    "label": "上東湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28929,23154,88,29",
+    "objectID": "S10C(a)D3-02",
+    "sort": [
+        "01-05468"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28929,23154,88,29/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "上東湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

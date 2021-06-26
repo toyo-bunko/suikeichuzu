@@ -1,0 +1,41 @@
+{
+    "fulltext": "雙石河, 01-06036, 6, 南10, 西6, 本図, 雙石河, 朱, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "雙石河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14372,22328,29,87",
+    "objectID": "S10W6(b)B2-01",
+    "sort": [
+        "01-06036"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14372,22328,29,87/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雙石河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

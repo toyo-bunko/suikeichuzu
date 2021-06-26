@@ -1,0 +1,41 @@
+{
+    "fulltext": "赤城河, 00-00895, 2, 北1, 中, 本図, 赤城河, 墨, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "赤城河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27859,4671,68,104",
+    "objectID": "N1C(b)A3-01",
+    "sort": [
+        "00-00895"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27859,4671,68,104/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "赤城河"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "襄陽, 01-02193, 5, 南7, 西3, 本図, 襄陽, 朱, 表, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "襄陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22763,18539,68,40",
+    "objectID": "S7W3(a)D1-15",
+    "sort": [
+        "01-02193"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22763,18539,68,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "襄陽"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "故茅亭, 00-09578, 4, 南5, 西3, 本図, 故茅亭, 墨, 裏, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "故茅亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21617,14303,72,28",
+    "objectID": "S5W3(b)A1-32",
+    "sort": [
+        "00-09578"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21617,14303,72,28/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故茅亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

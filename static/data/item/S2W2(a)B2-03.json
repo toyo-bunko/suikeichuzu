@@ -1,0 +1,41 @@
+{
+    "fulltext": "鹿谷山, 00-03750, 3, 南2, 西2, 本図, 鹿谷山, 墨, 表, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "鹿谷山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24814,10054,60,67",
+    "objectID": "S2W2(a)B2-03",
+    "sort": [
+        "00-03750"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24814,10054,60,67/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹿谷山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

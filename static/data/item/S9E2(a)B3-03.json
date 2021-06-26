@@ -1,0 +1,41 @@
+{
+    "fulltext": "呉又改嘉興, 01-03751, 6, 南9, 東2, 本図, 呉又改嘉興, 墨, 表, 8, B3",
+    "group": [
+        "main"
+    ],
+    "label": "呉又改嘉興",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33885,20667,137,36",
+    "objectID": "S9E2(a)B3-03",
+    "sort": [
+        "01-03751"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33885,20667,137,36/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呉又改嘉興"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

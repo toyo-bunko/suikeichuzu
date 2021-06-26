@@ -1,0 +1,41 @@
+{
+    "fulltext": "祥符, 00-08337, 4, 南5, 西1, 本図, 祥符, 朱, 裏, 17, A2",
+    "group": [
+        "main"
+    ],
+    "label": "祥符",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26090,14162,65,35",
+    "objectID": "S5W1(b)A2-09",
+    "sort": [
+        "00-08337"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26090,14162,65,35/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "祥符"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

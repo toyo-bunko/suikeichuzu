@@ -1,0 +1,41 @@
+{
+    "fulltext": "大頭痛小頭痛山赤土身熱阪, 02-00213, 1, 上, 2, 西域, 大頭痛小頭痛山赤土身熱阪, 墨, 表, 0, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "大頭痛小頭痛山赤土身熱阪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=3916,2815,457,193",
+    "objectID": "XT2(a)C1-11",
+    "sort": [
+        "02-00213"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/3916,2815,457,193/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        2
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "大頭痛小頭痛山赤土身熱阪"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

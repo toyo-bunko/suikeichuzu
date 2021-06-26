@@ -1,0 +1,41 @@
+{
+    "fulltext": "焉耆, 02-00031, 1, 上, 1, 西域, 焉耆, 朱, 表, 17, A3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "焉耆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7420,963,136,72",
+    "objectID": "XT1(a)A3-16",
+    "sort": [
+        "02-00031"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7420,963,136,72/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "焉耆"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        17
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

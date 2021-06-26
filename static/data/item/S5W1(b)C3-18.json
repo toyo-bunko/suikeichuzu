@@ -1,0 +1,41 @@
+{
+    "fulltext": "蔡澤陂, 00-08499, 4, 南5, 西1, 本図, 蔡澤陂, 墨, 裏, 5, C3",
+    "group": [
+        "main"
+    ],
+    "label": "蔡澤陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25694,14961,44,94",
+    "objectID": "S5W1(b)C3-18",
+    "sort": [
+        "00-08499"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25694,14961,44,94/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蔡澤陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "尼泊爾, 02-00246, 1, 下, 1, 西域, 尼泊爾, 朱, 表, 0, B3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "尼泊爾",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7323,4683,222,87",
+    "objectID": "XB1(a)B3-03",
+    "sort": [
+        "02-00246"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7323,4683,222,87/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "尼泊爾"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

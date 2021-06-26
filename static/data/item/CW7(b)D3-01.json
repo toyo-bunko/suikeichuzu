@@ -1,0 +1,41 @@
+{
+    "fulltext": "宣威, 00-02264, 2, 中, 西7, 本図, 宣威, 墨, 裏, 8, D3",
+    "group": [
+        "main"
+    ],
+    "label": "宣威",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11734,7509,75,82",
+    "objectID": "CW7(b)D3-01",
+    "sort": [
+        "00-02264"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11734,7509,75,82/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宣威"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

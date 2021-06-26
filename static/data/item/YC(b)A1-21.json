@@ -1,0 +1,41 @@
+{
+    "fulltext": "演州, 03-00173, 8, 越南, 中, 越南, 演州, 朱, 裏, 18, A1",
+    "group": [
+        "etsunan"
+    ],
+    "label": "演州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1559,3800,121,73",
+    "objectID": "YC(b)A1-21",
+    "sort": [
+        "03-00173"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1559,3800,121,73/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "演州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

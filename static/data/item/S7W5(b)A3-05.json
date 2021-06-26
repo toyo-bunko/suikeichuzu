@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢廟堆, 01-02420, 5, 南7, 西5, 本図, 漢廟堆, 墨, 裏, 16, A3",
+    "group": [
+        "main"
+    ],
+    "label": "漢廟堆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16403,17125,83,33",
+    "objectID": "S7W5(b)A3-05",
+    "sort": [
+        "01-02420"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16403,17125,83,33/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢廟堆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

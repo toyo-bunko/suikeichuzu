@@ -1,0 +1,41 @@
+{
+    "fulltext": "又曰汶阜山, 01-01374, 5, 南6, 西8, 本図, 又曰汶阜山, 墨, 表, 4, A3",
+    "group": [
+        "main"
+    ],
+    "label": "又曰汶阜山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10610,15745,124,36",
+    "objectID": "S6W8(a)A3-03",
+    "sort": [
+        "01-01374"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10610,15745,124,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "又曰汶阜山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "老虎洞, 00-00171, 1, 北3, 東4, 本図, 老虎洞, 朱, 裏, 4, B3",
+    "group": [
+        "main"
+    ],
+    "label": "老虎洞",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=37249,2223,95,82",
+    "objectID": "N3E4(b)B3-04",
+    "sort": [
+        "00-00171"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/37249,2223,95,82/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "老虎洞"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

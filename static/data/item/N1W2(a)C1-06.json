@@ -1,0 +1,44 @@
+{
+    "fulltext": "泌水, 00-01143, 注文では「泌」の字は「𣸢」の字となっている。「泌水」は山西省にある川名。図は誤っている。, 2, 北1, 西2, 本図, 泌水, 墨, 表, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "泌水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25295,5575,66,55",
+    "objectID": "N1W2(a)C1-06",
+    "sort": [
+        "00-01143"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25295,5575,66,55/200,/0/default.jpg",
+    "備考": [
+        "注文では「泌」の字は「𣸢」の字となっている。「泌水」は山西省にある川名。図は誤っている。"
+    ],
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "泌水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

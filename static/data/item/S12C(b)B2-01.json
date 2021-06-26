@@ -1,0 +1,41 @@
+{
+    "fulltext": "宜黄, 01-06904, 7, 南12, 中, 本図, 宜黄, 朱, 裏, 19, B2",
+    "group": [
+        "main"
+    ],
+    "label": "宜黄",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28112,25506,35,67",
+    "objectID": "S12C(b)B2-01",
+    "sort": [
+        "01-06904"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28112,25506,35,67/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "宜黄"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

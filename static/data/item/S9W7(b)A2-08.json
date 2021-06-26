@@ -1,0 +1,41 @@
+{
+    "fulltext": "新繁, 01-05046, 6, 南9, 西7, 本図, 新繁, 朱, 裏, 19, A2",
+    "group": [
+        "main"
+    ],
+    "label": "新繁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12171,20392,60,40",
+    "objectID": "S9W7(b)A2-08",
+    "sort": [
+        "01-05046"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12171,20392,60,40/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "新繁"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

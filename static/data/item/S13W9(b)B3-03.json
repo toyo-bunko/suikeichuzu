@@ -1,0 +1,41 @@
+{
+    "fulltext": "臨池澤, 01-07940, 7, 南13, 西9, 本図, 臨池澤, 墨, 裏, 5, B3",
+    "group": [
+        "main"
+    ],
+    "label": "臨池澤",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7088,27038,46,112",
+    "objectID": "S13W9(b)B3-03",
+    "sort": [
+        "01-07940"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7088,27038,46,112/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "臨池澤"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

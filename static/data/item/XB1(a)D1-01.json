@@ -1,0 +1,41 @@
+{
+    "fulltext": "阿瓦舊都, 02-00262, 1, 下, 1, 西域, 阿瓦舊都, 朱, 表, 19, D1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "阿瓦舊都",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8848,5809,185,180",
+    "objectID": "XB1(a)D1-01",
+    "sort": [
+        "02-00262"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8848,5809,185,180/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "阿瓦舊都"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

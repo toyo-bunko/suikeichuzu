@@ -1,0 +1,41 @@
+{
+    "fulltext": "漠陽江, 01-09978, 8, 南18, 西3, 本図, 漠陽江, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "漠陽江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21190,34415,114,59",
+    "objectID": "S18W3(b)A2-02",
+    "sort": [
+        "01-09978"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21190,34415,114,59/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南18"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漠陽江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "高密, 00-04243, 4, 南3, 東2, 本図, 高密, 朱, 裏, 19, C2",
+    "group": [
+        "main"
+    ],
+    "label": "高密",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33010,11860,52,57",
+    "objectID": "S3E2(b)C2-04",
+    "sort": [
+        "00-04243"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33010,11860,52,57/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高密"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

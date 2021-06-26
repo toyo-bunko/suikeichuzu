@@ -1,0 +1,41 @@
+{
+    "fulltext": "鹽山, 00-02455, 3, 南1, 中, 本図, 鹽山, 朱, 表, 19, D2",
+    "group": [
+        "main"
+    ],
+    "label": "鹽山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29409,9208,62,33",
+    "objectID": "S1C(a)D2-02",
+    "sort": [
+        "00-02455"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29409,9208,62,33/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹽山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

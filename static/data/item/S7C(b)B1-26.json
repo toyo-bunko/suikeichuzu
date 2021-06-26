@@ -1,0 +1,41 @@
+{
+    "fulltext": "壽春城圖別詳, 01-01674, 5, 南7, 中, 本図, 壽春城圖別詳, 墨, 裏, 35, B1",
+    "group": [
+        "main"
+    ],
+    "label": "壽春城圖別詳",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28614,17831,103,80",
+    "objectID": "S7C(b)B1-26",
+    "sort": [
+        "01-01674"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28614,17831,103,80/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "壽春城圖別詳"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        35
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

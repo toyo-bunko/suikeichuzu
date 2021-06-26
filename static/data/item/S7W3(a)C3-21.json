@@ -1,0 +1,41 @@
+{
+    "fulltext": "本郡陸道所由, 01-02171, 5, 南7, 西3, 本図, 本郡陸道所由, 墨, 表, 0, C3",
+    "group": [
+        "main"
+    ],
+    "label": "本郡陸道所由",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22070,18137,63,75",
+    "objectID": "S7W3(a)C3-21",
+    "sort": [
+        "01-02171"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22070,18137,63,75/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "本郡陸道所由"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

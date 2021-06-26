@@ -1,0 +1,41 @@
+{
+    "fulltext": "白龍堆, 02-00040, 1, 上, 1, 西域, 白龍堆, 墨, 表, 0, B2",
+    "group": [
+        "saiiki"
+    ],
+    "label": "白龍堆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7975,1668,94,248",
+    "objectID": "XT1(a)B2-02",
+    "sort": [
+        "02-00040"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7975,1668,94,248/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "白龍堆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

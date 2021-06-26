@@ -1,0 +1,41 @@
+{
+    "fulltext": "空泠峽, 01-07023, 7, 南12, 西2, 本図, 空泠峽, 墨, 裏, 0, A2",
+    "group": [
+        "main"
+    ],
+    "label": "空泠峽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23464,25229,136,42",
+    "objectID": "S12W2(b)A2-02",
+    "sort": [
+        "01-07023"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23464,25229,136,42/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "空泠峽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

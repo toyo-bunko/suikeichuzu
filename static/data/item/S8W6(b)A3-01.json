@@ -1,0 +1,41 @@
+{
+    "fulltext": "武連河, 01-03555, 5, 南8, 西6, 本図, 武連河, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "武連河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14036,18659,43,87",
+    "objectID": "S8W6(b)A3-01",
+    "sort": [
+        "01-03555"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14036,18659,43,87/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武連河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

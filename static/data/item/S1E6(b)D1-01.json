@@ -1,0 +1,41 @@
+{
+    "fulltext": "鐵原, 00-02363, 3, 南1, 東6, 本図, 鐵原, 朱, 裏, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "鐵原",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=42571,9246,90,78",
+    "objectID": "S1E6(b)D1-01",
+    "sort": [
+        "00-02363"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/42571,9246,90,78/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "東6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鐵原"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

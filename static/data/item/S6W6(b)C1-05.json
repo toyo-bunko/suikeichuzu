@@ -1,0 +1,41 @@
+{
+    "fulltext": "青木川, 01-01301, 5, 南6, 西6, 本図, 青木川, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "青木川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14629,16625,35,89",
+    "objectID": "S6W6(b)C1-05",
+    "sort": [
+        "01-01301"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14629,16625,35,89/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "青木川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

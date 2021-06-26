@@ -1,0 +1,41 @@
+{
+    "fulltext": "廬陵, 01-06990, 7, 南12, 西1, 本図, 廬陵, 朱, 裏, 18, D1",
+    "group": [
+        "main"
+    ],
+    "label": "廬陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26249,26154,76,31",
+    "objectID": "S12W1(b)D1-04",
+    "sort": [
+        "01-06990"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26249,26154,76,31/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "廬陵"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

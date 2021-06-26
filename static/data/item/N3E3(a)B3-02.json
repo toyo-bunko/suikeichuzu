@@ -1,0 +1,41 @@
+{
+    "fulltext": "彰武臺門, 00-00184, 1, 北3, 東3, 本図, 彰武臺門, 朱, 表, 34, B3",
+    "group": [
+        "main"
+    ],
+    "label": "彰武臺門",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35809,2167,115,90",
+    "objectID": "N3E3(a)B3-02",
+    "sort": [
+        "00-00184"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35809,2167,115,90/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "彰武臺門"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        34
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

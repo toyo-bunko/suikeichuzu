@@ -1,0 +1,41 @@
+{
+    "fulltext": "思陽水, 00-02803, 3, 南1, 西2, 本図, 思陽水, 墨, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "思陽水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24872,7963,126,62",
+    "objectID": "S1W2(a)A2-01",
+    "sort": [
+        "00-02803"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24872,7963,126,62/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "思陽水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

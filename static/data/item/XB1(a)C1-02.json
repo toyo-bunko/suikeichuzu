@@ -1,0 +1,41 @@
+{
+    "fulltext": "潞江, 02-00249, 1, 下, 1, 西域, 潞江, 朱, 表, 1, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "潞江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=9079,5384,161,96",
+    "objectID": "XB1(a)C1-02",
+    "sort": [
+        "02-00249"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/9079,5384,161,96/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "下"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "潞江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

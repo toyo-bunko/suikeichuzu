@@ -1,0 +1,41 @@
+{
+    "fulltext": "温泉水, 01-01148, 5, 南6, 西5, 本図, 温泉水, 墨, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "温泉水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16188,16933,38,85",
+    "objectID": "S6W5(b)D3-11",
+    "sort": [
+        "01-01148"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16188,16933,38,85/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "温泉水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

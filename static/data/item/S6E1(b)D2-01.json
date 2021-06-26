@@ -1,0 +1,41 @@
+{
+    "fulltext": "盱眙, 01-00168, 5, 南6, 東1, 本図, 盱眙, 朱, 裏, 19, D2",
+    "group": [
+        "main"
+    ],
+    "label": "盱眙",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30725,17036,71,36",
+    "objectID": "S6E1(b)D2-01",
+    "sort": [
+        "01-00168"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30725,17036,71,36/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "盱眙"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

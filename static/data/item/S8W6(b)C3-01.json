@@ -1,0 +1,41 @@
+{
+    "fulltext": "鵝溪, 01-03574, 5, 南8, 西6, 本図, 鵝溪, 朱, 裏, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "鵝溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13996,19432,38,63",
+    "objectID": "S8W6(b)C3-01",
+    "sort": [
+        "01-03574"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13996,19432,38,63/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南8"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鵝溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

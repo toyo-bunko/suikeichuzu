@@ -1,0 +1,41 @@
+{
+    "fulltext": "龍門故瀆舊通雎水, 00-08234, 4, 南5, 西1, 本図, 龍門故瀆舊通雎水, 墨, 表, 2, A2",
+    "group": [
+        "main"
+    ],
+    "label": "龍門故瀆舊通雎水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27085,14311,45,269",
+    "objectID": "S5W1(a)A2-18",
+    "sort": [
+        "00-08234"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27085,14311,45,269/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龍門故瀆舊通雎水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

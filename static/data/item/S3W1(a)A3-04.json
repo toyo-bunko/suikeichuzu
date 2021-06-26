@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名黄塘泉, 00-04946, 4, 南3, 西1, 本図, 一名黄塘泉, 墨, 表, 5, A3",
+    "group": [
+        "main"
+    ],
+    "label": "一名黄塘泉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26749,10941,130,37",
+    "objectID": "S3W1(a)A3-04",
+    "sort": [
+        "00-04946"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26749,10941,130,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一名黄塘泉"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

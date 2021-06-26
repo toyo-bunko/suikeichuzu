@@ -1,0 +1,41 @@
+{
+    "fulltext": "江州土州, 01-09925, 8, 南17, 西6, 本図, 江州土州, 朱, 表, 24, C3",
+    "group": [
+        "main"
+    ],
+    "label": "江州土州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15070,33699,119,41",
+    "objectID": "S17W6(a)C3-01",
+    "sort": [
+        "01-09925"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15070,33699,119,41/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "江州土州"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        24
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

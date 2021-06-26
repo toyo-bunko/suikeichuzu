@@ -1,0 +1,41 @@
+{
+    "fulltext": "蔚, 00-02006, 2, 中, 西1, 本図, 蔚, 朱, 裏, 23, A1",
+    "group": [
+        "main"
+    ],
+    "label": "蔚",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26209,6502,37,33",
+    "objectID": "CW1(b)A1-14",
+    "sort": [
+        "00-02006"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26209,6502,37,33/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蔚"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

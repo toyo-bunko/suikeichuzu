@@ -1,0 +1,41 @@
+{
+    "fulltext": "羅溪, 01-08037, 7, 南14, 中, 本図, 羅溪, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "羅溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28836,28117,44,71",
+    "objectID": "S14C(b)A1-01",
+    "sort": [
+        "01-08037"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28836,28117,44,71/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羅溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

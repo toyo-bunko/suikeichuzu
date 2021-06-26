@@ -1,0 +1,41 @@
+{
+    "fulltext": "白石嶺, 01-10147, 8, 南20, 西4, 本図, 白石嶺, 朱, 裏, 4, D3",
+    "group": [
+        "main"
+    ],
+    "label": "白石嶺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18793,38533,80,41",
+    "objectID": "S20W4(b)D3-01",
+    "sort": [
+        "01-10147"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18793,38533,80,41/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南20"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白石嶺"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "井陘, 00-02794, 3, 南1, 西1, 本図, 井陘, 墨, 裏, 8, D3",
+    "group": [
+        "main"
+    ],
+    "label": "井陘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25700,8951,64,44",
+    "objectID": "S1W1(b)D3-01",
+    "sort": [
+        "00-02794"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25700,8951,64,44/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "井陘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

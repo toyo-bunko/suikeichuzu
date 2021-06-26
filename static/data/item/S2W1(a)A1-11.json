@@ -1,0 +1,44 @@
+{
+    "fulltext": "郻, 00-03542, 偏は「県」、旁は「おおざと」, 3, 南2, 西1, 本図, 郻, 墨, 表, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "郻",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27337,9471,39,40",
+    "objectID": "S2W1(a)A1-11",
+    "sort": [
+        "00-03542"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27337,9471,39,40/200,/0/default.jpg",
+    "備考": [
+        "偏は「県」、旁は「おおざと」"
+    ],
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "郻"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

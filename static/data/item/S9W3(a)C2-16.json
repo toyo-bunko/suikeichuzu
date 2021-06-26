@@ -1,0 +1,41 @@
+{
+    "fulltext": "栖霞樓, 01-04601, 6, 南9, 西3, 本図, 栖霞樓, 墨, 表, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "栖霞樓",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22608,21102,52,23",
+    "objectID": "S9W3(a)C2-16",
+    "sort": [
+        "01-04601"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22608,21102,52,23/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "栖霞樓"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

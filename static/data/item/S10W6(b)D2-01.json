@@ -1,0 +1,41 @@
+{
+    "fulltext": "洙溶溪, 01-06046, 6, 南10, 西6, 本図, 洙溶溪, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "洙溶溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14429,23065,37,85",
+    "objectID": "S10W6(b)D2-01",
+    "sort": [
+        "01-06046"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14429,23065,37,85/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洙溶溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

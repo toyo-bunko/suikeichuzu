@@ -1,0 +1,41 @@
+{
+    "fulltext": "南甯　, 01-09893, 8, 南17, 西5, 本図, 南甯　, 朱, 裏, 18, B2",
+    "group": [
+        "main"
+    ],
+    "label": "南甯　",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16595,33039,69,32",
+    "objectID": "S17W5(b)B2-01",
+    "sort": [
+        "01-09893"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16595,33039,69,32/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南甯　"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

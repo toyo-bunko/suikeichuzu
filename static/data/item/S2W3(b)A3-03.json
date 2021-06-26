@@ -1,0 +1,41 @@
+{
+    "fulltext": "圁水, 00-03972, 3, 南2, 西3, 本図, 圁水, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "圁水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20870,9463,57,26",
+    "objectID": "S2W3(b)A3-03",
+    "sort": [
+        "00-03972"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20870,9463,57,26/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "圁水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "雲溪橋, 00-06530, 4, 南4, 西1, 本図, 雲溪橋, 朱, 裏, 29, B1",
+    "group": [
+        "main"
+    ],
+    "label": "雲溪橋",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26257,12836,33,81",
+    "objectID": "S4W1(b)B1-32",
+    "sort": [
+        "00-06530"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26257,12836,33,81/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "雲溪橋"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

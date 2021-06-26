@@ -1,0 +1,41 @@
+{
+    "fulltext": "歸夔郷城, 01-04704, 6, 南9, 西3, 本図, 歸夔郷城, 墨, 裏, 16, A3",
+    "group": [
+        "main"
+    ],
+    "label": "歸夔郷城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20810,20225,50,47",
+    "objectID": "S9W3(b)A3-04",
+    "sort": [
+        "01-04704"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20810,20225,50,47/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "歸夔郷城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

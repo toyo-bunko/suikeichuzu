@@ -1,0 +1,41 @@
+{
+    "fulltext": "罕幵南溪水, 00-07696, 4, 南4, 西7, 本図, 罕幵南溪水, 墨, 裏, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "罕幵南溪水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11531,12781,79,108",
+    "objectID": "S4W7(b)B3-01",
+    "sort": [
+        "00-07696"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11531,12781,79,108/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "罕幵南溪水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

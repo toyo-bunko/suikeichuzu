@@ -1,0 +1,41 @@
+{
+    "fulltext": "澧陽, 01-05851, 6, 南10, 西3, 本図, 澧陽, 墨, 裏, 7, B1",
+    "group": [
+        "main"
+    ],
+    "label": "澧陽",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21571,22403,59,43",
+    "objectID": "S10W3(b)B1-07",
+    "sort": [
+        "01-05851"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21571,22403,59,43/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "澧陽"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

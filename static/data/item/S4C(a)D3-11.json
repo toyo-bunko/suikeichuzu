@@ -1,0 +1,41 @@
+{
+    "fulltext": "魚臺, 00-06167, 4, 南4, 中, 本図, 魚臺, 朱, 表, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "魚臺",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28879,13833,65,37",
+    "objectID": "S4C(a)D3-11",
+    "sort": [
+        "00-06167"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28879,13833,65,37/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "魚臺"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

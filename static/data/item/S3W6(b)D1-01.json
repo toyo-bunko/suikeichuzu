@@ -1,0 +1,41 @@
+{
+    "fulltext": "牛家河, 00-05654, 4, 南3, 西6, 本図, 牛家河, 朱, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "牛家河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14776,12212,77,38",
+    "objectID": "S3W6(b)D1-01",
+    "sort": [
+        "00-05654"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14776,12212,77,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "牛家河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

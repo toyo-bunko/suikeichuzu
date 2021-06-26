@@ -1,0 +1,41 @@
+{
+    "fulltext": "縣港河, 01-05441, 6, 南10, 東1, 本図, 縣港河, 朱, 裏, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "縣港河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30879,21931,92,34",
+    "objectID": "S10E1(b)A1-02",
+    "sort": [
+        "01-05441"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30879,21931,92,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "縣港河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

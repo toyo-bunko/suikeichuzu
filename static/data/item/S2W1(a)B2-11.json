@@ -1,0 +1,41 @@
+{
+    "fulltext": "旅津渡, 00-03593, 3, 南2, 西1, 本図, 旅津渡, 墨, 表, 29, B2",
+    "group": [
+        "main"
+    ],
+    "label": "旅津渡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26969,9960,98,31",
+    "objectID": "S2W1(a)B2-11",
+    "sort": [
+        "00-03593"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26969,9960,98,31/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "旅津渡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        29
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

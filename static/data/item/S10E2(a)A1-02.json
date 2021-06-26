@@ -1,0 +1,41 @@
+{
+    "fulltext": "山陰浦, 01-05235, 6, 南10, 東2, 本図, 山陰浦, 墨, 表, 1, A1",
+    "group": [
+        "main"
+    ],
+    "label": "山陰浦",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34280,21875,84,38",
+    "objectID": "S10E2(a)A1-02",
+    "sort": [
+        "01-05235"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34280,21875,84,38/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "山陰浦"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

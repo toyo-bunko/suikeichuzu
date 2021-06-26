@@ -1,0 +1,41 @@
+{
+    "fulltext": "金堂, 01-05034, 6, 南9, 西7, 本図, 金堂, 朱, 裏, 19, A1",
+    "group": [
+        "main"
+    ],
+    "label": "金堂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12478,20352,67,34",
+    "objectID": "S9W7(b)A1-06",
+    "sort": [
+        "01-05034"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12478,20352,67,34/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "金堂"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

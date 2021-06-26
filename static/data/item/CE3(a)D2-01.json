@@ -1,0 +1,41 @@
+{
+    "fulltext": "大鶴子島, 00-01530, 2, 中, 東3, 本図, 大鶴子島, 朱, 表, 0, D2",
+    "group": [
+        "main"
+    ],
+    "label": "大鶴子島",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=36487,7393,85,165",
+    "objectID": "CE3(a)D2-01",
+    "sort": [
+        "00-01530"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/36487,7393,85,165/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大鶴子島"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

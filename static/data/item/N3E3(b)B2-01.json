@@ -1,0 +1,41 @@
+{
+    "fulltext": "呼渾河, 00-00191, 1, 北3, 東3, 本図, 呼渾河, 朱, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "呼渾河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35122,2162,29,114",
+    "objectID": "N3E3(b)B2-01",
+    "sort": [
+        "00-00191"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35122,2162,29,114/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "呼渾河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

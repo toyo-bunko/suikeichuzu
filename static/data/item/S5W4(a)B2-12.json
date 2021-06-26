@@ -1,0 +1,41 @@
+{
+    "fulltext": "華陰, 00-09823, 4, 南5, 西4, 本図, 華陰, 墨, 表, 10, B2",
+    "group": [
+        "main"
+    ],
+    "label": "華陰",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20278,14600,50,29",
+    "objectID": "S5W4(a)B2-12",
+    "sort": [
+        "00-09823"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20278,14600,50,29/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "華陰"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "眅甸山, 00-00657, 2, 北1, 東5, 本図, 眅甸山, 朱, 裏, 4, D2",
+    "group": [
+        "main"
+    ],
+    "label": "眅甸山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=39777,5923,120,89",
+    "objectID": "N1E5(b)D2-01",
+    "sort": [
+        "00-00657"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/39777,5923,120,89/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "眅甸山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

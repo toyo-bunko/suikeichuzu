@@ -1,0 +1,41 @@
+{
+    "fulltext": "南池, 04-00094, 8, 0, 0, 洛陽城図, 南池, 墨, 裏, 5, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "南池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=2927,854,76,134",
+    "objectID": "CTLY(b)0-11",
+    "sort": [
+        "04-00094"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/2927,854,76,134/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "南池"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        0
+    ]
+}

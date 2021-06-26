@@ -1,0 +1,41 @@
+{
+    "fulltext": "故句町國, 01-09655, 8, 南16, 西7, 本図, 故句町國, 墨, 表, 8, C3",
+    "group": [
+        "main"
+    ],
+    "label": "故句町國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12783,31869,143,50",
+    "objectID": "S16W7(a)C3-01",
+    "sort": [
+        "01-09655"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12783,31869,143,50/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故句町國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        8
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

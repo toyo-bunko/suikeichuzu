@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏傷溪水, 01-05327, 6, 南10, 東2, 本図, 烏傷溪水, 墨, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "烏傷溪水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33495,22842,125,43",
+    "objectID": "S10E2(a)C3-06",
+    "sort": [
+        "01-05327"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33495,22842,125,43/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "烏傷溪水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "沙山鉄関谷, 02-00044, 1, 上, 1, 西域, 沙山鉄関谷, 墨, 表, 0, B3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "沙山鉄関谷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7198,1210,138,117",
+    "objectID": "XT1(a)B3-03",
+    "sort": [
+        "02-00044"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7198,1210,138,117/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "沙山鉄関谷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

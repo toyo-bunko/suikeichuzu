@@ -1,0 +1,41 @@
+{
+    "fulltext": "窳渾, 00-01418, 2, 北1, 西5, 本図, 窳渾, 墨, 裏, 10, A1",
+    "group": [
+        "main"
+    ],
+    "label": "窳渾",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17212,4930,103,64",
+    "objectID": "N1W5(b)A1-01",
+    "sort": [
+        "00-01418"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17212,4930,103,64/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "窳渾"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

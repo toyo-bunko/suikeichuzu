@@ -1,0 +1,41 @@
+{
+    "fulltext": "文登, 00-03166, 3, 南2, 東3, 本図, 文登, 朱, 表, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "文登",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35853,10568,91,57",
+    "objectID": "S2E3(a)D3-01",
+    "sort": [
+        "00-03166"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35853,10568,91,57/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "文登"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

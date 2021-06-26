@@ -1,0 +1,41 @@
+{
+    "fulltext": "一名柴汶, 00-04733, 4, 南3, 中, 本図, 一名柴汶, 墨, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "一名柴汶",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29605,12340,137,35",
+    "objectID": "S3C(a)D1-12",
+    "sort": [
+        "00-04733"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29605,12340,137,35/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "一名柴汶"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

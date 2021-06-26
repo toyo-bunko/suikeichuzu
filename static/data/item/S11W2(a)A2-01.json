@@ -1,0 +1,41 @@
+{
+    "fulltext": "幕阜山, 01-06416, 6, 南11, 西2, 本図, 幕阜山, 朱, 表, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "幕阜山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24664,23361,97,39",
+    "objectID": "S11W2(a)A2-01",
+    "sort": [
+        "01-06416"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24664,23361,97,39/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "幕阜山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

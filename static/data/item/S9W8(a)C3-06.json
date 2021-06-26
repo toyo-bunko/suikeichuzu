@@ -1,0 +1,41 @@
+{
+    "fulltext": "利慈池, 01-05164, 6, 南9, 西8, 本図, 利慈池, 墨, 表, 1, C3",
+    "group": [
+        "main"
+    ],
+    "label": "利慈池",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10403,21220,95,42",
+    "objectID": "S9W8(a)C3-06",
+    "sort": [
+        "01-05164"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10403,21220,95,42/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "利慈池"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

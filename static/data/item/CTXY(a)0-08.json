@@ -1,0 +1,41 @@
+{
+    "fulltext": "平魯城, 04-00563, 8, 0, 0, 襄陽城図, 平魯城, 墨, 表, 16, 0",
+    "group": [
+        "jouzu10_jouyou"
+    ],
+    "label": "平魯城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=813,472,228,105",
+    "objectID": "CTXY(a)0-08",
+    "sort": [
+        "04-00563"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu10_jouyou.tif/813,472,228,105/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "襄陽城図"
+    ],
+    "地名/記述": [
+        "平魯城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        0
+    ]
+}

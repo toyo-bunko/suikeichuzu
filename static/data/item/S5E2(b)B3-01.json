@@ -1,0 +1,41 @@
+{
+    "fulltext": "郁州, 00-07838, 4, 南5, 東2, 本図, 郁州, 墨, 裏, 6, B3",
+    "group": [
+        "main"
+    ],
+    "label": "郁州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32346,14483,71,39",
+    "objectID": "S5E2(b)B3-01",
+    "sort": [
+        "00-07838"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32346,14483,71,39/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "郁州"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        6
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

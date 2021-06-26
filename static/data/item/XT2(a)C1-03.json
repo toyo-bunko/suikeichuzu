@@ -1,0 +1,41 @@
+{
+    "fulltext": "無雷, 02-00205, 1, 上, 2, 西域, 無雷, 墨, 表, 7, C1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "無雷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4395,2344,142,75",
+    "objectID": "XT2(a)C1-03",
+    "sort": [
+        "02-00205"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/4395,2344,142,75/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        2
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "無雷"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

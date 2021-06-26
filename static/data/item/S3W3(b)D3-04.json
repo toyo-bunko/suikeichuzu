@@ -1,0 +1,41 @@
+{
+    "fulltext": "吉, 00-05449, 4, 南3, 西3, 本図, 吉, 朱, 裏, 23, D3",
+    "group": [
+        "main"
+    ],
+    "label": "吉",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21140,12259,38,35",
+    "objectID": "S3W3(b)D3-04",
+    "sort": [
+        "00-05449"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21140,12259,38,35/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "吉"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

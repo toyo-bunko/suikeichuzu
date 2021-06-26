@@ -1,0 +1,41 @@
+{
+    "fulltext": "漢改沛郡, 00-08077, 4, 南5, 中, 本図, 漢改沛郡, 墨, 表, 15, D3",
+    "group": [
+        "main"
+    ],
+    "label": "漢改沛郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29067,15307,135,38",
+    "objectID": "S5C(a)D3-03",
+    "sort": [
+        "00-08077"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29067,15307,135,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漢改沛郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        15
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

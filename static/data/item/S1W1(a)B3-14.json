@@ -1,0 +1,41 @@
+{
+    "fulltext": "中山康王陵, 00-02659, 3, 南1, 西1, 本図, 中山康王陵, 墨, 表, 16, B3",
+    "group": [
+        "main"
+    ],
+    "label": "中山康王陵",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26705,8382,73,49",
+    "objectID": "S1W1(a)B3-14",
+    "sort": [
+        "00-02659"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26705,8382,73,49/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "中山康王陵"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "東武強城, 00-08376, 4, 南5, 西1, 本図, 東武強城, 墨, 裏, 16, A3",
+    "group": [
+        "main"
+    ],
+    "label": "東武強城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25510,14111,61,50",
+    "objectID": "S5W1(b)A3-25",
+    "sort": [
+        "00-08376"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25510,14111,61,50/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東武強城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

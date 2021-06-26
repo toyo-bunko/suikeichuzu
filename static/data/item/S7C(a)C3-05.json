@@ -1,0 +1,41 @@
+{
+    "fulltext": "芍陂, 01-01612, 5, 南7, 中, 本図, 芍陂, 墨, 表, 5, C3",
+    "group": [
+        "main"
+    ],
+    "label": "芍陂",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28926,18185,47,93",
+    "objectID": "S7C(a)C3-05",
+    "sort": [
+        "01-01612"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28926,18185,47,93/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "芍陂"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

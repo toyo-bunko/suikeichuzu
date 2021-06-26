@@ -1,0 +1,41 @@
+{
+    "fulltext": "教山, 00-07096, 4, 南4, 西3, 本図, 教山, 墨, 表, 4, C2",
+    "group": [
+        "main"
+    ],
+    "label": "教山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22708,13316,64,28",
+    "objectID": "S4W3(a)C2-03",
+    "sort": [
+        "00-07096"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22708,13316,64,28/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "教山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

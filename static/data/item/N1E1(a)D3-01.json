@@ -1,0 +1,41 @@
+{
+    "fulltext": "冷溪, 00-00746, 2, 北1, 東1, 本図, 冷溪, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "冷溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31330,5875,71,41",
+    "objectID": "N1E1(a)D3-01",
+    "sort": [
+        "00-00746"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31330,5875,71,41/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "冷溪"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

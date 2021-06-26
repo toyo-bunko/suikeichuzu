@@ -1,0 +1,41 @@
+{
+    "fulltext": "隆慮山, 00-05191, 4, 南3, 西2, 本図, 隆慮山, 墨, 表, 4, D1",
+    "group": [
+        "main"
+    ],
+    "label": "隆慮山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25225,12108,77,31",
+    "objectID": "S3W2(a)D1-04",
+    "sort": [
+        "00-05191"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25225,12108,77,31/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "隆慮山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

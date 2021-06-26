@@ -1,0 +1,41 @@
+{
+    "fulltext": "沈渡溪, 01-06600, 6, 南11, 西3, 本図, 沈渡溪, 朱, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "沈渡溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21309,23810,43,97",
+    "objectID": "S11W3(b)B2-01",
+    "sort": [
+        "01-06600"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21309,23810,43,97/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "沈渡溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

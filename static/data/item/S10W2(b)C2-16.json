@@ -1,0 +1,41 @@
+{
+    "fulltext": "翁湖口, 01-05733, 6, 南10, 西2, 本図, 翁湖口, 墨, 裏, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "翁湖口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23621,22774,82,26",
+    "objectID": "S10W2(b)C2-16",
+    "sort": [
+        "01-05733"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23621,22774,82,26/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "翁湖口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

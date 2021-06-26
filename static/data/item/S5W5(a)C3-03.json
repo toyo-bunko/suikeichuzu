@@ -1,0 +1,41 @@
+{
+    "fulltext": "扶風, 00-10290, 4, 南5, 西5, 本図, 扶風, 朱, 表, 19, C3",
+    "group": [
+        "main"
+    ],
+    "label": "扶風",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17534,14961,72,39",
+    "objectID": "S5W5(a)C3-03",
+    "sort": [
+        "00-10290"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17534,14961,72,39/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "扶風"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

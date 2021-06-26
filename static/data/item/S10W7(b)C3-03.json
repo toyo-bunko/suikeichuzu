@@ -1,0 +1,41 @@
+{
+    "fulltext": "嘉定, 01-06093, 6, 南10, 西7, 本図, 嘉定, 朱, 裏, 18, C3",
+    "group": [
+        "main"
+    ],
+    "label": "嘉定",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11557,22544,59,36",
+    "objectID": "S10W7(b)C3-03",
+    "sort": [
+        "01-06093"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11557,22544,59,36/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "嘉定"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

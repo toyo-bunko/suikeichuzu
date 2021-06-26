@@ -1,0 +1,44 @@
+{
+    "fulltext": "大■山, 00-09116, ■＝【非の下に古】, 4, 南5, 西2, 本図, 大■山, 墨, 裏, 4, B2",
+    "group": [
+        "main"
+    ],
+    "label": "大■山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23742,14629,52,50",
+    "objectID": "S5W2(b)B2-26",
+    "sort": [
+        "00-09116"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23742,14629,52,50/200,/0/default.jpg",
+    "備考": [
+        "■＝【非の下に古】"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "大■山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

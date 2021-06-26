@@ -1,0 +1,41 @@
+{
+    "fulltext": "肥川, 01-07577, 7, 南13, 西2, 本図, 肥川, 墨, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "肥川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23559,27163,52,77",
+    "objectID": "S13W2(b)B2-02",
+    "sort": [
+        "01-07577"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23559,27163,52,77/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "肥川"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "洛架水口, 00-08268, 河ではない, 4, 南5, 西1, 本図, 洛架水口, 墨, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "洛架水口",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26682,14431,91,68",
+    "objectID": "S5W1(a)B3-02",
+    "sort": [
+        "00-08268"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26682,14431,91,68/200,/0/default.jpg",
+    "備考": [
+        "河ではない"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "洛架水口"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

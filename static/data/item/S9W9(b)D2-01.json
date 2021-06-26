@@ -1,0 +1,41 @@
+{
+    "fulltext": "扎穆楚河, 01-05206, 6, 南9, 西9, 本図, 扎穆楚河, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "扎穆楚河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7404,21523,121,40",
+    "objectID": "S9W9(b)D2-01",
+    "sort": [
+        "01-05206"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7404,21523,121,40/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "扎穆楚河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

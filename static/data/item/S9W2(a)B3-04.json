@@ -1,0 +1,41 @@
+{
+    "fulltext": "鄭公潭, 01-04406, 6, 南9, 西2, 本図, 鄭公潭, 墨, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "鄭公潭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24552,20798,44,69",
+    "objectID": "S9W2(a)B3-04",
+    "sort": [
+        "01-04406"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24552,20798,44,69/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鄭公潭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

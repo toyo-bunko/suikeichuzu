@@ -1,0 +1,41 @@
+{
+    "fulltext": "採銅川, 00-05511, 4, 南3, 西4, 本図, 採銅川, 朱, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "採銅川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19888,12251,103,44",
+    "objectID": "S3W4(a)D3-03",
+    "sort": [
+        "00-05511"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19888,12251,103,44/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "採銅川"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

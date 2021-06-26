@@ -1,0 +1,41 @@
+{
+    "fulltext": "南澗土州同, 01-07403, 7, 南12, 西9, 本図, 南澗土州同, 朱, 裏, 27, B3",
+    "group": [
+        "main"
+    ],
+    "label": "南澗土州同",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=6943,25266,63,89",
+    "objectID": "S12W9(b)B3-03",
+    "sort": [
+        "01-07403"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/6943,25266,63,89/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南12"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南澗土州同"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        27
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

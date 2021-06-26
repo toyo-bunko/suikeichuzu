@@ -1,0 +1,41 @@
+{
+    "fulltext": "世名死汝, 01-00459, 5, 南6, 西1, 本図, 世名死汝, 墨, 裏, 2, B3",
+    "group": [
+        "main"
+    ],
+    "label": "世名死汝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25609,16033,100,125",
+    "objectID": "S6W1(b)B3-08",
+    "sort": [
+        "01-00459"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25609,16033,100,125/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "世名死汝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

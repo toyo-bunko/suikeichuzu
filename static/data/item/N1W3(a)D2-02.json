@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏蘭穆倫河, 00-01329, 2, 北1, 西3, 本図, 烏蘭穆倫河, 朱, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "烏蘭穆倫河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22626,5918,43,151",
+    "objectID": "N1W3(a)D2-02",
+    "sort": [
+        "00-01329"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22626,5918,43,151/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "烏蘭穆倫河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

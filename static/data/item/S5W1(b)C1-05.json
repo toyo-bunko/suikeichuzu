@@ -1,0 +1,44 @@
+{
+    "fulltext": "袁滂袁騰袁光碑, 00-08455, 袁滂碑・袁騰碑・袁光碑の三つ, 4, 南5, 西1, 本図, 袁滂袁騰袁光碑, 墨, 裏, 16, C1",
+    "group": [
+        "main"
+    ],
+    "label": "袁滂袁騰袁光碑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26488,15062,60,106",
+    "objectID": "S5W1(b)C1-05",
+    "sort": [
+        "00-08455"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26488,15062,60,106/200,/0/default.jpg",
+    "備考": [
+        "袁滂碑・袁騰碑・袁光碑の三つ"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "袁滂袁騰袁光碑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

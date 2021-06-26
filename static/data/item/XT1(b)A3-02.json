@@ -1,0 +1,41 @@
+{
+    "fulltext": "東布魯特, 02-00095, 1, 上, 1, 西域, 東布魯特, 朱, 裏, 0, A3",
+    "group": [
+        "saiiki"
+    ],
+    "label": "東布魯特",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5110,910,166,177",
+    "objectID": "XT1(b)A3-02",
+    "sort": [
+        "02-00095"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5110,910,166,177/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "東布魯特"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "烏下江, 01-07739, 7, 南13, 西5, 本図, 烏下江, 朱, 表, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "烏下江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17875,27141,114,48",
+    "objectID": "S13W5(a)B2-02",
+    "sort": [
+        "01-07739"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17875,27141,114,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南13"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "烏下江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

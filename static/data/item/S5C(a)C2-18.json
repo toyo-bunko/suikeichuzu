@@ -1,0 +1,41 @@
+{
+    "fulltext": "蕭, 00-08051, 4, 南5, 中, 本図, 蕭, 朱, 表, 19, C2",
+    "group": [
+        "main"
+    ],
+    "label": "蕭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29367,15090,44,46",
+    "objectID": "S5C(a)C2-18",
+    "sort": [
+        "00-08051"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29367,15090,44,46/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "蕭"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

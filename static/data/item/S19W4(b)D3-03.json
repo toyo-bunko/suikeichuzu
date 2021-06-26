@@ -1,0 +1,41 @@
+{
+    "fulltext": "小英港, 01-10110, 8, 南19, 西4, 本図, 小英港, 朱, 裏, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "小英港",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18678,37088,49,90",
+    "objectID": "S19W4(b)D3-03",
+    "sort": [
+        "01-10110"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18678,37088,49,90/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南19"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "小英港"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

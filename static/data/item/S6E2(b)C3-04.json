@@ -1,0 +1,41 @@
+{
+    "fulltext": "九里蕩, 01-00036, 5, 南6, 東2, 本図, 九里蕩, 朱, 裏, 5, C3",
+    "group": [
+        "main"
+    ],
+    "label": "九里蕩",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32410,16545,44,103",
+    "objectID": "S6E2(b)C3-04",
+    "sort": [
+        "01-00036"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32410,16545,44,103/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "九里蕩"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "臨濟故狄, 00-03353, 3, 南2, 東1, 本図, 臨濟故狄, 墨, 裏, 9, D2",
+    "group": [
+        "main"
+    ],
+    "label": "臨濟故狄",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30563,10604,76,62",
+    "objectID": "S2E1(b)D2-10",
+    "sort": [
+        "00-03353"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30563,10604,76,62/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "臨濟故狄"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

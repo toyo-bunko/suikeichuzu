@@ -1,0 +1,41 @@
+{
+    "fulltext": "屈潭, 01-06447, 6, 南11, 西2, 本図, 屈潭, 墨, 裏, 5, A2",
+    "group": [
+        "main"
+    ],
+    "label": "屈潭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23495,23505,41,28",
+    "objectID": "S11W2(b)A2-07",
+    "sort": [
+        "01-06447"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23495,23505,41,28/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南11"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "屈潭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

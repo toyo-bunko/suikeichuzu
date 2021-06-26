@@ -1,0 +1,41 @@
+{
+    "fulltext": "磁, 00-05079, 4, 南3, 西1, 本図, 磁, 朱, 裏, 23, B2",
+    "group": [
+        "main"
+    ],
+    "label": "磁",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26040,11506,35,34",
+    "objectID": "S3W1(b)B2-06",
+    "sort": [
+        "00-05079"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26040,11506,35,34/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "磁"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

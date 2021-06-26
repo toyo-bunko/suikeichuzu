@@ -1,0 +1,41 @@
+{
+    "fulltext": "亦曰邗溟溝, 01-01494, 5, 南7, 東1, 本図, 亦曰邗溟溝, 墨, 表, 2, C1",
+    "group": [
+        "main"
+    ],
+    "label": "亦曰邗溟溝",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32136,18109,134,43",
+    "objectID": "S7E1(a)C1-10",
+    "sort": [
+        "01-01494"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32136,18109,134,43/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "亦曰邗溟溝"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

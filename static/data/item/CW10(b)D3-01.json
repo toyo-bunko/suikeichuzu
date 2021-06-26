@@ -1,0 +1,41 @@
+{
+    "fulltext": "欣坎堡, 00-02319, 2, 中, 西10, 本図, 欣坎堡, 朱, 裏, 18, D3",
+    "group": [
+        "main"
+    ],
+    "label": "欣坎堡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4857,7624,104,77",
+    "objectID": "CW10(b)D3-01",
+    "sort": [
+        "00-02319"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4857,7624,104,77/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西10"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "欣坎堡"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        18
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

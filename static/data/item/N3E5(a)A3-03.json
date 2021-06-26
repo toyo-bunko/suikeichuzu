@@ -1,0 +1,41 @@
+{
+    "fulltext": "高句麗, 00-00113, 1, 北3, 東5, 本図, 高句麗, 墨, 表, 0, A3",
+    "group": [
+        "main"
+    ],
+    "label": "高句麗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=40626,1926,104,37",
+    "objectID": "N3E5(a)A3-03",
+    "sort": [
+        "00-00113"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/40626,1926,104,37/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北3"
+    ],
+    "区画東西": [
+        "東5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "高句麗"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

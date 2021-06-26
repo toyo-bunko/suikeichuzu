@@ -1,0 +1,41 @@
+{
+    "fulltext": "牛頭山, 01-05231, 6, 南10, 東3, 本図, 牛頭山, 朱, 裏, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "牛頭山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=35552,23247,91,37",
+    "objectID": "S10E3(b)D1-03",
+    "sort": [
+        "01-05231"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/35552,23247,91,37/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "東3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "牛頭山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

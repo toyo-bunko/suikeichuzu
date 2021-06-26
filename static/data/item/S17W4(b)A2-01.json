@@ -1,0 +1,41 @@
+{
+    "fulltext": "句漏山, 01-09849, 8, 南17, 西4, 本図, 句漏山, 朱, 裏, 4, A2",
+    "group": [
+        "main"
+    ],
+    "label": "句漏山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19035,32766,98,52",
+    "objectID": "S17W4(b)A2-01",
+    "sort": [
+        "01-09849"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19035,32766,98,52/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南17"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "句漏山"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

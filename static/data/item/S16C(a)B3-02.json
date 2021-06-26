@@ -1,0 +1,41 @@
+{
+    "fulltext": "員水入海, 01-09326, 8, 南16, 中, 本図, 員水入海, 墨, 表, 1, B3",
+    "group": [
+        "main"
+    ],
+    "label": "員水入海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28964,31755,46,139",
+    "objectID": "S16C(a)B3-02",
+    "sort": [
+        "01-09326"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28964,31755,46,139/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "員水入海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "胡鼻山, 01-02280, 5, 南7, 西4, 本図, 胡鼻山, 墨, 表, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "胡鼻山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20171,17647,85,45",
+    "objectID": "S7W4(a)B2-01",
+    "sort": [
+        "01-02280"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20171,17647,85,45/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "胡鼻山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

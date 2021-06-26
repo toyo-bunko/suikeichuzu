@@ -1,0 +1,41 @@
+{
+    "fulltext": "龜陰田, 00-04695, 4, 南3, 中, 本図, 龜陰田, 墨, 表, 0, C2",
+    "group": [
+        "main"
+    ],
+    "label": "龜陰田",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29541,12015,81,38",
+    "objectID": "S3C(a)C2-11",
+    "sort": [
+        "00-04695"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29541,12015,81,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "龜陰田"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

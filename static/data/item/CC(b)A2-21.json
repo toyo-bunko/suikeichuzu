@@ -1,0 +1,41 @@
+{
+    "fulltext": "良郷, 00-01710, 2, 中, 中, 本図, 良郷, 朱, 裏, 19, A2",
+    "group": [
+        "main"
+    ],
+    "label": "良郷",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28229,6568,58,58",
+    "objectID": "CC(b)A2-21",
+    "sort": [
+        "00-01710"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28229,6568,58,58/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "良郷"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

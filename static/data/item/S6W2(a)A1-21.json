@@ -1,0 +1,41 @@
+{
+    "fulltext": "臨潁亭, 01-00535, 5, 南6, 西2, 本図, 臨潁亭, 墨, 表, 16, A1",
+    "group": [
+        "main"
+    ],
+    "label": "臨潁亭",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25328,15916,82,30",
+    "objectID": "S6W2(a)A1-21",
+    "sort": [
+        "01-00535"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25328,15916,82,30/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "臨潁亭"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

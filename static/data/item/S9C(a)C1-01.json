@@ -1,0 +1,41 @@
+{
+    "fulltext": "郎山, 01-04071, 6, 南9, 中, 本図, 郎山, 墨, 表, 4, C1",
+    "group": [
+        "main"
+    ],
+    "label": "郎山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29699,21060,58,41",
+    "objectID": "S9C(a)C1-01",
+    "sort": [
+        "01-04071"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29699,21060,58,41/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "郎山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

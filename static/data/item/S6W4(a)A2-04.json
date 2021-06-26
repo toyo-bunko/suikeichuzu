@@ -1,0 +1,41 @@
+{
+    "fulltext": "岔口河, 01-00916, 5, 南6, 西4, 本図, 岔口河, 朱, 表, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "岔口河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20058,15595,92,35",
+    "objectID": "S6W4(a)A2-04",
+    "sort": [
+        "01-00916"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20058,15595,92,35/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "岔口河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

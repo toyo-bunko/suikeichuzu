@@ -1,0 +1,41 @@
+{
+    "fulltext": "㶏水南瀆, 01-00571, 5, 南6, 西2, 本図, 㶏水南瀆, 墨, 表, 2, B1",
+    "group": [
+        "main"
+    ],
+    "label": "㶏水南瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25268,15945,128,47",
+    "objectID": "S6W2(a)B1-01",
+    "sort": [
+        "01-00571"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25268,15945,128,47/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "㶏水南瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

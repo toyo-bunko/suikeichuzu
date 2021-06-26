@@ -1,0 +1,41 @@
+{
+    "fulltext": "羅田, 01-04128, 6, 南9, 西1, 本図, 羅田, 朱, 表, 19, A2",
+    "group": [
+        "main"
+    ],
+    "label": "羅田",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27029,20402,60,35",
+    "objectID": "S9W1(a)A2-03",
+    "sort": [
+        "01-04128"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27029,20402,60,35/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "羅田"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

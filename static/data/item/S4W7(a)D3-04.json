@@ -1,0 +1,41 @@
+{
+    "fulltext": "渭水三源, 00-07671, 4, 南4, 西7, 本図, 渭水三源, 墨, 表, 1, D3",
+    "group": [
+        "main"
+    ],
+    "label": "渭水三源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=13039,13798,124,40",
+    "objectID": "S4W7(a)D3-04",
+    "sort": [
+        "00-07671"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/13039,13798,124,40/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "渭水三源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

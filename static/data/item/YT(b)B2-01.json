@@ -1,0 +1,41 @@
+{
+    "fulltext": "小猛賴, 03-00074, 8, 越南, 上, 越南, 小猛賴, 朱, 裏, 1, B2",
+    "group": [
+        "etsunan"
+    ],
+    "label": "小猛賴",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1120,1086,140,95",
+    "objectID": "YT(b)B2-01",
+    "sort": [
+        "03-00074"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1120,1086,140,95/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "越南"
+    ],
+    "区画東西": [
+        "上"
+    ],
+    "図": [
+        "越南"
+    ],
+    "地名/記述": [
+        "小猛賴"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

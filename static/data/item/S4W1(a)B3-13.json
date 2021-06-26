@@ -1,0 +1,41 @@
+{
+    "fulltext": "白馬瀆, 00-06377, 4, 南4, 西1, 本図, 白馬瀆, 墨, 表, 2, B3",
+    "group": [
+        "main"
+    ],
+    "label": "白馬瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26738,12960,92,88",
+    "objectID": "S4W1(a)B3-13",
+    "sort": [
+        "00-06377"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26738,12960,92,88/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "白馬瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "鄕邑, 00-02427, 3, 南1, 中, 本図, 鄕邑, 墨, 表, 0, B3",
+    "group": [
+        "main"
+    ],
+    "label": "鄕邑",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28955,8284,70,37",
+    "objectID": "S1C(a)B3-04",
+    "sort": [
+        "00-02427"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28955,8284,70,37/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鄕邑"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

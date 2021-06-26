@@ -1,0 +1,41 @@
+{
+    "fulltext": "東山, 01-01954, 5, 南7, 西2, 本図, 東山, 墨, 表, 4, C2",
+    "group": [
+        "main"
+    ],
+    "label": "東山",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24725,18144,70,40",
+    "objectID": "S7W2(a)C2-07",
+    "sort": [
+        "01-01954"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24725,18144,70,40/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東山"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        4
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

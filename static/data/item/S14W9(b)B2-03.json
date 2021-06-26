@@ -1,0 +1,41 @@
+{
+    "fulltext": "青蛉河, 01-08621, 7, 南14, 西9, 本図, 青蛉河, 朱, 裏, 1, B2",
+    "group": [
+        "main"
+    ],
+    "label": "青蛉河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=7584,28607,95,48",
+    "objectID": "S14W9(b)B2-03",
+    "sort": [
+        "01-08621"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/7584,28607,95,48/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "青蛉河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

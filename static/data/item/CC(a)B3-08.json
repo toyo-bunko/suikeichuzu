@@ -1,0 +1,41 @@
+{
+    "fulltext": "即沽河故瀆, 00-01654, 2, 中, 中, 本図, 即沽河故瀆, 墨, 表, 2, B3",
+    "group": [
+        "main"
+    ],
+    "label": "即沽河故瀆",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29149,7001,118,158",
+    "objectID": "CC(a)B3-08",
+    "sort": [
+        "00-01654"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29149,7001,118,158/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "即沽河故瀆"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        2
+    ],
+    "詳細区画": [
+        "B3"
+    ]
+}

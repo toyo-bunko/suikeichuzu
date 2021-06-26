@@ -1,0 +1,41 @@
+{
+    "fulltext": "陭氏關, 00-05317, 4, 南3, 西2, 本図, 陭氏關, 墨, 裏, 16, D3",
+    "group": [
+        "main"
+    ],
+    "label": "陭氏關",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23369,12368,98,47",
+    "objectID": "S3W2(b)D3-03",
+    "sort": [
+        "00-05317"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23369,12368,98,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "陭氏關"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

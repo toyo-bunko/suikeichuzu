@@ -1,0 +1,41 @@
+{
+    "fulltext": "駱馬湖, 00-07944, 4, 南5, 東1, 本図, 駱馬湖, 朱, 裏, 5, D1",
+    "group": [
+        "main"
+    ],
+    "label": "駱馬湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=31056,15166,42,90",
+    "objectID": "S5E1(b)D1-02",
+    "sort": [
+        "00-07944"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/31056,15166,42,90/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "駱馬湖"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

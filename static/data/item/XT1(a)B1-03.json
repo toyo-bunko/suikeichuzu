@@ -1,0 +1,41 @@
+{
+    "fulltext": "安西, 02-00036, 1, 上, 1, 西域, 安西, 朱, 表, 22, B1",
+    "group": [
+        "saiiki"
+    ],
+    "label": "安西",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8979,1827,132,61",
+    "objectID": "XT1(a)B1-03",
+    "sort": [
+        "02-00036"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8979,1827,132,61/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "上"
+    ],
+    "区画東西": [
+        1
+    ],
+    "図": [
+        "西域"
+    ],
+    "地名/記述": [
+        "安西"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

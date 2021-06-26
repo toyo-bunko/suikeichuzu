@@ -1,0 +1,44 @@
+{
+    "fulltext": "番汗, 00-00056, 『漢書』地理志にみえる。遼東郡の県名。, 1, 北4, 東4, 本図, 番汗, 墨, 裏, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "番汗",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=37226,1499,66,40",
+    "objectID": "N4E4(b)D3-03",
+    "sort": [
+        "00-00056"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/37226,1499,66,40/200,/0/default.jpg",
+    "備考": [
+        "『漢書』地理志にみえる。遼東郡の県名。"
+    ],
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北4"
+    ],
+    "区画東西": [
+        "東4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "番汗"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fulltext": "北魏故道郡治, 00-10697, 11か？, 4, 南5, 西6, 本図, 北魏故道郡治, 墨, 表, 7, D2",
+    "group": [
+        "main"
+    ],
+    "label": "北魏故道郡治",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15536,15501,93,53",
+    "objectID": "S5W6(a)D2-08",
+    "sort": [
+        "00-10697"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15536,15501,93,53/200,/0/default.jpg",
+    "備考": [
+        "11か？"
+    ],
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "北魏故道郡治"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

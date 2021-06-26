@@ -1,0 +1,41 @@
+{
+    "fulltext": "禹城, 00-03419, 3, 南2, 中, 本図, 禹城, 朱, 表, 19, D3",
+    "group": [
+        "main"
+    ],
+    "label": "禹城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28931,10790,72,36",
+    "objectID": "S2C(a)D3-05",
+    "sort": [
+        "00-03419"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28931,10790,72,36/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南2"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "禹城"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

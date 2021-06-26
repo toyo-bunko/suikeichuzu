@@ -1,0 +1,41 @@
+{
+    "fulltext": "石牛河, 01-06024, 6, 南10, 西6, 本図, 石牛河, 朱, 表, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "石牛河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15942,22937,31,86",
+    "objectID": "S10W6(a)D1-01",
+    "sort": [
+        "01-06024"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15942,22937,31,86/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南10"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "石牛河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

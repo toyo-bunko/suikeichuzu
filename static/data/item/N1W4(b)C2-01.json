@@ -1,0 +1,41 @@
+{
+    "fulltext": "西漢朔方郡, 00-01392, 2, 北1, 西4, 本図, 西漢朔方郡, 墨, 裏, 9, C2",
+    "group": [
+        "main"
+    ],
+    "label": "西漢朔方郡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19123,5394,189,46",
+    "objectID": "N1W4(b)C2-01",
+    "sort": [
+        "00-01392"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19123,5394,189,46/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "西漢朔方郡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

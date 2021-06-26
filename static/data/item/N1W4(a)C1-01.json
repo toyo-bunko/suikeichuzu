@@ -1,0 +1,41 @@
+{
+    "fulltext": "河陰, 00-01378, 2, 北1, 西4, 本図, 河陰, 墨, 表, 10, C1",
+    "group": [
+        "main"
+    ],
+    "label": "河陰",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20569,5448,57,56",
+    "objectID": "N1W4(a)C1-01",
+    "sort": [
+        "00-01378"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20569,5448,57,56/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "北1"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "河陰"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

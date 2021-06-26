@@ -1,0 +1,44 @@
+{
+    "fulltext": "荊州, 01-00793, 大四角の中に地名, 5, 南6, 西2, 本図, 荊州, 墨, 裏, 7, D3",
+    "group": [
+        "main"
+    ],
+    "label": "荊州",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23319,16917,37,21",
+    "objectID": "S6W2(b)D3-19",
+    "sort": [
+        "01-00793"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23319,16917,37,21/200,/0/default.jpg",
+    "備考": [
+        "大四角の中に地名"
+    ],
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "荊州"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        7
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

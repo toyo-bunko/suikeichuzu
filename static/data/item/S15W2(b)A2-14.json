@@ -1,0 +1,41 @@
+{
+    "fulltext": "莫溪, 01-08825, 7, 南15, 西2, 本図, 莫溪, 朱, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "莫溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23515,29751,72,47",
+    "objectID": "S15W2(b)A2-14",
+    "sort": [
+        "01-08825"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23515,29751,72,47/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "莫溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

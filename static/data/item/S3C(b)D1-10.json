@@ -1,0 +1,41 @@
+{
+    "fulltext": "東平國, 00-04892, 4, 南3, 中, 本図, 東平國, 墨, 裏, 15, D1",
+    "group": [
+        "main"
+    ],
+    "label": "東平國",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28759,12203,85,38",
+    "objectID": "S3C(b)D1-10",
+    "sort": [
+        "00-04892"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28759,12203,85,38/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "東平國"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        15
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "七龍江, 01-09589, 8, 南16, 西5, 本図, 七龍江, 朱, 裏, 1, C1",
+    "group": [
+        "main"
+    ],
+    "label": "七龍江",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17055,31931,50,84",
+    "objectID": "S16W5(b)C1-02",
+    "sort": [
+        "01-09589"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17055,31931,50,84/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "七龍江"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

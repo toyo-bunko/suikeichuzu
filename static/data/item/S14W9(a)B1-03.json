@@ -1,0 +1,41 @@
+{
+    "fulltext": "武定, 01-08581, 7, 南14, 西9, 本図, 武定, 朱, 表, 22, B1",
+    "group": [
+        "main"
+    ],
+    "label": "武定",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9083,28589,50,69",
+    "objectID": "S14W9(a)B1-03",
+    "sort": [
+        "01-08581"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9083,28589,50,69/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南14"
+    ],
+    "区画東西": [
+        "西9"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "武定"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        22
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "扶淇水, 00-05876, 4, 南4, 東2, 本図, 扶淇水, 墨, 裏, 1, A2",
+    "group": [
+        "main"
+    ],
+    "label": "扶淇水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32748,12645,117,36",
+    "objectID": "S4E2(b)A2-09",
+    "sort": [
+        "00-05876"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32748,12645,117,36/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "東2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "扶淇水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A2"
+    ]
+}

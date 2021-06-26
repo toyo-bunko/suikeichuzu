@@ -1,0 +1,41 @@
+{
+    "fulltext": "泿水入海, 01-09421, 8, 南16, 西2, 本図, 泿水入海, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "泿水入海",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23941,32509,146,58",
+    "objectID": "S16W2(b)D1-03",
+    "sort": [
+        "01-09421"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23941,32509,146,58/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        "南16"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "泿水入海"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

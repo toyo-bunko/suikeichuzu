@@ -1,0 +1,41 @@
+{
+    "fulltext": "化龍溪, 01-08742, 7, 南15, 中, 本図, 化龍溪, 朱, 裏, 1, A3",
+    "group": [
+        "main"
+    ],
+    "label": "化龍溪",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28025,29537,48,99",
+    "objectID": "S15C(b)A3-01",
+    "sort": [
+        "01-08742"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28025,29537,48,99/200,/0/default.jpg",
+    "冊": [
+        7
+    ],
+    "区画南北": [
+        "南15"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "化龍溪"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "A3"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "方湖, 04-00145, 8, 0, 0, 洛陽城図, 方湖, 墨, 裏, 5, 0",
+    "group": [
+        "jouzu03_rakuyou"
+    ],
+    "label": "方湖",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=3408,2867,147,76",
+    "objectID": "CTLY(b)0-62",
+    "sort": [
+        "04-00145"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/3408,2867,147,76/200,/0/default.jpg",
+    "冊": [
+        8
+    ],
+    "区画南北": [
+        0
+    ],
+    "区画東西": [
+        0
+    ],
+    "図": [
+        "洛陽城図"
+    ],
+    "地名/記述": [
+        "方湖"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        0
+    ]
+}

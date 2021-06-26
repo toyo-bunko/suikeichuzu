@@ -1,0 +1,41 @@
+{
+    "fulltext": "鎮原, 00-05585, 4, 南3, 西5, 本図, 鎮原, 朱, 裏, 19, D2",
+    "group": [
+        "main"
+    ],
+    "label": "鎮原",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=16697,12345,70,47",
+    "objectID": "S3W5(b)D2-01",
+    "sort": [
+        "00-05585"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/16697,12345,70,47/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鎮原"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        19
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "二脚跡, 00-02813, 3, 南1, 西2, 本図, 二脚跡, 墨, 表, 0, B1",
+    "group": [
+        "main"
+    ],
+    "label": "二脚跡",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25039,8390,92,26",
+    "objectID": "S1W2(a)B1-06",
+    "sort": [
+        "00-02813"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25039,8390,92,26/200,/0/default.jpg",
+    "冊": [
+        3
+    ],
+    "区画南北": [
+        "南1"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "二脚跡"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "八廟河, 01-01177, 5, 南6, 西6, 本図, 八廟河, 朱, 表, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "八廟河",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15842,15993,37,88",
+    "objectID": "S6W6(a)B1-03",
+    "sort": [
+        "01-01177"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15842,15993,37,88/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南6"
+    ],
+    "区画東西": [
+        "西6"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "八廟河"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

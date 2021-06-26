@@ -1,0 +1,41 @@
+{
+    "fulltext": "五柞宮, 00-10317, 4, 南5, 西5, 本図, 五柞宮, 墨, 表, 16, D1",
+    "group": [
+        "main"
+    ],
+    "label": "五柞宮",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18329,15355,32,52",
+    "objectID": "S5W5(a)D1-09",
+    "sort": [
+        "00-10317"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18329,15355,32,52/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "五柞宮"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        16
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

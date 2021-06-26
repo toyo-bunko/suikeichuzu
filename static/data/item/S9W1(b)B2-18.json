@@ -1,0 +1,41 @@
+{
+    "fulltext": "夏浦, 01-04252, 6, 南9, 西1, 本図, 夏浦, 墨, 裏, 0, B2",
+    "group": [
+        "main"
+    ],
+    "label": "夏浦",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26091,20913,22,43",
+    "objectID": "S9W1(b)B2-18",
+    "sort": [
+        "01-04252"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26091,20913,22,43/200,/0/default.jpg",
+    "冊": [
+        6
+    ],
+    "区画南北": [
+        "南9"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "夏浦"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

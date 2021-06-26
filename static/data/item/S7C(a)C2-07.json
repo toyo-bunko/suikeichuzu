@@ -1,0 +1,41 @@
+{
+    "fulltext": "死虎塘, 01-01606, 5, 南7, 中, 本図, 死虎塘, 墨, 表, 5, C2",
+    "group": [
+        "main"
+    ],
+    "label": "死虎塘",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29236,18037,64,92",
+    "objectID": "S7C(a)C2-07",
+    "sort": [
+        "01-01606"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29236,18037,64,92/200,/0/default.jpg",
+    "冊": [
+        5
+    ],
+    "区画南北": [
+        "南7"
+    ],
+    "区画東西": [
+        "中"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "死虎塘"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        5
+    ],
+    "詳細区画": [
+        "C2"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "渾源, 00-02088, 2, 中, 西2, 本図, 渾源, 朱, 表, 23, B1",
+    "group": [
+        "main"
+    ],
+    "label": "渾源",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25245,6697,55,56",
+    "objectID": "CW2(a)B1-04",
+    "sort": [
+        "00-02088"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25245,6697,55,56/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西2"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "渾源"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        23
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "吐谷渾中, 00-11010, 4, 南5, 西8, 本図, 吐谷渾中, 墨, 表, 0, C1",
+    "group": [
+        "main"
+    ],
+    "label": "吐谷渾中",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=11366,14918,45,157",
+    "objectID": "S5W8(a)C1-01",
+    "sort": [
+        "00-11010"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/11366,14918,45,157/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "吐谷渾中"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "C1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "漆水, 00-07404, 4, 南4, 西4, 本図, 漆水, 朱, 裏, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "漆水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19184,13818,44,61",
+    "objectID": "S4W4(b)D2-01",
+    "sort": [
+        "00-07404"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19184,13818,44,61/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "漆水"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

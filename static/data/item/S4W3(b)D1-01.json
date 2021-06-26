@@ -1,0 +1,41 @@
+{
+    "fulltext": "鹽水, 00-07239, 4, 南4, 西3, 本図, 鹽水, 墨, 裏, 1, D1",
+    "group": [
+        "main"
+    ],
+    "label": "鹽水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21827,13613,47,84",
+    "objectID": "S4W3(b)D1-01",
+    "sort": [
+        "00-07239"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21827,13613,47,84/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西3"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "鹽水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D1"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fulltext": "避暑山莊, 00-00476, 1, 北2, 東1, 本図, 避暑山莊, 朱, 裏, 0, D3",
+    "group": [
+        "main"
+    ],
+    "label": "避暑山莊",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30176,4368,128,43",
+    "objectID": "N2E1(b)D3-01",
+    "sort": [
+        "00-00476"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30176,4368,128,43/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "東1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "避暑山莊"
+    ],
+    "墨朱": [
+        "朱"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        0
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

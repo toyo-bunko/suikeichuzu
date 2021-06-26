@@ -1,0 +1,41 @@
+{
+    "fulltext": "廣武城, 00-05691, 4, 南3, 西7, 本図, 廣武城, 墨, 裏, 9, A1",
+    "group": [
+        "main"
+    ],
+    "label": "廣武城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=12457,11196,101,57",
+    "objectID": "S3W7(b)A1-01",
+    "sort": [
+        "00-05691"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/12457,11196,101,57/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南3"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "廣武城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        9
+    ],
+    "詳細区画": [
+        "A1"
+    ]
+}

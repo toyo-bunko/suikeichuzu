@@ -1,0 +1,41 @@
+{
+    "fulltext": "懐德城, 00-09976, 4, 南5, 西4, 本図, 懐德城, 墨, 裏, 10, B2",
+    "group": [
+        "main"
+    ],
+    "label": "懐德城",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19179,14381,70,60",
+    "objectID": "S5W4(b)B2-01",
+    "sort": [
+        "00-09976"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19179,14381,70,60/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西4"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "懐德城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        10
+    ],
+    "詳細区画": [
+        "B2"
+    ]
+}

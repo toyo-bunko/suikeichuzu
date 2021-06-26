@@ -1,0 +1,41 @@
+{
+    "fulltext": "徐水, 00-01985, 2, 中, 西1, 本図, 徐水, 墨, 表, 1, D2",
+    "group": [
+        "main"
+    ],
+    "label": "徐水",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27290,7697,31,55",
+    "objectID": "CW1(a)D2-10",
+    "sort": [
+        "00-01985"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27290,7697,31,55/200,/0/default.jpg",
+    "冊": [
+        2
+    ],
+    "区画南北": [
+        "中"
+    ],
+    "区画東西": [
+        "西1"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "徐水"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

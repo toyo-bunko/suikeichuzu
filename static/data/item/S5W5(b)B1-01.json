@@ -1,0 +1,41 @@
+{
+    "fulltext": "故縣川, 00-10402, 4, 南5, 西5, 本図, 故縣川, 墨, 裏, 1, B1",
+    "group": [
+        "main"
+    ],
+    "label": "故縣川",
+    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17294,14338,43,103",
+    "objectID": "S5W5(b)B1-01",
+    "sort": [
+        "00-10402"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17294,14338,43,103/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "区画南北": [
+        "南5"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "故縣川"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "詳細区画": [
+        "B1"
+    ]
+}
