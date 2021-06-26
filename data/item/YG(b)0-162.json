@@ -1,8 +1,7 @@
 {
-    "fulltext": "金沙江, 05-00369, 8, 0, 0, 禹貢山水澤地所在, 金沙江, 朱, 裏, 1, 0",
-    "group": [
-        "ukou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "金沙江, 05-00369, 地形, 禹貢山水澤地所在, 金沙江, 朱, 裏, 河川",
     "label": "金沙江",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=575,1704,77,151",
@@ -10,9 +9,12 @@
     "sort": [
         "05-00369"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/575,1704,77,151/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/575,1704,77,151/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         0

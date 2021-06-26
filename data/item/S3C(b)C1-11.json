@@ -1,18 +1,20 @@
 {
-    "fulltext": "濟北郡治, 00-04849, 4, 南3, 中, 本図, 濟北郡治, 墨, 裏, 9, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3C(b)C1-11.json",
+    "fulltext": "濟北郡治, 00-04849, 行政, 南3, 中, 本図, 濟北郡治, 墨, 裏, 州郡跡, C1",
     "label": "濟北郡治",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28501,11844,48,57",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28501,11844,48,57",
     "objectID": "S3C(b)C1-11",
     "sort": [
         "00-04849"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28501,11844,48,57/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28501,11844,48,57/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         9
+    ],
+    "記号説明": [
+        "州郡跡"
     ],
     "詳細区画": [
         "C1"

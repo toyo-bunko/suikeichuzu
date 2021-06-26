@@ -1,18 +1,20 @@
 {
-    "fulltext": "移山, 01-07730, 7, 南13, 西4, 本図, 移山, 墨, 裏, 4, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S13W4(b)D1-03.json",
+    "fulltext": "移山, 01-07730, 地形, 南13, 西4, 本図, 移山, 墨, 裏, 山谷, D1",
     "label": "移山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19456,27963,74,37",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19456,27963,74,37",
     "objectID": "S13W4(b)D1-03",
     "sort": [
         "01-07730"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19456,27963,74,37/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/19456,27963,74,37/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南13"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "D1"

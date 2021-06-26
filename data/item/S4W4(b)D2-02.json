@@ -1,18 +1,20 @@
 {
-    "fulltext": "同官, 00-07405, 4, 南4, 西4, 本図, 同官, 朱, 裏, 19, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4W4(b)D2-02.json",
+    "fulltext": "同官, 00-07405, 行政, 南4, 西4, 本図, 同官, 朱, 裏, 県名（清）, D2",
     "label": "同官",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19110,13812,68,42",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19110,13812,68,42",
     "objectID": "S4W4(b)D2-02",
     "sort": [
         "00-07405"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19110,13812,68,42/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/19110,13812,68,42/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "D2"

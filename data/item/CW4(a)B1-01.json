@@ -1,18 +1,20 @@
 {
-    "fulltext": "舒輝河, 00-02241, 2, 中, 西4, 本図, 舒輝河, 朱, 表, 1, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "舒輝河, 00-02241, 地形, 中, 西4, 本図, 舒輝河, 朱, 表, 河川, B1",
     "label": "舒輝河",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20551,6943,102,48",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20551,6943,102,48",
     "objectID": "CW4(a)B1-01",
     "sort": [
         "00-02241"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20551,6943,102,48/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/20551,6943,102,48/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "中"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "B1"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "雎陽城圖別詳, 00-08154, 4, 南5, 中, 本図, 雎陽城圖別詳, 墨, 裏, 35, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5C(b)B3-16.json",
+    "fulltext": "雎陽城圖別詳, 00-08154, 記述, 南5, 中, 本図, 雎陽城圖別詳, 墨, 裏, 別図参照, B3",
     "label": "雎陽城圖別詳",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27822,14606,77,97",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27822,14606,77,97",
     "objectID": "S5C(b)B3-16",
     "sort": [
         "00-08154"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27822,14606,77,97/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27822,14606,77,97/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "記述"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         35
+    ],
+    "記号説明": [
+        "別図参照"
     ],
     "詳細区画": [
         "B3"

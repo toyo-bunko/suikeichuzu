@@ -1,18 +1,20 @@
 {
-    "fulltext": "陽晉城, 00-06229, 4, 南4, 中, 本図, 陽晉城, 墨, 裏, 16, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4C(b)B3-05.json",
+    "fulltext": "陽晉城, 00-06229, 地点, 南4, 中, 本図, 陽晉城, 墨, 裏, 亭台跡, B3",
     "label": "陽晉城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27733,12891,93,43",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27733,12891,93,43",
     "objectID": "S4C(b)B3-05",
     "sort": [
         "00-06229"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27733,12891,93,43/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27733,12891,93,43/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "B3"

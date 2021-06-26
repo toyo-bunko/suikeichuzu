@@ -1,18 +1,20 @@
 {
-    "fulltext": "盛牆亭, 00-09708, 4, 南5, 西3, 本図, 盛牆亭, 墨, 裏, 16, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W3(b)C3-07.json",
+    "fulltext": "盛牆亭, 00-09708, 地点, 南5, 西3, 本図, 盛牆亭, 墨, 裏, 亭台跡, C3",
     "label": "盛牆亭",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20852,15091,82,57",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20852,15091,82,57",
     "objectID": "S5W3(b)C3-07",
     "sort": [
         "00-09708"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20852,15091,82,57/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/20852,15091,82,57/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "C3"

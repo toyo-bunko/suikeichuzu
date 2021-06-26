@@ -1,18 +1,20 @@
 {
-    "fulltext": "臨戎, 00-01412, 2, 北1, 西5, 本図, 臨戎, 墨, 表, 10, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "臨戎, 00-01412, 行政, 北1, 西5, 本図, 臨戎, 墨, 表, 県跡, C2",
     "label": "臨戎",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=17818,5677,104,59",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=17818,5677,104,59",
     "objectID": "N1W5(a)C2-02",
     "sort": [
         "00-01412"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/17818,5677,104,59/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/17818,5677,104,59/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "北1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         10
+    ],
+    "記号説明": [
+        "県跡"
     ],
     "詳細区画": [
         "C2"

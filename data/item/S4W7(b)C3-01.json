@@ -1,0 +1,46 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4W7(b)C3-01.json",
+    "fulltext": "南源, 00-07711, 地形, 南4, 西7, 本図, 南源, 墨, 裏, 河川, C3",
+    "label": "南源",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=11665,13262,90,48",
+    "objectID": "S4W7(b)C3-01",
+    "sort": [
+        "00-07711"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/11665,13262,90,48/200,/0/default.jpg",
+    "冊": [
+        4
+    ],
+    "分類": [
+        "地形"
+    ],
+    "区画南北": [
+        "南4"
+    ],
+    "区画東西": [
+        "西7"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "南源"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        1
+    ],
+    "記号説明": [
+        "河川"
+    ],
+    "詳細区画": [
+        "C3"
+    ]
+}

@@ -1,21 +1,23 @@
 {
-    "fulltext": "漂楡邑, 00-01663, 旧の城邑名, 2, 中, 中, 本図, 漂楡邑, 墨, 表, 0, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "漂楡邑, 00-01663, 旧の城邑名, なし, 中, 中, 本図, 漂楡邑, 墨, 表, , D1",
     "label": "漂楡邑",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29817,7612,103,37",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29817,7612,103,37",
     "objectID": "CC(a)D1-02",
     "sort": [
         "00-01663"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29817,7612,103,37/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29817,7612,103,37/200,/0/default.jpg",
     "備考": [
         "旧の城邑名"
     ],
     "冊": [
         2
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "中"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D1"

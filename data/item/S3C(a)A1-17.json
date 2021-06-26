@@ -1,18 +1,20 @@
 {
-    "fulltext": "東平陵, 00-04612, 4, 南3, 中, 本図, 東平陵, 墨, 表, 9, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3C(a)A1-17.json",
+    "fulltext": "東平陵, 00-04612, 行政, 南3, 中, 本図, 東平陵, 墨, 表, 州郡跡, A1",
     "label": "東平陵",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29803,11274,62,28",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29803,11274,62,28",
     "objectID": "S3C(a)A1-17",
     "sort": [
         "00-04612"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29803,11274,62,28/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29803,11274,62,28/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         9
+    ],
+    "記号説明": [
+        "州郡跡"
     ],
     "詳細区画": [
         "A1"

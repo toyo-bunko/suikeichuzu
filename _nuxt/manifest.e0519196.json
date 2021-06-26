@@ -1,0 +1,12 @@
+{
+  "name": "水経注図",
+  "short_name": "水経注",
+  "description": "水経注図のプロトタイプシステムです。",
+  "icons": [],
+  "start_url": "/suikeichuzu/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}

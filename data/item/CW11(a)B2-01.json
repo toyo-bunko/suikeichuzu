@@ -1,18 +1,20 @@
 {
-    "fulltext": "伯七堡, 00-02324, 2, 中, 西11, 本図, 伯七堡, 朱, 表, 18, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "伯七堡, 00-02324, 行政, 中, 西11, 本図, 伯七堡, 朱, 表, 府名, B2",
     "label": "伯七堡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4146,6651,86,41",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=4146,6651,86,41",
     "objectID": "CW11(a)B2-01",
     "sort": [
         "00-02324"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4146,6651,86,41/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/4146,6651,86,41/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "中"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "B2"

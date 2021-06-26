@@ -1,18 +1,20 @@
 {
-    "fulltext": "三台湖, 01-04364, 6, 南9, 西2, 本図, 三台湖, 朱, 表, 5, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9W2(a)A3-04.json",
+    "fulltext": "三台湖, 01-04364, 地形, 南9, 西2, 本図, 三台湖, 朱, 表, 湖, A3",
     "label": "三台湖",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=24406,20440,79,23",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24406,20440,79,23",
     "objectID": "S9W2(a)A3-04",
     "sort": [
         "01-04364"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/24406,20440,79,23/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/24406,20440,79,23/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南9"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "A3"

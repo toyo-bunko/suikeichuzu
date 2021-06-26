@@ -1,18 +1,20 @@
 {
-    "fulltext": "王歩, 01-06335, 6, 南11, 西1, 本図, 王歩, 墨, 表, 16, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S11W1(a)B1-03.json",
+    "fulltext": "王歩, 01-06335, 地点, 南11, 西1, 本図, 王歩, 墨, 表, 亭台跡, B1",
     "label": "王歩",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27648,23784,54,18",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27648,23784,54,18",
     "objectID": "S11W1(a)B1-03",
     "sort": [
         "01-06335"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27648,23784,54,18/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27648,23784,54,18/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南11"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "B1"

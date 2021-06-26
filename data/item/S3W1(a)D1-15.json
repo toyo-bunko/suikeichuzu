@@ -1,21 +1,23 @@
 {
-    "fulltext": "觀成, 00-05022, 觀城縣, 4, 南3, 西1, 本図, 觀成, 朱, 表, 19, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3W1(a)D1-15.json",
+    "fulltext": "觀成, 00-05022, 觀城縣, 行政, 南3, 西1, 本図, 觀成, 朱, 表, 県名（清）, D1",
     "label": "觀成",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27351,12362,75,35",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27351,12362,75,35",
     "objectID": "S3W1(a)D1-15",
     "sort": [
         "00-05022"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27351,12362,75,35/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27351,12362,75,35/200,/0/default.jpg",
     "備考": [
         "觀城縣"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南3"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "D1"

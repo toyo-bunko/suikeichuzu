@@ -1,18 +1,20 @@
 {
-    "fulltext": "即黔艾山, 00-04279, 4, 南3, 東2, 本図, 即黔艾山, 墨, 裏, 4, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3E2(b)D1-11.json",
+    "fulltext": "即黔艾山, 00-04279, 地形, 南3, 東2, 本図, 即黔艾山, 墨, 裏, 山谷, D1",
     "label": "即黔艾山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33161,12351,119,36",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33161,12351,119,36",
     "objectID": "S3E2(b)D1-11",
     "sort": [
         "00-04279"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33161,12351,119,36/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/33161,12351,119,36/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "D1"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "大龍潭, 01-08514, 7, 南14, 西8, 本図, 大龍潭, 朱, 表, 5, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S14W8(a)D2-03.json",
+    "fulltext": "大龍潭, 01-08514, 地形, 南14, 西8, 本図, 大龍潭, 朱, 表, 湖, D2",
     "label": "大龍潭",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10855,29401,96,48",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=10855,29401,96,48",
     "objectID": "S14W8(a)D2-03",
     "sort": [
         "01-08514"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10855,29401,96,48/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/10855,29401,96,48/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南14"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "D2"

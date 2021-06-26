@@ -1,18 +1,20 @@
 {
-    "fulltext": "九關臺門, 00-00375, 1, 北2, 東2, 本図, 九關臺門, 朱, 表, 34, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "九關臺門, 00-00375, 地点, 北2, 東2, 本図, 九關臺門, 朱, 表, 長城門, A2",
     "label": "九關臺門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34166,3367,147,59",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=34166,3367,147,59",
     "objectID": "N2E2(a)A2-01",
     "sort": [
         "00-00375"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34166,3367,147,59/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/34166,3367,147,59/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "北2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         34
+    ],
+    "記号説明": [
+        "長城門"
     ],
     "詳細区画": [
         "A2"

@@ -1,21 +1,23 @@
 {
-    "fulltext": "㝠澤, 00-02344, 「冥澤」か？, 2, 中, 西12, 本図, 㝠澤, 墨, 表, 5, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "㝠澤, 00-02344, 「冥澤」か？, 地形, 中, 西12, 本図, 㝠澤, 墨, 表, 湖, A2",
     "label": "㝠澤",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=1570,6393,77,37",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=1570,6393,77,37",
     "objectID": "CW12(a)A2-01",
     "sort": [
         "00-02344"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/1570,6393,77,37/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/1570,6393,77,37/200,/0/default.jpg",
     "備考": [
         "「冥澤」か？"
     ],
     "冊": [
         2
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "中"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "A2"

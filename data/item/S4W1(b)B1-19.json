@@ -1,18 +1,20 @@
 {
-    "fulltext": "又名白馬濟, 00-06517, 4, 南4, 西1, 本図, 又名白馬濟, 墨, 裏, 0, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4W1(b)B1-19.json",
+    "fulltext": "又名白馬濟, 00-06517, なし, 南4, 西1, 本図, 又名白馬濟, 墨, 裏, , B1",
     "label": "又名白馬濟",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26423,12941,78,50",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26423,12941,78,50",
     "objectID": "S4W1(b)B1-19",
     "sort": [
         "00-06517"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26423,12941,78,50/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/26423,12941,78,50/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "B1"

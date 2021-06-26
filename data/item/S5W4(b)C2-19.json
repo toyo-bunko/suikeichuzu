@@ -1,21 +1,23 @@
 {
-    "fulltext": "昆明渠, 00-10053, 2か所あり, 4, 南5, 西4, 本図, 昆明渠, 墨, 裏, 2, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W4(b)C2-19.json",
+    "fulltext": "昆明渠, 00-10053, 2か所あり, 地形, 南5, 西4, 本図, 昆明渠, 墨, 裏, 故瀆, C2",
     "label": "昆明渠",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=19066,14909,32,78",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19066,14909,32,78",
     "objectID": "S5W4(b)C2-19",
     "sort": [
         "00-10053"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/19066,14909,32,78/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/19066,14909,32,78/200,/0/default.jpg",
     "備考": [
         "2か所あり"
     ],
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南5"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         2
+    ],
+    "記号説明": [
+        "故瀆"
     ],
     "詳細区画": [
         "C2"

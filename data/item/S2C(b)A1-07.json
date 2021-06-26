@@ -1,18 +1,20 @@
 {
-    "fulltext": "楊津溝水, 00-03428, 3, 南2, 中, 本図, 楊津溝水, 墨, 裏, 1, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2C(b)A1-07.json",
+    "fulltext": "楊津溝水, 00-03428, 地形, 南2, 中, 本図, 楊津溝水, 墨, 裏, 河川, A1",
     "label": "楊津溝水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28463,9319,60,105",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28463,9319,60,105",
     "objectID": "S2C(b)A1-07",
     "sort": [
         "00-03428"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28463,9319,60,105/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28463,9319,60,105/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "A1"

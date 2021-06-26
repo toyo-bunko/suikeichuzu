@@ -1,18 +1,20 @@
 {
-    "fulltext": "化龍溪, 01-08742, 7, 南15, 中, 本図, 化龍溪, 朱, 裏, 1, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S15C(b)A3-01.json",
+    "fulltext": "化龍溪, 01-08742, 地形, 南15, 中, 本図, 化龍溪, 朱, 裏, 河川, A3",
     "label": "化龍溪",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28025,29537,48,99",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28025,29537,48,99",
     "objectID": "S15C(b)A3-01",
     "sort": [
         "01-08742"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28025,29537,48,99/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28025,29537,48,99/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南15"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "A3"

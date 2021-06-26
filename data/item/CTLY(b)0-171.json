@@ -1,8 +1,7 @@
 {
-    "fulltext": "朱桁, 04-00254, 8, 0, 0, 洛陽城図, 朱桁, 墨, 裏, 0, 0",
-    "group": [
-        "jouzu03_rakuyou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "朱桁, 04-00254, なし, 洛陽城図, 朱桁, 墨, 裏, ",
     "label": "朱桁",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=674,930,120,50",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00254"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/674,930,120,50/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu03_rakuyou.tif/674,930,120,50/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         0

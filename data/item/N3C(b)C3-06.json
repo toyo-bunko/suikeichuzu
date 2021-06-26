@@ -1,18 +1,20 @@
 {
-    "fulltext": "池, 00-00249, 1, 北3, 中, 本図, 池, 墨, 裏, 5, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "池, 00-00249, 地形, 北3, 中, 本図, 池, 墨, 裏, 湖, C3",
     "label": "池",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27837,2649,57,52",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27837,2649,57,52",
     "objectID": "N3C(b)C3-06",
     "sort": [
         "00-00249"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27837,2649,57,52/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27837,2649,57,52/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "北3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "C3"

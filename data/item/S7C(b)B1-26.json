@@ -1,18 +1,20 @@
 {
-    "fulltext": "壽春城圖別詳, 01-01674, 5, 南7, 中, 本図, 壽春城圖別詳, 墨, 裏, 35, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7C(b)B1-26.json",
+    "fulltext": "壽春城圖別詳, 01-01674, 記述, 南7, 中, 本図, 壽春城圖別詳, 墨, 裏, 別図参照, B1",
     "label": "壽春城圖別詳",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28614,17831,103,80",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28614,17831,103,80",
     "objectID": "S7C(b)B1-26",
     "sort": [
         "01-01674"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28614,17831,103,80/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28614,17831,103,80/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "記述"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         35
+    ],
+    "記号説明": [
+        "別図参照"
     ],
     "詳細区画": [
         "B1"

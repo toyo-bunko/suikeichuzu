@@ -1,18 +1,20 @@
 {
-    "fulltext": "玉門關, 00-02337, 2, 中, 西11, 本図, 玉門關, 墨, 裏, 16, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "玉門關, 00-02337, 地点, 中, 西11, 本図, 玉門關, 墨, 裏, 亭台跡, A2",
     "label": "玉門關",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=2668,6546,99,63",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=2668,6546,99,63",
     "objectID": "CW11(b)A2-02",
     "sort": [
         "00-02337"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/2668,6546,99,63/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/2668,6546,99,63/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "中"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "A2"

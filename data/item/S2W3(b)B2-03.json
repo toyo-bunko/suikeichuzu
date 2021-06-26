@@ -1,18 +1,20 @@
 {
-    "fulltext": "呉堡, 00-03980, 3, 南2, 西3, 本図, 呉堡, 朱, 裏, 19, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2W3(b)B2-03.json",
+    "fulltext": "呉堡, 00-03980, 行政, 南2, 西3, 本図, 呉堡, 朱, 裏, 県名（清）, B2",
     "label": "呉堡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21136,9846,37,67",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21136,9846,37,67",
     "objectID": "S2W3(b)B2-03",
     "sort": [
         "00-03980"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21136,9846,37,67/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/21136,9846,37,67/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "B2"

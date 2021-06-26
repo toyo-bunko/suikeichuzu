@@ -1,18 +1,20 @@
 {
-    "fulltext": "武興城, 01-01206, 5, 南6, 西6, 本図, 武興城, 墨, 表, 6, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6W6(a)C3-06.json",
+    "fulltext": "武興城, 01-01206, 行政, 南6, 西6, 本図, 武興城, 墨, 表, 州名, C3",
     "label": "武興城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15143,16514,102,38",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15143,16514,102,38",
     "objectID": "S6W6(a)C3-06",
     "sort": [
         "01-01206"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15143,16514,102,38/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/15143,16514,102,38/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南6"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         6
+    ],
+    "記号説明": [
+        "州名"
     ],
     "詳細区画": [
         "C3"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "昌邑, 00-04221, 4, 南3, 東2, 本図, 昌邑, 朱, 裏, 19, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3E2(b)A3-05.json",
+    "fulltext": "昌邑, 00-04221, 行政, 南3, 東2, 本図, 昌邑, 朱, 裏, 県名（清）, A3",
     "label": "昌邑",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32397,11106,53,32",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=32397,11106,53,32",
     "objectID": "S3E2(b)A3-05",
     "sort": [
         "00-04221"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32397,11106,53,32/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/32397,11106,53,32/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "A3"

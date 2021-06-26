@@ -1,18 +1,20 @@
 {
-    "fulltext": "夷安澤, 00-04234, 4, 南3, 東2, 本図, 夷安澤, 墨, 裏, 5, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3E2(b)C1-04.json",
+    "fulltext": "夷安澤, 00-04234, 地形, 南3, 東2, 本図, 夷安澤, 墨, 裏, 湖, C1",
     "label": "夷安澤",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33112,11755,65,47",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33112,11755,65,47",
     "objectID": "S3E2(b)C1-04",
     "sort": [
         "00-04234"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33112,11755,65,47/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/33112,11755,65,47/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "C1"

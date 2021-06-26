@@ -1,18 +1,20 @@
 {
-    "fulltext": "即洧水邸閣, 00-08504, 4, 南5, 西1, 本図, 即洧水邸閣, 墨, 裏, 16, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W1(b)C3-23.json",
+    "fulltext": "即洧水邸閣, 00-08504, 地点, 南5, 西1, 本図, 即洧水邸閣, 墨, 裏, 亭台跡, C3",
     "label": "即洧水邸閣",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25609,15189,149,56",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25609,15189,149,56",
     "objectID": "S5W1(b)C3-23",
     "sort": [
         "00-08504"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25609,15189,149,56/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25609,15189,149,56/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "C3"

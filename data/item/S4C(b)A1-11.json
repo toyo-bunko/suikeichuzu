@@ -1,18 +1,20 @@
 {
-    "fulltext": "馬踏湖, 00-06179, 4, 南4, 中, 本図, 馬踏湖, 朱, 裏, 5, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4C(b)A1-11.json",
+    "fulltext": "馬踏湖, 00-06179, 地形, 南4, 中, 本図, 馬踏湖, 朱, 裏, 湖, A1",
     "label": "馬踏湖",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28615,12653,37,101",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28615,12653,37,101",
     "objectID": "S4C(b)A1-11",
     "sort": [
         "00-06179"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28615,12653,37,101/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28615,12653,37,101/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "A1"

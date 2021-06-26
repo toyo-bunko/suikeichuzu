@@ -1,18 +1,20 @@
 {
-    "fulltext": "永州, 01-07674, 7, 南13, 西3, 本図, 永州, 朱, 裏, 18, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S13W3(b)D1-06.json",
+    "fulltext": "永州, 01-07674, 行政, 南13, 西3, 本図, 永州, 朱, 裏, 府名, D1",
     "label": "永州",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21635,27690,60,32",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21635,27690,60,32",
     "objectID": "S13W3(b)D1-06",
     "sort": [
         "01-07674"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21635,27690,60,32/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/21635,27690,60,32/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南13"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "D1"

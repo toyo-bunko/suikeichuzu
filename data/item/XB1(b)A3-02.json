@@ -1,18 +1,20 @@
 {
-    "fulltext": "雪山, 02-00278, 1, 下, 1, 西域, 雪山, 朱, 裏, 4, A3",
-    "group": [
-        "saiiki"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "雪山, 02-00278, 地形, 下, 西域, 雪山, 朱, 裏, 山谷, A3",
     "label": "雪山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=5309,3232,85,142",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=5309,3232,85,142",
     "objectID": "XB1(b)A3-02",
     "sort": [
         "02-00278"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/5309,3232,85,142/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/5309,3232,85,142/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "下"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "A3"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "鎭康土州, 01-09308, 7, 南15, 西10, 本図, 鎭康土州, 朱, 裏, 24, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S15W10(b)D3-02.json",
+    "fulltext": "鎭康土州, 01-09308, 行政, 南15, 西10, 本図, 鎭康土州, 朱, 裏, 土州, D3",
     "label": "鎭康土州",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=4797,30821,88,77",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=4797,30821,88,77",
     "objectID": "S15W10(b)D3-02",
     "sort": [
         "01-09308"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/4797,30821,88,77/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/4797,30821,88,77/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南15"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         24
+    ],
+    "記号説明": [
+        "土州"
     ],
     "詳細区画": [
         "D3"

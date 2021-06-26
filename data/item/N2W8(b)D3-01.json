@@ -1,0 +1,46 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "流沙, 00-00635, 地形, 北2, 西8, 本図, 流沙, 墨, 裏, 湖, D3",
+    "label": "流沙",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9319,4334,74,43",
+    "objectID": "N2W8(b)D3-01",
+    "sort": [
+        "00-00635"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/9319,4334,74,43/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "分類": [
+        "地形"
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西8"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "流沙"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "裏"
+    ],
+    "記号": [
+        5
+    ],
+    "記号説明": [
+        "湖"
+    ],
+    "詳細区画": [
+        "D3"
+    ]
+}

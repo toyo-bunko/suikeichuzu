@@ -1,18 +1,20 @@
 {
-    "fulltext": "旅津渡, 00-03593, 3, 南2, 西1, 本図, 旅津渡, 墨, 表, 29, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2W1(a)B2-11.json",
+    "fulltext": "旅津渡, 00-03593, 地点, 南2, 西1, 本図, 旅津渡, 墨, 表, 橋・津, B2",
     "label": "旅津渡",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26969,9960,98,31",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26969,9960,98,31",
     "objectID": "S2W1(a)B2-11",
     "sort": [
         "00-03593"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26969,9960,98,31/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/26969,9960,98,31/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         29
+    ],
+    "記号説明": [
+        "橋・津"
     ],
     "詳細区画": [
         "B2"

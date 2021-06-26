@@ -1,18 +1,20 @@
 {
-    "fulltext": "無口, 01-07178, 7, 南12, 西4, 本図, 無口, 墨, 裏, 1, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S12W4(b)D2-03.json",
+    "fulltext": "無口, 01-07178, 地形, 南12, 西4, 本図, 無口, 墨, 裏, 河川, D2",
     "label": "無口",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18987,26117,53,62",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18987,26117,53,62",
     "objectID": "S12W4(b)D2-03",
     "sort": [
         "01-07178"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18987,26117,53,62/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/18987,26117,53,62/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南12"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D2"

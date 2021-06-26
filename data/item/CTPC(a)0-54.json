@@ -1,8 +1,7 @@
 {
-    "fulltext": "西郭, 04-00454, 8, 0, 0, 平城図, 西郭, 墨, 表, 0, 0",
-    "group": [
-        "jouzu06_heijou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "西郭, 04-00454, なし, 平城図, 西郭, 墨, 表, ",
     "label": "西郭",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=334,1484,99,159",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00454"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu06_heijou.tif/334,1484,99,159/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/334,1484,99,159/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         0

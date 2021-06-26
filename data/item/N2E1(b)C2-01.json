@@ -1,18 +1,20 @@
 {
-    "fulltext": "墨里河, 00-00459, 1, 北2, 東1, 本図, 墨里河, 朱, 裏, 1, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "墨里河, 00-00459, 地形, 北2, 東1, 本図, 墨里河, 朱, 裏, 河川, C2",
     "label": "墨里河",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30481,3914,95,40",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30481,3914,95,40",
     "objectID": "N2E1(b)C2-01",
     "sort": [
         "00-00459"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30481,3914,95,40/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/30481,3914,95,40/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "北2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "C2"

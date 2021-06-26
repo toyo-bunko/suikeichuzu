@@ -1,18 +1,20 @@
 {
-    "fulltext": "中後所河, 00-00729, 2, 北1, 東2, 本図, 中後所河, 朱 , 裏, 1, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "中後所河, 00-00729, 地形, 北1, 東2, 本図, 中後所河, 朱, 裏, 河川, B2",
     "label": "中後所河",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=32733,5176,132,59",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=32733,5176,132,59",
     "objectID": "N1E2(b)B2-01",
     "sort": [
         "00-00729"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/32733,5176,132,59/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/32733,5176,132,59/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "北1"
@@ -27,13 +29,16 @@
         "中後所河"
     ],
     "墨朱": [
-        "朱 "
+        "朱"
     ],
     "表裏": [
         "裏"
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "B2"

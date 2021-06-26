@@ -1,18 +1,20 @@
 {
-    "fulltext": "竹山, 01-02299, 5, 南7, 西4, 本図, 竹山, 朱, 表, 19, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7W4(a)D1-04.json",
+    "fulltext": "竹山, 01-02299, 行政, 南7, 西4, 本図, 竹山, 朱, 表, 県名（清）, D1",
     "label": "竹山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=20451,18423,64,29",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20451,18423,64,29",
     "objectID": "S7W4(a)D1-04",
     "sort": [
         "01-02299"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/20451,18423,64,29/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/20451,18423,64,29/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "D1"

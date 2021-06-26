@@ -1,18 +1,20 @@
 {
-    "fulltext": "休甯, 01-05440, 6, 南10, 東1, 本図, 休甯, 朱, 裏, 19, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S10E1(b)A1-01.json",
+    "fulltext": "休甯, 01-05440, 行政, 南10, 東1, 本図, 休甯, 朱, 裏, 県名（清）, A1",
     "label": "休甯",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30878,21844,60,39",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30878,21844,60,39",
     "objectID": "S10E1(b)A1-01",
     "sort": [
         "01-05440"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30878,21844,60,39/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/30878,21844,60,39/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南10"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "A1"

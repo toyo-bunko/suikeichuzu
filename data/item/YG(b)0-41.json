@@ -1,18 +1,20 @@
 {
-    "fulltext": "壺口, 05-00247, 8, 0, 0, 禹貢山水澤地所在, 壺口, 墨, 裏, 10, 0",
-    "group": [
-        "ukou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "壺口, 05-00247, 行政, 禹貢山水澤地所在, 壺口, 墨, 裏, 県跡",
     "label": "壺口",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2119,710,96,61",
+    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2110,722,69,49",
     "objectID": "YG(b)0-41",
     "sort": [
         "05-00247"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2119,710,96,61/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2110,722,69,49/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         10
+    ],
+    "記号説明": [
+        "県跡"
     ],
     "詳細区画": [
         0

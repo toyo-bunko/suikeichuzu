@@ -1,18 +1,20 @@
 {
-    "fulltext": "天馬徑, 01-07896, 7, 南13, 西9, 本図, 天馬徑, 墨, 表, 4, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S13W9(a)A1-01.json",
+    "fulltext": "天馬徑, 01-07896, 地形, 南13, 西9, 本図, 天馬徑, 墨, 表, 山谷, A1",
     "label": "天馬徑",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9138,26475,88,41",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9138,26475,88,41",
     "objectID": "S13W9(a)A1-01",
     "sort": [
         "01-07896"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9138,26475,88,41/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/9138,26475,88,41/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南13"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "A1"

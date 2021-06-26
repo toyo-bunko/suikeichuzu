@@ -1,8 +1,7 @@
 {
-    "fulltext": "太尉坊, 04-00220, 8, 0, 0, 洛陽城図, 太尉坊, 墨, 裏, 16, 0",
-    "group": [
-        "jouzu03_rakuyou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "太尉坊, 04-00220, 地点, 洛陽城図, 太尉坊, 墨, 裏, 亭台跡",
     "label": "太尉坊",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=1558,2021,70,158",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00220"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/1558,2021,70,158/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu03_rakuyou.tif/1558,2021,70,158/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         0

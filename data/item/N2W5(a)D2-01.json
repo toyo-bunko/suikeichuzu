@@ -1,0 +1,46 @@
+{
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "長城, 00-00619, 地点, 北2, 西5, 本図, 長城, 墨, 表, 長城, D2",
+    "label": "長城",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=17848,4288,105,95",
+    "objectID": "N2W5(a)D2-01",
+    "sort": [
+        "00-00619"
+    ],
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/17848,4288,105,95/200,/0/default.jpg",
+    "冊": [
+        1
+    ],
+    "分類": [
+        "地点"
+    ],
+    "区画南北": [
+        "北2"
+    ],
+    "区画東西": [
+        "西5"
+    ],
+    "図": [
+        "本図"
+    ],
+    "地名/記述": [
+        "長城"
+    ],
+    "墨朱": [
+        "墨"
+    ],
+    "表裏": [
+        "表"
+    ],
+    "記号": [
+        28
+    ],
+    "記号説明": [
+        "長城"
+    ],
+    "詳細区画": [
+        "D2"
+    ]
+}

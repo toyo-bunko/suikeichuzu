@@ -1,18 +1,20 @@
 {
-    "fulltext": "北山, 00-10584, 4, 南5, 西6, 本図, 北山, 墨, 表, 4, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W6(a)B1-09.json",
+    "fulltext": "北山, 00-10584, 地形, 南5, 西6, 本図, 北山, 墨, 表, 山谷, B1",
     "label": "北山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15867,14566,62,36",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15867,14566,62,36",
     "objectID": "S5W6(a)B1-09",
     "sort": [
         "00-10584"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15867,14566,62,36/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/15867,14566,62,36/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "B1"

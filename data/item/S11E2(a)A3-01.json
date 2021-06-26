@@ -1,18 +1,20 @@
 {
-    "fulltext": "永康, 01-06182, 6, 南11, 東2, 本図, 永康, 墨, 表, 8, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S11E2(a)A3-01.json",
+    "fulltext": "永康, 01-06182, 行政, 南11, 東2, 本図, 永康, 墨, 表, 県名（北魏）, A3",
     "label": "永康",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33561,23358,70,44",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33561,23358,70,44",
     "objectID": "S11E2(a)A3-01",
     "sort": [
         "01-06182"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33561,23358,70,44/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/33561,23358,70,44/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南11"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         8
+    ],
+    "記号説明": [
+        "県名（北魏）"
     ],
     "詳細区画": [
         "A3"

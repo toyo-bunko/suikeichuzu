@@ -1,18 +1,20 @@
 {
-    "fulltext": "阿里, 02-00269, 1, 下, 1, 西域, 阿里, 朱, 裏, 0, A1",
-    "group": [
-        "saiiki"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "阿里, 02-00269, なし, 下, 西域, 阿里, 朱, 裏, , A1",
     "label": "阿里",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=6262,3705,85,147",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=6262,3705,85,147",
     "objectID": "XB1(b)A1-05",
     "sort": [
         "02-00269"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/6262,3705,85,147/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/6262,3705,85,147/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "下"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A1"

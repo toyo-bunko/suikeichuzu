@@ -1,18 +1,20 @@
 {
-    "fulltext": "海, 00-04210, 4, 南3, 東2, 本図, 海, 墨, 表, 0, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3E2(a)D3-01.json",
+    "fulltext": "海, 00-04210, なし, 南3, 東2, 本図, 海, 墨, 表, , D3",
     "label": "海",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=33519,12095,81,81",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33519,12095,81,81",
     "objectID": "S3E2(a)D3-01",
     "sort": [
         "00-04210"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/33519,12095,81,81/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/33519,12095,81,81/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D3"

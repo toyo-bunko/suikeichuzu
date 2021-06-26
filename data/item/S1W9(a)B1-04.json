@@ -1,18 +1,20 @@
 {
-    "fulltext": "雞山, 00-03077, 3, 南1, 西9, 本図, 雞山, 墨, 表, 4, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S1W9(a)B1-04.json",
+    "fulltext": "雞山, 00-03077, 地形, 南1, 西9, 本図, 雞山, 墨, 表, 山谷, B1",
     "label": "雞山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9052,8446,78,62",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9052,8446,78,62",
     "objectID": "S1W9(a)B1-04",
     "sort": [
         "00-03077"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9052,8446,78,62/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/9052,8446,78,62/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "B1"

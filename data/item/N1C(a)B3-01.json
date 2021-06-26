@@ -1,21 +1,23 @@
 {
-    "fulltext": "傂奚, 00-00844, 「傂」：注文は「亻」を欠く。楊疏は考証して「亻」を除く。, 2, 北1, 中, 本図, 傂奚, 墨, 表, 10, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "傂奚, 00-00844, 「傂」：注文は「亻」を欠く。楊疏は考証して「亻」を除く。, 行政, 北1, 中, 本図, 傂奚, 墨, 表, 県跡, B3",
     "label": "傂奚",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29082,5143,90,58",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29082,5143,90,58",
     "objectID": "N1C(a)B3-01",
     "sort": [
         "00-00844"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29082,5143,90,58/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29082,5143,90,58/200,/0/default.jpg",
     "備考": [
         "「傂」：注文は「亻」を欠く。楊疏は考証して「亻」を除く。"
     ],
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "北1"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         10
+    ],
+    "記号説明": [
+        "県跡"
     ],
     "詳細区画": [
         "B3"

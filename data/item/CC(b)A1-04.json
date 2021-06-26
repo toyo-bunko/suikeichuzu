@@ -1,21 +1,23 @@
 {
-    "fulltext": "順天, 00-01684, 凡例にない記号あり（首都）, 2, 中, 中, 本図, 順天, 朱, 裏, 0, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "順天, 00-01684, 凡例にない記号あり（首都）, なし, 中, 中, 本図, 順天, 朱, 裏, , A1",
     "label": "順天",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28458,6313,90,38",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28458,6313,90,38",
     "objectID": "CC(b)A1-04",
     "sort": [
         "00-01684"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28458,6313,90,38/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28458,6313,90,38/200,/0/default.jpg",
     "備考": [
         "凡例にない記号あり（首都）"
     ],
     "冊": [
         2
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "中"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A1"

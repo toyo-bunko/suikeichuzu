@@ -1,18 +1,20 @@
 {
-    "fulltext": "安山, 00-08165, 4, 南5, 中, 本図, 安山, 墨, 裏, 0, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5C(b)C1-03.json",
+    "fulltext": "安山, 00-08165, なし, 南5, 中, 本図, 安山, 墨, 裏, , C1",
     "label": "安山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28677,14896,78,39",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28677,14896,78,39",
     "objectID": "S5C(b)C1-03",
     "sort": [
         "00-08165"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28677,14896,78,39/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28677,14896,78,39/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "C1"

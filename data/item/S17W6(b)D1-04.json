@@ -1,18 +1,20 @@
 {
-    "fulltext": "侵離水, 01-09948, 8, 南17, 西6, 本図, 侵離水, 墨, 裏, 1, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S17W6(b)D1-04.json",
+    "fulltext": "侵離水, 01-09948, 地形, 南17, 西6, 本図, 侵離水, 墨, 裏, 河川, D1",
     "label": "侵離水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=14874,33889,48,112",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14874,33889,48,112",
     "objectID": "S17W6(b)D1-04",
     "sort": [
         "01-09948"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/14874,33889,48,112/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/14874,33889,48,112/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南17"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D1"

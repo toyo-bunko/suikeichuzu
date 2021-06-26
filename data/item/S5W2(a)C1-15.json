@@ -1,18 +1,20 @@
 {
-    "fulltext": "周鄭國徙此後韓國徙此, 00-08782, 4, 南5, 西2, 本図, 周鄭國徙此後韓國徙此, 墨, 表, 10, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W2(a)C1-15.json",
+    "fulltext": "周鄭國徙此後韓國徙此, 00-08782, 行政, 南5, 西2, 本図, 周鄭國徙此後韓國徙此, 墨, 表, 県跡, C1",
     "label": "周鄭國徙此後韓國徙此",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25079,14841,83,67",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25079,14841,83,67",
     "objectID": "S5W2(a)C1-15",
     "sort": [
         "00-08782"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25079,14841,83,67/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25079,14841,83,67/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         10
+    ],
+    "記号説明": [
+        "県跡"
     ],
     "詳細区画": [
         "C1"

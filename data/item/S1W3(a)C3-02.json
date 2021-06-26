@@ -1,18 +1,20 @@
 {
-    "fulltext": "陵水, 00-02908, 3, 南1, 西3, 本図, 陵水, 墨, 表, 1, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "陵水, 00-02908, 地形, 南1, 西3, 本図, 陵水, 墨, 表, 河川, C3",
     "label": "陵水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22146,8655,53,93",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22146,8655,53,93",
     "objectID": "S1W3(a)C3-02",
     "sort": [
         "00-02908"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22146,8655,53,93/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/22146,8655,53,93/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "C3"

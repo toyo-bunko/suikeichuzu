@@ -1,21 +1,23 @@
 {
-    "fulltext": "獨固門, 00-00529, 二城をもって門とみなす, 1, 北2, 中, 本図, 獨固門, 墨, 裏, 0, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "獨固門, 00-00529, 二城をもって門とみなす, なし, 北2, 中, 本図, 獨固門, 墨, 裏, , D3",
     "label": "獨固門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27760,4447,83,38",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27760,4447,83,38",
     "objectID": "N2C(b)D3-04",
     "sort": [
         "00-00529"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27760,4447,83,38/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27760,4447,83,38/200,/0/default.jpg",
     "備考": [
         "二城をもって門とみなす"
     ],
     "冊": [
         1
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "北2"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "D3"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "巴里坤, 02-00005, 1, 上, 1, 西域, 巴里坤, 朱, 表, 25, A1",
-    "group": [
-        "saiiki"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "巴里坤, 02-00005, 行政, 上, 西域, 巴里坤, 朱, 表, 土県・堡鎮, A1",
     "label": "巴里坤",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=8490,809,80,180",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=8490,809,80,180",
     "objectID": "XT1(a)A1-05",
     "sort": [
         "02-00005"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/8490,809,80,180/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/8490,809,80,180/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "上"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         25
+    ],
+    "記号説明": [
+        "土県・堡鎮"
     ],
     "詳細区画": [
         "A1"

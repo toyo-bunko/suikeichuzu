@@ -1,18 +1,20 @@
 {
-    "fulltext": "連, 01-08860, 7, 南15, 西3, 本図, 連, 朱, 表, 22, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S15W3(a)A2-02.json",
+    "fulltext": "連, 01-08860, 行政, 南15, 西3, 本図, 連, 朱, 表, 直隷州, A2",
     "label": "連",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22474,29728,42,40",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22474,29728,42,40",
     "objectID": "S15W3(a)A2-02",
     "sort": [
         "01-08860"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22474,29728,42,40/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/22474,29728,42,40/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南15"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         22
+    ],
+    "記号説明": [
+        "直隷州"
     ],
     "詳細区画": [
         "A2"

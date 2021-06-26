@@ -1,18 +1,20 @@
 {
-    "fulltext": "即下瞿灘, 01-03471, 5, 南8, 西4, 本図, 即下瞿灘, 墨, 裏, 1, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S8W4(b)D3-09.json",
+    "fulltext": "即下瞿灘, 01-03471, 地形, 南8, 西4, 本図, 即下瞿灘, 墨, 裏, 河川, D3",
     "label": "即下瞿灘",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=18802,20141,55,64",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18802,20141,55,64",
     "objectID": "S8W4(b)D3-09",
     "sort": [
         "01-03471"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/18802,20141,55,64/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/18802,20141,55,64/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南8"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D3"

@@ -1,18 +1,20 @@
 {
-    "fulltext": "西湖, 01-05530, 6, 南10, 中, 本図, 西湖, 朱, 裏, 1, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S10C(b)D1-10.json",
+    "fulltext": "西湖, 01-05530, 地形, 南10, 中, 本図, 西湖, 朱, 裏, 河川, D1",
     "label": "西湖",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28709,23293,70,31",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28709,23293,70,31",
     "objectID": "S10C(b)D1-10",
     "sort": [
         "01-05530"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28709,23293,70,31/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28709,23293,70,31/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南10"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D1"

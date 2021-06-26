@@ -1,18 +1,20 @@
 {
-    "fulltext": "魏寍, 01-08160, 7, 南14, 西2, 本図, 魏寍, 墨, 裏, 8, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S14W2(b)B2-05.json",
+    "fulltext": "魏寍, 01-08160, 行政, 南14, 西2, 本図, 魏寍, 墨, 裏, 県名（北魏）, B2",
     "label": "魏寍",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23479,28431,74,34",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23479,28431,74,34",
     "objectID": "S14W2(b)B2-05",
     "sort": [
         "01-08160"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23479,28431,74,34/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23479,28431,74,34/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南14"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         8
+    ],
+    "記号説明": [
+        "県名（北魏）"
     ],
     "詳細区画": [
         "B2"

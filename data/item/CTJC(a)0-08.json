@@ -1,8 +1,7 @@
 {
-    "fulltext": "西湖, 04-00470, 8, 0, 0, 薊城図, 西湖, 墨, 表, 5, 0",
-    "group": [
-        "jouzu07_keijou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "西湖, 04-00470, 地形, 薊城図, 西湖, 墨, 表, 湖",
     "label": "西湖",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu07_keijou/manifest.json/canvas/p1#xywh=391,983,96,148",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00470"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/391,983,96,148/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu07_keijou.tif/391,983,96,148/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         0

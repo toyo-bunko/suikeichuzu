@@ -1,21 +1,23 @@
 {
-    "fulltext": "夭池, 01-01369, 巻20漾水篇の該当箇所に「天池」or「夭池」の記述無し。疏文も。, 5, 南6, 西8, 本図, 夭池, 墨, 表, 5, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6W8(a)A2-02.json",
+    "fulltext": "夭池, 01-01369, 巻20漾水篇の該当箇所に「天池」or「夭池」の記述無し。疏文も。, 地形, 南6, 西8, 本図, 夭池, 墨, 表, 湖, A2",
     "label": "夭池",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10949,15635,43,49",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=10949,15635,43,49",
     "objectID": "S6W8(a)A2-02",
     "sort": [
         "01-01369"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10949,15635,43,49/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/10949,15635,43,49/200,/0/default.jpg",
     "備考": [
         "巻20漾水篇の該当箇所に「天池」or「夭池」の記述無し。疏文も。"
     ],
     "冊": [
         5
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南6"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "A2"

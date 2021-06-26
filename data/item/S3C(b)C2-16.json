@@ -1,18 +1,20 @@
 {
-    "fulltext": "曹子建墓, 00-04869, 4, 南3, 中, 本図, 曹子建墓, 墨, 裏, 16, C2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3C(b)C2-16.json",
+    "fulltext": "曹子建墓, 00-04869, 地点, 南3, 中, 本図, 曹子建墓, 墨, 裏, 亭台跡, C2",
     "label": "曹子建墓",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28140,11936,117,46",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28140,11936,117,46",
     "objectID": "S3C(b)C2-16",
     "sort": [
         "00-04869"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28140,11936,117,46/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28140,11936,117,46/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "C2"

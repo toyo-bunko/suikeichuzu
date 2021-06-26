@@ -1,18 +1,20 @@
 {
-    "fulltext": "漢嘗改為博山, 01-02129, 5, 南7, 西3, 本図, 漢嘗改為博山, 墨, 表, 8, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7W3(a)A3-02.json",
+    "fulltext": "漢嘗改為博山, 01-02129, 行政, 南7, 西3, 本図, 漢嘗改為博山, 墨, 表, 県名（北魏）, A3",
     "label": "漢嘗改為博山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22196,17142,97,70",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22196,17142,97,70",
     "objectID": "S7W3(a)A3-02",
     "sort": [
         "01-02129"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22196,17142,97,70/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/22196,17142,97,70/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         8
+    ],
+    "記号説明": [
+        "県名（北魏）"
     ],
     "詳細区画": [
         "A3"

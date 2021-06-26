@@ -1,18 +1,20 @@
 {
-    "fulltext": "美人廟, 01-03748, 6, 南9, 東2, 本図, 美人廟, 墨, 表, 16, B2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9E2(a)B2-09.json",
+    "fulltext": "美人廟, 01-03748, 地点, 南9, 東2, 本図, 美人廟, 墨, 表, 亭台跡, B2",
     "label": "美人廟",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34046,20971,85,28",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=34046,20971,85,28",
     "objectID": "S9E2(a)B2-09",
     "sort": [
         "01-03748"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34046,20971,85,28/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/34046,20971,85,28/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         "南9"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         16
+    ],
+    "記号説明": [
+        "亭台跡"
     ],
     "詳細区画": [
         "B2"

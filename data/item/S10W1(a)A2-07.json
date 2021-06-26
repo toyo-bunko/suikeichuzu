@@ -1,18 +1,20 @@
 {
-    "fulltext": "琵琶灣, 01-05546, 6, 南10, 西1, 本図, 琵琶灣, 墨, 表, 1, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S10W1(a)A2-07.json",
+    "fulltext": "琵琶灣, 01-05546, 地形, 南10, 西1, 本図, 琵琶灣, 墨, 表, 河川, A2",
     "label": "琵琶灣",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=26952,21802,67,29",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26952,21802,67,29",
     "objectID": "S10W1(a)A2-07",
     "sort": [
         "01-05546"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/26952,21802,67,29/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/26952,21802,67,29/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南10"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "A2"

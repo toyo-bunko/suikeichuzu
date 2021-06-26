@@ -1,18 +1,20 @@
 {
-    "fulltext": "甯朔, 00-03021, 3, 南1, 西6, 本図, 甯朔, 朱, 表, 18, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "甯朔, 00-03021, 行政, 南1, 西6, 本図, 甯朔, 朱, 表, 府名, D1",
     "label": "甯朔",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=15941,9215,25,52",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15941,9215,25,52",
     "objectID": "S1W6(a)D1-04",
     "sort": [
         "00-03021"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/15941,9215,25,52/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/15941,9215,25,52/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南1"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         18
+    ],
+    "記号説明": [
+        "府名"
     ],
     "詳細区画": [
         "D1"

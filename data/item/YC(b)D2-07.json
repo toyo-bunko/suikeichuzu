@@ -1,18 +1,20 @@
 {
-    "fulltext": "長嶺, 03-00252, 8, 越南, 中, 越南, 長嶺, 墨, 裏, 4, D2",
-    "group": [
-        "etsunan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "長嶺, 03-00252, 地形, 越南, 中, 越南, 長嶺, 墨, 裏, 山谷, D2",
     "label": "長嶺",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=1280,5535,101,69",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=1280,5535,101,69",
     "objectID": "YC(b)D2-07",
     "sort": [
         "03-00252"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/1280,5535,101,69/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif/1280,5535,101,69/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "越南"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         4
+    ],
+    "記号説明": [
+        "山谷"
     ],
     "詳細区画": [
         "D2"

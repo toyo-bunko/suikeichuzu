@@ -1,18 +1,20 @@
 {
-    "fulltext": "孫叔敖所造, 01-01716, 5, 南7, 中, 本図, 孫叔敖所造, 墨, 裏, 1, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7C(b)D1-02.json",
+    "fulltext": "孫叔敖所造, 01-01716, 地形, 南7, 中, 本図, 孫叔敖所造, 墨, 裏, 河川, D1",
     "label": "孫叔敖所造",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28705,18272,122,73",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28705,18272,122,73",
     "objectID": "S7C(b)D1-02",
     "sort": [
         "01-01716"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28705,18272,122,73/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28705,18272,122,73/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D1"

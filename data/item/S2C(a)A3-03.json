@@ -1,21 +1,23 @@
 {
-    "fulltext": "北魏滄洲治, 00-03378, 水経注では「滄州」, 3, 南2, 中, 本図, 北魏滄洲治, 墨, 表, 6, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2C(a)A3-03.json",
+    "fulltext": "北魏滄洲治, 00-03378, 水経注では「滄州」, 行政, 南2, 中, 本図, 北魏滄洲治, 墨, 表, 州名, A3",
     "label": "北魏滄洲治",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29119,9451,139,38",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29119,9451,139,38",
     "objectID": "S2C(a)A3-03",
     "sort": [
         "00-03378"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29119,9451,139,38/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29119,9451,139,38/200,/0/default.jpg",
     "備考": [
         "水経注では「滄州」"
     ],
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南2"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         6
+    ],
+    "記号説明": [
+        "州名"
     ],
     "詳細区画": [
         "A3"

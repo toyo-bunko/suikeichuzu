@@ -1,8 +1,7 @@
 {
-    "fulltext": "楊橋, 04-00264, 8, 0, 0, 長安城図, 楊橋, 墨, 表, 29, 0",
-    "group": [
-        "jouzu04_chouan"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "楊橋, 04-00264, 地点, 長安城図, 楊橋, 墨, 表, 橋・津",
     "label": "楊橋",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=3385,1936,155,88",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00264"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/3385,1936,155,88/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/3385,1936,155,88/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         29
+    ],
+    "記号説明": [
+        "橋・津"
     ],
     "詳細区画": [
         0

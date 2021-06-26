@@ -1,18 +1,20 @@
 {
-    "fulltext": "沙州, 00-07774, 4, 南4, 西8, 本図, 沙州, 墨, 裏, 9, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4W8(b)A2-08.json",
+    "fulltext": "沙州, 00-07774, 行政, 南4, 西8, 本図, 沙州, 墨, 裏, 州郡跡, A2",
     "label": "沙州",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=9604,12622,81,38",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9604,12622,81,38",
     "objectID": "S4W8(b)A2-08",
     "sort": [
         "00-07774"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/9604,12622,81,38/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/9604,12622,81,38/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         9
+    ],
+    "記号説明": [
+        "州郡跡"
     ],
     "詳細区画": [
         "A2"

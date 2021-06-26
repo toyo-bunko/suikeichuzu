@@ -1,18 +1,20 @@
 {
-    "fulltext": "戾陵堰, 00-01698, 2, 中, 中, 本図, 戾陵堰, 墨, 裏, 5, A2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "戾陵堰, 00-01698, 地形, 中, 中, 本図, 戾陵堰, 墨, 裏, 湖, A2",
     "label": "戾陵堰",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28208,6308,64,44",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28208,6308,64,44",
     "objectID": "CC(b)A2-09",
     "sort": [
         "00-01698"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28208,6308,64,44/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28208,6308,64,44/200,/0/default.jpg",
     "冊": [
         2
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "中"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "A2"

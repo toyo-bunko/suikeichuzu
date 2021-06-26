@@ -1,18 +1,20 @@
 {
-    "fulltext": "夏三鬷國, 00-06421, 4, 南4, 西1, 本図, 夏三鬷國, 墨, 表, 11, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S4W1(a)D1-03.json",
+    "fulltext": "夏三鬷國, 00-06421, 行政, 南4, 西1, 本図, 夏三鬷國, 墨, 表, 旧州治の郡県, D1",
     "label": "夏三鬷國",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27433,13650,93,34",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27433,13650,93,34",
     "objectID": "S4W1(a)D1-03",
     "sort": [
         "00-06421"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27433,13650,93,34/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27433,13650,93,34/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南4"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         11
+    ],
+    "記号説明": [
+        "旧州治の郡県"
     ],
     "詳細区画": [
         "D1"

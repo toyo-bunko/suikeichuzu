@@ -1,21 +1,23 @@
 {
-    "fulltext": "●, 00-00878, 「無終」と被り、文字が見えず, 2, 北1, 中, 本図, ●, 朱, 表, 23, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "●, 00-00878, 「無終」と被り、文字が見えず, 行政, 北1, 中, 本図, ●, 朱, 表, 散州, D1",
     "label": "●",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=29640,6059,55,37",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29640,6059,55,37",
     "objectID": "N1C(a)D1-10",
     "sort": [
         "00-00878"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/29640,6059,55,37/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/29640,6059,55,37/200,/0/default.jpg",
     "備考": [
         "「無終」と被り、文字が見えず"
     ],
     "冊": [
         2
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "北1"
@@ -37,6 +39,9 @@
     ],
     "記号": [
         23
+    ],
+    "記号説明": [
+        "散州"
     ],
     "詳細区画": [
         "D1"

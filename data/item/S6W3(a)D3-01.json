@@ -1,18 +1,20 @@
 {
-    "fulltext": "黄水, 01-00867, 5, 南6, 西3, 本図, 黄水, 墨, 表, 1, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S6W3(a)D3-01.json",
+    "fulltext": "黄水, 01-00867, 地形, 南6, 西3, 本図, 黄水, 墨, 表, 河川, D3",
     "label": "黄水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=21999,16705,79,48",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21999,16705,79,48",
     "objectID": "S6W3(a)D3-01",
     "sort": [
         "01-00867"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/21999,16705,79,48/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/21999,16705,79,48/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南6"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D3"

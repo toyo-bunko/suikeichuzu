@@ -1,18 +1,20 @@
 {
-    "fulltext": "英德, 01-08844, 7, 南15, 西2, 本図, 英德, 朱, 裏, 19, C3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S15W2(b)C3-04.json",
+    "fulltext": "英德, 01-08844, 行政, 南15, 西2, 本図, 英德, 朱, 裏, 県名（清）, C3",
     "label": "英德",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23290,30628,65,42",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23290,30628,65,42",
     "objectID": "S15W2(b)C3-04",
     "sort": [
         "01-08844"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23290,30628,65,42/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23290,30628,65,42/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南15"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         19
+    ],
+    "記号説明": [
+        "県名（清）"
     ],
     "詳細区画": [
         "C3"

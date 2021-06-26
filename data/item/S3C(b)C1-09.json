@@ -1,18 +1,20 @@
 {
-    "fulltext": "周首亭, 00-04847, 4, 南3, 中, 本図, 周首亭, 墨, 裏, 9, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3C(b)C1-09.json",
+    "fulltext": "周首亭, 00-04847, 行政, 南3, 中, 本図, 周首亭, 墨, 裏, 州郡跡, C1",
     "label": "周首亭",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=28568,11834,62,31",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28568,11834,62,31",
     "objectID": "S3C(b)C1-09",
     "sort": [
         "00-04847"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/28568,11834,62,31/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/28568,11834,62,31/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         9
+    ],
+    "記号説明": [
+        "州郡跡"
     ],
     "詳細区画": [
         "C1"

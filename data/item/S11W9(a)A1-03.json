@@ -1,18 +1,20 @@
 {
-    "fulltext": "即臺登, 01-06865, 6, 南11, 西9, 本図, 即臺登, 墨, 表, 10, A1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S11W9(a)A1-03.json",
+    "fulltext": "即臺登, 01-06865, 行政, 南11, 西9, 本図, 即臺登, 墨, 表, 県跡, A1",
     "label": "即臺登",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=8947,23728,111,45",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=8947,23728,111,45",
     "objectID": "S11W9(a)A1-03",
     "sort": [
         "01-06865"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/8947,23728,111,45/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/8947,23728,111,45/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南11"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         10
+    ],
+    "記号説明": [
+        "県跡"
     ],
     "詳細区画": [
         "A1"

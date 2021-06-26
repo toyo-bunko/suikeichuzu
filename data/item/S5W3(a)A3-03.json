@@ -1,18 +1,20 @@
 {
-    "fulltext": "閼流, 00-09355, 4, 南5, 西3, 本図, 閼流, 墨, 表, 0, A3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5W3(a)A3-03.json",
+    "fulltext": "閼流, 00-09355, なし, 南5, 西3, 本図, 閼流, 墨, 表, , A3",
     "label": "閼流",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=22189,14141,67,43",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22189,14141,67,43",
     "objectID": "S5W3(a)A3-03",
     "sort": [
         "00-09355"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/22189,14141,67,43/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/22189,14141,67,43/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "なし"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         0
+    ],
+    "記号説明": [
+        ""
     ],
     "詳細区画": [
         "A3"

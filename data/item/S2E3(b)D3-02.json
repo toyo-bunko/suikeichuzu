@@ -1,18 +1,20 @@
 {
-    "fulltext": "觀陽, 00-03187, 3, 南2, 東3, 本図, 觀陽, 墨, 裏, 8, D3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S2E3(b)D3-02.json",
+    "fulltext": "觀陽, 00-03187, 行政, 南2, 東3, 本図, 觀陽, 墨, 裏, 県名（北魏）, D3",
     "label": "觀陽",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=34651,10791,111,61",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=34651,10791,111,61",
     "objectID": "S2E3(b)D3-02",
     "sort": [
         "00-03187"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/34651,10791,111,61/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/34651,10791,111,61/200,/0/default.jpg",
     "冊": [
         3
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南2"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         8
+    ],
+    "記号説明": [
+        "県名（北魏）"
     ],
     "詳細区画": [
         "D3"

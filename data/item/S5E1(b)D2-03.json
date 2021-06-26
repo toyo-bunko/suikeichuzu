@@ -1,18 +1,20 @@
 {
-    "fulltext": "下邳國, 00-07953, 4, 南5, 東1, 本図, 下邳國, 墨, 裏, 7, D2",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S5E1(b)D2-03.json",
+    "fulltext": "下邳國, 00-07953, 行政, 南5, 東1, 本図, 下邳國, 墨, 裏, 郡名, D2",
     "label": "下邳國",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=30734,15268,51,46",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30734,15268,51,46",
     "objectID": "S5E1(b)D2-03",
     "sort": [
         "00-07953"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/30734,15268,51,46/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/30734,15268,51,46/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "行政"
     ],
     "区画南北": [
         "南5"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         7
+    ],
+    "記号説明": [
+        "郡名"
     ],
     "詳細区画": [
         "D2"

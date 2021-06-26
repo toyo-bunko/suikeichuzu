@@ -1,18 +1,20 @@
 {
-    "fulltext": "盤水, 01-09108, 7, 南15, 西8, 本図, 盤水, 墨, 表, 2, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S15W8(a)B3-02.json",
+    "fulltext": "盤水, 01-09108, 地形, 南15, 西8, 本図, 盤水, 墨, 表, 故瀆, B3",
     "label": "盤水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=10553,30067,110,47",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=10553,30067,110,47",
     "objectID": "S15W8(a)B3-02",
     "sort": [
         "01-09108"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/10553,30067,110,47/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/10553,30067,110,47/200,/0/default.jpg",
     "冊": [
         7
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南15"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         2
+    ],
+    "記号説明": [
+        "故瀆"
     ],
     "詳細区画": [
         "B3"

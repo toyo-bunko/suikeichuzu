@@ -1,8 +1,7 @@
 {
-    "fulltext": "西門, 04-00691, 8, 0, 0, 成都橋図, 西門, 墨, 表, 34, 0",
-    "group": [
-        "jouzu12_seito"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "西門, 04-00691, 地点, 成都橋図, 西門, 墨, 表, 長城門",
     "label": "西門",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=892,1281,144,100",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00691"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/892,1281,144,100/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/892,1281,144,100/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地点"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         34
+    ],
+    "記号説明": [
+        "長城門"
     ],
     "詳細区画": [
         0

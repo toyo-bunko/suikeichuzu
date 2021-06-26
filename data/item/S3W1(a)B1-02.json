@@ -1,18 +1,20 @@
 {
-    "fulltext": "大河故瀆, 00-04959, 4, 南3, 西1, 本図, 大河故瀆, 墨, 表, 2, B1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S3W1(a)B1-02.json",
+    "fulltext": "大河故瀆, 00-04959, 地形, 南3, 西1, 本図, 大河故瀆, 墨, 表, 故瀆, B1",
     "label": "大河故瀆",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=27355,11353,97,106",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27355,11353,97,106",
     "objectID": "S3W1(a)B1-02",
     "sort": [
         "00-04959"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/27355,11353,97,106/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/27355,11353,97,106/200,/0/default.jpg",
     "冊": [
         4
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         2
+    ],
+    "記号説明": [
+        "故瀆"
     ],
     "詳細区画": [
         "B1"

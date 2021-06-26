@@ -1,18 +1,20 @@
 {
-    "fulltext": "塗水, 01-04441, 6, 南9, 西2, 本図, 塗水, 墨, 表, 1, D1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S9W2(a)D1-02.json",
+    "fulltext": "塗水, 01-04441, 地形, 南9, 西2, 本図, 塗水, 墨, 表, 河川, D1",
     "label": "塗水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=25156,21552,87,47",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25156,21552,87,47",
     "objectID": "S9W2(a)D1-02",
     "sort": [
         "01-04441"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/25156,21552,87,47/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/25156,21552,87,47/200,/0/default.jpg",
     "冊": [
         6
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南9"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "D1"

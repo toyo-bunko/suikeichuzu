@@ -1,8 +1,7 @@
 {
-    "fulltext": "洹水枝津, 04-00046, 8, 0, 0, 鄴城図, 洹水枝津, 墨, 裏, 1, 0",
-    "group": [
-        "jouzu02_gyoujou"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "洹水枝津, 04-00046, 地形, 鄴城図, 洹水枝津, 墨, 裏, 河川",
     "label": "洹水枝津",
     "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
     "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=3501,2201,107,270",
@@ -10,9 +9,12 @@
     "sort": [
         "04-00046"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/3501,2201,107,270/200,/0/default.jpg",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu02_gyoujou.tif/3501,2201,107,270/200,/0/default.jpg",
     "冊": [
         8
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         0
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         0

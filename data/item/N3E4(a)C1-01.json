@@ -1,18 +1,20 @@
 {
-    "fulltext": "巴煙湖, 00-00156, 1, 北3, 東4, 本図, 巴煙湖, 朱, 表, 5, C1",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "巴煙湖, 00-00156, 地形, 北3, 東4, 本図, 巴煙湖, 朱, 表, 湖, C1",
     "label": "巴煙湖",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=38859,2351,92,83",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=38859,2351,92,83",
     "objectID": "N3E4(a)C1-01",
     "sort": [
         "00-00156"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/38859,2351,92,83/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/38859,2351,92,83/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "北3"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "C1"

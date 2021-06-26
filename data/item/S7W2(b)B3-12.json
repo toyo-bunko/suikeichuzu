@@ -1,18 +1,20 @@
 {
-    "fulltext": "淯水, 01-02053, 5, 南7, 西2, 本図, 淯水, 墨, 裏, 1, B3",
-    "group": [
-        "main"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/S7W2(b)B3-12.json",
+    "fulltext": "淯水, 01-02053, 地形, 南7, 西2, 本図, 淯水, 墨, 裏, 河川, B3",
     "label": "淯水",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1#xywh=23162,17670,89,50",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23162,17670,89,50",
     "objectID": "S7W2(b)B3-12",
     "sort": [
         "01-02053"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu.tif/23162,17670,89,50/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/23162,17670,89,50/200,/0/default.jpg",
     "冊": [
         5
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "南7"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         1
+    ],
+    "記号説明": [
+        "河川"
     ],
     "詳細区画": [
         "B3"

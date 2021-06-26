@@ -1,18 +1,20 @@
 {
-    "fulltext": "海, 02-00263, 1, 下, 1, 西域, 海, 墨, 表, 5, D2",
-    "group": [
-        "saiiki"
-    ],
+    "_updated": "2021-06-27",
+    "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/curation.json",
+    "fulltext": "海, 02-00263, 地形, 下, 西域, 海, 墨, 表, 湖, D2",
     "label": "海",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7758,5839,193,188",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=7758,5839,193,188",
     "objectID": "XB1(a)D2-01",
     "sort": [
         "02-00263"
     ],
-    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/7758,5839,193,188/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/7758,5839,193,188/200,/0/default.jpg",
     "冊": [
         1
+    ],
+    "分類": [
+        "地形"
     ],
     "区画南北": [
         "下"
@@ -34,6 +36,9 @@
     ],
     "記号": [
         5
+    ],
+    "記号説明": [
+        "湖"
     ],
     "詳細区画": [
         "D2"
