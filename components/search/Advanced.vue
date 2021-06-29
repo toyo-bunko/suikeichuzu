@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="grey lighten-5 pa-5">
 
     <v-row v-for="(config, key) in configs" :key="key" dense>
       <v-col cols="3">

@@ -57,6 +57,8 @@ export default class FullTextSearch extends Vue {
 
     if (!keywordStr) {
       keywordStr = ''
+    } else {
+      keywordStr = keywordStr.trim()
     }
 
     const keywords = this.$searchUtils.splitKeyword(keywordStr)

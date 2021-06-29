@@ -112,6 +112,13 @@ env.layout = [
     value: 'graph',
     icon: 'mdi-chart-bar',
     component: "search-layout-graph"
+  },
+  {
+    label: 'map',
+    value: 'map',
+    icon: 'mdi-map',
+    component: "custom-search-layout-map",
+    hidePagination: true
   }
 ]
 

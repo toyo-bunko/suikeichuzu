@@ -1,6 +1,9 @@
 // /plugins/logger.ts
 export class Utils {
   formatArrayValue(arr: string[], delimiter: string = ', '): any {
+    if (typeof arr !== "object"){
+      arr = [arr]
+    }
     if (arr == null) {
       return ''
     }

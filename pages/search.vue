@@ -352,6 +352,8 @@
 <script>
 import axios from 'axios'
 import FullTextSearch from '~/components/search/FullTextSearch.vue'
+import SearchAdvanced from '~/components/search/Advanced.vue'
+import CustomSearchLayoutTable from '~/components/custom/search/layout/Table.vue'
 
 const _ = require('lodash')
 
@@ -372,7 +374,9 @@ function removeDuplicates(inArray) {
 
 export default {
   components: {
-    FullTextSearch
+    FullTextSearch,
+    SearchAdvanced,
+    CustomSearchLayoutTable
   },
   data() {
     return {
@@ -425,7 +429,7 @@ export default {
 
   computed: {
     isPagination(){
-      return this.layout_ !== 'graph'
+      return !["graph", "map"].includes(this.layout_)
     },
     length() {
       return Math.ceil(this.total / this.size)
