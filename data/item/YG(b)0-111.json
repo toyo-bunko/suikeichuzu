@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
     "fulltext": "階, 05-00317, 行政, 禹貢山水澤地所在, 階, 朱, 裏, 郡名",
     "label": "階",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1422,1009,65,57",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=1422,1009,65,57",
     "objectID": "YG(b)0-111",
     "sort": [
         "05-00317"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/1422,1009,65,57/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1422,1009,65,57/200,/0/default.jpg",
     "冊": [
         8
     ],

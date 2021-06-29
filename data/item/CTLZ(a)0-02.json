@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
     "fulltext": "東郭, 04-00530, なし, 臨淄城図, 東郭, 墨, 表, ",
     "label": "東郭",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=1741,1589,92,196",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=1741,1589,92,196",
     "objectID": "CTLZ(a)0-02",
     "sort": [
         "04-00530"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/1741,1589,92,196/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu09_rinshi.tif/1741,1589,92,196/200,/0/default.jpg",
     "冊": [
         8
     ],

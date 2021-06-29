@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
     "fulltext": "蔡瑁宅, 04-00584, 地点, 襄陽城図, 蔡瑁宅, 墨, 表, 亭台跡",
     "label": "蔡瑁宅",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=2127,2551,101,198",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=2127,2551,101,198",
     "objectID": "CTXY(a)0-29",
     "sort": [
         "04-00584"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/2127,2551,101,198/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu10_jouyou.tif/2127,2551,101,198/200,/0/default.jpg",
     "冊": [
         8
     ],

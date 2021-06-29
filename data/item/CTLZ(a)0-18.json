@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
     "fulltext": "營邱, 04-00546, 地点, 臨淄城図, 營邱, 墨, 表, 亭台跡",
     "label": "營邱",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=924,1710,150,86",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=924,1710,150,86",
     "objectID": "CTLZ(a)0-18",
     "sort": [
         "04-00546"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/924,1710,150,86/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu09_rinshi.tif/924,1710,150,86/200,/0/default.jpg",
     "冊": [
         8
     ],

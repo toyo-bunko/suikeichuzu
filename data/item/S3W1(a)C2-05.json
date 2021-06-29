@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "魏武侯臺, 00-05000, 武侯台は別に16, 地点, 南3, 西1, 本図, 魏武侯臺, 墨, 表, 亭台跡, C2",
     "label": "魏武侯臺",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27067,11874,117,80",
     "objectID": "S3W1(a)C2-05",
     "sort": [

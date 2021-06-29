@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
     "fulltext": "杜預碑, 04-00600, 地点, 襄陽城図, 杜預碑, 墨, 表, 亭台跡",
     "label": "杜預碑",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1375,1440,80,176",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=1375,1440,80,176",
     "objectID": "CTXY(a)0-45",
     "sort": [
         "04-00600"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1375,1440,80,176/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu10_jouyou.tif/1375,1440,80,176/200,/0/default.jpg",
     "冊": [
         8
     ],

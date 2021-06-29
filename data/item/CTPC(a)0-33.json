@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu06_heijou.json",
     "fulltext": "東堂, 04-00433, なし, 平城図, 東堂, 墨, 表, ",
     "label": "東堂",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu06_heijou/manifest.json/canvas/p1#xywh=1261,1834,67,167",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu06_heijou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/canvas/p1#xywh=1261,1834,67,167",
     "objectID": "CTPC(a)0-33",
     "sort": [
         "04-00433"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu06_heijou.tif/1261,1834,67,167/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu06_heijou.tif/1261,1834,67,167/200,/0/default.jpg",
     "冊": [
         8
     ],

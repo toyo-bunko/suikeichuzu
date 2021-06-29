@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu08_rojou.json",
     "fulltext": "懸甕石硯車牀几席劍履, 04-00507, なし, 魯城図, 懸甕石硯車牀几席劍履, 墨, 表, ",
     "label": "懸甕石硯車牀几席劍履",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=737,1507,112,307",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu08_rojou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/canvas/p1#xywh=737,1507,112,307",
     "objectID": "CTLU(a)0-22",
     "sort": [
         "04-00507"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/737,1507,112,307/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif/737,1507,112,307/200,/0/default.jpg",
     "冊": [
         8
     ],

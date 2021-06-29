@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
     "fulltext": "複道, 04-00360, 「……」で表記される。, なし, 睢陽城図, 複道, 墨, 表, ",
     "label": "複道",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=1622,1249,144,95",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1622,1249,144,95",
     "objectID": "CTSU(a)0-16",
     "sort": [
         "04-00360"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/1622,1249,144,95/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif/1622,1249,144,95/200,/0/default.jpg",
     "備考": [
         "「……」で表記される。"
     ],

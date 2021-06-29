@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu01_rekijou.json",
     "fulltext": "流杯池, 04-00010, 地形, 歴城図, 流杯池, 墨, 表, 湖",
     "label": "流杯池",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1628,1322,97,176",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1628,1322,97,176",
     "objectID": "CTLI(a)0-10",
     "sort": [
         "04-00010"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1628,1322,97,176/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1628,1322,97,176/200,/0/default.jpg",
     "冊": [
         8
     ],

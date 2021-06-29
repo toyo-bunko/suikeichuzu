@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
     "fulltext": "越王無餘舊都, 04-00784, 地点, 山陰城図, 越王無餘舊都, 墨, 表, 亭台跡",
     "label": "越王無餘舊都",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1010,2945,230,131",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=1010,2945,230,131",
     "objectID": "CTSY(a)0-72",
     "sort": [
         "04-00784"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1010,2945,230,131/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/1010,2945,230,131/200,/0/default.jpg",
     "冊": [
         8
     ],

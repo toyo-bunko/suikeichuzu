@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
     "fulltext": "旅人橋, 04-00109, 地点, 洛陽城図, 旅人橋, 墨, 裏, 橋・津",
     "label": "旅人橋",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=3745,1464,104,173",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=3745,1464,104,173",
     "objectID": "CTLY(b)0-26",
     "sort": [
         "04-00109"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu03_rakuyou.tif/3745,1464,104,173/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/3745,1464,104,173/200,/0/default.jpg",
     "冊": [
         8
     ],

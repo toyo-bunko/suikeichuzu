@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu01_rekijou.json",
     "fulltext": "娥英廟, 04-00024, 地点, 歴城図, 娥英廟, 墨, 表, 亭台跡",
     "label": "娥英廟",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=118,2923,179,165",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=118,2923,179,165",
     "objectID": "CTLI(a)0-24",
     "sort": [
         "04-00024"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/118,2923,179,165/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/118,2923,179,165/200,/0/default.jpg",
     "冊": [
         8
     ],

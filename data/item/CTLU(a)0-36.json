@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu08_rojou.json",
     "fulltext": "本名禝門, 04-00521, 地点, 魯城図, 本名禝門, 墨, 表, 長城門",
     "label": "本名禝門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=1013,2419,250,83",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu08_rojou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/canvas/p1#xywh=1013,2419,250,83",
     "objectID": "CTLU(a)0-36",
     "sort": [
         "04-00521"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/1013,2419,250,83/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif/1013,2419,250,83/200,/0/default.jpg",
     "冊": [
         8
     ],

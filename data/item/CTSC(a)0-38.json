@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu11_jushun.json",
     "fulltext": "金城, 04-00662, なし, 寿春城図, 金城, 墨, 表, ",
     "label": "金城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=1070,1516,103,176",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu11_jushun/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1#xywh=1070,1516,103,176",
     "objectID": "CTSC(a)0-38",
     "sort": [
         "04-00662"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/1070,1516,103,176/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu11_jushun.tif/1070,1516,103,176/200,/0/default.jpg",
     "冊": [
         8
     ],
