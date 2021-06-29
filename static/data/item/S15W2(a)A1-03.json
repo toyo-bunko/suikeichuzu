@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "猿山, 01-08798, 地形, 南15, 西2, 本図, 猿山, 朱, 表, 山谷, A1",
     "label": "猿山",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25264,29875,72,52",
     "objectID": "S15W2(a)A1-03",
     "sort": [

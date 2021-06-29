@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "故西安, 01-05587, なし, 南10, 西1, 本図, 故西安, 墨, 裏, , C1",
     "label": "故西安",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26315,22847,95,46",
     "objectID": "S10W1(b)C1-02",
     "sort": [

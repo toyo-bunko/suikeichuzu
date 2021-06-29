@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "黑龍潭, 00-02943, 地形, 南1, 西3, 本図, 黑龍潭, 朱, 裏, 湖, D3",
     "label": "黑龍潭",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20840,8933,40,87",
     "objectID": "S1W3(b)D3-02",
     "sort": [

@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "漢末置南郷郡, 01-00875, 行政, 南6, 西3, 本図, 漢末置南郷郡, 墨, 表, 県跡, D3",
     "label": "漢末置南郷郡",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21944,17023,76,48",
     "objectID": "S6W3(a)D3-09",
     "sort": [

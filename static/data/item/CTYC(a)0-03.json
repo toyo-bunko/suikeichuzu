@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu02_gyoujou.json",
     "fulltext": "齊斗樓, 04-00051, 地点, 鄴城図, 齊斗樓, 墨, 表, 亭台跡",
     "label": "齊斗樓",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=2078,1000,210,98",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu02_gyoujou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1#xywh=2078,1000,210,98",
     "objectID": "CTYC(a)0-03",
     "sort": [
         "04-00051"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu02_gyoujou.tif/2078,1000,210,98/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/2078,1000,210,98/200,/0/default.jpg",
     "冊": [
         8
     ],

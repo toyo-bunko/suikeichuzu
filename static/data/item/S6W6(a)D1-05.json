@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "沔陽, 01-01213, 行政, 南6, 西6, 本図, 沔陽, 墨, 表, 県名（北魏）, D1",
     "label": "沔陽",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16016,16834,43,70",
     "objectID": "S6W6(a)D1-05",
     "sort": [

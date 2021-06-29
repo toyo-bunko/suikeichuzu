@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
     "fulltext": "周景王冢, 04-00117, 地点, 洛陽城図, 周景王冢, 墨, 裏, 亭台跡",
     "label": "周景王冢",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=2905,1354,132,123",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=2905,1354,132,123",
     "objectID": "CTLY(b)0-34",
     "sort": [
         "04-00117"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu03_rakuyou.tif/2905,1354,132,123/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/2905,1354,132,123/200,/0/default.jpg",
     "冊": [
         8
     ],

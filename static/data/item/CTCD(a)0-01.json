@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu12_seito.json",
     "fulltext": "昇僊橋, 04-00678, 地点, 成都橋図, 昇僊橋, 墨, 表, 橋・津",
     "label": "昇僊橋",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1155,400,217,100",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1155,400,217,100",
     "objectID": "CTCD(a)0-01",
     "sort": [
         "04-00678"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1155,400,217,100/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1155,400,217,100/200,/0/default.jpg",
     "冊": [
         8
     ],

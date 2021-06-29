@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu08_rojou.json",
     "fulltext": "夫子在西間, 04-00508, なし, 魯城図, 夫子在西間, 墨, 表, ",
     "label": "夫子在西間",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu08_rojou/manifest.json/canvas/p1#xywh=668,1511,81,297",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu08_rojou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/canvas/p1#xywh=668,1511,81,297",
     "objectID": "CTLU(a)0-23",
     "sort": [
         "04-00508"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu08_rojou.tif/668,1511,81,297/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif/668,1511,81,297/200,/0/default.jpg",
     "冊": [
         8
     ],

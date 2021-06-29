@@ -410,6 +410,7 @@ export default {
     'nuxt-i18n',
     // Simple usage
     // '@nuxtjs/amp',
+    '@nuxt/content'
   ],
 
   sitemap: {

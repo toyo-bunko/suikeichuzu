@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
     "fulltext": "大邳, 05-00090, 地形, 禹貢山水澤地所在, 大邳, 墨, 表, 山谷",
     "label": "大邳",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=2446,873,83,36",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=2446,873,83,36",
     "objectID": "YG(a)0-90",
     "sort": [
         "05-00090"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/2446,873,83,36/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/2446,873,83,36/200,/0/default.jpg",
     "冊": [
         8
     ],

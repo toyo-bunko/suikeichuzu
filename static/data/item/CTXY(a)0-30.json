@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
     "fulltext": "楊顒居下洄, 04-00585, なし, 襄陽城図, 楊顒居下洄, 墨, 表, ",
     "label": "楊顒居下洄",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1776,2648,355,95",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=1776,2648,355,95",
     "objectID": "CTXY(a)0-30",
     "sort": [
         "04-00585"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1776,2648,355,95/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu10_jouyou.tif/1776,2648,355,95/200,/0/default.jpg",
     "冊": [
         8
     ],

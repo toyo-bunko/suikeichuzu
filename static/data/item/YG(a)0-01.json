@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
     "fulltext": "咸興, 05-00001, 行政, 禹貢山水澤地所在, 咸興, 朱, 表, 郡名",
     "label": "咸興",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=4070,224,102,65",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=4070,224,102,65",
     "objectID": "YG(a)0-01",
     "sort": [
         "05-00001"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/4070,224,102,65/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/4070,224,102,65/200,/0/default.jpg",
     "冊": [
         8
     ],

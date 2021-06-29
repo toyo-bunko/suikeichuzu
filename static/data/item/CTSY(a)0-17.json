@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
     "fulltext": "白鹿山, 04-00729, 地形, 山陰城図, 白鹿山, 墨, 表, 山谷",
     "label": "白鹿山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1799,1858,193,77",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=1799,1858,193,77",
     "objectID": "CTSY(a)0-17",
     "sort": [
         "04-00729"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1799,1858,193,77/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/1799,1858,193,77/200,/0/default.jpg",
     "冊": [
         8
     ],

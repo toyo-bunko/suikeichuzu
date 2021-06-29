@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
     "fulltext": "郭, 04-00715, なし, 山陰城図, 郭, 墨, 表, ",
     "label": "郭",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=1777,1009,92,97",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=1777,1009,92,97",
     "objectID": "CTSY(a)0-03",
     "sort": [
         "04-00715"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/1777,1009,92,97/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/1777,1009,92,97/200,/0/default.jpg",
     "冊": [
         8
     ],

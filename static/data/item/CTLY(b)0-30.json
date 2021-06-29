@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
     "fulltext": "馬市, 04-00113, なし, 洛陽城図, 馬市, 墨, 裏, ",
     "label": "馬市",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu03_rakuyou/manifest.json/canvas/p1#xywh=3472,1337,121,78",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=3472,1337,121,78",
     "objectID": "CTLY(b)0-30",
     "sort": [
         "04-00113"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu03_rakuyou.tif/3472,1337,121,78/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/3472,1337,121,78/200,/0/default.jpg",
     "冊": [
         8
     ],

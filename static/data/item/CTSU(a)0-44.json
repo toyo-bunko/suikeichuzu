@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
     "fulltext": "梁孝王廣睢陽城七十里, 04-00388, なし, 睢陽城図, 梁孝王廣睢陽城七十里, 墨, 表, ",
     "label": "梁孝王廣睢陽城七十里",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=432,1859,218,250",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=432,1859,218,250",
     "objectID": "CTSU(a)0-44",
     "sort": [
         "04-00388"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/432,1859,218,250/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif/432,1859,218,250/200,/0/default.jpg",
     "冊": [
         8
     ],

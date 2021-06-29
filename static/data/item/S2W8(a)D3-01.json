@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "西都爾漢之舊和屯, 00-04132, 行政, 南2, 西8, 本図, 西都爾漢之舊和屯, 朱, 表, 府名, D3",
     "label": "西都爾漢之舊和屯",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=10472,10591,82,81",
     "objectID": "S2W8(a)D3-01",
     "sort": [

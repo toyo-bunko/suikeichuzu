@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
     "fulltext": "外郭即獻公所徙臨淄城世謂之虜城, 04-00550, なし, 臨淄城図, 外郭即獻公所徙臨淄城世謂之虜城, 墨, 表, ",
     "label": "外郭即獻公所徙臨淄城世謂之虜城",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu09_rinshi/manifest.json/canvas/p1#xywh=755,2292,576,173",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=755,2292,576,173",
     "objectID": "CTLZ(a)0-22",
     "sort": [
         "04-00550"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu09_rinshi.tif/755,2292,576,173/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu09_rinshi.tif/755,2292,576,173/200,/0/default.jpg",
     "冊": [
         8
     ],

@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
     "fulltext": "西門, 04-00386, 地点, 睢陽城図, 西門, 墨, 表, 長城門",
     "label": "西門",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=260,1514,129,77",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=260,1514,129,77",
     "objectID": "CTSU(a)0-42",
     "sort": [
         "04-00386"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/260,1514,129,77/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif/260,1514,129,77/200,/0/default.jpg",
     "冊": [
         8
     ],

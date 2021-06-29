@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
     "fulltext": "古防山, 04-00776, 地形, 山陰城図, 古防山, 墨, 表, 山谷",
     "label": "古防山",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu13_sanin/manifest.json/canvas/p1#xywh=932,2458,211,67",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=932,2458,211,67",
     "objectID": "CTSY(a)0-64",
     "sort": [
         "04-00776"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu13_sanin.tif/932,2458,211,67/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/932,2458,211,67/200,/0/default.jpg",
     "冊": [
         8
     ],

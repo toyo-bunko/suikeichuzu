@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu11_jushun.json",
     "fulltext": "曲水堂, 04-00647, なし, 寿春城図, 曲水堂, 墨, 表, ",
     "label": "曲水堂",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=545,784,204,86",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu11_jushun/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1#xywh=545,784,204,86",
     "objectID": "CTSC(a)0-23",
     "sort": [
         "04-00647"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/545,784,204,86/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu11_jushun.tif/545,784,204,86/200,/0/default.jpg",
     "冊": [
         8
     ],

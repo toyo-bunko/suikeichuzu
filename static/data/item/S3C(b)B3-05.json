@@ -1,9 +1,9 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "金城, 00-04833, 聊城(県の故城)、その境内に金城があり、周りを水が巡る。, なし, 南3, 中, 本図, 金城, 墨, 裏, , B3",
     "label": "金城",
-    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu/iiif/main/manifest.json",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27971,11437,30,33",
     "objectID": "S3C(b)B3-05",
     "sort": [

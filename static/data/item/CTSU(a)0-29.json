@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
     "fulltext": "晉梁王妃陵表, 04-00373, 地点, 睢陽城図, 晉梁王妃陵表, 墨, 表, 亭台跡",
     "label": "晉梁王妃陵表",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu05_suiyou/manifest.json/canvas/p1#xywh=796,1025,131,198",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=796,1025,131,198",
     "objectID": "CTSU(a)0-29",
     "sort": [
         "04-00373"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu05_suiyou.tif/796,1025,131,198/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif/796,1025,131,198/200,/0/default.jpg",
     "冊": [
         8
     ],

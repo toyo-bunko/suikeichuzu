@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
     "fulltext": "豬野, 05-00208, 地形, 禹貢山水澤地所在, 豬野, 墨, 裏, 湖",
     "label": "豬野",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/Ukou/manifest.json/canvas/p1#xywh=1441,175,103,43",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=1441,175,103,43",
     "objectID": "YG(b)0-02",
     "sort": [
         "05-00208"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Ukou.tif/1441,175,103,43/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/1441,175,103,43/200,/0/default.jpg",
     "冊": [
         8
     ],

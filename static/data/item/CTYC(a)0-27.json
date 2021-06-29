@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu02_gyoujou.json",
     "fulltext": "趙閲馬臺, 04-00075, 地点, 鄴城図, 趙閲馬臺, 墨, 表, 亭台跡",
     "label": "趙閲馬臺",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu02_gyoujou/manifest.json/canvas/p1#xywh=147,1260,121,141",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu02_gyoujou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1#xywh=147,1260,121,141",
     "objectID": "CTYC(a)0-27",
     "sort": [
         "04-00075"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu02_gyoujou.tif/147,1260,121,141/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/147,1260,121,141/200,/0/default.jpg",
     "冊": [
         8
     ],

@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
     "fulltext": "習郁墓, 04-00619, 地点, 襄陽城図, 習郁墓, 墨, 表, 亭台跡",
     "label": "習郁墓",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu10_jouyou/manifest.json/canvas/p1#xywh=1220,2506,210,94",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=1220,2506,210,94",
     "objectID": "CTXY(a)0-64",
     "sort": [
         "04-00619"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu10_jouyou.tif/1220,2506,210,94/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu10_jouyou.tif/1220,2506,210,94/200,/0/default.jpg",
     "冊": [
         8
     ],

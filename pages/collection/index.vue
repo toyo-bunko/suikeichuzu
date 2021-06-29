@@ -17,7 +17,7 @@
             <tr>
               <th class="text-left">{{ $t('地図名') }}</th>
               <th class="text-left">{{ $t('地図') }}</th>
-              <th v-if="false" class="text-left">{{ $t('grid') }}</th>
+              <th class="text-left">{{ $t('地図') }}</th>
             </tr>
           </thead>
           <tbody>
@@ -43,17 +43,14 @@
                 -->
                 <a
                   :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://static.toyobunko-lab.jp/suikeichuzu_data/curation/${item.id}.json&mode=annotation&lang=ja`"
-                  >全体図</a
+                  >IIIF Curation Viewer</a
                 >
               </td>
-              <td v-if="false">
-                TODO
-                <template v-if="false">
-                  <a
-                    :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}&mode=annotation&lang=ja`"
-                    >グリッド</a
+              <td>
+                <a
+                    :href="`https://nakamura196.github.io/i3/map/?curation=https://static.toyobunko-lab.jp/suikeichuzu_data/curation/${item.id}.json`"
+                    >IIIF Curation Content Search Viewer</a
                   >
-                </template>
               </td>
             </tr>
           </tbody>

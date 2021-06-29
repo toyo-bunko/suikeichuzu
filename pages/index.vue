@@ -135,6 +135,34 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-image',
     },
+    {
+      label: "水名一覧",
+      href: "https://suikeichu.web.app/river/",
+      description: '',
+      icon: 'mdi-view-list',
+    },
+    {
+      label: this.$t('about_'),
+      path: {
+        name: 'page-slug',
+        params: {
+          slug: 'about'
+        }
+      },
+      description: '',
+      icon: 'mdi-information',
+    },
+    {
+      label: "提供機能",
+      path: {
+        name: 'page-slug',
+        params: {
+          slug: 'function'
+        }
+      },
+      description: '',
+      icon: 'mdi-cog',
+    },
     /*
     {
       label: this.$t('NYPL可視化'),

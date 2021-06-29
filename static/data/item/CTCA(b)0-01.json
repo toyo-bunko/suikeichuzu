@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu04_chouan.json",
     "fulltext": "外郭, 04-00295, なし, 長安城図, 外郭, 墨, 裏, ",
     "label": "外郭",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu04_chouan/manifest.json/canvas/p1#xywh=1430,38,161,81",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1#xywh=1430,38,161,81",
     "objectID": "CTCA(b)0-01",
     "sort": [
         "04-00295"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu04_chouan.tif/1430,38,161,81/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/1430,38,161,81/200,/0/default.jpg",
     "冊": [
         8
     ],

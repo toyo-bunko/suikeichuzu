@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu12_seito.json",
     "fulltext": "笮橋, 04-00706, 地点, 成都橋図, 笮橋, 墨, 表, 橋・津",
     "label": "笮橋",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1417,2148,153,86",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1417,2148,153,86",
     "objectID": "CTCD(a)0-29",
     "sort": [
         "04-00706"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1417,2148,153,86/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1417,2148,153,86/200,/0/default.jpg",
     "冊": [
         8
     ],

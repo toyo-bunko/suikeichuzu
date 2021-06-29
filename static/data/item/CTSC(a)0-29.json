@@ -1,15 +1,15 @@
 {
-    "_updated": "2021-06-27",
+    "_updated": "2021-06-29",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu11_jushun.json",
     "fulltext": "横塘, 04-00653, 地形, 寿春城図, 横塘, 墨, 表, 湖",
     "label": "横塘",
-    "manifest": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json",
-    "member": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu11_jushun/manifest.json/canvas/p1#xywh=655,937,161,97",
+    "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu11_jushun/manifest.json",
+    "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1#xywh=655,937,161,97",
     "objectID": "CTSC(a)0-29",
     "sort": [
         "04-00653"
     ],
-    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu11_jushun.tif/655,937,161,97/200,/0/default.jpg",
+    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu11_jushun.tif/655,937,161,97/200,/0/default.jpg",
     "冊": [
         8
     ],
