@@ -1,7 +1,7 @@
 {
     "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "洛陽縣, CTLY(b)0-06, 04-00089, 地点, 洛陽城図, 洛陽縣, 墨, 裏, 亭台跡",
+    "fulltext": "洛陽県, CTLY(b)0-06, 04-00089, 地点, 洛陽城図, 洛陽県, 墨, 裏, 亭台跡",
     "label": "洛陽縣",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=2960,697,192,84",

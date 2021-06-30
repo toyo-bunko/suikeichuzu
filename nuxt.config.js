@@ -216,6 +216,8 @@ env.visualization = "https://nakamura196.github.io/dd2"
 const settings = JSON.parse(fs.readFileSync('static/data/settings.json'))
 env.settings = settings
 
+const norm = JSON.parse(fs.readFileSync('static/data/norm.json'))
+env.itaiji =norm
 
 
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する

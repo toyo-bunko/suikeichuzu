@@ -18,10 +18,11 @@
         
         <template v-if="item">
 
+          <div class="text-right mb-2"><v-btn class="primary" :href="`${item.url}`" target="_blank">別タブで開く <v-icon class="ml-1">mdi-open-in-new</v-icon></v-btn></div>
+
           <template v-if="item.value > thres">
-            <div class="pa-5">
-            <p>本画面で表示可能な検索結果数（{{thres.toLocaleString()}}件）を超えています。以下のリンクから、別画面で表示してください。</p>
-            <p><a :href="`${item.url}`" target="_blank">{{item.label}}</a></p>
+            <div class="pa-10 text-center" >
+              <p>本画面で表示可能な検索結果数（{{thres.toLocaleString()}}件）を超えています。「別タブで開く」からアクセスしてください。</p>
             </div>
           </template>
           <template v-else>

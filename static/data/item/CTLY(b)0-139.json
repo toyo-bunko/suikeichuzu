@@ -1,7 +1,7 @@
 {
     "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "九級浮圖, CTLY(b)0-139, 04-00222, 地点, 洛陽城図, 九級浮圖, 墨, 裏, 亭台跡",
+    "fulltext": "九級浮図, CTLY(b)0-139, 04-00222, 地点, 洛陽城図, 九級浮図, 墨, 裏, 亭台跡",
     "label": "九級浮圖",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=1330,2033,230,70",
