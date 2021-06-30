@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "東昬, 00-06454, 行政, 南4, 西1, 本図, 東昬, 墨, 表, 県跡, D3",
+    "fulltext": "東昬, S4W1(a)D3-09, 00-06454, 行政, 南4, 西1, 本図, 東昬, 墨, 表, 県跡, D3",
     "label": "東昬",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26661,13943,63,41",

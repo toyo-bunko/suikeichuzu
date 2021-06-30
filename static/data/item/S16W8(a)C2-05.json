@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "磨底河, 01-09687, 地形, 南16, 西8, 本図, 磨底河, 朱, 表, 河川, C2",
+    "fulltext": "磨底河, S16W8(a)C2-05, 01-09687, 地形, 南16, 西8, 本図, 磨底河, 朱, 表, 河川, C2",
     "label": "磨底河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=11073,32083,97,55",

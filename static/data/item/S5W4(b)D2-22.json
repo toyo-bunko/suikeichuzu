@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "漢改杜陵, 00-10175, 行政, 南5, 西4, 本図, 漢改杜陵, 墨, 裏, 県跡, D2",
+    "fulltext": "漢改杜陵, S5W4(b)D2-22, 00-10175, 行政, 南5, 西4, 本図, 漢改杜陵, 墨, 裏, 県跡, D2",
     "label": "漢改杜陵",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18913,15232,86,34",

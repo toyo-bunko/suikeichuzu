@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "濝關, 00-07145, 地点, 南4, 西3, 本図, 濝關, 墨, 表, 亭台跡, D1",
+    "fulltext": "濝關, S4W3(a)D1-03, 00-07145, 地点, 南4, 西3, 本図, 濝關, 墨, 表, 亭台跡, D1",
     "label": "濝關",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22883,13738,71,44",

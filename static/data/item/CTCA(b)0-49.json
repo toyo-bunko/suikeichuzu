@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu04_chouan.json",
-    "fulltext": "逍遥園, 04-00343, なし, 長安城図, 逍遥園, 墨, 裏, ",
+    "fulltext": "逍遥園, CTCA(b)0-49, 04-00343, なし, 長安城図, 逍遥園, 墨, 裏, ",
     "label": "逍遥園",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1#xywh=417,2279,208,103",

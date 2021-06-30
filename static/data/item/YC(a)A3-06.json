@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "快州, 03-00121, 行政, 越南, 中, 越南, 快州, 朱, 表, 省名, A3",
+    "fulltext": "快州, YC(a)A3-06, 03-00121, 行政, 越南, 中, 越南, 快州, 朱, 表, 省名, A3",
     "label": "快州",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2792,3274,144,63",

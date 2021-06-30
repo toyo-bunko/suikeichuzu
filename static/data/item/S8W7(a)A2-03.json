@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "江油戍, 01-03585, 地点, 南8, 西7, 本図, 江油戍, 墨, 表, 亭台跡, A2",
+    "fulltext": "江油戍, S8W7(a)A2-03, 01-03585, 地点, 南8, 西7, 本図, 江油戍, 墨, 表, 亭台跡, A2",
     "label": "江油戍",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=13301,18908,48,87",

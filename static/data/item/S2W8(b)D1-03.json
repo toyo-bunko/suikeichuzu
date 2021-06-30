@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "北川河, 00-04147, 地形, 南2, 西8, 本図, 北川河, 朱, 裏, 河川, D1",
+    "fulltext": "北川河, S2W8(b)D1-03, 00-04147, 地形, 南2, 西8, 本図, 北川河, 朱, 裏, 河川, D1",
     "label": "北川河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=10214,10834,73,34",

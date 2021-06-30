@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "鐘水, 01-08315, 地形, 南14, 西3, 本図, 鐘水, 朱, 裏, 河川, C3",
+    "fulltext": "鐘水, S14W3(b)C3-01, 01-08315, 地形, 南14, 西3, 本図, 鐘水, 朱, 裏, 河川, C3",
     "label": "鐘水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20991,29043,86,41",

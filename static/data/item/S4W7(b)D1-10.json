@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "藍川, 00-07723, 行政, 南4, 西7, 本図, 藍川, 墨, 裏, 県名（北魏）, D1",
+    "fulltext": "藍川, S4W7(b)D1-10, 00-07723, 行政, 南4, 西7, 本図, 藍川, 墨, 裏, 県名（北魏）, D1",
     "label": "藍川",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=12355,13874,76,56",

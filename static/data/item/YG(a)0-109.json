@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
-    "fulltext": "淮水, 05-00109, 地形, 禹貢山水澤地所在, 淮水, 朱, 表, 河川",
+    "fulltext": "淮水, YG(a)0-109, 05-00109, 地形, 禹貢山水澤地所在, 淮水, 朱, 表, 河川",
     "label": "淮水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=2428,1167,53,107",

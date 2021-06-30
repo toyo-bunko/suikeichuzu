@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "柳城, 00-00398, 行政, 北2, 東2, 本図, 柳城, 墨, 表, 県跡, C3",
+    "fulltext": "柳城, N2E2(a)C3-02, 00-00398, 行政, 北2, 東2, 本図, 柳城, 墨, 表, 県跡, C3",
     "label": "柳城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33526,4249,101,44",

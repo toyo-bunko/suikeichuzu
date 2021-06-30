@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu04_chouan.json",
-    "fulltext": "覇城門, 04-00279, 地点, 長安城図, 覇城門, 墨, 表, 長城門",
+    "fulltext": "覇城門, CTCA(a)0-23, 04-00279, 地点, 長安城図, 覇城門, 墨, 表, 長城門",
     "label": "覇城門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1#xywh=3118,1841,189,93",

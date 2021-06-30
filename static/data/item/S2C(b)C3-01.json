@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "東武城, 00-03496, 行政, 南2, 中, 本図, 東武城, 墨, 裏, 県跡, C3",
+    "fulltext": "東武城, S2C(b)C3-01, 00-03496, 行政, 南2, 中, 本図, 東武城, 墨, 裏, 県跡, C3",
     "label": "東武城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27874,10428,107,52",

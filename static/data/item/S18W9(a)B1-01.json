@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "越南界, 01-10064, なし, 南18, 西9, 本図, 越南界, 朱, 表, , B1",
+    "fulltext": "越南界, S18W9(a)B1-01, 01-10064, なし, 南18, 西9, 本図, 越南界, 朱, 表, , B1",
     "label": "越南界",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9041,34845,66,121",

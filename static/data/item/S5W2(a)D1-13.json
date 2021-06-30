@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "狼陂, 00-08873, 地形, 南5, 西2, 本図, 狼陂, 墨, 表, 湖, D1",
+    "fulltext": "狼陂, S5W2(a)D1-13, 00-08873, 地形, 南5, 西2, 本図, 狼陂, 墨, 表, 湖, D1",
     "label": "狼陂",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25339,15427,56,33",

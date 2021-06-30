@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "廣違城, 00-05791, 地点, 南3, 西8, 本図, 廣違城, 墨, 表, 亭台跡, D3",
+    "fulltext": "廣違城, S3W8(a)D3-08, 00-05791, 地点, 南3, 西8, 本図, 廣違城, 墨, 表, 亭台跡, D3",
     "label": "廣違城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=10546,12368,86,44",

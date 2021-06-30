@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu04_chouan.json",
-    "fulltext": "直門, 04-00321, 地点, 長安城図, 直門, 墨, 裏, 長城門",
+    "fulltext": "直門, CTCA(b)0-27, 04-00321, 地点, 長安城図, 直門, 墨, 裏, 長城門",
     "label": "直門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1#xywh=869,1632,112,74",

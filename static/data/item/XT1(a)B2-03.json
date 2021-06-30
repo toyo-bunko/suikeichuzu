@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "南山, 02-00041, 地形, 上, 西域, 南山, 墨, 表, 山谷, B2",
+    "fulltext": "南山, XT1(a)B2-03, 02-00041, 地形, 上, 西域, 南山, 墨, 表, 山谷, B2",
     "label": "南山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=7842,2146,148,96",

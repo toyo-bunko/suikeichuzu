@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "宋共公所都, 00-08078, 行政, 南5, 中, 本図, 宋共公所都, 墨, 表, 旧郡治の県, D3",
+    "fulltext": "宋共公所都, S5C(a)D3-04, 00-08078, 行政, 南5, 中, 本図, 宋共公所都, 墨, 表, 旧郡治の県, D3",
     "label": "宋共公所都",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29155,15341,85,53",

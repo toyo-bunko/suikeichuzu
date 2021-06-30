@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "黄河源, 02-00069, 地形, 上, 西域, 黄河源, 朱, 表, 河川, C1",
+    "fulltext": "黄河源, XT1(a)C1-03, 02-00069, 地形, 上, 西域, 黄河源, 朱, 表, 河川, C1",
     "label": "黄河源",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=9055,2947,180,102",

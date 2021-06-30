@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "鯨灘, 01-02336, 地形, 南7, 西4, 本図, 鯨灘, 墨, 裏, 河川, B2",
+    "fulltext": "鯨灘, S7W4(b)B2-16, 01-02336, 地形, 南7, 西4, 本図, 鯨灘, 墨, 裏, 河川, B2",
     "label": "鯨灘",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18865,17790,42,78",

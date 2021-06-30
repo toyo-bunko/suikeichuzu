@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu08_rojou.json",
-    "fulltext": "武子臺, 04-00498, なし, 魯城図, 武子臺, 墨, 表, ",
+    "fulltext": "武子臺, CTLU(a)0-13, 04-00498, なし, 魯城図, 武子臺, 墨, 表, ",
     "label": "武子臺",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu08_rojou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/canvas/p1#xywh=1065,1263,181,81",

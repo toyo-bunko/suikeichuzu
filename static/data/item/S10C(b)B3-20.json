@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "即瀑布, 01-05515, 地形, 南10, 中, 本図, 即瀑布, 墨, 裏, 河川, B3",
+    "fulltext": "即瀑布, S10C(b)B3-20, 01-05515, 地形, 南10, 中, 本図, 即瀑布, 墨, 裏, 河川, B3",
     "label": "即瀑布",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27743,22343,33,83",

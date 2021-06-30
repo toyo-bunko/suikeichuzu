@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "蓬浪江, 01-09550, 地形, 南16, 西4, 本図, 蓬浪江, 朱, 裏, 河川, C3",
+    "fulltext": "蓬浪江, S16W4(b)C3-01, 01-09550, 地形, 南16, 西4, 本図, 蓬浪江, 朱, 裏, 河川, C3",
     "label": "蓬浪江",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18683,31961,99,41",

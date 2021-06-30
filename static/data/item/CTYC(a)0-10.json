@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu02_gyoujou.json",
-    "fulltext": "桑梓苑, 04-00058, 地点, 鄴城図, 桑梓苑, 墨, 表, 亭台跡",
+    "fulltext": "桑梓苑, CTYC(a)0-10, 04-00058, 地点, 鄴城図, 桑梓苑, 墨, 表, 亭台跡",
     "label": "桑梓苑",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu02_gyoujou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1#xywh=704,1022,192,77",

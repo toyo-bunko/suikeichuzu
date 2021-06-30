@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu12_seito.json",
-    "fulltext": "夷里橋, 04-00707, 地点, 成都橋図, 夷里橋, 墨, 表, 橋・津",
+    "fulltext": "夷里橋, CTCD(a)0-30, 04-00707, 地点, 成都橋図, 夷里橋, 墨, 表, 橋・津",
     "label": "夷里橋",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1020,1894,224,108",

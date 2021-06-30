@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "大文溪, 01-06837, 地形, 南11, 西7, 本図, 大文溪, 朱, 裏, 河川, D3",
+    "fulltext": "大文溪, S11W7(b)D3-04, 01-06837, 地形, 南11, 西7, 本図, 大文溪, 朱, 裏, 河川, D3",
     "label": "大文溪",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=11557,24706,104,38",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "來細水, 01-09640, 地形, 南16, 西6, 本図, 來細水, 墨, 裏, 河川, C3",
+    "fulltext": "來細水, S16W6(b)C3-03, 01-09640, 地形, 南16, 西6, 本図, 來細水, 墨, 裏, 河川, C3",
     "label": "來細水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=13858,31894,110,50",

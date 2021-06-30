@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "女郎水, 01-01145, 地形, 南6, 西5, 本図, 女郎水, 墨, 裏, 河川, D3",
+    "fulltext": "女郎水, S6W5(b)D3-08, 01-01145, 地形, 南6, 西5, 本図, 女郎水, 墨, 裏, 河川, D3",
     "label": "女郎水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16255,16951,35,73",

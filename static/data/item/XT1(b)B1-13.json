@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "亀茲, 02-00109, 行政, 上, 西域, 亀茲, 墨, 裏, 郡名, B1",
+    "fulltext": "亀茲, XT1(b)B1-13, 02-00109, 行政, 上, 西域, 亀茲, 墨, 裏, 郡名, B1",
     "label": "亀茲",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=6406,1234,63,85",

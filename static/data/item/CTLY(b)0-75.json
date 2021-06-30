@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "枝分, 04-00158, 地形, 洛陽城図, 枝分, 墨, 裏, 河川",
+    "fulltext": "枝分, CTLY(b)0-75, 04-00158, 地形, 洛陽城図, 枝分, 墨, 裏, 河川",
     "label": "枝分",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=1323,320,185,86",

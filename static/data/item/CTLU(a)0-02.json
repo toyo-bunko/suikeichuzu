@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu08_rojou.json",
-    "fulltext": "孔里, 04-00487, なし, 魯城図, 孔里, 墨, 表, ",
+    "fulltext": "孔里, CTLU(a)0-02, 04-00487, なし, 魯城図, 孔里, 墨, 表, ",
     "label": "孔里",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu08_rojou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/canvas/p1#xywh=558,249,109,147",

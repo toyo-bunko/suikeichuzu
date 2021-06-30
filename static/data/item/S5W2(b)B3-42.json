@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "土溝水, 00-09175, 地形, 南5, 西2, 本図, 土溝水, 墨, 裏, 河川, B3",
+    "fulltext": "土溝水, S5W2(b)B3-42, 00-09175, 地形, 南5, 西2, 本図, 土溝水, 墨, 裏, 河川, B3",
     "label": "土溝水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23297,14547,46,54",

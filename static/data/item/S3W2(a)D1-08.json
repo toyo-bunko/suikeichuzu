@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "柳渚, 00-05195, 地形, 南3, 西2, 本図, 柳渚, 墨, 表, 湖, D1",
+    "fulltext": "柳渚, S3W2(a)D1-08, 00-05195, 地形, 南3, 西2, 本図, 柳渚, 墨, 表, 湖, D1",
     "label": "柳渚",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25280,12219,31,41",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "郻, 00-03542, 偏は「県」、旁は「おおざと」, 行政, 南2, 西1, 本図, 郻, 墨, 表, 県跡, A1",
+    "fulltext": "郻, S2W1(a)A1-11, 00-03542, 偏は「県」、旁は「おおざと」, 行政, 南2, 西1, 本図, 郻, 墨, 表, 県跡, A1",
     "label": "郻",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27337,9471,39,40",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
-    "fulltext": "木客村, 04-00767, 地点, 山陰城図, 木客村, 墨, 表, 亭台跡",
+    "fulltext": "木客村, CTSY(a)0-55, 04-00767, 地点, 山陰城図, 木客村, 墨, 表, 亭台跡",
     "label": "木客村",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=270,2338,198,78",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "鎮平, 01-00853, 行政, 南6, 西3, 本図, 鎮平, 朱, 表, 県名（清）, D1",
+    "fulltext": "鎮平, S6W3(a)D1-03, 01-00853, 行政, 南6, 西3, 本図, 鎮平, 朱, 表, 県名（清）, D1",
     "label": "鎮平",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23018,16834,68,42",

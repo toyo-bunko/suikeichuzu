@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "粉水, 01-03335, 地形, 南8, 西3, 本図, 粉水, 墨, 裏, 河川, C3",
+    "fulltext": "粉水, S8W3(b)C3-01, 01-03335, 地形, 南8, 西3, 本図, 粉水, 墨, 裏, 河川, C3",
     "label": "粉水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20823,19411,55,83",

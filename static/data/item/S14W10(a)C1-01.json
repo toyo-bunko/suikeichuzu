@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "青龍海, 01-08677, 地形, 南14, 西10, 本図, 青龍海, 朱, 表, 湖, C1",
+    "fulltext": "青龍海, S14W10(a)C1-01, 01-08677, 地形, 南14, 西10, 本図, 青龍海, 朱, 表, 湖, C1",
     "label": "青龍海",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=6635,28783,94,47",

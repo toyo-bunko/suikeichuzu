@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "漢武祠, 00-10170, 地点, 南5, 西4, 本図, 漢武祠, 墨, 裏, 亭台跡, D2",
+    "fulltext": "漢武祠, S5W4(b)D2-17, 00-10170, 地点, 南5, 西4, 本図, 漢武祠, 墨, 裏, 亭台跡, D2",
     "label": "漢武祠",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18984,15449,76,32",

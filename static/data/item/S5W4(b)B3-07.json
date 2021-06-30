@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "上林故地, 00-10005, なし, 南5, 西4, 本図, 上林故地, 墨, 裏, , B3",
+    "fulltext": "上林故地, S5W4(b)B3-07, 00-10005, なし, 南5, 西4, 本図, 上林故地, 墨, 裏, , B3",
     "label": "上林故地",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18490,15119,40,103",

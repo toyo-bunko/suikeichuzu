@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "滇池, 01-09138, 地形, 南15, 西8, 本図, 滇池, 墨, 裏, 湖, A3",
+    "fulltext": "滇池, S15W8(b)A3-04, 01-09138, 地形, 南15, 西8, 本図, 滇池, 墨, 裏, 湖, A3",
     "label": "滇池",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9420,29627,84,41",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "建始水, 01-02554, 地形, 南7, 西7, 本図, 建始水, 墨, 表, 河川, B2",
+    "fulltext": "建始水, S7W7(a)B2-01, 01-02554, 地形, 南7, 西7, 本図, 建始水, 墨, 表, 河川, B2",
     "label": "建始水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=13388,17482,99,69",

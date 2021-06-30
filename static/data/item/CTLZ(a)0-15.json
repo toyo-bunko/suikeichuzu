@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
-    "fulltext": "申門, 04-00543, 地点, 臨淄城図, 申門, 墨, 表, 長城門",
+    "fulltext": "申門, CTLZ(a)0-15, 04-00543, 地点, 臨淄城図, 申門, 墨, 表, 長城門",
     "label": "申門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=616,2116,128,100",

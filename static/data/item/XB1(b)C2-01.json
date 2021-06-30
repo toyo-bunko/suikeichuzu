@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "恆河, 02-00307, 地形, 下, 西域, 恆河, 朱, 裏, 河川, C2",
+    "fulltext": "恆河, XB1(b)C2-01, 02-00307, 地形, 下, 西域, 恆河, 朱, 裏, 河川, C2",
     "label": "恆河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=6108,5005,85,217",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "東狼谷口, 01-01161, 地形, 南6, 西6, 本図, 東狼谷口, 墨, 表, 山谷, A2",
+    "fulltext": "東狼谷口, S6W6(a)A2-06, 01-01161, 地形, 南6, 西6, 本図, 東狼谷口, 墨, 表, 山谷, A2",
     "label": "東狼谷口",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15531,15839,112,48",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu04_chouan.json",
-    "fulltext": "銅人, 04-00289, 地点, 長安城図, 銅人, 墨, 表, 亭台跡",
+    "fulltext": "銅人, CTCA(a)0-33, 04-00289, 地点, 長安城図, 銅人, 墨, 表, 亭台跡",
     "label": "銅人",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1#xywh=2596,2318,89,121",

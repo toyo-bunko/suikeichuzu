@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "分水嶺, 00-03223, 地形, 南2, 東2, 本図, 分水嶺, 朱, 表, 山谷, D3",
+    "fulltext": "分水嶺, S2E2(a)D3-01, 00-03223, 地形, 南2, 東2, 本図, 分水嶺, 朱, 表, 山谷, D3",
     "label": "分水嶺",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33768,10542,95,66",

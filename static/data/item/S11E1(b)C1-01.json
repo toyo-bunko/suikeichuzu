@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "餘水, 01-06257, 地形, 南11, 東1, 本図, 餘水, 墨, 裏, 河川, C1",
+    "fulltext": "餘水, S11E1(b)C1-01, 01-06257, 地形, 南11, 東1, 本図, 餘水, 墨, 裏, 河川, C1",
     "label": "餘水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30869,24180,47,75",

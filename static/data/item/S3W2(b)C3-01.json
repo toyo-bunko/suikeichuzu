@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "穀遠, 00-05279, 行政, 南3, 西2, 本図, 穀遠, 墨, 裏, 県跡, C3",
+    "fulltext": "穀遠, S3W2(b)C3-01, 00-05279, 行政, 南3, 西2, 本図, 穀遠, 墨, 裏, 県跡, C3",
     "label": "穀遠",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23320,11768,97,51",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "商城, 01-03008, 行政, 南8, 西1, 本図, 商城, 朱, 表, 県名（清）, A2",
+    "fulltext": "商城, S8W1(a)A2-01, 01-03008, 行政, 南8, 西1, 本図, 商城, 朱, 表, 県名（清）, A2",
     "label": "商城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26994,18698,41,68",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "岐棘山, 01-00851, 地形, 南6, 西3, 本図, 岐棘山, 墨, 表, 山谷, D1",
+    "fulltext": "岐棘山, S6W3(a)D1-01, 01-00851, 地形, 南6, 西3, 本図, 岐棘山, 墨, 表, 山谷, D1",
     "label": "岐棘山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22911,16751,102,43",

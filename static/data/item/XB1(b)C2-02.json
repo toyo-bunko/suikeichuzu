@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "藍莫塔, 02-00308, 行政, 下, 西域, 藍莫塔, 墨, 裏, 県跡, C2",
+    "fulltext": "藍莫塔, XB1(b)C2-02, 02-00308, 行政, 下, 西域, 藍莫塔, 墨, 裏, 県跡, C2",
     "label": "藍莫塔",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=5740,4980,104,247",

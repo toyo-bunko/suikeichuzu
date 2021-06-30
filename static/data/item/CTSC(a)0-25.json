@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu11_jushun.json",
-    "fulltext": "肥水故瀆, 04-00649, 地形, 寿春城図, 肥水故瀆, 墨, 表, 故瀆",
+    "fulltext": "肥水故瀆, CTSC(a)0-25, 04-00649, 地形, 寿春城図, 肥水故瀆, 墨, 表, 故瀆",
     "label": "肥水故瀆",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu11_jushun/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1#xywh=1642,914,161,217",

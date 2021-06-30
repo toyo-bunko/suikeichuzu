@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "鳥鼠山, 00-07680, 地形, 南4, 西7, 本図, 鳥鼠山, 墨, 表, 山谷, D3",
+    "fulltext": "鳥鼠山, S4W7(a)D3-13, 00-07680, 地形, 南4, 西7, 本図, 鳥鼠山, 墨, 表, 山谷, D3",
     "label": "鳥鼠山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=12971,13933,87,34",

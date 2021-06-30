@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "泉山, 00-07618, 地形, 南4, 西6, 本図, 泉山, 朱, 裏, 山谷, C3",
+    "fulltext": "泉山, S4W6(b)C3-01, 00-07618, 地形, 南4, 西6, 本図, 泉山, 朱, 裏, 山谷, C3",
     "label": "泉山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14101,13307,52,65",

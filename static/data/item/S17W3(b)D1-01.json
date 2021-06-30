@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "恩平, 01-09826, 行政, 南17, 西3, 本図, 恩平, 朱, 裏, 県名（清）, D1",
+    "fulltext": "恩平, S17W3(b)D1-01, 01-09826, 行政, 南17, 西3, 本図, 恩平, 朱, 裏, 県名（清）, D1",
     "label": "恩平",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21628,33980,86,40",

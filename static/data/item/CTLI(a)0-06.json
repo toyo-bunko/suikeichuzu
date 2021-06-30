@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu01_rekijou.json",
-    "fulltext": "出郭, 04-00006, なし, 歴城図, 出郭, 墨, 表, ",
+    "fulltext": "出郭, CTLI(a)0-06, 04-00006, なし, 歴城図, 出郭, 墨, 表, ",
     "label": "出郭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1696,988,135,88",

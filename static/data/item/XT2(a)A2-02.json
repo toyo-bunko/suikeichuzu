@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "納林河, 02-00177, 地形, 上, 西域, 納林河, 朱, 表, 河川, A2",
+    "fulltext": "納林河, XT2(a)A2-02, 02-00177, 地形, 上, 西域, 納林河, 朱, 表, 河川, A2",
     "label": "納林河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=3204,590,284,118",

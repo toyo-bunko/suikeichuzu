@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "洞渦水, 00-03821, 地形, 南2, 西2, 本図, 洞渦水, 朱, 裏, 河川, B1",
+    "fulltext": "洞渦水, S2W2(b)B1-03, 00-03821, 地形, 南2, 西2, 本図, 洞渦水, 朱, 裏, 河川, B1",
     "label": "洞渦水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24002,9865,101,40",

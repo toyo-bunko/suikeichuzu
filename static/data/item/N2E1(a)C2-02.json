@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "白狼水, 00-00441, 地形, 北2, 東1, 本図, 白狼水, 墨, 表, 河川, C2",
+    "fulltext": "白狼水, N2E1(a)C2-02, 00-00441, 地形, 北2, 東1, 本図, 白狼水, 墨, 表, 河川, C2",
     "label": "白狼水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=31850,4071,78,120",

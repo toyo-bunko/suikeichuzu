@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
-    "fulltext": "雀臺, 04-00381, 地点, 睢陽城図, 雀臺, 墨, 表, 亭台跡",
+    "fulltext": "雀臺, CTSU(a)0-37, 04-00381, 地点, 睢陽城図, 雀臺, 墨, 表, 亭台跡",
     "label": "雀臺",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1255,1667,125,90",

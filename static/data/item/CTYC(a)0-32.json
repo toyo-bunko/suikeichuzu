@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu02_gyoujou.json",
-    "fulltext": "銅鳳頭, 04-00080, なし, 鄴城図, 銅鳳頭, 墨, 表, ",
+    "fulltext": "銅鳳頭, CTYC(a)0-32, 04-00080, なし, 鄴城図, 銅鳳頭, 墨, 表, ",
     "label": "銅鳳頭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu02_gyoujou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1#xywh=1672,2263,217,80",

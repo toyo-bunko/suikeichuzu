@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
-    "fulltext": "西門, 04-00386, 地点, 睢陽城図, 西門, 墨, 表, 長城門",
+    "fulltext": "西門, CTSU(a)0-42, 04-00386, 地点, 睢陽城図, 西門, 墨, 表, 長城門",
     "label": "西門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=260,1514,129,77",

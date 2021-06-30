@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "阿薩密, 02-00241, なし, 下, 西域, 阿薩密, 朱, 表, , B1",
+    "fulltext": "阿薩密, XB1(a)B1-03, 02-00241, なし, 下, 西域, 阿薩密, 朱, 表, , B1",
     "label": "阿薩密",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=8474,4682,206,137",

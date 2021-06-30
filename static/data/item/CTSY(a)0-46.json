@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
-    "fulltext": "鄭公泉, 04-00758, 地形, 山陰城図, 鄭公泉, 墨, 表, 湖",
+    "fulltext": "鄭公泉, CTSY(a)0-46, 04-00758, 地形, 山陰城図, 鄭公泉, 墨, 表, 湖",
     "label": "鄭公泉",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=1743,2351,84,198",

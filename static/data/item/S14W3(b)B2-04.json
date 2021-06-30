@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "小瀟水, 01-08292, 地形, 南14, 西3, 本図, 小瀟水, 朱, 裏, 湖, B2",
+    "fulltext": "小瀟水, S14W3(b)B2-04, 01-08292, 地形, 南14, 西3, 本図, 小瀟水, 朱, 裏, 湖, B2",
     "label": "小瀟水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21390,28403,103,37",

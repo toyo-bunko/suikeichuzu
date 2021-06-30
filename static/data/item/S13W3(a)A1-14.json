@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "臨承, 01-07613, 行政, 南13, 西3, 本図, 臨承, 墨, 表, 郡名, A1",
+    "fulltext": "臨承, S13W3(a)A1-14, 01-07613, 行政, 南13, 西3, 本図, 臨承, 墨, 表, 郡名, A1",
     "label": "臨承",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22819,26530,87,38",

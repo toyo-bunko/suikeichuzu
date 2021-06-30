@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "天井臺, 01-04570, 地点, 南9, 西3, 本図, 天井臺, 墨, 表, 亭台跡, C1",
+    "fulltext": "天井臺, S9W3(a)C1-08, 01-04570, 地点, 南9, 西3, 本図, 天井臺, 墨, 表, 亭台跡, C1",
     "label": "天井臺",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22784,21052,33,33",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "良餘山, 00-09873, 2か所あり, 地形, 南5, 西4, 本図, 良餘山, 墨, 表, 山谷, C2",
+    "fulltext": "良餘山, S5W4(a)C2-07, 00-09873, 2か所あり, 地形, 南5, 西4, 本図, 良餘山, 墨, 表, 山谷, C2",
     "label": "良餘山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20182,14838,65,62",
