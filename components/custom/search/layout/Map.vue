@@ -1,6 +1,37 @@
 <template>
   <div>
-    <ul>
+
+    <v-tabs
+      class="my-5"
+          v-model="tabs"
+        >
+          <v-tab
+            v-for="(item, key) in items" :key="key"
+            :href="`#${key}`"
+            class="primary--text"
+          >
+            {{item.label}} ({{item.value.toLocaleString()}} {{$t("results")}})
+          </v-tab>
+
+          
+        </v-tabs>
+        
+        <template v-if="item">
+
+          <template v-if="item.value > thres">
+            <div class="pa-5">
+            <p>本画面で表示可能な検索結果数（{{thres.toLocaleString()}}件）を超えています。以下のリンクから、別画面で表示してください。</p>
+            <p><a :href="`${item.url}`" target="_blank">{{item.label}}</a></p>
+            </div>
+          </template>
+          <template v-else>
+        <iframe frameBorder="0" :src="`${item.url}&embedded=true`" style="width: 100%; height: 800px;"></iframe>
+    </template>
+
+    </template>
+
+    
+    <ul v-if="false">
       <li class="mb-2" v-for="(item, key) in items" :key="key">
         <a :href="item.url" target="_blank">
         {{item.label}} ({{item.value}})
@@ -21,7 +52,12 @@ ResultOption
 })
 export default class FullTextSearch extends Vue {
 
+  thres: number = 500
+
+  tabs: any = ""
+
   prefix: string = "https://nakamura196.github.io/i3/map/?curation="
+  //prefix: string = "http://localhost:3000/map/?curation="
 
   @Prop({})
   aggs!: any[]
@@ -37,7 +73,14 @@ export default class FullTextSearch extends Vue {
 
   items: any[] = []
 
+  get item(){
+    return this.items[Number(this.tabs)]
+  }
+
   init(){
+
+    this.tabs = "0"
+
     const query = this.$route.query
 
     let condition = ""
