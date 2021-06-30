@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "仙人樓, 01-05854, なし, 南10, 西3, 本図, 仙人樓, 墨, 裏, , B2",
+    "fulltext": "仙人樓, S10W3(b)B2-10, 01-05854, なし, 南10, 西3, 本図, 仙人樓, 墨, 裏, , B2",
     "label": "仙人樓",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21470,22514,102,32",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "歎州, 01-04395, 中洲, なし, 南9, 西2, 本図, 歎州, 墨, 表, , B1",
+    "fulltext": "歎州, S9W2(a)B1-25, 01-04395, 中洲, なし, 南9, 西2, 本図, 歎州, 墨, 表, , B1",
     "label": "歎州",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25246,20892,43,60",

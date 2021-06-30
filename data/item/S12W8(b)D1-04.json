@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "木期古水, 01-07369, 地形, 南12, 西8, 本図, 木期古水, 朱, 裏, 河川, D1",
+    "fulltext": "木期古水, S12W8(b)D1-04, 01-07369, 地形, 南12, 西8, 本図, 木期古水, 朱, 裏, 河川, D1",
     "label": "木期古水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=10130,26300,123,51",

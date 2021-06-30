@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "鹽源, 01-07390, 行政, 南12, 西9, 本図, 鹽源, 朱, 表, 県名（清）, C3",
+    "fulltext": "鹽源, S12W9(a)C3-03, 01-07390, 行政, 南12, 西9, 本図, 鹽源, 朱, 表, 県名（清）, C3",
     "label": "鹽源",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=8089,25780,80,48",

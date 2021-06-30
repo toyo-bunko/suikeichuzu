@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "南水, 03-00142, 地形, 越南, 中, 越南, 南水, 墨, 表, 河川, B3",
+    "fulltext": "南水, YC(a)B3-03, 03-00142, 地形, 越南, 中, 越南, 南水, 墨, 表, 河川, B3",
     "label": "南水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2436,3802,138,81",

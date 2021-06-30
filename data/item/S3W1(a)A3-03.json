@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "澄泉, 00-04945, 地形, 南3, 西1, 本図, 澄泉, 墨, 表, 湖, A3",
+    "fulltext": "澄泉, S3W1(a)A3-03, 00-04945, 地形, 南3, 西1, 本図, 澄泉, 墨, 表, 湖, A3",
     "label": "澄泉",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26789,10915,67,29",

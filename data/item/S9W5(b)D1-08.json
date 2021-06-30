@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "龍停溪, 01-04928, 地形, 南9, 西5, 本図, 龍停溪, 朱, 裏, 河川, D1",
+    "fulltext": "龍停溪, S9W5(b)D1-08, 01-04928, 地形, 南9, 西5, 本図, 龍停溪, 朱, 裏, 河川, D1",
     "label": "龍停溪",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16936,21556,85,35",

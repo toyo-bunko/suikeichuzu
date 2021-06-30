@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "東北山, 00-01238, 地形, 北1, 西2, 本図, 東北山, 墨, 裏, 山谷, C2",
+    "fulltext": "東北山, N1W2(b)C2-01, 00-01238, 地形, 北1, 西2, 本図, 東北山, 墨, 裏, 山谷, C2",
     "label": "東北山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23611,5441,118,88",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "灣甸土州, 01-09301, 行政, 南15, 西10, 本図, 灣甸土州, 朱, 裏, 土州, C3",
+    "fulltext": "灣甸土州, S15W10(b)C3-01, 01-09301, 行政, 南15, 西10, 本図, 灣甸土州, 朱, 裏, 土州, C3",
     "label": "灣甸土州",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=4776,30527,81,70",

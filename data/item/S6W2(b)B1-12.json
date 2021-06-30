@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "雉衡山, 01-00712, 地形, 南6, 西2, 本図, 雉衡山, 墨, 裏, 山谷, B1",
+    "fulltext": "雉衡山, S6W2(b)B1-12, 01-00712, 地形, 南6, 西2, 本図, 雉衡山, 墨, 裏, 山谷, B1",
     "label": "雉衡山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24015,16094,97,41",

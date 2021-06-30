@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu04_chouan.json",
-    "fulltext": "楊橋, 04-00264, 地点, 長安城図, 楊橋, 墨, 表, 橋・津",
+    "fulltext": "楊橋, CTCA(a)0-08, 04-00264, 地点, 長安城図, 楊橋, 墨, 表, 橋・津",
     "label": "楊橋",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1#xywh=3385,1936,155,88",

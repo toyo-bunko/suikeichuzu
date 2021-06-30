@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "積石, 01-00695, 地点, 南6, 西2, 本図, 積石, 墨, 裏, 亭台跡, A3",
+    "fulltext": "積石, S6W2(b)A3-11, 01-00695, 地点, 南6, 西2, 本図, 積石, 墨, 裏, 亭台跡, A3",
     "label": "積石",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23411,15718,63,37",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "清水洲, 01-05774, 中洲, 地形, 南10, 西3, 本図, 清水洲, 墨, 表, 湖, A1",
+    "fulltext": "清水洲, S10W3(a)A1-12, 01-05774, 中洲, 地形, 南10, 西3, 本図, 清水洲, 墨, 表, 湖, A1",
     "label": "清水洲",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23070,22069,24,45",

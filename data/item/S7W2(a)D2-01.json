@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "仁順城, 01-01978, 行政, 南7, 西2, 本図, 仁順城, 墨, 表, 州名, D2",
+    "fulltext": "仁順城, S7W2(a)D2-01, 01-01978, 行政, 南7, 西2, 本図, 仁順城, 墨, 表, 州名, D2",
     "label": "仁順城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24911,18394,101,41",

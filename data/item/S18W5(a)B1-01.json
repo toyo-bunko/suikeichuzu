@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "合浦郡, 01-10033, 行政, 南18, 西5, 本図, 合浦郡, 墨, 表, 郡名, B1",
+    "fulltext": "合浦郡, S18W5(a)B1-01, 01-10033, 行政, 南18, 西5, 本図, 合浦郡, 墨, 表, 郡名, B1",
     "label": "合浦郡",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18194,34590,115,44",

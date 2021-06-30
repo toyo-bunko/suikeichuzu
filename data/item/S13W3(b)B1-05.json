@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "雲泉山, 01-07654, 地形, 南13, 西3, 本図, 雲泉山, 墨, 裏, 山谷, B1",
+    "fulltext": "雲泉山, S13W3(b)B1-05, 01-07654, 地形, 南13, 西3, 本図, 雲泉山, 墨, 裏, 山谷, B1",
     "label": "雲泉山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21588,26821,92,51",

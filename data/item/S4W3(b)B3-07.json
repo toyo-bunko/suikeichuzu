@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "汾水入河, 00-07210, 地形, 南4, 西3, 本図, 汾水入河, 墨, 裏, 河川, B3",
+    "fulltext": "汾水入河, S4W3(b)B3-07, 00-07210, 地形, 南4, 西3, 本図, 汾水入河, 墨, 裏, 河川, B3",
     "label": "汾水入河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20991,13149,119,90",

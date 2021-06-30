@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "樂里道, 04-00101, なし, 洛陽城図, 樂里道, 墨, 裏, ",
+    "fulltext": "樂里道, CTLY(b)0-18, 04-00101, なし, 洛陽城図, 樂里道, 墨, 裏, ",
     "label": "樂里道",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=3390,1127,80,192",

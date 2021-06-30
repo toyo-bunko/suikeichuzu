@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "澠池山, 00-09337, 地形, 南5, 西3, 本図, 澠池山, 墨, 表, 山谷, A2",
+    "fulltext": "澠池山, S5W3(a)A2-19, 00-09337, 地形, 南5, 西3, 本図, 澠池山, 墨, 表, 山谷, A2",
     "label": "澠池山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22421,14166,80,34",

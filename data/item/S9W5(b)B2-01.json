@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "七澗河, 01-04910, 地形, 南9, 西5, 本図, 七澗河, 朱, 裏, 河川, B2",
+    "fulltext": "七澗河, S9W5(b)B2-01, 01-04910, 地形, 南9, 西5, 本図, 七澗河, 朱, 裏, 河川, B2",
     "label": "七澗河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16726,20609,85,39",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "天保, 01-09639, 行政, 南16, 西6, 本図, 天保, 朱, 裏, 府名, C3",
+    "fulltext": "天保, S16W6(b)C3-02, 01-09639, 行政, 南16, 西6, 本図, 天保, 朱, 裏, 府名, C3",
     "label": "天保",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14114,31954,76,29",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "槐河, 00-03694, 地形, 南2, 西1, 本図, 槐河, 朱, 裏, 河川, B2",
+    "fulltext": "槐河, S2W1(b)B2-04, 00-03694, 地形, 南2, 西1, 本図, 槐河, 朱, 裏, 河川, B2",
     "label": "槐河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25943,9805,82,36",

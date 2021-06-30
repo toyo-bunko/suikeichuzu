@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "華林園, 04-00169, なし, 洛陽城図, 華林園, 墨, 裏, ",
+    "fulltext": "華林園, CTLY(b)0-86, 04-00169, なし, 洛陽城図, 華林園, 墨, 裏, ",
     "label": "華林園",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=1792,919,176,78",

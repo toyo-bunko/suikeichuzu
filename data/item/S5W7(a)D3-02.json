@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "參狼谷, 00-10972, 地形, 南5, 西7, 本図, 參狼谷, 墨, 表, 山谷, D3",
+    "fulltext": "參狼谷, S5W7(a)D3-02, 00-10972, 地形, 南5, 西7, 本図, 參狼谷, 墨, 表, 山谷, D3",
     "label": "參狼谷",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=12942,15231,107,56",

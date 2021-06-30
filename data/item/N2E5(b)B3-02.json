@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "外頭拉子河, 00-00279, 地形, 北2, 東5, 本図, 外頭拉子河, 朱, 裏, 河川, B3",
+    "fulltext": "外頭拉子河, N2E5(b)B3-02, 00-00279, 地形, 北2, 東5, 本図, 外頭拉子河, 朱, 裏, 河川, B3",
     "label": "外頭拉子河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=39501,3648,37,158",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "建始, 00-03640, 行政, 南2, 西1, 本図, 建始, 墨, 表, 県跡, D2",
+    "fulltext": "建始, S2W1(a)D2-09, 00-03640, 行政, 南2, 西1, 本図, 建始, 墨, 表, 県跡, D2",
     "label": "建始",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27129,10697,82,51",

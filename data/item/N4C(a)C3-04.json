@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "達漢泊, 00-00102, 地形, 北4, 中, 本図, 達漢泊, 朱, 表, 湖, C3",
+    "fulltext": "達漢泊, N4C(a)C3-04, 00-00102, 地形, 北4, 中, 本図, 達漢泊, 朱, 表, 湖, C3",
     "label": "達漢泊",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28974,1086,94,47",

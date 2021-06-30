@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "全茗土州, 01-09644, 行政, 南16, 西6, 本図, 全茗土州, 朱, 裏, 土州, D1",
+    "fulltext": "全茗土州, S16W6(b)D1-03, 01-09644, 行政, 南16, 西6, 本図, 全茗土州, 朱, 裏, 土州, D1",
     "label": "全茗土州",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14819,32300,57,132",

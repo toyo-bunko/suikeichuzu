@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
-    "fulltext": "又曰棟山, 04-00778, 地形, 山陰城図, 又曰棟山, 墨, 表, 山谷",
+    "fulltext": "又曰棟山, CTSY(a)0-66, 04-00778, 地形, 山陰城図, 又曰棟山, 墨, 表, 山谷",
     "label": "又曰棟山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=885,2572,273,73",

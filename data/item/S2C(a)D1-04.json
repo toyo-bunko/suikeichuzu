@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "東朝陽, 00-03406, 行政, 南2, 中, 本図, 東朝陽, 墨, 表, 県跡, D1",
+    "fulltext": "東朝陽, S2C(a)D1-04, 00-03406, 行政, 南2, 中, 本図, 東朝陽, 墨, 表, 県跡, D1",
     "label": "東朝陽",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29742,10587,42,109",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu06_heijou.json",
-    "fulltext": "郊郭, 04-00461, なし, 平城図, 郊郭, 墨, 表, ",
+    "fulltext": "郊郭, CTPC(a)0-61, 04-00461, なし, 平城図, 郊郭, 墨, 表, ",
     "label": "郊郭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu06_heijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/canvas/p1#xywh=1245,2953,187,111",

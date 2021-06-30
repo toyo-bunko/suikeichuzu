@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "巻城, 01-00614, 地点, 南6, 西2, 本図, 巻城, 墨, 表, 亭台跡, C3",
+    "fulltext": "巻城, S6W2(a)C3-08, 01-00614, 地点, 南6, 西2, 本図, 巻城, 墨, 表, 亭台跡, C3",
     "label": "巻城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24291,16486,76,49",

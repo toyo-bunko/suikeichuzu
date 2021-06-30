@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "牛官川, 00-05669, 地形, 南3, 西7, 本図, 牛官川, 墨, 表, 河川, C2",
+    "fulltext": "牛官川, S3W7(a)C2-06, 00-05669, 地形, 南3, 西7, 本図, 牛官川, 墨, 表, 河川, C2",
     "label": "牛官川",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=13379,12004,88,36",

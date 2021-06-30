@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "河南, 00-09137, 行政, 南5, 西2, 本図, 河南, 墨, 裏, 県名（北魏）, B3",
+    "fulltext": "河南, S5W2(b)B3-04, 00-09137, 行政, 南5, 西2, 本図, 河南, 墨, 裏, 県名（北魏）, B3",
     "label": "河南",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23327,14416,52,30",

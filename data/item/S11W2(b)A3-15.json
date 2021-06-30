@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "蘆陵潭, 01-06468, 地形, 南11, 西2, 本図, 蘆陵潭, 朱, 裏, 河川, A3",
+    "fulltext": "蘆陵潭, S11W2(b)A3-15, 01-06468, 地形, 南11, 西2, 本図, 蘆陵潭, 朱, 裏, 河川, A3",
     "label": "蘆陵潭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23237,23597,90,38",

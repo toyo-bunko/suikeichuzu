@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
-    "fulltext": "兔園, 04-00359, なし, 睢陽城図, 兔園, 墨, 表, ",
+    "fulltext": "兔園, CTSU(a)0-15, 04-00359, なし, 睢陽城図, 兔園, 墨, 表, ",
     "label": "兔園",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1848,1208,80,161",

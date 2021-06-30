@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "武遂, 00-01962, 地点, 中, 西1, 本図, 武遂, 墨, 表, 亭台跡, D1",
+    "fulltext": "武遂, CW1(a)D1-19, 00-01962, 地点, 中, 西1, 本図, 武遂, 墨, 表, 亭台跡, D1",
     "label": "武遂",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27388,7517,45,28",

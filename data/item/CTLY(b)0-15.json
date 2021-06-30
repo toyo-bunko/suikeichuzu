@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "白社故里, 04-00098, なし, 洛陽城図, 白社故里, 墨, 裏, ",
+    "fulltext": "白社故里, CTLY(b)0-15, 04-00098, なし, 洛陽城図, 白社故里, 墨, 裏, ",
     "label": "白社故里",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=3494,1205,125,117",

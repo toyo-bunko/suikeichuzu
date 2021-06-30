@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "傅巖, 00-09561, 地形, 南5, 西3, 本図, 傅巖, 墨, 裏, 山谷, A1",
+    "fulltext": "傅巖, S5W3(b)A1-15, 00-09561, 地形, 南5, 西3, 本図, 傅巖, 墨, 裏, 山谷, A1",
     "label": "傅巖",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21782,14117,52,37",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu02_gyoujou.json",
-    "fulltext": "洹水枝津, 04-00046, 地形, 鄴城図, 洹水枝津, 墨, 裏, 河川",
+    "fulltext": "洹水枝津, CTYC(b)0-20, 04-00046, 地形, 鄴城図, 洹水枝津, 墨, 裏, 河川",
     "label": "洹水枝津",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu02_gyoujou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1#xywh=3501,2201,107,270",

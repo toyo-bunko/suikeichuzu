@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
-    "fulltext": "釣臺, 04-00365, 地形, 睢陽城図, 釣臺, 墨, 表, 湖",
+    "fulltext": "釣臺, CTSU(a)0-21, 04-00365, 地形, 睢陽城図, 釣臺, 墨, 表, 湖",
     "label": "釣臺",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1309,1089,110,144",

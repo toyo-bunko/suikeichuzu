@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "壁河, 01-02985, 地形, 南8, 中, 本図, 壁河, 朱, 裏, 河川, B3",
+    "fulltext": "壁河, S8C(b)B3-01, 01-02985, 地形, 南8, 中, 本図, 壁河, 朱, 裏, 河川, B3",
     "label": "壁河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27956,19170,62,38",

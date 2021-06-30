@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "沙隨亭, 00-08230, 地点, 南5, 西1, 本図, 沙隨亭, 墨, 表, 亭台跡, A2",
+    "fulltext": "沙隨亭, S5W1(a)A2-14, 00-08230, 地点, 南5, 西1, 本図, 沙隨亭, 墨, 表, 亭台跡, A2",
     "label": "沙隨亭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27218,14332,80,41",

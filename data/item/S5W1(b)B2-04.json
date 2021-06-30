@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "百尺陂, 00-08413, 地形, 南5, 西1, 本図, 百尺陂, 墨, 裏, 湖, B2",
+    "fulltext": "百尺陂, S5W1(b)B2-04, 00-08413, 地形, 南5, 西1, 本図, 百尺陂, 墨, 裏, 湖, B2",
     "label": "百尺陂",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26119,14441,59,23",

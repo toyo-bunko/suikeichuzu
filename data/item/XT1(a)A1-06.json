@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-29",
+    "_updated": "2021-06-30",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "哈密, 02-00006, 行政, 上, 西域, 哈密, 朱, 表, 直隷庁, A1",
+    "fulltext": "哈密, XT1(a)A1-06, 02-00006, 行政, 上, 西域, 哈密, 朱, 表, 直隷庁, A1",
     "label": "哈密",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=8587,950,72,123",
