@@ -142,6 +142,12 @@ export default class about extends Vue {
       icon: 'mdi-view-list',
     },
     {
+      label: "冊子画像一覧",
+      href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://toyo-bunko.github.io/app-suikeichuuzu/data/collection.json",
+      description: '',
+      icon: 'mdi-view-list',
+    },
+    {
       label: this.$t('about_'),
       path: {
         name: 'page-slug',
