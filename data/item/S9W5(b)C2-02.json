@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "高灘河, S9W5(b)C2-02, 01-04919, 地形, 南9, 西5, 本図, 高灘河, 朱, 裏, 河川, C2",
+    "fulltext": "S9W5(b)C2-02, 高灘河",
     "label": "高灘河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16629,21174,35,93",

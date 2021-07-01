@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "霊山水, S11E1(b)A2-01, 01-06249, 地形, 南11, 東1, 本図, 霊山水, 朱, 裏, 河川, A2",
+    "fulltext": "S11E1(b)A2-01, 霊山水",
     "label": "靈山水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30623,23651,96,42",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "怒江源, XB1(a)A2-01, 02-00234, 地形, 下, 西域, 怒江源, 朱, 表, 湖, A2",
+    "fulltext": "XB1(a)A2-01, 怒江源",
     "label": "怒江源",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=7963,3159,225,85",

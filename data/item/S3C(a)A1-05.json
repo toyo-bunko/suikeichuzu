@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "女郎山, S3C(a)A1-05, 00-04600, 地形, 南3, 中, 本図, 女郎山, 墨, 表, 山谷, A1",
+    "fulltext": "S3C(a)A1-05, 女郎山",
     "label": "女郎山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29861,11200,70,27",

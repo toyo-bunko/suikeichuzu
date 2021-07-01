@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "桑社枝津, S1C(b)D2-12, 00-02540, 地形, 南1, 中, 本図, 桑社枝津, 墨, 裏, 河川, D2",
+    "fulltext": "S1C(b)D2-12, 桑社枝津",
     "label": "桑社枝津",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28313,9307,103,28",

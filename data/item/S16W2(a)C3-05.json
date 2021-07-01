@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "白蓮池, S16W2(a)C3-05, 01-09390, 地形, 南16, 西2, 本図, 白蓮池, 朱, 表, 湖, C3",
+    "fulltext": "S16W2(a)C3-05, 白蓮池",
     "label": "白蓮池",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24586,32149,57,97",

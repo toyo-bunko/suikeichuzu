@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "西漢隆慮, S3W2(a)D1-10, 00-05197, 行政, 南3, 西2, 本図, 西漢隆慮, 墨, 表, 県名（北魏）, D1",
+    "fulltext": "S3W2(a)D1-10, 西漢隆慮",
     "label": "西漢隆慮",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25288,12330,127,47",

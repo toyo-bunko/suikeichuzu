@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "赤坎山, YB(a)B3-03, 03-00263, 地形, 越南, 下, 越南, 赤坎山, 朱, 表, 山谷, B3",
+    "fulltext": "YB(a)B3-03, 赤坎山",
     "label": "赤坎山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2683,7285,168,65",

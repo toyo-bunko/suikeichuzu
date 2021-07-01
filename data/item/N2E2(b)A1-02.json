@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "重山, N2E2(b)A1-02, 00-00408, なし, 北2, 東2, 本図, 重山, 墨, 裏, , A1",
+    "fulltext": "N2E2(b)A1-02, 重山",
     "label": "重山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33379,3176,43,74",

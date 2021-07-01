@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "明聖湖, S9E2(b)C1-13, 01-03887, 地形, 南9, 東2, 本図, 明聖湖, 墨, 裏, 湖, C1",
+    "fulltext": "S9E2(b)C1-13, 明聖湖",
     "label": "明聖湖",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33318,21290,42,54",

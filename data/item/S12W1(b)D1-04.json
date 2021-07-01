@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "廬陵, S12W1(b)D1-04, 01-06990, 行政, 南12, 西1, 本図, 廬陵, 朱, 裏, 府名, D1",
+    "fulltext": "S12W1(b)D1-04, 廬陵",
     "label": "廬陵",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26249,26154,76,31",

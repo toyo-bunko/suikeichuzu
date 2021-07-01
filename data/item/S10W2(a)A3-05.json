@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "練洲, S10W2(a)A3-05, 01-05624, 中洲, 地形, 南10, 西2, 本図, 練洲, 墨, 表, 湖, A3",
+    "fulltext": "S10W2(a)A3-05, 中洲, 練洲",
     "label": "練洲",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24584,21871,62,33",

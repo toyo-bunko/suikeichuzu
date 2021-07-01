@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
-    "fulltext": "平台, CTSU(a)0-14, 04-00358, 地点, 睢陽城図, 平台, 墨, 表, 亭台跡",
+    "fulltext": "CTSU(a)0-14, 平台",
     "label": "平臺",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1964,1195,73,170",

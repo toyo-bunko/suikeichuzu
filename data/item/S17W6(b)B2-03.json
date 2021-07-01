@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "上下凍土州, S17W6(b)B2-03, 01-09938, 行政, 南17, 西6, 本図, 上下凍土州, 朱, 裏, 土州, B2",
+    "fulltext": "S17W6(b)B2-03, 上下凍土州",
     "label": "上下凍土州",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14159,33376,138,56",

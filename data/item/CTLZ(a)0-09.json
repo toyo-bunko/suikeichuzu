@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
-    "fulltext": "斉城, CTLZ(a)0-09, 04-00537, なし, 臨淄城図, 斉城, 墨, 表, ",
+    "fulltext": "CTLZ(a)0-09, 斉城",
     "label": "齊城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=1219,1596,164,102",

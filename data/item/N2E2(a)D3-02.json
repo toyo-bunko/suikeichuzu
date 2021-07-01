@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "竜爪山, N2E2(a)D3-02, 00-00406, 地形, 北2, 東2, 本図, 竜爪山, 朱, 表, 山谷, D3",
+    "fulltext": "N2E2(a)D3-02, 竜爪山",
     "label": "龍爪山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33739,4576,100,78",

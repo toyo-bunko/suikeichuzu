@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "黒章河, S13W7(b)A1-01, 01-07831, 地形, 南13, 西7, 本図, 黒章河, 朱, 裏, 河川, A1",
+    "fulltext": "S13W7(b)A1-01, 黒章河",
     "label": "黑章河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=12525,26659,98,48",

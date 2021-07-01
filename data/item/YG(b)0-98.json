@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
-    "fulltext": "臨洮, YG(b)0-98, 05-00304, 行政, 禹貢山水沢地所在, 臨洮, 墨, 裏, 県跡",
+    "fulltext": "YG(b)0-98, 臨洮",
     "label": "臨洮",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=1334,889,83,51",

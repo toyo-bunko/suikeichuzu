@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "安平, S1W1(a)C1-07, 00-02674, 行政, 南1, 西1, 本図, 安平, 朱, 表, 県名（清）, C1",
+    "fulltext": "S1W1(a)C1-07, 安平",
     "label": "安平",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27501,8867,58,40",

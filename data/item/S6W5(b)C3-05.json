@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "小石門, S6W5(b)C3-05, 01-01104, 地形, 南6, 西5, 本図, 小石門, 墨, 裏, 河川, C3",
+    "fulltext": "S6W5(b)C3-05, 小石門",
     "label": "小石門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16425,16535,62,112",

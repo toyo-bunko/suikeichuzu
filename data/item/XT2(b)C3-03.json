@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "波斯北七部, XT2(b)C3-03, 02-00232, なし, 上, 西域, 波斯北七部, 朱, 裏, , C3",
+    "fulltext": "XT2(b)C3-03, 波斯北七部",
     "label": "波斯北七部",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=9,2723,102,333",

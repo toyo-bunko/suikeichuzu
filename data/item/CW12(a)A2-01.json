@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "㝠沢, CW12(a)A2-01, 00-02344, 「冥沢」か？, 地形, 中, 西12, 本図, 㝠沢, 墨, 表, 湖, A2",
+    "fulltext": "CW12(a)A2-01, 「冥沢」か？, 㝠沢",
     "label": "㝠澤",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=1570,6393,77,37",

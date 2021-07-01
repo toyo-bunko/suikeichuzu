@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "下鄩, S5W2(b)A1-38, 00-08955, なし, 南5, 西2, 本図, 下鄩, 墨, 裏, , A1",
+    "fulltext": "S5W2(b)A1-38, 下鄩",
     "label": "下鄩",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23967,14348,57,28",

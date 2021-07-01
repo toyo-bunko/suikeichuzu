@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "五水蛮, S9W1(a)A2-04, 01-04129, なし, 南9, 西1, 本図, 五水蛮, 墨, 表, , A2",
+    "fulltext": "S9W1(a)A2-04, 五水蛮",
     "label": "五水蠻",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26953,20333,35,100",

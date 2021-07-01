@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "南定, YC(a)B2-01, 03-00138, 行政, 越南, 中, 越南, 南定, 朱, 表, 省名, B2",
+    "fulltext": "YC(a)B2-01, 南定",
     "label": "南定",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=3084,3707,132,53",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "新頭河, XB2(a)A1-02, 02-00313, 地形, 下, 西域, 新頭河, 墨, 表, 河川, A1",
+    "fulltext": "XB2(a)A1-02, 新頭河",
     "label": "新頭河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=4316,3505,184,177",

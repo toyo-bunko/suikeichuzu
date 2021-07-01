@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
-    "fulltext": "祠堂, CTXY(a)0-40, 04-00595, 地点, 襄陽城図, 祠堂, 墨, 表, 亭台跡",
+    "fulltext": "CTXY(a)0-40, 祠堂",
     "label": "祠堂",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=1662,1313,155,82",

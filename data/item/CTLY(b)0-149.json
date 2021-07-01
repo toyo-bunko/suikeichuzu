@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "宣陽氷室, CTLY(b)0-149, 04-00232, 地点, 洛陽城図, 宣陽氷室, 墨, 裏, 亭台跡",
+    "fulltext": "CTLY(b)0-149, 宣陽氷室",
     "label": "宣陽冰室",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=1846,2410,218,85",

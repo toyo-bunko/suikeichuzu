@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "居庸関, N1C(b)C3-18, 00-00966, 地点, 北1, 中, 本図, 居庸関, 墨, 裏, 亭台跡, C3",
+    "fulltext": "N1C(b)C3-18, 居庸関",
     "label": "居庸關",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27982,5698,98,33",

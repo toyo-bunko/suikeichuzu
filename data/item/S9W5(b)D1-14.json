@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "東望峡, S9W5(b)D1-14, 01-04934, 地形, 南9, 西5, 本図, 東望峡, 墨, 裏, 河川, D1",
+    "fulltext": "S9W5(b)D1-14, 東望峡",
     "label": "東望峽",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=16915,21675,43,89",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "魏晋故廟地, CTLY(b)0-134, 04-00217, 地点, 洛陽城図, 魏晋故廟地, 墨, 裏, 亭台跡",
+    "fulltext": "CTLY(b)0-134, 魏晋故廟地",
     "label": "魏晉故廟地",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=1788,2033,162,188",

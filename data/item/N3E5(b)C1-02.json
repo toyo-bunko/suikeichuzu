@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "雅庫河, N3E5(b)C1-02, 00-00139, 地形, 北3, 東5, 本図, 雅庫河, 朱, 裏, 河川, C1",
+    "fulltext": "N3E5(b)C1-02, 雅庫河",
     "label": "雅庫河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=40174,2560,40,127",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "港口, YB(b)C2-03, 03-00302, 地形, 越南, 下, 越南, 港口, 朱, 裏, 河川, C2",
+    "fulltext": "YB(b)C2-03, 港口",
     "label": "港口",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=872,8234,97,124",

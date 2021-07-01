@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "康居, XT2(a)A2-01, 02-00176, 行政, 上, 西域, 康居, 墨, 表, 郡名, A2",
+    "fulltext": "XT2(a)A2-01, 康居",
     "label": "康居",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=3674,593,158,102",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "游源, S12C(a)D2-01, 01-06890, 地形, 南12, 中, 本図, 游源, 朱, 表, 河川, D2",
+    "fulltext": "S12C(a)D2-01, 游源",
     "label": "游源",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29269,26183,66,39",

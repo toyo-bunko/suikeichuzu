@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "穀水, CTLY(b)0-58, 04-00141, 地形, 洛陽城図, 穀水, 墨, 裏, 河川",
+    "fulltext": "CTLY(b)0-58, 穀水",
     "label": "穀水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=3713,2904,149,101",

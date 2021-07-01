@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu11_jushun.json",
-    "fulltext": "下蔡新城, CTSC(a)0-06, 04-00630, 行政, 寿春城図, 下蔡新城, 墨, 表, 県名（北魏）",
+    "fulltext": "CTSC(a)0-06, 下蔡新城",
     "label": "下蔡新城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu11_jushun/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1#xywh=548,615,150,133",

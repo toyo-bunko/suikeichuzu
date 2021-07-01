@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "張家口, N1W1(a)A3-06, 00-01002, 行政, 北1, 西1, 本図, 張家口, 朱, 表, 散庁, A3",
+    "fulltext": "N1W1(a)A3-06, 張家口",
     "label": "張家口",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26631,4804,72,83",

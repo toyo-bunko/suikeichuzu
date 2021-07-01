@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
-    "fulltext": "二石羊, CTSU(a)0-05, 04-00349, 地点, 睢陽城図, 二石羊, 墨, 表, 亭台跡",
+    "fulltext": "CTSU(a)0-05, 二石羊",
     "label": "二石羊",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1148,284,165,57",

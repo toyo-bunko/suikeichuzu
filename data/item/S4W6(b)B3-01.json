@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "麻子川, S4W6(b)B3-01, 00-07606, 地形, 南4, 西6, 本図, 麻子川, 朱, 裏, 河川, B3",
+    "fulltext": "S4W6(b)B3-01, 麻子川",
     "label": "麻子川",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14010,13129,97,42",

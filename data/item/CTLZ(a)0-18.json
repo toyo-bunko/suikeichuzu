@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
-    "fulltext": "営邱, CTLZ(a)0-18, 04-00546, 地点, 臨淄城図, 営邱, 墨, 表, 亭台跡",
+    "fulltext": "CTLZ(a)0-18, 営邱",
     "label": "營邱",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=924,1710,150,86",

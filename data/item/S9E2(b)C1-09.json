@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "杭州, S9E2(b)C1-09, 01-03883, 行政, 南9, 東2, 本図, 杭州, 朱, 裏, 省名, C1",
+    "fulltext": "S9E2(b)C1-09, 杭州",
     "label": "杭州",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33429,21278,60,21",

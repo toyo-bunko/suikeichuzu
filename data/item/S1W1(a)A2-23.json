@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "近山, S1W1(a)A2-23, 00-02591, 地形, 南1, 西1, 本図, 近山, 墨, 表, 山谷, A2",
+    "fulltext": "S1W1(a)A2-23, 近山",
     "label": "近山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26922,8088,55,41",

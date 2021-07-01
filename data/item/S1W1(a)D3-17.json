@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "九門, S1W1(a)D3-17, 00-02718, 行政, 南1, 西1, 本図, 九門, 墨, 表, 県名（北魏）, D3",
+    "fulltext": "S1W1(a)D3-17, 九門",
     "label": "九門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26562,9061,36,54",

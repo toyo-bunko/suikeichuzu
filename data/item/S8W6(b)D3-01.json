@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "塩亭, S8W6(b)D3-01, 01-03580, 行政, 南8, 西6, 本図, 塩亭, 朱, 裏, 県名（清）, D3",
+    "fulltext": "S8W6(b)D3-01, 塩亭",
     "label": "鹽亭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=13970,19787,67,43",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "定遠, S14W9(b)C1-03, 01-08626, 行政, 南14, 西9, 本図, 定遠, 朱, 裏, 県名（清）, C1",
+    "fulltext": "S14W9(b)C1-03, 定遠",
     "label": "定遠",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=7925,28894,74,47",

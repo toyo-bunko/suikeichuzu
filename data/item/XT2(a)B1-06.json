@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "休循, XT2(a)B1-06, 02-00185, 行政, 上, 西域, 休循, 墨, 表, 郡名, B1",
+    "fulltext": "XT2(a)B1-06, 休循",
     "label": "休循",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=3957,1706,147,85",

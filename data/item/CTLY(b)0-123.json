@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "閶闔門, CTLY(b)0-123, 04-00206, 地点, 洛陽城図, 閶闔門, 墨, 裏, 長城門",
+    "fulltext": "CTLY(b)0-123, 閶闔門",
     "label": "閶闔門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=1566,1718,178,90",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "安仁, S11C(a)C3-01, 01-06288, 行政, 南11, 中, 本図, 安仁, 朱, 表, 県名（清）, C3",
+    "fulltext": "S11C(a)C3-01, 安仁",
     "label": "安仁",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29128,24117,72,33",

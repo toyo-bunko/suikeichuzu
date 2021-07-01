@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "菊花島, N1E2(a)B3-03, 00-00726, なし, 北1, 東2, 本図, 菊花島, 朱, 表, , B3",
+    "fulltext": "N1E2(a)B3-03, 菊花島",
     "label": "菊花島",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=33572,5409,53,134",

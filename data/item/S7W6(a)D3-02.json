@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "宋煕郡, S7W6(a)D3-02, 01-02468, 行政, 南7, 西6, 本図, 宋煕郡, 墨, 表, 郡名, D3",
+    "fulltext": "S7W6(a)D3-02, 宋煕郡",
     "label": "宋熙郡",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15008,18400,96,47",

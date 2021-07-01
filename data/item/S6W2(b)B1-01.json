@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "彭山碑, S6W2(b)B1-01, 01-00701, 地点, 南6, 西2, 本図, 彭山碑, 墨, 裏, 亭台跡, B1",
+    "fulltext": "S6W2(b)B1-01, 彭山碑",
     "label": "彭山碑",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23938,15941,80,32",

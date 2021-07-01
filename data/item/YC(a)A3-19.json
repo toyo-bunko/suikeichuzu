@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "句漏, YC(a)A3-19, 03-00134, 行政, 越南, 中, 越南, 句漏, 墨, 表, 県名（北魏）, A3",
+    "fulltext": "YC(a)A3-19, 句漏",
     "label": "句漏",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2349,3723,111,67",

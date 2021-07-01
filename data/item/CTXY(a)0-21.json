@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
-    "fulltext": "桓宣碑, CTXY(a)0-21, 04-00576, なし, 襄陽城図, 桓宣碑, 墨, 表, ",
+    "fulltext": "CTXY(a)0-21, 桓宣碑",
     "label": "桓宣碑",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=1720,2023,75,194",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "百里洲, S9W3(a)C3-10, 01-04635, 中洲, なし, 南9, 西3, 本図, 百里洲, 墨, 表, , C3",
+    "fulltext": "S9W3(a)C3-10, 中洲, 百里洲",
     "label": "百里洲",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22044,21128,53,21",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "善無, N1W2(b)D2-09, 00-01264, 行政, 北1, 西2, 本図, 善無, 墨, 裏, 州郡跡, D2",
+    "fulltext": "N1W2(b)D2-09, 善無",
     "label": "善無",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23623,5954,62,42",

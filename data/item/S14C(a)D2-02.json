@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "紫金山, S14C(a)D2-02, 01-08036, 地形, 南14, 中, 本図, 紫金山, 朱, 表, 山谷, D2",
+    "fulltext": "S14C(a)D2-02, 紫金山",
     "label": "紫金山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29255,29192,98,49",

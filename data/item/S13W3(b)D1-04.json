@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "零陵郡, S13W3(b)D1-04, 01-07672, 行政, 南13, 西3, 本図, 零陵郡, 墨, 裏, 郡名, D1",
+    "fulltext": "S13W3(b)D1-04, 零陵郡",
     "label": "零陵郡",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21683,27704,90,42",

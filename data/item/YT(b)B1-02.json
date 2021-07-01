@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "来唯, YT(b)B1-02, 03-00062, 来唯は県名（水経注本文）, なし, 越南, 上, 越南, 来唯, 墨, 裏, , B1",
+    "fulltext": "YT(b)B1-02, 来唯は県名（水経注本文）, 来唯",
     "label": "來唯",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=1616,919,119,77",

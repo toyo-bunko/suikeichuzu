@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "甘泉原, CC(b)B3-07, 00-01747, 地形, 中, 中, 本図, 甘泉原, 墨, 裏, 河川, B3",
+    "fulltext": "CC(b)B3-07, 甘泉原",
     "label": "甘泉原",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27775,6646,33,85",

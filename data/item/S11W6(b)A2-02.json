@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "成湍灘, S11W6(b)A2-02, 01-06740, 地形, 南11, 西6, 本図, 成湍灘, 墨, 裏, 河川, A2",
+    "fulltext": "S11W6(b)A2-02, 成湍灘",
     "label": "成湍灘",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14309,23590,92,37",

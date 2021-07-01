@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "阿哈拉古山, N2W1(a)A3-01, 00-00541, 地形, 北2, 西1, 本図, 阿哈拉古山, 朱, 表, 山谷, A3",
+    "fulltext": "N2W1(a)A3-01, 阿哈拉古山",
     "label": "阿哈拉古山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26638,3363,162,95",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "青伊湖, S5E1(a)C2-01, 00-07878, 地形, 南5, 東1, 本図, 青伊湖, 朱, 表, 湖, C2",
+    "fulltext": "S5E1(a)C2-01, 青伊湖",
     "label": "青伊湖",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=31792,14972,95,43",

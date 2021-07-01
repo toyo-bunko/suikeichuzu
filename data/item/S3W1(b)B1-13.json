@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "成安, S3W1(b)B1-13, 00-05071, 行政, 南3, 西1, 本図, 成安, 朱, 裏, 県名（清）, B1",
+    "fulltext": "S3W1(b)B1-13, 成安",
     "label": "成安",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26475,11601,72,34",
