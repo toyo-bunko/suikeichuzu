@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu01_rekijou.json",
-    "fulltext": "右水, CTLI(a)0-05, 04-00005, 地形, 歴城図, 右水, 墨, 表, 河川",
+    "fulltext": "CTLI(a)0-05, 右水",
     "label": "右水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1646,812,80,153",

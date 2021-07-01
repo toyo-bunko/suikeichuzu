@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
-    "fulltext": "一名漢溱水, CTLZ(a)0-24, 04-00552, 地形, 臨淄城図, 一名漢溱水, 墨, 表, 河川",
+    "fulltext": "CTLZ(a)0-24, 一名漢溱水",
     "label": "一名漢溱水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=1849,2237,208,155",

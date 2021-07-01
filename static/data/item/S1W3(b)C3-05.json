@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "号山, S1W3(b)C3-05, 00-02935, 地形, 南1, 西3, 本図, 号山, 墨, 裏, 山谷, C3",
+    "fulltext": "S1W3(b)C3-05, 号山",
     "label": "號山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20891,8811,76,41",

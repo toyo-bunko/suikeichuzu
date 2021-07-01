@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "黄城, S7W1(b)D1-03, 01-01879, 別記号か？, 行政, 南7, 西1, 本図, 黄城, 墨, 裏, 郡名, D1",
+    "fulltext": "S7W1(b)D1-03, 別記号か？, 黄城",
     "label": "黄城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26447,18311,68,44",

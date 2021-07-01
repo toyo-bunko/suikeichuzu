@@ -26,7 +26,7 @@
             </div>
           </template>
           <template v-else>
-        <iframe frameBorder="0" :src="`${item.url}&embedded=true`" style="width: 100%; height: 800px;"></iframe>
+        <iframe frameBorder="0" :src="`${item.url}&embedded=true`" style="width: 100%; height: 850px;"></iframe>
     </template>
 
     </template>

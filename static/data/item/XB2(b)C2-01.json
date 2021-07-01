@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
-    "fulltext": "末悪島, XB2(b)C2-01, 02-00329, なし, 下, 西域, 末悪島, 朱, 裏, , C2",
+    "fulltext": "XB2(b)C2-01, 末悪島",
     "label": "末惡島",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1#xywh=1031,4805,249,107",

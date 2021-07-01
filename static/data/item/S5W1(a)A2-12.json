@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "小斉城, S5W1(a)A2-12, 00-08228, 地点, 南5, 西1, 本図, 小斉城, 墨, 表, 亭台跡, A2",
+    "fulltext": "S5W1(a)A2-12, 小斉城",
     "label": "小齊城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26932,14191,97,40",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "新淦, S12W1(a)A1-02, 01-06918, 行政, 南12, 西1, 本図, 新淦, 墨, 表, 県名（北魏）, A1",
+    "fulltext": "S12W1(a)A1-02, 新淦",
     "label": "新淦",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27253,24873,78,46",

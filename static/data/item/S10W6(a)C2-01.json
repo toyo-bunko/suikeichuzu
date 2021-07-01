@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "魚洞渓, S10W6(a)C2-01, 01-06020, 地形, 南10, 西6, 本図, 魚洞渓, 朱, 表, 河川, C2",
+    "fulltext": "S10W6(a)C2-01, 魚洞渓",
     "label": "魚洞溪",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=15507,22649,32,89",

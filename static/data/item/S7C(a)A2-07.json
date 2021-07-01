@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "禹聚, S7C(a)A2-07, 01-01565, なし, 南7, 中, 本図, 禹聚, 墨, 表, , A2",
+    "fulltext": "S7C(a)A2-07, 禹聚",
     "label": "禹聚",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=29438,17229,39,71",

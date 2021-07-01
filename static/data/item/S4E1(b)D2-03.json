@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "巨竜河, S4E1(b)D2-03, 00-06025, 地形, 南4, 東1, 本図, 巨竜河, 朱, 裏, 河川, D2",
+    "fulltext": "S4E1(b)D2-03, 巨竜河",
     "label": "巨龍河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30509,13949,90,37",

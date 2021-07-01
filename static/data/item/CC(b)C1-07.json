@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "聖水, CC(b)C1-07, 00-01777, 地形, 中, 中, 本図, 聖水, 墨, 裏, 河川, C1",
+    "fulltext": "CC(b)C1-07, 聖水",
     "label": "聖水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28758,7227,63,59",

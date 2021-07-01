@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "盧竜故城, N1E1(b)C2-01, 00-00778, 行政, 北1, 東1, 本図, 盧竜故城, 墨, 裏, 県跡, C2",
+    "fulltext": "N1E1(b)C2-01, 盧竜故城",
     "label": "盧龍故城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=30472,5447,156,45",

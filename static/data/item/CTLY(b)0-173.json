@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "朱桁, CTLY(b)0-173, 04-00256, なし, 洛陽城図, 朱桁, 墨, 裏, ",
+    "fulltext": "CTLY(b)0-173, 朱桁",
     "label": "朱桁",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=516,920,110,60",

@@ -48,7 +48,7 @@
           <v-row>
             <v-col cols="3"></v-col>
             <v-col cols="6">
-              <SearchAdvanced></SearchAdvanced>
+              <SearchAdvanced @close="isAdvanced = $event"></SearchAdvanced>
             </v-col>
             <v-col cols="3"></v-col>
           </v-row>
@@ -506,7 +506,7 @@ export default {
     // 初期読み込み
     const start = performance.now();
     console.log("start download")
-    let index = await axios.get(process.env.BASE_URL + '/data/index.json')
+    let index = await axios.get(process.env.BASE_URL + '/data/index_river.json')
     index = index.data
 
     console.log("end download", performance.now() - start)

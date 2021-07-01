@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
-    "fulltext": "睢陽, YG(a)0-86, 05-00086, 地点, 禹貢山水沢地所在, 睢陽, 墨, 表, 亭台跡",
+    "fulltext": "YG(a)0-86, 睢陽",
     "label": "睢陽",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=2672,953,96,48",

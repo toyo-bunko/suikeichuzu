@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "漢太上皇陵, S5W4(b)B2-05, 00-09980, 地点, 南5, 西4, 本図, 漢太上皇陵, 墨, 裏, 亭台跡, B2",
+    "fulltext": "S5W4(b)B2-05, 漢太上皇陵",
     "label": "漢太上皇陵",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=19150,14449,57,54",

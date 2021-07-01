@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "無労湖, YC(b)D1-04, 03-00230, 地形, 越南, 中, 越南, 無労湖, 墨, 裏, 湖, D1",
+    "fulltext": "YC(b)D1-04, 無労湖",
     "label": "無勞湖",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=1975,5472,91,115",

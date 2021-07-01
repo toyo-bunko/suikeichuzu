@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "紅沙渓, S11W5(a)C1-04, 01-06702, 地形, 南11, 西5, 本図, 紅沙渓, 朱, 表, 河川, C1",
+    "fulltext": "S11W5(a)C1-04, 紅沙渓",
     "label": "紅沙溪",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18269,24215,40,85",

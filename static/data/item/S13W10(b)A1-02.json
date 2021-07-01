@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "分江水, S13W10(b)A1-02, 01-08002, 地形, 南13, 西10, 本図, 分江水, 朱, 裏, 河川, A1",
+    "fulltext": "S13W10(b)A1-02, 分江水",
     "label": "分江水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=5409,26711,95,41",

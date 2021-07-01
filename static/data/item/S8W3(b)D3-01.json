@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "白水渓, S8W3(b)D3-01, 01-03345, 地形, 南8, 西3, 本図, 白水渓, 朱, 裏, 河川, D3",
+    "fulltext": "S8W3(b)D3-01, 白水渓",
     "label": "白水溪",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21147,20058,95,38",

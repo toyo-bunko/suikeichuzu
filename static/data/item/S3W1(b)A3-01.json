@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "湡水, S3W1(b)A3-01, 00-05054, 地形, 南3, 西1, 本図, 湡水, 墨, 裏, 河川, A3",
+    "fulltext": "S3W1(b)A3-01, 湡水",
     "label": "湡水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25606,10956,81,36",

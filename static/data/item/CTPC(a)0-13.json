@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu06_heijou.json",
-    "fulltext": "白登山, CTPC(a)0-13, 04-00413, 地点, 平城図, 白登山, 墨, 表, 亭台跡",
+    "fulltext": "CTPC(a)0-13, 白登山",
     "label": "白登山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu06_heijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/canvas/p1#xywh=1507,963,202,89",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu12_seito.json",
-    "fulltext": "錦官城, CTCD(a)0-33, 04-00710, 地点, 成都橋図, 錦官城, 墨, 表, 亭台跡",
+    "fulltext": "CTCD(a)0-33, 錦官城",
     "label": "錦官城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=809,2071,211,82",

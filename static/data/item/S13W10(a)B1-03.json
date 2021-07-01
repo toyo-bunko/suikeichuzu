@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "月山, S13W10(a)B1-03, 01-07970, 地形, 南13, 西10, 本図, 月山, 朱, 表, 山谷, B1",
+    "fulltext": "S13W10(a)B1-03, 月山",
     "label": "月山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=6668,27128,60,51",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "竜泉, S5W5(a)C1-10, 00-10268, 地形, 南5, 西5, 本図, 竜泉, 墨, 表, 湖, C1",
+    "fulltext": "S5W5(a)C1-10, 竜泉",
     "label": "龍泉",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=18403,15028,49,68",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "藍田郷郭, S5C(a)B3-03, 00-08009, なし, 南5, 中, 本図, 藍田郷郭, 墨, 表, , B3",
+    "fulltext": "S5C(a)B3-03, 藍田郷郭",
     "label": "藍田郷郭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28869,14458,67,79",

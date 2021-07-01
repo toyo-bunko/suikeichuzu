@@ -72,6 +72,18 @@ env.aggs = {
     label: '詳細区画',
     value: {},
     more: false,
+  },
+  水名: {
+    sort: '',
+    label: '水名',
+    value: {},
+    more: false,
+  },
+  "水経注：巻": {
+    sort: '',
+    label: '水経注：巻',
+    value: {},
+    more: false,
   }
 }
 
@@ -199,7 +211,7 @@ env.advanced = [
   {
     label: "地名/記述",
     type: "text",
-    key: "label",
+    key: "地名/記述",
     value: "",
   },
   {

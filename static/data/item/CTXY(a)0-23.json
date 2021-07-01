@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
-    "fulltext": "胡羆碑, CTXY(a)0-23, 04-00578, なし, 襄陽城図, 胡羆碑, 墨, 表, ",
+    "fulltext": "CTXY(a)0-23, 胡羆碑",
     "label": "胡羆碑",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=1588,2019,75,200",

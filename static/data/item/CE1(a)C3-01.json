@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "楽亭, CE1(a)C3-01, 00-01577, 行政, 中, 東1, 本図, 楽亭, 朱, 表, 県名（清）, C3",
+    "fulltext": "CE1(a)C3-01, 楽亭",
     "label": "樂亭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=31428,7001,85,73",

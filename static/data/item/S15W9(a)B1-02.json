@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "黒竜潭, S15W9(a)B1-02, 01-09209, 地形, 南15, 西9, 本図, 黒竜潭, 朱, 表, 河川, B1",
+    "fulltext": "S15W9(a)B1-02, 黒竜潭",
     "label": "黑龍潭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9078,30230,52,94",

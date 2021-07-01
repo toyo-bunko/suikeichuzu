@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu12_seito.json",
-    "fulltext": "南門, CTCD(a)0-12, 04-00689, 地点, 成都橋図, 南門, 墨, 表, 長城門",
+    "fulltext": "CTCD(a)0-12, 南門",
     "label": "南門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1311,1612,157,90",

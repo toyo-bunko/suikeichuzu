@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "北仮, N2W4(a)D2-01, 00-00600, なし, 北2, 西4, 本図, 北仮, 墨, 表, , D2",
+    "fulltext": "N2W4(a)D2-01, 北仮",
     "label": "北假",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20240,4547,63,98",

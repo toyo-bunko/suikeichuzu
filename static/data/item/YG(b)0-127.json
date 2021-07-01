@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
-    "fulltext": "夔州, YG(b)0-127, 05-00333, 行政, 禹貢山水沢地所在, 夔州, 朱, 裏, 郡名",
+    "fulltext": "YG(b)0-127, 夔州",
     "label": "夔州",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=1886,1273,111,61",

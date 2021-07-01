@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "雲竜門, CTLY(b)0-107, 04-00190, 地点, 洛陽城図, 雲竜門, 墨, 裏, 長城門",
+    "fulltext": "CTLY(b)0-107, 雲竜門",
     "label": "雲龍門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=2067,1345,176,86",

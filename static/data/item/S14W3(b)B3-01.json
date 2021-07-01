@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "白水, S14W3(b)B3-01, 01-08294, 地形, 南14, 西3, 本図, 白水, 朱, 裏, 河川, B3",
+    "fulltext": "S14W3(b)B3-01, 白水",
     "label": "白水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21082,28504,41,64",

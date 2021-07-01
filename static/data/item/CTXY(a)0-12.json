@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
-    "fulltext": "龎徳公宅, CTXY(a)0-12, 04-00567, 地点, 襄陽城図, 龎徳公宅, 墨, 表, 亭台跡",
+    "fulltext": "CTXY(a)0-12, 龎徳公宅",
     "label": "龎德公宅",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=2107,1336,92,250",

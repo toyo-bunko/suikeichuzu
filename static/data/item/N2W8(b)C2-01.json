@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "居延海, N2W8(b)C2-01, 00-00634, 地形, 北2, 西8, 本図, 居延海, 朱, 裏, 湖, C2",
+    "fulltext": "N2W8(b)C2-01, 居延海",
     "label": "居延海",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=9697,3907,93,121",

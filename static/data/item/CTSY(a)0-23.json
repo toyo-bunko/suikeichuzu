@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu13_sanin.json",
-    "fulltext": "文種墓, CTSY(a)0-23, 04-00735, 地点, 山陰城図, 文種墓, 墨, 表, 亭台跡",
+    "fulltext": "CTSY(a)0-23, 文種墓",
     "label": "文種墓",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1#xywh=805,826,213,101",

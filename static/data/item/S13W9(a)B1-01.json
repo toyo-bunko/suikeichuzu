@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "会理, S13W9(a)B1-01, 01-07904, 行政, 南13, 西9, 本図, 会理, 朱, 表, 散州, B1",
+    "fulltext": "S13W9(a)B1-01, 会理",
     "label": "會理",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=8871,26993,82,53",

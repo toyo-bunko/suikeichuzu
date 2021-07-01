@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu01_rekijou.json",
-    "fulltext": "舜井, CTLI(a)0-21, 04-00021, 地点, 歴城図, 舜井, 墨, 表, 井戸",
+    "fulltext": "CTLI(a)0-21, 舜井",
     "label": "舜井",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1245,2763,111,182",

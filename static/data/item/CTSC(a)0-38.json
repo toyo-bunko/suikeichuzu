@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu11_jushun.json",
-    "fulltext": "金城, CTSC(a)0-38, 04-00662, なし, 寿春城図, 金城, 墨, 表, ",
+    "fulltext": "CTSC(a)0-38, 金城",
     "label": "金城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu11_jushun/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1#xywh=1070,1516,103,176",

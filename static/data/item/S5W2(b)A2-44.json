@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "阮曲, S5W2(b)A2-44, 00-09000, 地形, 南5, 西2, 本図, 阮曲, 墨, 裏, 河川, A2",
+    "fulltext": "S5W2(b)A2-44, 阮曲",
     "label": "阮曲",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23662,14350,47,27",

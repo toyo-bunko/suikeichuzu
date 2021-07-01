@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "磨沙河, S15W9(b)D1-03, 01-09254, 地形, 南15, 西9, 本図, 磨沙河, 朱, 裏, 河川, D1",
+    "fulltext": "S15W9(b)D1-03, 磨沙河",
     "label": "磨沙河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=7901,30969,108,41",

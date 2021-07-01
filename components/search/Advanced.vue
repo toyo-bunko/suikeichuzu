@@ -31,7 +31,14 @@
       </v-col>
     </v-row>
 
+    <!-- {{isOpen}} -->
+
     <div class="text-center mt-2">
+      <v-btn rounded depressed color="grey lighten-2" @click="close()">
+              
+              {{$t("close")}}
+              
+            </v-btn>
       <v-btn rounded depressed color="grey lighten-2" @click="reset()">
               
               {{$t("reset")}}
@@ -50,7 +57,7 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component, Watch } from 'nuxt-property-decorator'
+import { Vue, Component, Prop, Emit, Watch } from 'nuxt-property-decorator'
 
 @Component({})
 export default class FullTextSearch extends Vue {
@@ -58,11 +65,12 @@ export default class FullTextSearch extends Vue {
   @Watch('$route')
   watchRoute() {
     this.updateQuery()
-    /*
-    if (query['main[query]']) {
-      this.q = query['main[query]']
-    }
-    */
+  }
+  
+
+  //@Emit()
+  close() {
+    this.$emit("close", false)
   }
 
   updateQuery(){

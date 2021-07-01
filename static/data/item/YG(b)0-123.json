@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/ukou.json",
-    "fulltext": "枝江, YG(b)0-123, 05-00329, 地形, 禹貢山水沢地所在, 枝江, 墨, 裏, 河川",
+    "fulltext": "YG(b)0-123, 枝江",
     "label": "枝江",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1#xywh=2239,1396,56,80",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "帝嚳都, S5W2(b)A2-23, 00-08979, 行政, 南5, 西2, 本図, 帝嚳都, 墨, 裏, 県跡, A2",
+    "fulltext": "S5W2(b)A2-23, 帝嚳都",
     "label": "帝嚳都",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23864,14304,67,32",

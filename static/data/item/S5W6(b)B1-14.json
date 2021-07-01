@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "濁谷水, S5W6(b)B1-14, 00-10730, 地形, 南5, 西6, 本図, 濁谷水, 墨, 裏, 河川, B1",
+    "fulltext": "S5W6(b)B1-14, 濁谷水",
     "label": "濁谷水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=14649,14482,33,87",

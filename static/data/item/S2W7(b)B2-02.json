@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "古浪, S2W7(b)B2-02, 00-04117, 行政, 南2, 西7, 本図, 古浪, 朱, 裏, 県名（清）, B2",
+    "fulltext": "S2W7(b)B2-02, 古浪",
     "label": "古浪",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=11984,9988,37,65",

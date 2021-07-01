@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
-    "fulltext": "天福, YT(a)C3-01, 03-00028, 行政, 越南, 上, 越南, 天福, 朱, 表, 府名, C3",
+    "fulltext": "YT(a)C3-01, 天福",
     "label": "天福",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2461,1706,160,85",

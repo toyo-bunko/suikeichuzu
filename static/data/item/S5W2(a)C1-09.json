@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "黄溝水, S5W2(a)C1-09, 00-08776, 地形, 南5, 西2, 本図, 黄溝水, 墨, 表, 河川, C1",
+    "fulltext": "S5W2(a)C1-09, 黄溝水",
     "label": "黄溝水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=25153,14760,36,71",

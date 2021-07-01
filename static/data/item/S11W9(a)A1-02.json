@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "台高, S11W9(a)A1-02, 01-06864, 行政, 南11, 西9, 本図, 台高, 墨, 表, 県跡, A1",
+    "fulltext": "S11W9(a)A1-02, 台高",
     "label": "臺高",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=8968,23685,78,47",

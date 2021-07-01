@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "宛温, S14W8(a)A2-02, 01-08479, 行政, 南14, 西8, 本図, 宛温, 墨, 表, 郡名, A2",
+    "fulltext": "S14W8(a)A2-02, 宛温",
     "label": "宛溫",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=11097,28043,73,37",

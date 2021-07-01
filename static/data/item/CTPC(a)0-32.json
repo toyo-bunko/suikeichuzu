@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu06_heijou.json",
-    "fulltext": "太和殿, CTPC(a)0-32, 04-00432, なし, 平城図, 太和殿, 墨, 表, ",
+    "fulltext": "CTPC(a)0-32, 太和殿",
     "label": "太和殿",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu06_heijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/canvas/p1#xywh=1304,1808,81,198",

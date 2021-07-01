@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "山坑渓, S14C(b)C3-01, 01-08051, 地形, 南14, 中, 本図, 山坑渓, 朱, 裏, 河川, C3",
+    "fulltext": "S14C(b)C3-01, 山坑渓",
     "label": "山坑溪",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28015,28906,95,44",

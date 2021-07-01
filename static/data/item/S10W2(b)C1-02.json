@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "玉山, S10W2(b)C1-02, 01-05714, 地形, 南10, 西2, 本図, 玉山, 墨, 裏, 山谷, C1",
+    "fulltext": "S10W2(b)C1-02, 玉山",
     "label": "玉山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=23974,22588,61,24",

@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "西南山, S2W3(a)B1-06, 00-03903, 地形, 南2, 西3, 本図, 西南山, 墨, 表, 山谷, B1",
+    "fulltext": "S2W3(a)B1-06, 西南山",
     "label": "西南山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22881,9977,76,39",

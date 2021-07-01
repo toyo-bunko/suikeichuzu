@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
-    "fulltext": "大道, CTXY(a)0-37, 04-00592, 地形, 襄陽城図, 大道, 墨, 表, 河川",
+    "fulltext": "CTXY(a)0-37, 大道",
     "label": "大道",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=1685,2881,95,153",

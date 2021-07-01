@@ -1,7 +1,7 @@
 {
-    "_updated": "2021-06-30",
+    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu02_gyoujou.json",
-    "fulltext": "即紫陌, CTYC(a)0-14, 04-00062, なし, 鄴城図, 即紫陌, 墨, 表, ",
+    "fulltext": "CTYC(a)0-14, 即紫陌",
     "label": "即紫陌",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu02_gyoujou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1#xywh=356,1136,199,59",
