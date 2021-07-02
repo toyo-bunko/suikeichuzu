@@ -78,7 +78,7 @@
       <v-simple-table class="mt-10">
         <template #default>
           <tbody>
-            <tr>
+            <tr v-if="false">
               <td class="py-4">
                 <v-row>
                   <v-col cols="12" sm="3">{{ $t('description') }}</v-col>
@@ -91,22 +91,30 @@
               </td>
             </tr>
             <template v-for="(agg, key) in aggs">
-              <tr v-if="!hide[key] && item[key] && item[key].length > 0" :key="key">
+              <tr v-if="!hide[agg.value] && item[agg.value] && item[agg.value].length > 0" :key="key">
                 <td class="py-4">
                   <v-row>
                     <v-col cols="12" sm="3">{{ $t(agg.label) }}</v-col>
                     <v-col cols="12" sm="9">
-                      <span v-for="(value, key2) in item[key]" :key="key2">
-                        <nuxt-link
+                      <span v-for="(value, key2) in item[agg.value]" :key="key2">
+                        <template v-if="agg.type === 'text'">
+                          {{value}}
+                        </template>
+                        <template v-else-if="agg.type === 'link'">
+                          <a :href="value" target="_blank">{{value}}</a>
+                        </template>
+                        <template v-else>
+                          <nuxt-link
                           :to="
                             localePath({
                               name: 'search',
-                              query: getQuery(key, value),
+                              query: getQuery(agg.value, value),
                             })
                           "
                           >{{ value }}</nuxt-link
                         >
-                        <br v-if="key2 !== item[key].length - 1"/>
+                        </template>
+                        <br v-if="key2 !== item[agg.value].length - 1"/>
                       </span>
                       </v-col
                     >
@@ -267,7 +275,7 @@ export default class Item extends Vue {
   }
 
   get aggs(){
-    const aggs = process.env.aggs
+    const aggs = process.env.detail
     return aggs
   }
 

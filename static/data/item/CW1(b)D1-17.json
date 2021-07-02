@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "CW1(b)D1-17, 両嶺水",
     "label": "兩嶺水",
@@ -30,6 +29,22 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "易水",
+        "滱水",
+        "巨馬水",
+        "㶟水",
+        "泒水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_2.json/canvas/p25"
+    ],
+    "水経注：巻": [
+        "巻11",
+        "巻12",
+        "巻13",
+        "補"
     ],
     "表裏": [
         "裏"

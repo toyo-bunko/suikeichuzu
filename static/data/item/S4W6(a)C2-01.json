@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S4W6(a)C2-01, 白巌水",
     "label": "白巖水",
@@ -30,6 +29,16 @@
     ],
     "墨朱": [
         "朱"
+    ],
+    "水名": [
+        "涇水",
+        "芮水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p22"
+    ],
+    "水経注：巻": [
+        "補"
     ],
     "表裏": [
         "表"

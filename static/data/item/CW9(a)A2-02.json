@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "CW9(a)A2-02, 入合黎山腹",
     "label": "入合黎山腹",
@@ -30,6 +29,16 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "弱水",
+        "呼蠶水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_2.json/canvas/p32"
+    ],
+    "水経注：巻": [
+        "補"
     ],
     "表裏": [
         "表"

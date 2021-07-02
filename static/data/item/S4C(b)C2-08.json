@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S4C(b)C2-08, 鉅野",
     "label": "鉅野",
@@ -30,6 +29,21 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "濟水2",
+        "瓠子河",
+        "汶水",
+        "泗水",
+        "洙水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p17"
+    ],
+    "水経注：巻": [
+        "巻8",
+        "巻24",
+        "巻25"
     ],
     "表裏": [
         "裏"

@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
     "fulltext": "XB1(b)C1-03, 摩竭提国巴連弗邑",
     "label": "摩竭提國巴連弗邑",
@@ -30,6 +29,12 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "河水1"
+    ],
+    "水経注：巻": [
+        "巻1"
     ],
     "表裏": [
         "裏"

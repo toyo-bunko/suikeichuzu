@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
     "fulltext": "XT1(b)B1-06, 枝水",
     "label": "枝水",
@@ -30,6 +29,12 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "河水2"
+    ],
+    "水経注：巻": [
+        "巻2"
     ],
     "表裏": [
         "裏"

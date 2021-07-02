@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S9E2(a)A1-06, 秦海塩治此",
     "label": "秦海鹽治此",
@@ -30,6 +29,15 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "漸江水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_6.json/canvas/p3"
+    ],
+    "水経注：巻": [
+        "巻40"
     ],
     "表裏": [
         "表"

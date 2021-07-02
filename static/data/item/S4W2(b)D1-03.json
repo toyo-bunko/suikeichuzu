@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S4W2(b)D1-03, 衛元君自濮陽徙此",
     "label": "衛元君自濮陽徙此",
@@ -30,6 +29,27 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "河水5",
+        "湛水",
+        "濟水1",
+        "清水",
+        "沁水",
+        "淇水",
+        "渠水",
+        "陰溝水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p19"
+    ],
+    "水経注：巻": [
+        "巻5",
+        "巻6",
+        "巻7",
+        "巻9",
+        "巻22",
+        "巻23"
     ],
     "表裏": [
         "裏"

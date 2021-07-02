@@ -54,16 +54,27 @@
           </v-row>
         </div>
 
-        <div v-if="filters.length > 0" class="mt-5">
+        <div v-if="filters.length > 0 || advancedFilters.length > 0" class="mt-5">
           <v-chip
             v-for="(filter, key) in filters"
-            :key="key"
+            :key="'fc-' + key"
             class="mr-2 my-2"
             close
             label
             @click:close="faceted(filter.label, filter.value)"
           >
-            {{ aggs[filter.label].label }}: {{ filter.value }}
+            {{ aggs[filter.label].label }} [{{$t("facet")}}]: {{ filter.value }}
+          </v-chip>
+
+          <v-chip
+            v-for="(filter, key) in advancedFilters"
+            :key="'a-' + key"
+            class="mr-2 my-2"
+            close
+            label
+            @click:close="faceted(filter.label, filter.value, '', 'advanced')"
+          >
+            {{ advancedMapOptions[filter.label].label }} [{{$t("detail")}}]: {{ filter.value }}
           </v-chip>
 
           <v-chip
@@ -408,6 +419,7 @@ export default {
       isAdvanced: false,
 
       advancedOptions: process.env.advanced,
+      //advancedMapOptions: {},
 
       bh: [
         {
@@ -446,6 +458,27 @@ export default {
         }
       }
       return filters
+    },
+    advancedFilters() {
+      const query = this.$route.query
+      const filters = []
+      for (const key in query) {
+        if (key.includes('[advanced]')) {
+          filters.push({
+            label: key.split('[')[2].split(']')[0],
+            value: query[key],
+          })
+        }
+      }
+      return filters
+    },
+    advancedMapOptions() {
+      const options = this.advancedOptions
+      const map = {}
+      for(const option of options){
+        map[option.key] = option
+      }
+      return map
     },
     sortItems(){
       const keys = ["asc", "desc"]
@@ -1004,12 +1037,13 @@ export default {
       this.items = items
     },
 
-    faceted(field, selectedValues) {
+    faceted(field, selectedValues, type = 'default', target = "refinementList") {
+      console.log({field})
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
       let values = []
       for (const queryField in query) {
-        if (queryField.includes('[refinementList][' + field + ']')) {
+        if (queryField.includes('['+target+'][' + field + ']')) {
           values.push(query[queryField])
           delete query[queryField]
         }
@@ -1030,7 +1064,7 @@ export default {
       
 
       for (let i = 0; i < values.length; i++) {
-        query['main[refinementList][' + field + '][' + i + ']'] = values[i]
+        query['main['+target+'][' + field + '][' + i + ']'] = values[i]
       }
 
       this.$router.push(

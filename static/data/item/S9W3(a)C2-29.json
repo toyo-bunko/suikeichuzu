@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S9W3(a)C2-29, 中洲, 竜洲",
     "label": "龍洲",
@@ -33,6 +32,24 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "沮水",
+        "漳水",
+        "夏水",
+        "江水2",
+        "江水3",
+        "夷水",
+        "油水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_6.json/canvas/p8"
+    ],
+    "水経注：巻": [
+        "巻32",
+        "巻34",
+        "巻35",
+        "巻37"
     ],
     "表裏": [
         "表"

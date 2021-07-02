@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S2W10(a)C1-01, 西爾哈河",
     "label": "西爾哈河",
@@ -30,6 +29,15 @@
     ],
     "墨朱": [
         "朱"
+    ],
+    "水名": [
+        "氐置水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_3/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p36"
+    ],
+    "水経注：巻": [
+        "補"
     ],
     "表裏": [
         "表"

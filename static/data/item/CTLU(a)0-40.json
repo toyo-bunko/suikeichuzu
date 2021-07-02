@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu08_rojou.json",
     "fulltext": "CTLU(a)0-40, 有道児君碑",
     "label": "有道児君碑",
@@ -30,6 +29,9 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p39"
     ],
     "表裏": [
         "表"

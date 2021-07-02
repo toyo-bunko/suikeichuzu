@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S7W1(a)B2-01, 汝水入淮",
     "label": "汝水入淮",
@@ -30,6 +29,19 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "汝水",
+        "淮水",
+        "決水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_5/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_5.json/canvas/p19"
+    ],
+    "水経注：巻": [
+        "巻21",
+        "巻30",
+        "巻32"
     ],
     "表裏": [
         "表"

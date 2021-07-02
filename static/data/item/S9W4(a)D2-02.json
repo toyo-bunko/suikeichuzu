@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S9W4(a)D2-02, 渓坪河",
     "label": "溪坪河",
@@ -30,6 +29,17 @@
     ],
     "墨朱": [
         "朱"
+    ],
+    "水名": [
+        "江水2",
+        "夷水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_6.json/canvas/p9"
+    ],
+    "水経注：巻": [
+        "巻34",
+        "巻37"
     ],
     "表裏": [
         "表"

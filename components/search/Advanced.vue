@@ -64,6 +64,7 @@ export default class FullTextSearch extends Vue {
 
   @Watch('$route')
   watchRoute() {
+    this.reset()
     this.updateQuery()
   }
   

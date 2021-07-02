@@ -93,6 +93,67 @@ env.list = [
   "冊", "図"
 ]
 
+env.detail = [
+  {
+    label: "冊",
+    value: "冊"
+  },
+  {
+    label: "記号",
+    value: "記号"
+  },
+  {
+    label: "図",
+    value: "図"
+  },
+  {
+    label: "区画南北",
+    value: "区画南北"
+  },
+  {
+    label: "区画東西",
+    value: "区画東西"
+  },
+  {
+    label: "墨朱",
+    value: "墨朱"
+  },
+  {
+    label: "表裏",
+    value: "表裏"
+  },
+  {
+    label: "分類",
+    value: "分類"
+  },
+  {
+    label: "記号説明",
+    value: "記号説明"
+  },
+  {
+    label: "詳細区画",
+    value: "詳細区画"
+  },
+  {
+    label: "水名",
+    value: "水名"
+  },
+  {
+    label: "水経注：巻",
+    value: "水経注：巻"
+  },
+  {
+    label: "備考",
+    value: "備考",
+    type: "text"
+  },
+  {
+    label: "水経注図：冊子画像",
+    value: "水経注図：冊子画像",
+    type: "link"
+  }
+]
+
 env.sort = [
   {label: "適合度", value: "_score"},
   {label: "冊", value: "冊"}

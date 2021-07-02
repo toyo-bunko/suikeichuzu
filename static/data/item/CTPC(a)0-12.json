@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu06_heijou.json",
     "fulltext": "CTPC(a)0-12, 白登台",
     "label": "白登臺",
@@ -30,6 +29,9 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p38"
     ],
     "表裏": [
         "表"

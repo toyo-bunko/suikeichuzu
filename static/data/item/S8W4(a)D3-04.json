@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S8W4(a)D3-04, 巫山",
     "label": "巫山",
@@ -30,6 +29,19 @@
     ],
     "墨朱": [
         "朱"
+    ],
+    "水名": [
+        "江水1",
+        "江水2",
+        "夷水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_5/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_5.json/canvas/p36"
+    ],
+    "水経注：巻": [
+        "巻33",
+        "巻34",
+        "巻37"
     ],
     "表裏": [
         "表"
