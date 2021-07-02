@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S3W1(b)B1-06, 白渠水",
+    "fulltext": "S3W1(b)B1-06, 00-05064, 地形, 南3, 西1, 本図, 白渠水, 墨, 裏, 河川, B1",
     "label": "白渠水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=26277,11399,85,64",

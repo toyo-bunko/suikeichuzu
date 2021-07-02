@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S1C(b)A1-03, 章武郡",
+    "fulltext": "S1C(b)A1-03, 00-02468, 行政, 南1, 中, 本図, 章武郡, 墨, 裏, 郡名, A1",
     "label": "章武郡",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28711,8100,105,56",
