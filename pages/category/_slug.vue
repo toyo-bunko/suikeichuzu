@@ -10,11 +10,20 @@
       </v-container>
     </v-sheet>
     <v-container class="my-5">
-      <div class="text-center">
+
+      <v-tabs v-model="tabValue" class="mb-10">
         <template v-for="(aggList, aggField) in aggs">
-          <v-btn v-if="!aggList.hide" class="ma-1" depressed color="primary" :to="localePath({name: 'category-slug', params: {slug: aggField}})">{{aggField}}</v-btn>
+          <v-tab
+            v-if="!aggList.hide"
+            :key="aggField"
+            class="ma-1"
+            depressed
+            color="primary"
+            :to="localePath({name: 'category-slug', params: {slug: aggField}})"
+            >{{ aggList.label }}</v-tab
+          >
         </template>
-        </div>
+      </v-tabs>
 
       <h2 class="my-5">{{$route.params.slug}}</h2>
 
@@ -325,7 +334,7 @@ export default {
     // 初期読み込み
     const start = performance.now();
     console.log("start download")
-    let index = await axios.get(process.env.BASE_URL + '/data/index.json')
+    let index = await axios.get(process.env.BASE_URL + '/data/index_river.json')
     index = index.data
 
     console.log("end download", performance.now() - start)

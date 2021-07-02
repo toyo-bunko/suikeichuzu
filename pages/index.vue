@@ -122,6 +122,17 @@ export default class about extends Vue {
       icon: 'mdi-view-list',
     },
     {
+      label: "水名一覧",
+      path: {
+        name: "category-slug",
+        params: {
+          slug: '水名',
+        }
+      },
+      description: '',
+      icon: 'mdi-water',
+    },
+    {
       label: this.$t('category'),
       path: {
         name: 'category',
@@ -130,20 +141,8 @@ export default class about extends Vue {
       icon: 'mdi-tag',
     },
     {
-      label: this.$t('image_list'),
-      href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
-      description: '',
-      icon: 'mdi-image',
-    },
-    {
-      label: "水名一覧",
-      href: "https://suikeichu.web.app/river/",
-      description: '',
-      icon: 'mdi-view-list',
-    },
-    {
-      label: "冊子画像一覧",
-      href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://toyo-bunko.github.io/app-suikeichuuzu/data/collection.json",
+      label: "冊子画像一覧（現在はBasic認証のためにご利用いただけません。）",
+      href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/sjzt.json",
       description: '',
       icon: 'mdi-view-list',
     },
@@ -168,6 +167,12 @@ export default class about extends Vue {
       },
       description: '',
       icon: 'mdi-cog',
+    },
+    {
+      label: this.$t('iiif_collection'),
+      href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
+      description: '',
+      icon: 'mdi-image',
     },
     /*
     {

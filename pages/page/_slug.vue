@@ -39,7 +39,7 @@ export default class Item extends Vue {
     }
   }
 
-  title() {
+  get title() {
     return (this as any).page.title
   }
 
