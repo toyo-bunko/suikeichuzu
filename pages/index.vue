@@ -124,10 +124,7 @@ export default class about extends Vue {
     {
       label: "水名一覧",
       path: {
-        name: "category-slug",
-        params: {
-          slug: '水名',
-        }
+        name: "river",
       },
       description: '',
       icon: 'mdi-water',

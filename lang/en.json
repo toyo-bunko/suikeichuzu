@@ -397,5 +397,11 @@
   "results" : "results",
   "collection": "Collection",
   "東洋文庫" : "Toyo Bunko",
-  "水経注図" : "Suikeichuzu"
+  "水経注図" : "Suikeichuzu",
+  "巻": "Volume",
+  "画像": "Image",
+  "画像をみる" : "View",
+  "rivers" : "River List",
+  "地図名" : "Name",
+  "地図" : "Map"
 }
