@@ -154,9 +154,9 @@ export default class FullTextSearch extends Vue {
       queries.push(item.q["main[query]"])
     }
 
-    //if(queries.includes(keywordStr)){
-    items.splice(queries.indexOf(keywordStr), 1)
-    //}
+    if(queries.includes(keywordStr)){
+      items.splice(queries.indexOf(keywordStr), 1)
+    }
 
     items.unshift({
       label: keywordStr === "" ? "全件表示" : keywordStr,
