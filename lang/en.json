@@ -56,7 +56,7 @@
   "after": "Time",
   "asc": "Asc",
   "desc": "Desc",
-  "detail": "Detail",
+  "detail": "Advanced",
   "next": "Next Item",
   "previous": "Previous Item",
   "category": "Category",
@@ -358,7 +358,7 @@
   "対象データ": "Data",
   "メニューバー": "Menu",
   "全文検索": "Full text search",
-  "Category": "Type",
+  "Category": "Category",
   "Compound": "Single/Compound",
   "Class": "Category Class",
   "reset": "Reset",
@@ -394,5 +394,8 @@
   "cancel": "Cancel",
   "refine": "Refine",
   "show all": "Show All",
-  "results" : "results"
+  "results" : "results",
+  "collection": "Collection",
+  "東洋文庫" : "Toyo Bunko",
+  "水経注図" : "Suikeichuzu"
 }

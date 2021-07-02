@@ -15,9 +15,9 @@
         <template v-slot:default>
           <thead>
             <tr>
-              <th class="text-left">{{ $t('地図名') }}</th>
-              <th class="text-left">{{ $t('地図') }}</th>
-              <th class="text-left">{{ $t('地図') }}</th>
+              <th class="text-left">{{ $t('name') }}</th>
+              <!-- <th class="text-left">{{ $t('地図') }}</th> -->
+              <th class="text-left">{{ $t('map') }}</th>
             </tr>
           </thead>
           <tbody>
@@ -27,25 +27,15 @@
                   :to="localePath({ name: 'search', query: { 'main[refinementList][図][0]': item.label, layout: 'table' } })"
                   >{{ item.label }}</nuxt-link
                 >
-                <!--
-                <nuxt-link
-                  :to="localePath({ name: 'list-id', params: { id: item.id } })"
-                  >{{ item.label }}</nuxt-link
-                >
-                -->
               </td>
+              <!--
               <td>
-                <!--
-                <a
-                  :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}&mode=annotation&lang=ja`"
-                  >全体図</a
-                >
-                -->
                 <a
                   :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://static.toyobunko-lab.jp/suikeichuzu_data/curation/${item.id}.json&mode=annotation&lang=ja`"
                   >IIIF Curation Viewer</a
                 >
               </td>
+              -->
               <td>
                 <a
                     :href="`https://nakamura196.github.io/i3/map/?curation=https://static.toyobunko-lab.jp/suikeichuzu_data/curation/${item.id}.json`"

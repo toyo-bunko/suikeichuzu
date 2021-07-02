@@ -32,21 +32,11 @@
     </v-row>
 
     <div class="text-center mt-2">
-      <v-btn v-if="showCloseBtn" rounded depressed color="grey lighten-2" @click="close()">
-              
-              {{$t("close")}}
-              
-            </v-btn>
-      <v-btn rounded depressed color="grey lighten-2" @click="reset()">
-              
-              {{$t("reset")}}
-              
-            </v-btn>
-     <v-btn rounded depressed color="primary" @click="search()">
-              
-              {{$t("search")}}
-              
-            </v-btn>
+      <v-btn class="ma-1" v-if="showCloseBtn" rounded depressed color="grey lighten-2" @click="close()">
+        {{$t("close")}}
+        </v-btn>
+      <v-btn class="ma-1" rounded depressed color="grey lighten-2" @click="reset()">{{$t("reset")}}</v-btn>
+     <v-btn class="ma-1" rounded depressed color="primary" @click="search()">{{$t("search")}}</v-btn>
     </div>
 
     

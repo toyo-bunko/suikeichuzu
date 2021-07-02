@@ -15,15 +15,15 @@
       rounded
       dense
       hide-details
-      :label2="$t('search')"
-      label="検索キーワードを入力"
+      :label="$t('search')"
+      label2="検索キーワードを入力"
       clearable
       clear-icon="mdi-close-circle"
       append-icon="mdi-magnify"
       :background-color="backgroundColor"
       @click:append="search"
       @keydown.enter="trigger"
-      v-on="on"
+      v-on="head ? on : false"
       placeholder="検索キーワードを入力"
     ></v-text-field>
       </template>

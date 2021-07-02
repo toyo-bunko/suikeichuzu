@@ -3,28 +3,25 @@
     <div>
       <v-navigation-drawer v-model="drawer" app :temporary="true">
         <v-list>
-          <v-list-item link :to="localePath({ name: 'index' })" exact>
-            <v-list-item-action>
-              <v-icon>mdi-home</v-icon>
-            </v-list-item-action>
-            <v-list-item-content>
-              <v-list-item-title>Home</v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
-
-          <v-list-item link :to="localePath({ name: 'search' })">
-            <v-list-item-action>
-              <v-icon>mdi-magnify</v-icon>
-            </v-list-item-action>
-            <v-list-item-content>
-              <v-list-item-title>{{ $t('search') }}</v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
-        </v-list>
+        <v-list-item
+          v-for="(item, key) in menu"
+          :key="key"
+          :to="item.to"
+          :href="item.href"
+          link
+        >
+          <v-list-item-action v-if="item.icon">
+            <v-icon>{{ item.icon }}</v-icon>
+          </v-list-item-action>
+          <v-list-item-content>
+            <span>{{ $t(item.label) }}</span>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
       </v-navigation-drawer>
 
       <v-app-bar dark>
-        <v-app-bar-nav-icon v-if="false" @click.stop="drawer = !drawer" />
+        <v-app-bar-nav-icon v-if="isMobile" @click.stop="drawer = !drawer" />
         <v-toolbar-title>
           <nuxt-link
             :to="
@@ -45,6 +42,22 @@
         </template>
 
         <v-spacer></v-spacer>
+
+        <template v-if="!isMobile">
+          <v-btn
+            v-for="(item, key) in menu"
+            :key="key"
+            class="ma-1"
+            text
+            depressed
+            :to="item.to"
+            :href="item.href"
+            exact
+          >
+            <v-icon v-if="item.icon" class="mr-1">{{ item.icon }}</v-icon>
+            {{ $t(item.label) }}
+          </v-btn>
+        </template>
 
         <v-menu offset-y>
           <template #activator="{ on }">
@@ -116,7 +129,7 @@ export default class search extends Vue {
   baseUrl: string = process.env.BASE_URL || ''
   title: any = this.$t(process.env.siteName as any)
 
-  footer: any = this.$t(process.env.footer as any)
+  footer: any = process.env.footer
 
   onScroll(e: any): void {
     if (typeof window === 'undefined') return
@@ -127,6 +140,38 @@ export default class search extends Vue {
   toTop(): void {
     // @ts-ignore
     this.$vuetify.goTo(0)
+  }
+
+  get menu(): any[] {
+    return [
+    {
+      label: "detail",
+      to: this.localePath({ name: 'advanced' }),
+    },
+    {
+      label: "collection",
+      to: this.localePath({ name: 'collection' }),
+    },
+    {
+      label: "category",
+      to: this.localePath({ name: 'category' }),
+    },
+    {
+      label: "about_",
+      to: this.localePath({
+        name: 'page-slug',
+        params: { slug: 'about' },
+      }),
+    }
+  ]
+  }
+
+  get isMobile() {
+    if (['xs', 'sm'].includes(this.$vuetify.breakpoint.name)) {
+      return true
+    } else {
+      return false
+    }
   }
 }
 </script>
