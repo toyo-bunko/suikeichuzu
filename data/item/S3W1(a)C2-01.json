@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S3W1(a)C2-01, 大名",
+    "fulltext": "S3W1(a)C2-01, 00-04996, 行政, 南3, 西1, 本図, 大名, 朱, 表, 府名, C2",
     "label": "大名",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=27128,11729,61,35",

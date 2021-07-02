@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S3E1(a)D3-14, 図の「山」は「水」の誤り, 連綿水",
+    "fulltext": "S3E1(a)D3-14, 00-04462, 図の「山」は「水」の誤り, 地形, 南3, 東1, 本図, 連綿水, 墨, 表, 河川, D3",
     "label": "連綿水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=31255,12345,36,85",

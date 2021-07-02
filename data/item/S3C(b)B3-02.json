@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S3C(b)B3-02, 記号が二重丸, 聊城",
+    "fulltext": "S3C(b)B3-02, 00-04830, 記号が二重丸, なし, 南3, 中, 本図, 聊城, 墨, 裏, , B3",
     "label": "聊城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=28029,11440,73,39",

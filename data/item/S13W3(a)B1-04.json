@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S13W3(a)B1-04, 竜穴",
+    "fulltext": "S13W3(a)B1-04, 01-07630, 地形, 南13, 西3, 本図, 竜穴, 墨, 表, 河川, B1",
     "label": "龍穴",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=22750,27029,53,82",

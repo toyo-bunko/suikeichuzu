@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu12_seito.json",
-    "fulltext": "CTCD(a)0-11, 文翁講堂",
+    "fulltext": "CTCD(a)0-11, 04-00688, 地点, 成都橋図, 文翁講堂, 墨, 表, 亭台跡",
     "label": "文翁講堂",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1313,1400,157,168",

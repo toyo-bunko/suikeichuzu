@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S14W2(a)C1-02, 南安の誤記, 西安",
+    "fulltext": "S14W2(a)C1-02, 01-08110, 南安の誤記, 行政, 南14, 西2, 本図, 西安, 朱, 表, 府名, C1",
     "label": "西安",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=24967,28768,73,40",

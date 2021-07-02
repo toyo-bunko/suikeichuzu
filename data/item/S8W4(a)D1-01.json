@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S8W4(a)D1-01, 『水経注』には「縁江歩路所由」。, 沿江歩路所由",
+    "fulltext": "S8W4(a)D1-01, 01-03362, 『水経注』には「縁江歩路所由」。, 地形, 南8, 西4, 本図, 沿江歩路所由, 墨, 表, 山谷, D1",
     "label": "沿江歩路所由",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20545,20069,70,78",

@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S1W7(b)D1-01, 『漢書』地理志 下に見える水名, 松陜水",
+    "fulltext": "S1W7(b)D1-01, 00-03030, 『漢書』地理志 下に見える水名, 地形, 南1, 西7, 本図, 松陜水, 墨, 裏, 河川, D1",
     "label": "柗陜水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=12276,9172,115,47",
