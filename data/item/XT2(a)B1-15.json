@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
     "fulltext": "XT2(a)B1-15, 発源蔥嶺西流之水",
     "label": "發源蔥嶺西流之水",
@@ -30,6 +29,12 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "河水2"
+    ],
+    "水経注：巻": [
+        "巻2"
     ],
     "表裏": [
         "表"

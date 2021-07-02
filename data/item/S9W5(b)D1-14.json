@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S9W5(b)D1-14, 東望峡",
     "label": "東望峽",
@@ -30,6 +29,15 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "江水1"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_6.json/canvas/p11"
+    ],
+    "水経注：巻": [
+        "巻33"
     ],
     "表裏": [
         "裏"

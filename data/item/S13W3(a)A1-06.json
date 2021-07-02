@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S13W3(a)A1-06, 酃",
     "label": "酃",
@@ -30,6 +29,20 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "資水",
+        "湘水",
+        "深水",
+        "鍾水",
+        "耒水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_7/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_7.json/canvas/p16"
+    ],
+    "水経注：巻": [
+        "巻38",
+        "巻39"
     ],
     "表裏": [
         "表"

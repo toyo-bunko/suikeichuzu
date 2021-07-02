@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S9W6(b)A3-02, 五婦水口",
     "label": "五婦水口",
@@ -30,6 +29,20 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "漾水",
+        "潛水",
+        "涪水",
+        "梓橦水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_6.json/canvas/p12"
+    ],
+    "水経注：巻": [
+        "巻20",
+        "巻29",
+        "巻32"
     ],
     "表裏": [
         "裏"

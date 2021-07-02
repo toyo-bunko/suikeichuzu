@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S5W2(a)D2-10, 大陵",
     "label": "大陵",
@@ -30,6 +29,39 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "河水4",
+        "河水5",
+        "湛水",
+        "濟水1",
+        "洛水",
+        "伊水",
+        "瀍水",
+        "澗水",
+        "穀水",
+        "甘水",
+        "汝水",
+        "潁水",
+        "洧水",
+        "潩水",
+        "潧水",
+        "渠水",
+        "㶏水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p32"
+    ],
+    "水経注：巻": [
+        "巻4",
+        "巻5",
+        "巻6",
+        "巻7",
+        "巻15",
+        "巻16",
+        "巻21",
+        "巻22",
+        "巻31"
     ],
     "表裏": [
         "表"

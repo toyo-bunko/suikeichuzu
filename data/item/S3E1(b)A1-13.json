@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S3E1(b)A1-13, 系水",
     "label": "系水",
@@ -30,6 +29,26 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "濟水2",
+        "瓠子河",
+        "汶水",
+        "沂水",
+        "洙水",
+        "沭水",
+        "巨洋水",
+        "淄水",
+        "濰水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p4"
+    ],
+    "水経注：巻": [
+        "巻8",
+        "巻24",
+        "巻25",
+        "巻26"
     ],
     "表裏": [
         "裏"

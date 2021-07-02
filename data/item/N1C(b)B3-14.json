@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "N1C(b)B3-14, ☆ここは非常に分かりにくいが、注文をみると「温泉」があるのみ。故にここは「温湯」が縦に書かれ、その左右に「山」があると解される。温湯は左隅のゴチャゴチャした真中にもある。, 山",
     "label": "山",
@@ -33,6 +32,20 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "㶟水",
+        "㶟餘水",
+        "沽河",
+        "鮑邱水",
+        "濡水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_2.json/canvas/p8"
+    ],
+    "水経注：巻": [
+        "巻13",
+        "巻14"
     ],
     "表裏": [
         "裏"

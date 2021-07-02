@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
     "fulltext": "XB1(b)B3-04, 沙祇",
     "label": "沙祇",
@@ -30,6 +29,12 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "河水1"
+    ],
+    "水経注：巻": [
+        "巻1"
     ],
     "表裏": [
         "裏"

@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S5W1(a)A2-11, 故成安",
     "label": "故成安",
@@ -30,6 +29,24 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "濟水1",
+        "洧水",
+        "潩水",
+        "渠水",
+        "陰溝水",
+        "汳水",
+        "雎水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p31"
+    ],
+    "水経注：巻": [
+        "巻7",
+        "巻22",
+        "巻23",
+        "巻24"
     ],
     "表裏": [
         "表"

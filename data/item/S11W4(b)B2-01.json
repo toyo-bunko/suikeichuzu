@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S11W4(b)B2-01, 永綏",
     "label": "永綏",
@@ -30,6 +29,17 @@
     ],
     "墨朱": [
         "朱"
+    ],
+    "水名": [
+        "沅水",
+        "資水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_6.json/canvas/p36"
+    ],
+    "水経注：巻": [
+        "巻37",
+        "巻38"
     ],
     "表裏": [
         "裏"

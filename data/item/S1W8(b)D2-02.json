@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S1W8(b)D2-02, 湛水東西二源",
     "label": "湛水東西二源",
@@ -30,6 +29,17 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "弱水",
+        "黑水",
+        "谷水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_3/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p17"
+    ],
+    "水経注：巻": [
+        "補"
     ],
     "表裏": [
         "裏"

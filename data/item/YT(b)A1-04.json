@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/etsunan.json",
     "fulltext": "YT(b)A1-04, 賭呪河",
     "label": "賭咒河",
@@ -30,6 +29,19 @@
     ],
     "墨朱": [
         "朱"
+    ],
+    "水名": [
+        "温水",
+        "葉榆水",
+        "斤江水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32"
+    ],
+    "水経注：巻": [
+        "巻36",
+        "巻37",
+        "巻40"
     ],
     "表裏": [
         "裏"

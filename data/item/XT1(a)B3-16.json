@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/saiiki.json",
     "fulltext": "XT1(a)B3-16, 北河",
     "label": "北河",
@@ -30,6 +29,12 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "河水2"
+    ],
+    "水経注：巻": [
+        "巻2"
     ],
     "表裏": [
         "表"

@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "CC(b)A1-01, 沽水",
     "label": "沽水",
@@ -30,6 +29,30 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "淇水",
+        "濁漳水",
+        "易水",
+        "聖水",
+        "巨馬水",
+        "㶟水",
+        "㶟餘水",
+        "沽河",
+        "鮑邱水",
+        "滹沱河"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_2.json/canvas/p24"
+    ],
+    "水経注：巻": [
+        "巻9",
+        "巻10",
+        "巻11",
+        "巻12",
+        "巻13",
+        "巻14",
+        "補"
     ],
     "表裏": [
         "裏"

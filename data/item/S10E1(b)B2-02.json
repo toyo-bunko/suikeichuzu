@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S10E1(b)B2-02, 漸江水",
     "label": "漸江水",
@@ -30,6 +29,17 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "廬江水",
+        "漸江水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_6.json/canvas/p18"
+    ],
+    "水経注：巻": [
+        "巻39",
+        "巻40"
     ],
     "表裏": [
         "裏"

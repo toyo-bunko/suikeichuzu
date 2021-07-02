@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S6W6(a)D1-04, 張魯城",
     "label": "張魯城",
@@ -30,6 +29,21 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "漾水",
+        "沔水1",
+        "羌水",
+        "桓水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_5/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_5.json/canvas/p10"
+    ],
+    "水経注：巻": [
+        "巻20",
+        "巻27",
+        "巻32",
+        "巻36"
     ],
     "表裏": [
         "表"

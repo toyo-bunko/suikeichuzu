@@ -1,5 +1,4 @@
 {
-    "_updated": "2021-07-01",
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
     "fulltext": "S7W2(b)C1-09, 廟",
     "label": "廟",
@@ -30,6 +29,21 @@
     ],
     "墨朱": [
         "墨"
+    ],
+    "水名": [
+        "湍水",
+        "白水",
+        "泚水",
+        "淮水",
+        "淯水"
+    ],
+    "水経注図：冊子画像": [
+        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_5/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_5.json/canvas/p21"
+    ],
+    "水経注：巻": [
+        "巻29",
+        "巻30",
+        "巻31"
     ],
     "表裏": [
         "裏"
