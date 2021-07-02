@@ -40,7 +40,7 @@
 
         <template v-if="$vuetify.breakpoint.name != 'xs'">
           <div class="ml-10">
-            <FullTextSearch />
+            <FullTextSearch :head="true"/>
           </div>
         </template>
 

@@ -1,5 +1,5 @@
 <template>
-  <div class="grey lighten-5 pa-5">
+  <div>
 
     <v-row v-for="(config, key) in configs" :key="key" dense>
       <v-col cols="3">
@@ -31,10 +31,8 @@
       </v-col>
     </v-row>
 
-    <!-- {{isOpen}} -->
-
     <div class="text-center mt-2">
-      <v-btn rounded depressed color="grey lighten-2" @click="close()">
+      <v-btn v-if="showCloseBtn" rounded depressed color="grey lighten-2" @click="close()">
               
               {{$t("close")}}
               
@@ -61,6 +59,9 @@ import { Vue, Component, Prop, Emit, Watch } from 'nuxt-property-decorator'
 
 @Component({})
 export default class FullTextSearch extends Vue {
+
+  @Prop({default: false})
+  showCloseBtn!: boolean
 
   @Watch('$route')
   watchRoute() {

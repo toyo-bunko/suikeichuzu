@@ -47,8 +47,8 @@
         <div v-show="isAdvanced" class="py-10">
           <v-row>
             <v-col cols="3"></v-col>
-            <v-col cols="6">
-              <SearchAdvanced @close="isAdvanced = $event"></SearchAdvanced>
+            <v-col cols="6" class="grey lighten-5 pa-5">
+              <SearchAdvanced @close="isAdvanced = $event" :showCloseBtn="true"></SearchAdvanced>
             </v-col>
             <v-col cols="3"></v-col>
           </v-row>
