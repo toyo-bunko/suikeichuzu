@@ -167,7 +167,7 @@ export default class search extends Vue {
   }
 
   get isMobile() {
-    if (['xs', 'sm'].includes(this.$vuetify.breakpoint.name)) {
+    if (['xs', 'sm'].includes((this as any).$vuetify.breakpoint.name)) {
       return true
     } else {
       return false

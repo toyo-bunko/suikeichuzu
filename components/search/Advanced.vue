@@ -1,6 +1,5 @@
 <template>
   <div>
-
     <v-row v-for="(config, key) in configs" :key="key" dense>
       <v-col cols="3">
         <v-subheader>{{config.label}}</v-subheader>
@@ -38,10 +37,7 @@
       <v-btn class="ma-1" rounded depressed color="grey lighten-2" @click="reset()">{{$t("reset")}}</v-btn>
      <v-btn class="ma-1" rounded depressed color="primary" @click="search()">{{$t("search")}}</v-btn>
     </div>
-
-    
   </div>
-  <!-- class="mr-2" dark -->
 </template>
 
 <script lang="ts">
