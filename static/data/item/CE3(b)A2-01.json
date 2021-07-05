@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "CE3(b)A2-01, 00-01531, 地形, 中, 東3, 本図, 復州河, 朱, 裏, 河川, A2",
+    "fulltext": "CE3(b)A2-01, 00-01531, 地形, 中, 東3, 本図, 復州河, 朱, 裏, 河川, A2, ",
     "label": "復州河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=35236,6272,46,105",

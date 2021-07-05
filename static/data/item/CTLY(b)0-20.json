@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "CTLY(b)0-20, 04-00103, 地点, 洛陽城図, 建春門, 墨, 裏, 長城門",
+    "fulltext": "CTLY(b)0-20, 04-00103, 地点, 洛陽城図, 建春門, 墨, 裏, 長城門穀水, 巻16",
     "label": "建春門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=3059,1049,164,97",

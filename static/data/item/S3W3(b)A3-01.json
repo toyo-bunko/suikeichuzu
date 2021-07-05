@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S3W3(b)A3-01, 00-05409, 地形, 南3, 西3, 本図, 辱水, 墨, 裏, 河川, A3",
+    "fulltext": "S3W3(b)A3-01, 00-05409, 地形, 南3, 西3, 本図, 辱水, 墨, 裏, 河川, A3河水3, 河水4, 汾水, 巻3, 巻4, 巻6",
     "label": "辱水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=20816,11025,44,77",

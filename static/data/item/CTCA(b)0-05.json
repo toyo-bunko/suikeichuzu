@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu04_chouan.json",
-    "fulltext": "CTCA(b)0-05, 04-00299, なし, 長安城図, 即亥門, 墨, 裏, ",
+    "fulltext": "CTCA(b)0-05, 04-00299, なし, 長安城図, 即亥門, 墨, 裏, 渭水3, 巻19",
     "label": "即亥門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1#xywh=819,162,198,73",

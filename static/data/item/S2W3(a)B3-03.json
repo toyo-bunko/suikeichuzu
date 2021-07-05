@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "S2W3(a)B3-03, 00-03911, 地形, 南2, 西3, 本図, 北川河, 朱, 表, 河川, B3",
+    "fulltext": "S2W3(a)B3-03, 00-03911, 地形, 南2, 西3, 本図, 北川河, 朱, 表, 河川, B3河水3, 汾水, 文水, 原公水, 巻3, 巻6",
     "label": "北川河",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=21959,9911,69,28",

@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu09_rinshi.json",
-    "fulltext": "CTLZ(a)0-02, 04-00530, なし, 臨淄城図, 東郭, 墨, 表, ",
+    "fulltext": "CTLZ(a)0-02, 04-00530, なし, 臨淄城図, 東郭, 墨, 表, 淄水, 巻26",
     "label": "東郭",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1#xywh=1741,1589,92,196",

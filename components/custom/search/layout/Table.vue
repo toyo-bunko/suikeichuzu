@@ -5,8 +5,9 @@
           <thead>
             <tr>
               <th></th>
+              <th class="text-left">{{ $t('地名') }}</th>
               <th class="text-left">{{ $t('legend') }}</th>
-              <th class="text-left">{{ $t('地図名') }}</th>
+              
               <th class="text-left">{{ $t('拡大図') }}</th>
               <th></th>
             </tr>
@@ -35,16 +36,6 @@
                     </td>
 
                     <td>
-
-                      <img
-                  class="mx-2 mt-2"
-                  :src="getImage(item.記号)"
-                  width="30px"
-                />
-                {{ getLegend(item.記号) }}
-
-                    </td>
-              <td>
                 <nuxt-link
                   :to="
                       localePath({
@@ -61,6 +52,18 @@
                 >
                 -->
               </td>
+
+                    <td>
+
+                      <img
+                  class="mx-2 mt-2"
+                  :src="getImage(item.記号)"
+                  width="30px"
+                />
+                {{ getLegend(item.記号) }}
+
+                    </td>
+              
               <td>
                 <!--
                 <a

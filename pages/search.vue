@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
+    <v-sheet v-if="isBc" color="grey lighten-2">
       <v-container fluid class="py-4">
         <v-breadcrumbs class="py-0" :items="bh">
           <template #divider>
@@ -29,17 +29,22 @@
       <template v-else>
         <v-row class="mt-2" dense>
           <v-col cols="12" sm="10">
-
             <FullTextSearch background-color="grey lighten-3"></FullTextSearch>
-
           </v-col>
 
-          <v-col cols="12" sm="2" class="text-right">
-
-            <v-btn rounded depressed color="grey lighten-2" @click="isAdvanced = !isAdvanced">
-              
-              <v-icon class="mr-1">mdi-menu</v-icon> {{$t("detail")}}
-              
+          <v-col
+            v-if="advancedOptions.length > 0"
+            cols="12"
+            sm="2"
+            class="text-right"
+          >
+            <v-btn
+              rounded
+              depressed
+              color="grey lighten-2"
+              @click="isAdvanced = !isAdvanced"
+            >
+              <v-icon class="mr-1">mdi-menu</v-icon> {{ $t('detail') }}
             </v-btn>
           </v-col>
         </v-row>
@@ -54,27 +59,16 @@
           </v-row>
         </div>
 
-        <div v-if="filters.length > 0 || advancedFilters.length > 0" class="mt-5">
+        <div v-if="filters.length > 0" class="mt-5">
           <v-chip
             v-for="(filter, key) in filters"
-            :key="'fc-' + key"
+            :key="key"
             class="mr-2 my-2"
             close
             label
             @click:close="faceted(filter.label, filter.value)"
           >
-            {{ aggs[filter.label].label }} [{{$t("facet")}}]: {{ filter.value }}
-          </v-chip>
-
-          <v-chip
-            v-for="(filter, key) in advancedFilters"
-            :key="'a-' + key"
-            class="mr-2 my-2"
-            close
-            label
-            @click:close="faceted(filter.label, filter.value, '', 'advanced')"
-          >
-            {{ advancedMapOptions[filter.label].label }} [{{$t("detail")}}]: {{ filter.value }}
+            {{ aggs[filter.label].label }}: <c-render :value="filter.value" />
           </v-chip>
 
           <v-chip
@@ -89,9 +83,16 @@
 
         <v-row class="mt-5" dense>
           <v-col cols="12" md="4">
-            
             <h3 class="my-0">
-              <v-btn fab depressed color="primary" small class="mr-2" @click="isFacetOpen = !isFacetOpen"><v-icon>mdi-menu</v-icon></v-btn>
+              <v-btn
+                fab
+                depressed
+                color="primary"
+                small
+                class="mr-2"
+                @click="isFacetOpen = !isFacetOpen"
+                ><v-icon>mdi-menu</v-icon></v-btn
+              >
 
               {{ $t('search_result') }}: {{ total.toLocaleString() }}
               {{ $t('hits') }}
@@ -99,8 +100,8 @@
           </v-col>
           <v-col cols="12" sm="6" md="2">
             <v-select
-              hide-details
               v-model="size"
+              hide-details
               outlined
               rounded
               :items="[
@@ -114,9 +115,9 @@
           </v-col>
           <v-col cols="12" sm="6" md="3">
             <v-select
+              v-model="sort"
               hide-details
               class="mb-0"
-              v-model="sort"
               outlined
               rounded
               :items="sortItems"
@@ -126,37 +127,19 @@
           </v-col>
 
           <v-col cols="12" md="3" class="text-right">
-            <v-btn icon @click="changeLayout(option.value)" v-for="(option, key) in layouts" :key="key"
-              ><v-icon :color="layout_ === option.value ? 'primary' : ''"
-                >{{option.icon}}</v-icon
-              ></v-btn
+            <v-btn
+              v-for="(option, key) in layouts"
+              :key="key"
+              icon
+              @click="changeLayout(option.value)"
+              ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
+                option.icon
+              }}</v-icon></v-btn
             >
-            <!--
-            <v-btn icon @click="changeLayout('list')"
-              ><v-icon :color="layout_ === 'list' ? 'primary' : ''"
-                >mdi-view-list</v-icon
-              ></v-btn
-            >
-            <v-btn icon @click="changeLayout('grid')"
-              ><v-icon :color="layout_ === 'grid' ? 'primary' : ''"
-                >mdi-view-grid</v-icon
-              ></v-btn
-            >
-            <v-btn icon @click="changeLayout('table')"
-              ><v-icon :color="layout_ === 'table' ? 'primary' : ''"
-                >mdi-table</v-icon
-              ></v-btn
-            >
-            <v-btn v-if="false" icon @click="changeLayout('image')"
-              ><v-icon :color="layout_ === 'image' ? 'primary' : ''"
-                >mdi-image</v-icon
-              ></v-btn
-            >
-            -->
           </v-col>
         </v-row>
 
-        <div class="text-center mt-10" v-show="isPagination">
+        <div v-show="isPagination" v-if="false" class="text-center mt-10">
           <v-pagination
             v-model="page"
             :length="length"
@@ -166,16 +149,20 @@
 
         <v-row class="mt-5">
           <v-col cols="12" :sm="isFacetOpen ? 9 : 12" order-sm="12">
+            <component
+              :is="searchLayout"
+              :items="items"
+              :aggs="aggs"
+              :q="q"
+            ></component>
 
-            <component :is="searchLayout" :items="items" :aggs="aggs" :q="q"></component>
-            
             <template v-if="layout_ === 'image'">
               <v-row>
                 <v-col
-                  cols="12"
-                  sm="3"
                   v-for="item in items"
                   :key="item.objectID"
+                  cols="12"
+                  sm="3"
                 >
                   <nuxt-link
                     :to="
@@ -198,69 +185,95 @@
                 </v-col>
               </v-row>
             </template>
-
           </v-col>
 
-          <v-col cols="12" sm="3" order-sm="1" v-show="isFacetOpen">
+          <v-col v-show="isFacetOpen" cols="12" sm="3" order-sm="1">
             <template v-for="(aggList, aggField) in aggs">
               <v-expansion-panels
                 v-if="!aggList.hide"
                 :key="aggField"
-                :value="0"
+                :value="isEachFacetOpen(aggField, aggList) ? 0 : 1"
                 flat
                 class="mb-4"
               >
                 <v-expansion-panel>
                   <v-expansion-panel-header class="grey lighten-2">
-                    <h3>{{ aggList.label }} <small class="ml-2">({{aggList.value.length}} {{$t("results")}})</small></h3>
+                    <h3>
+                      {{ aggList.label }}
+                      <small class="ml-2"
+                        >({{ aggList.value.length.toLocaleString() }}
+                        {{ $t('results') }})</small
+                      >
+                    </h3>
                   </v-expansion-panel-header>
                   <v-expansion-panel-content outlined class="py-2">
                     <template v-for="(e, key) in aggList.value">
-                      <div
-                        v-if="key < limit || aggList.more"
-                        :key="key"
-                        class="mt-1"
-                      >
-                        <span
-                          style="cursor: pointer"
-                          @click="faceted(aggField, e[0])"
+                      <template v-if="key < limit">
+                        <v-row
+                          :key="'2_' + key"
+                          align="center"
+                          justify="center"
+                          dense
                         >
-                          <template v-if="checked(aggField, e[0])">
-                            <v-icon color="primary"> mdi-checkbox-marked </v-icon>
-                          </template>
-                          <template v-else>
-                            <v-icon> mdi-checkbox-blank-outline </v-icon>
-                          </template>
-                          {{ e[0] }}
-                          <v-chip small>
+                          <v-col
+                            style="cursor: pointer"
+                            cols="8"
+                            @click="faceted(aggField, e[0])"
+                          >
+                            <template v-if="checked(aggField, e[0])">
+                              <v-icon color="primary">
+                                mdi-checkbox-marked
+                              </v-icon>
+                            </template>
+                            <template v-else>
+                              <v-icon> mdi-checkbox-blank-outline </v-icon>
+                            </template>
+
+                            <c-render :value="e[0]"></c-render>
+                          </v-col>
+                          <v-col cols="3">
+                            {{ Number(e[1]).toLocaleString() }}
+                            <!-- <v-chip small>
                             {{ e[1] }}
-                          </v-chip>
-                        </span>
+                          </v-chip> -->
+                          </v-col>
+                          <v-col class="text-right" cols="1">
+                            <v-btn
+                              v-if="!checked(aggField, e[0])"
+                              icon
+                              @click="faceted(aggField, '-' + e[0])"
+                              ><v-icon>mdi-close-circle-outline</v-icon></v-btn
+                            >
+                          </v-col>
+                        </v-row>
 
-                        <v-btn v-if="!checked(aggField, e[0])"　icon @click="faceted(aggField, '-' + e[0])"
-                          ><v-icon>mdi-close-circle-outline</v-icon></v-btn
-                        >
-                      </div>
+                        <v-divider :key="'d-' + key" />
+                      </template>
                     </template>
+                    <template v-for="(e, key) in getMinusValues(aggField)">
+                      <v-row
+                        :key="'r_' + key"
+                        style="cursor: pointer"
+                        align="center"
+                        justify="center"
+                        dense
+                        @click="faceted(aggField, e)"
+                      >
+                        <!-- :key="'rm_' + key" -->
+                        <v-col cols="12"
+                          ><v-icon color="primary">mdi-checkbox-blank</v-icon>
 
-                    <v-divider class="my-2" v-if="getMinusValues(aggField).length > 0" />
-
-                    <div
-                      v-for="(e, key) in getMinusValues(aggField)"
-                      :key="'rm_' + key"
-                      @click="faceted(aggField, e)"
-                      style="cursor: pointer"
-                    >
-                      <v-icon color="primary"> mdi-checkbox-blank </v-icon>
-                      {{ e.substring(1) }}
-                    </div>
+                          <c-render :value="e.substring(1)"></c-render
+                        ></v-col>
+                      </v-row>
+                      <v-divider :key="'d2-' + key" />
+                    </template>
 
                     <!-- 表示 -->
 
                     <div class="text-right">
                       <!-- v-if="aggList.value.length > limit" -->
                       <v-btn
-                        
                         color="primary"
                         small
                         text
@@ -270,17 +283,6 @@
                         <v-icon>mdi-menu-right</v-icon></v-btn
                       >
                     </div>
-
-                    <!--
-                    <v-btn
-                      v-if="aggList.value.length >= limit"
-                      color="primary"
-                      small
-                      class="mt-4"
-                      @click="aggList.more = !aggList.more"
-                      >{{ $t(aggList.more ? 'Show less' : 'Show more') }}</v-btn
-                    >
-                    -->
                   </v-expansion-panel-content>
                 </v-expansion-panel>
               </v-expansion-panels>
@@ -288,7 +290,7 @@
           </v-col>
         </v-row>
 
-        <div class="text-center mt-10" v-show="isPagination">
+        <div v-show="isPagination" class="text-center mt-10">
           <v-pagination
             v-model="page"
             :length="length"
@@ -301,33 +303,28 @@
     <v-dialog v-model="isShowAll">
       <v-card>
         <v-card-title class="text-h5 grey lighten-2">
-          <span class="text-h5">{{ selectedField }}</span>
+          <span class="text-h5">{{ selectedAgg.label }}</span>
         </v-card-title>
-        <v-card-text style="height: 600px; overflow-y: auto;" class="py-5">
-          
+        <v-card-text style="height: 600px; overflow-y: auto" class="py-5">
           <!-- :items-per-page="-1" -->
           <v-data-table
             v-model="selected"
             :headers="[
-              { text: '', value: 'label' },
-              { text: '', value: 'value' },
+              { text: $t('name'), value: 'label' },
+              { text: $t('results'), value: 'value' },
             ]"
             :items="selectedAggValues"
             item-key="label"
             :search="facetSearch"
             :items-per-page="20"
             :footer-props="{
-              'items-per-page-options': [20, 50, 100, -1]
+              'items-per-page-options': [20, 50, 100, -1],
             }"
             show-select
           >
-            <template v-slot:top v-if="false">
-              <v-switch
-                v-model="singleSelect"
-                label="Single select"
-                class="pa-3"
-              ></v-switch>
+            <template #top>
               <v-text-field
+                v-model="facetSearch"
                 background-color="grey lighten-3"
                 filled
                 rounded
@@ -337,21 +334,34 @@
                 append-icon="mdi-magnify"
                 clearable
                 clear-icon="mdi-close-circle"
-                v-model="facetSearch"
                 label="Search"
                 class="mx-4 my-5"
               ></v-text-field>
+            </template>
+
+            <template #[`item.label`]="{ item }">
+              <template v-if="item.label === ''">
+                <span style="color: #4caf50">{{ $t('none') }}</span>
+              </template>
+              <template v-else>
+                {{ item.label }}
+              </template>
             </template>
           </v-data-table>
         </v-card-text>
         <v-divider></v-divider>
         <v-card-actions>
-          
           <v-btn color="primary" text @click="isShowAll = false">
             {{ $t('cancel') }}
           </v-btn>
           <v-spacer></v-spacer>
-          <v-btn color="primary" @click="isShowAll = false; faceted(selectedField, getLabels(selected))">
+          <v-btn
+            color="primary"
+            @click="
+              isShowAll = false
+              faceted(selectedAgg.key, getLabels(selected), 'all')
+            "
+          >
             {{ $t('refine') }}
           </v-btn>
         </v-card-actions>
@@ -364,33 +374,24 @@
 import axios from 'axios'
 import FullTextSearch from '~/components/search/FullTextSearch.vue'
 import SearchAdvanced from '~/components/search/Advanced.vue'
+import SearchLayoutGraph from '~/components/search/layout/Graph.vue'
 import CustomSearchLayoutTable from '~/components/custom/search/layout/Table.vue'
 
-const _ = require('lodash')
+import CRender from '~/components/common/view/CRender.vue'
 
-function removeDuplicates(inArray) {
-  var arr = inArray.concat() // create a clone from inArray so not to change input array
-  //create the first cycle of the loop starting from element 0 or n
-  for (var i = 0; i < arr.length; ++i) {
-    //create the second cycle of the loop from element n+1
-    for (var j = i + 1; j < arr.length; ++j) {
-      //if the two elements are equal , then they are duplicate
-      if (arr[i] === arr[j]) {
-        arr.splice(j, 1) //remove the duplicated element
-      }
-    }
-  }
-  return arr
-}
+const _ = require('lodash')
 
 export default {
   components: {
     FullTextSearch,
     SearchAdvanced,
-    CustomSearchLayoutTable
+    SearchLayoutGraph,
+    CustomSearchLayoutTable,
+    CRender,
   },
   data() {
     return {
+      baseUrl: process.env.BASE_URL,
       page: 1,
       sort: process.env.defaultSort,
       layout_: process.env.defaultLayout,
@@ -408,8 +409,8 @@ export default {
       isShowAll: false,
 
       selectedAggValues: [],
-
-      selectedField: "group",
+      selectedAgg: {},
+      // selectedField: 'group',
       selected: [],
       facetSearch: '',
 
@@ -419,7 +420,8 @@ export default {
       isAdvanced: false,
 
       advancedOptions: process.env.advanced,
-      //advancedMapOptions: {},
+
+      isBc: process.env.bc,
 
       bh: [
         {
@@ -435,13 +437,19 @@ export default {
 
       metadataList: process.env.list,
 
-      sortList: process.env.sort
+      sortList: process.env.sort,
+    }
+  },
+
+  head() {
+    return {
+      title: this.$t('search'),
     }
   },
 
   computed: {
-    isPagination(){
-      return !["graph", "map"].includes(this.layout_)
+    isPagination() {
+      return this.layout_ !== 'graph'
     },
     length() {
       return Math.ceil(this.total / this.size)
@@ -453,53 +461,33 @@ export default {
         if (key.includes('[refinementList]')) {
           filters.push({
             label: key.split('[')[2].split(']')[0],
-            value: query[key],
+            value: query[key] || '',
           })
         }
       }
       return filters
     },
-    advancedFilters() {
-      const query = this.$route.query
-      const filters = []
-      for (const key in query) {
-        if (key.includes('[advanced]')) {
-          filters.push({
-            label: key.split('[')[2].split(']')[0],
-            value: query[key],
-          })
-        }
-      }
-      return filters
-    },
-    advancedMapOptions() {
-      const options = this.advancedOptions
-      const map = {}
-      for(const option of options){
-        map[option.key] = option
-      }
-      return map
-    },
-    sortItems(){
-      const keys = ["asc", "desc"]
+    sortItems() {
+      const keys = ['asc', 'desc']
       const items = []
-      for(const obj of this.sortList){
-        for(const key of keys){
+      for (const obj of this.sortList) {
+        for (const key of keys) {
           items.push({
-            text: obj.label + " " + this.$t(key),
-            value: obj.value+":"+key
+            text: obj.label + ' ' + this.$t(key),
+            value: obj.value + ':' + key,
           })
         }
       }
-      return items//[{ text: '適合度', value: '_score:desc' }]
+      return items // [{ text: '適合度', value: '_score:desc' }]
     },
-    searchLayout(){
-      for(const option of this.layouts){
-        if(option.value === this.layout_){
-            return option.component
-          }
+    searchLayout() {
+      for (const option of this.layouts) {
+        if (option.value === this.layout_) {
+          return option.component
+        }
       }
-    }
+      return '' // 八日っ九人
+    },
   },
 
   watch: {
@@ -537,12 +525,12 @@ export default {
 
   async mounted() {
     // 初期読み込み
-    const start = performance.now();
-    console.log("start download")
-    let index = await axios.get(process.env.BASE_URL + '/data/index_river.json')
+    const start = performance.now()
+    console.log('start download')
+    let index = await axios.get(process.env.BASE_URL + '/' + process.env.index)
     index = index.data
 
-    console.log("end download", performance.now() - start)
+    console.log('end download', performance.now() - start)
 
     const docs = {}
 
@@ -552,15 +540,15 @@ export default {
 
     const facets = {}
 
-    //翻訳
+    // 翻訳
     for (const aggField in aggs) {
       facets[aggField] = {}
     }
-    
-    //今後改善予定
-    for(const option of this.advancedOptions){
-        facets[option.key] = {}
-      }
+
+    // 今後改善予定
+    for (const option of this.advancedOptions) {
+      facets[option.key] = {}
+    }
 
     for (const item of index) {
       const id = item.objectID
@@ -604,39 +592,39 @@ export default {
     this.page = page
 
     // hitsPerPage
-    const size = Number(query['size']) || this.size
+    const size = Number(query.size) || this.size
     this.size = size
 
     // sort
-    const sort = query['sort'] || this.sort
+    const sort = query.sort || this.sort
     this.sort = sort
 
     // レイアウト
     let layout = ''
-    if (query['layout']) {
-      layout = query['layout']
-    } else if (localStorage.getItem('layout')) {
-      layout = localStorage.getItem('layout')
+    if (query.layout) {
+      layout = query.layout
+    } else if (sessionStorage.getItem('layout_' + this.baseUrl)) {
+      layout = sessionStorage.getItem('layout_' + this.baseUrl)
     } else {
       layout = this.layout_
     }
-    //const layout = query['layout'] || this.layout_
+    // const layout = query['layout'] || this.layout_
     this.layout_ = layout
 
     // 検索キーワード
     const q = query['main[query]'] || this.q
     this.q = q
 
-    console.log("filter start")
+    console.log('filter start')
     this.filter()
-    console.log("end filter", performance.now() - start)
+    console.log('end filter', performance.now() - start)
 
     // 初期検索の場合
     this.list()
 
     this.loading = false
 
-    console.log("end loading", performance.now() - start)
+    console.log('end loading', performance.now() - start)
   },
 
   methods: {
@@ -669,11 +657,11 @@ export default {
       const index = this.index
 
       let ids = []
-      let freq = {}
+      const freq = {}
 
-      const sort = this.sort //'_score:desc'
+      const sort = this.sort // '_score:desc'
 
-      const spl = sort.split(":")
+      const spl = sort.split(':')
       const sortValue = spl[0]
       const sortOrder = spl[1]
 
@@ -681,12 +669,11 @@ export default {
       if (q === '') {
         ids = Object.keys(docs)
       } else {
-
-        //異体字対応
-        const spl = q.split("")
-        q = ""
+        // 異体字対応
+        const spl = q.split('')
+        q = ''
         const itaiji = process.env.itaiji
-        for(const e of spl){
+        for (const e of spl) {
           q += itaiji[e] || e
         }
 
@@ -697,7 +684,7 @@ export default {
           let count = 0
           for (const term of terms) {
             const c = (key.match(new RegExp(term, 'g')) || []).length
-            if (c == 0) {
+            if (c === 0) {
               flg = false
               break
             } else {
@@ -726,16 +713,16 @@ export default {
       const facets = this.facets
 
       // advanced
-      //クエリ毎に整理
+      // クエリ毎に整理
       const advancedMap = {}
       for (const queryField in query) {
         if (queryField.includes('[advanced]')) {
           const facetField = queryField.split('[')[2].split(']')[0]
 
-          if(!advancedMap[facetField]){
+          if (!advancedMap[facetField]) {
             advancedMap[facetField] = {
-              "+" : [],
-              "-" : []
+              '+': [],
+              '-': [],
             }
           }
 
@@ -744,96 +731,99 @@ export default {
             values = [values]
           }
 
-          for(const v of values){
-            let key = "+"
+          for (const v of values) {
+            let key = '+'
             let value = v
-            if(v.startsWith("-")){
-              key = "-"
+            if (v.startsWith('-')) {
+              key = '-'
               value = v.substring(1)
             }
-            if(!advancedMap[facetField][key].includes(value)){
+            if (!advancedMap[facetField][key].includes(value)) {
               advancedMap[facetField][key].push(value)
             }
           }
-
         }
       }
 
-      //advanced options
+      // advanced options
       const options = {}
-      for(const option of this.advancedOptions){
+      for (const option of this.advancedOptions) {
         options[option.key] = option
       }
 
-      for(let facetField in advancedMap){
+      for (const facetField in advancedMap) {
         const obj = advancedMap[facetField]
-        const plusValues = obj["+"]
-        const minusValues = obj["-"]
+        const plusValues = obj['+']
+        const minusValues = obj['-']
 
         const matchFacets = facets[facetField]
 
-        //プラス分
-        if(plusValues.length > 0){
+        // プラス分
+        if (plusValues.length > 0) {
           let plusMatchedIds = []
-          for(const pValue of plusValues){
-            if(options[facetField].type === "select"){
+          for (const pValue of plusValues) {
+            if (options[facetField].type === 'select') {
               plusMatchedIds = plusMatchedIds.concat(matchFacets[pValue])
             } else {
-              //部分一致
-              for(const key in matchFacets){
-                if(key.includes(pValue)){
+              // 部分一致
+              for (const key in matchFacets) {
+                if (key.includes(pValue)) {
                   plusMatchedIds = plusMatchedIds.concat(matchFacets[key])
                 }
               }
             }
           }
           ids = _.intersection(ids, plusMatchedIds)
-        }        
+        }
 
-        //マイナス分
-        if(minusValues.length > 0){
-          //各値
-          for(const mValue of minusValues){
+        // マイナス分
+        if (minusValues.length > 0) {
+          // 各値
+          for (const mValue of minusValues) {
             let eachMinusMatchedIds = []
             for (const facetValue in matchFacets) {
               if (facetValue !== mValue) {
-                eachMinusMatchedIds = eachMinusMatchedIds.concat(matchFacets[facetValue])
+                eachMinusMatchedIds = eachMinusMatchedIds.concat(
+                  matchFacets[facetValue]
+                )
               }
             }
             ids = _.intersection(ids, eachMinusMatchedIds)
-          }          
+          }
         }
       }
 
+      // ファセット
 
-      //ファセット
-
-      //クエリ毎に整理
+      // クエリ毎に整理
       const queryMap = {}
+
       for (const queryField in query) {
         if (queryField.includes('[refinementList]')) {
           const facetField = queryField.split('[')[2].split(']')[0]
 
-          if(!queryMap[facetField]){
+          if (!queryMap[facetField]) {
             queryMap[facetField] = {
-              "+" : [],
-              "-" : []
+              '+': [],
+              '-': [],
             }
           }
 
           let values = query[queryField]
           if (typeof values === 'string') {
             values = [values]
+          } else if (!values) {
+            values = ['']
           }
 
-          for(const v of values){
-            let key = "+"
+          for (const v of values) {
+            let key = '+'
             let value = v
-            if(v.startsWith("-")){
-              key = "-"
+            if (v.startsWith('-')) {
+              key = '-'
               value = v.substring(1)
             }
-            if(!queryMap[facetField][key].includes(value)){
+            if (!queryMap[facetField][key].includes(value)) {
               queryMap[facetField][key].push(value)
             }
           }
@@ -859,36 +849,38 @@ export default {
         }
       }
 
-      for(let facetField in queryMap){
+      for (const facetField in queryMap) {
         const obj = queryMap[facetField]
-        const plusValues = obj["+"]
-        const minusValues = obj["-"]
+        const plusValues = obj['+']
+        const minusValues = obj['-']
 
         const matchFacets = facets[facetField]
 
-        //プラス分
-        if(plusValues.length > 0){
+        // プラス分
+        if (plusValues.length > 0) {
           let plusMatchedIds = []
-          for(const pValue of plusValues){
+          for (const pValue of plusValues) {
             plusMatchedIds = plusMatchedIds.concat(matchFacets[pValue])
           }
           ids = _.intersection(ids, plusMatchedIds)
-        }        
+        }
 
-        //マイナス分
-        if(minusValues.length > 0){
-          //各値
-          for(const mValue of minusValues){
+        // マイナス分
+        if (minusValues.length > 0) {
+          // 各値
+          for (const mValue of minusValues) {
             let eachMinusMatchedIds = []
             for (const facetValue in matchFacets) {
               if (facetValue !== mValue) {
-                eachMinusMatchedIds = eachMinusMatchedIds.concat(matchFacets[facetValue])
+                eachMinusMatchedIds = eachMinusMatchedIds.concat(
+                  matchFacets[facetValue]
+                )
               }
             }
             ids = _.intersection(ids, eachMinusMatchedIds)
-          }          
+          }
         }
-      }      
+      }
 
       /*
       const tmp = {
@@ -902,14 +894,14 @@ export default {
 
       // ソート
 
-      //ヒット数でソート
+      // ヒット数でソート
       if (sortValue === '_score' && q !== '' && Object.keys(freq).length > 0) {
-        let arr = Object.keys(freq).map((e) => ({ key: e, value: freq[e] }))
+        const arr = Object.keys(freq).map((e) => ({ key: e, value: freq[e] }))
 
         let x = 1
         let y = -1
 
-        if(sortOrder === "asc"){
+        if (sortOrder === 'asc') {
           x = -1
           y = 1
         }
@@ -927,48 +919,48 @@ export default {
           }
         }
 
-        ids = ids_ //ids.sort()
-      } else if(facets[sortValue]) {
-        //項目でソート
+        ids = ids_ // ids.sort()
+      } else if (facets[sortValue]) {
+        // 項目でソート
         const sortObj = facets[sortValue]
 
-        let keys = Object.keys(sortObj);
+        const keys = Object.keys(sortObj)
 
-        //速度の問題で、キーの数が多すぎる場合には、idsでソートする
-        if(keys.length > 100 && false){
+        // 速度の問題で、キーの数が多すぎる場合には、idsでソートする
+        if (keys.length === 0) {
+          // keys.length > 100 && false
           ids = ids.sort()
         } else {
-
-          if(sortOrder === "desc"){
+          if (sortOrder === 'desc') {
             keys.reverse()
           } else {
-            keys.sort();
+            keys.sort()
           }
-          
+
           let sortIds = []
-          for(let key of keys){
-            let ids_ = sortObj[key]
-            //ids_ = _.intersection(ids, ids_)
+          for (const key of keys) {
+            const ids_ = sortObj[key]
+            // ids_ = _.intersection(ids, ids_)
             sortIds = sortIds.concat(ids_)
           }
 
           ids = _.intersection(sortIds, ids)
         }
 
-        //console.log("end")
+        // console.log("end")
       } else {
         ids = ids.sort()
       }
       this.ids = ids
 
-      //その他
+      // その他
       this.total = ids.length
       this.getAggs()
     },
     getAggs() {
       const aggs = process.env.aggs
 
-      //翻訳
+      // 翻訳
       for (const aggField in aggs) {
         aggs[aggField].label = this.$t(aggs[aggField].label)
       }
@@ -984,7 +976,12 @@ export default {
 
           let values = item[aggField]
 
+          // console.log({ values })
+          // console.log(typeof values)
+
           if (typeof values === 'string') {
+            values = [values]
+          } else if (typeof values === 'number') {
             values = [values]
           }
 
@@ -1014,7 +1011,7 @@ export default {
           })
         }
 
-        const aggList = pairs //pairs.slice(0, 50) // Object.fromEntries(pairs);
+        const aggList = pairs // pairs.slice(0, 50) // Object.fromEntries(pairs);
         aggs[aggField].value = aggList
       }
 
@@ -1025,7 +1022,7 @@ export default {
 
       const page = query['main[page]'] || 1
 
-      const hitsPerPage = query['size'] || 20 //要検討
+      const hitsPerPage = query.size || 20 // 要検討
 
       const ids = this.ids
 
@@ -1037,42 +1034,48 @@ export default {
       this.items = items
     },
 
-    faceted(field, selectedValues, type = 'default', target = "refinementList") {
-      console.log({field})
+    faceted(field, selectedValues, type = 'default') {
       const query = JSON.parse(JSON.stringify(this.$route.query))
-
-      let values = []
-      for (const queryField in query) {
-        if (queryField.includes('['+target+'][' + field + ']')) {
-          values.push(query[queryField])
-          delete query[queryField]
-        }
-      }
 
       if (typeof selectedValues === 'string') {
         selectedValues = [selectedValues]
       }
 
-      for(const value of selectedValues){
-        if (values.includes(value)) {
-          values = values.filter((n) => n !== value)
-        } else {
-          values.push(value)
+      let values = []
+      for (const queryField in query) {
+        if (queryField.includes('[refinementList][' + field + ']')) {
+          if (type !== 'all') {
+            // ここが重要
+            values.push(query[queryField] || '')
+          }
+
+          delete query[queryField]
         }
       }
 
-      
+      // リストに違いがなければ
 
-      for (let i = 0; i < values.length; i++) {
-        query['main['+target+'][' + field + '][' + i + ']'] = values[i]
+      if (selectedValues.length !== 0) {
+        for (const value of selectedValues) {
+          if (values.includes(value)) {
+            values = values.filter((n) => n !== value)
+          } else {
+            values.push(value)
+          }
+        }
+
+        for (let i = 0; i < values.length; i++) {
+          query['main[refinementList][' + field + '][' + i + ']'] = values[i]
+        }
       }
 
-      this.$router.push(
-        this.localePath({
-          name: 'search',
-          query,
-        })
-      )
+      query['main[page]'] = 1
+
+      const to = {
+        name: 'search',
+      }
+      to.query = query
+      this.$router.push(this.localePath(to))
     },
 
     checked(field, value) {
@@ -1081,7 +1084,7 @@ export default {
       const values = []
       for (const queryField in query) {
         if (queryField.includes('[refinementList][' + field + ']')) {
-          values.push(query[queryField])
+          values.push(query[queryField] || '')
         }
       }
 
@@ -1092,17 +1095,15 @@ export default {
       }
     },
 
-    
-
     changeHitsPerPage() {
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
       const size = this.size
 
       if (size === 20) {
-        delete query['size']
+        delete query.size
       } else {
-        query['size'] = size
+        query.size = size
       }
 
       this.$router.push(
@@ -1113,10 +1114,10 @@ export default {
       )
     },
 
-    changeSort(){
-      //console.log(this.sort)
+    changeSort() {
+      // console.log(this.sort)
       const query = JSON.parse(JSON.stringify(this.$route.query))
-      query['sort'] = this.sort
+      query.sort = this.sort
 
       this.$router.push(
         this.localePath({
@@ -1132,9 +1133,9 @@ export default {
       this.layout_ = layout
 
       if (layout === 'grid') {
-        delete query['layout']
+        delete query.layout
       } else {
-        query['layout'] = layout
+        query.layout = layout
       }
 
       this.$router.push(
@@ -1144,17 +1145,17 @@ export default {
         })
       )
 
-      localStorage.setItem('layout', value)
+      sessionStorage.setItem('layout_' + this.baseUrl, value)
     },
 
     getMinusValues(field) {
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
-      let values = []
+      const values = []
       for (const queryField in query) {
         if (queryField.includes('[' + field + ']')) {
-          const value = query[queryField]
-          if(value.startsWith("-")){
+          const value = query[queryField] || ''
+          if (value.startsWith('-')) {
             values.push(value)
           }
         }
@@ -1163,35 +1164,87 @@ export default {
     },
 
     showAll(aggList) {
-      this.selectedField = aggList.label
-      this.selected = []
-      this.isShowAll = true
+      const values = []
 
-      
+      for (const f of this.filters) {
+        if (f.label === aggList.key) {
+          values.push(f.value)
+        }
+      }
+      this.selectedAgg = aggList
+      const selected = []
+      for (const e of aggList.value) {
+        if (values.includes(e[0])) {
+          selected.push({
+            label: e[0],
+            value: e[1],
+          })
+        }
+      }
+
       const items = []
-      for(const item of aggList.value){
+      for (const item of aggList.value) {
         items.push({
           label: item[0],
-          value: item[1]
+          value: item[1],
         })
       }
+
+      this.selected = selected
+      this.isShowAll = true
       this.selectedAggValues = items
-      
+
+      this.facetSearch = ''
     },
 
-    getLabels(values){
+    getLabels(values) {
       const labels = []
-      for(const item of values){
+      for (const item of values) {
         labels.push(item.label)
       }
       return labels
-    }
-  },
+    },
 
-  head() {
-    return {
-      title: this.$t('search'),
-    }
+    isEachFacetOpen(aggField, aggList) {
+      let filtersFlag = false
+      for (const obj of this.filters) {
+        if (obj.label === aggField) {
+          filtersFlag = true
+          break
+        }
+      }
+
+      /*
+
+      //
+      const key = 'each_facet_open_' + this.baseUrl
+      let map = {}
+      if (Object.prototype.hasOwnProperty.call(sessionStorage, key)) {
+        map = JSON.parse(sessionStorage.getItem(key))
+      }
+
+      */
+
+      //
+
+      return (
+        aggList.open || this.getMinusValues(aggField).length > 0 || filtersFlag
+        // || map[aggField]
+      )
+    },
+
+    saveEachFacetOpen(aggField, value) {
+      const key = 'each_facet_open_' + this.baseUrl
+
+      let map = {}
+      if (Object.prototype.hasOwnProperty.call(sessionStorage, key)) {
+        map = JSON.parse(sessionStorage.getItem(key))
+      }
+
+      map[aggField] = !value
+
+      sessionStorage.setItem(key, JSON.stringify(map))
+    },
   },
 }
 </script>

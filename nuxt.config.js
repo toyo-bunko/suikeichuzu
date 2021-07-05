@@ -4,14 +4,20 @@ const fs = require('fs')
 const environment = process.env.NODE_ENV
 const env = require(`./env/${environment}.ts`)
 
+env.bc = true
+
+env.index = "data/index_river.json"
+
 env.aggs = {
   冊: {
+    key: "冊",
     sort: 'name:asc',
     label: '冊',
     value: {},
     more: false,
   },
   sort: {
+    key: "sort",
     sort: '',
     label: 'sort',
     value: {},
@@ -19,6 +25,7 @@ env.aggs = {
     hide: true
   },
   記号: {
+    key: "記号",
     sort: '',
     label: '記号',
     value: {},
@@ -26,60 +33,70 @@ env.aggs = {
     hide: true
   },
   図: {
+    key: "図",
     sort: '',
     label: '図',
     value: {},
     more: false,
   },
   区画南北: {
+    key: "区画南北",
     sort: '',
     label: '区画南北',
     value: {},
     more: false,
   },
   区画東西: {
+    key: "区画東西",
     sort: '',
     label: '区画東西',
     value: {},
     more: false,
   },
   墨朱: {
+    key: "墨朱",
     sort: '',
     label: '墨朱',
     value: {},
     more: false,
   },
   表裏: {
+    key: "表裏",
     sort: '',
     label: '表裏',
     value: {},
     more: false,
   },
   分類: {
+    key: "分類",
     sort: '',
     label: '分類',
     value: {},
     more: false,
   },
   記号説明: {
+    key: "記号説明",
     sort: '',
     label: '記号説明',
     value: {},
     more: false,
   },
   詳細区画: {
+    key: "詳細区画",
     sort: '',
     label: '詳細区画',
     value: {},
     more: false,
   },
   水名: {
+    key: "水名",
     sort: '',
     label: '水名',
     value: {},
     more: false,
   },
   "水経注：巻": {
+    key: "水経注：巻",
     sort: '',
     label: '水経注：巻',
     value: {},
