@@ -39,6 +39,7 @@ env.aggs = {
     label: '図',
     value: {},
     more: false,
+    open:true
   },
   区画南北: {
     key: "区画南北",
