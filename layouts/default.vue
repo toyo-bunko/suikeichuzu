@@ -149,7 +149,7 @@ export default class search extends Vue {
       to: this.localePath({ name: 'advanced' }),
     },
     {
-      label: "collection",
+      label: "list",
       to: this.localePath({ name: 'collection' }),
     },
     {

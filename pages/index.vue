@@ -106,6 +106,17 @@ export default class about extends Vue {
 
   items: any = [
     {
+      label: this.$t('about_'),
+      path: {
+        name: 'page-slug',
+        params: {
+          slug: 'about'
+        }
+      },
+      description: '',
+      icon: 'mdi-information',
+    },
+    {
       label: this.$t('search'),
       path: {
         name: 'search',
@@ -114,7 +125,7 @@ export default class about extends Vue {
       icon: 'mdi-magnify',
     },
     {
-      label: this.$t('collection'),
+      label: this.$t('list'),
       path: {
         name: 'collection',
       },
@@ -145,28 +156,15 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-book',
     },
-    {
-      label: this.$t('about_'),
-      path: {
-        name: 'page-slug',
-        params: {
-          slug: 'about'
-        }
-      },
-      description: '',
-      icon: 'mdi-information',
-    },
+    
+    /*
     {
       label: "提供機能",
-      path: {
-        name: 'page-slug',
-        params: {
-          slug: 'function'
-        }
-      },
+      href: "https://docs.google.com/document/d/1MpB4CfebygZE2C4VGUemjI0Pa7242go1Q_5tfMHxyCE/edit?usp=sharing",
       description: '',
       icon: 'mdi-cog',
     },
+    */
     {
       label: this.$t('iiif_collection'),
       href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
