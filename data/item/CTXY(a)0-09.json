@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu10_jouyou.json",
-    "fulltext": "CTXY(a)0-09, 04-00564, 地形, 襄陽城図, 沔水, 墨, 表, 河川",
+    "fulltext": "CTXY(a)0-09, 04-00564, 地形, 襄陽城図, 沔水, 墨, 表, 河川沔水2, 巻28",
     "label": "沔水",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1#xywh=486,539,159,90",

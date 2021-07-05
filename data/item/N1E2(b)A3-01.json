@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "N1E2(b)A3-01, 00-00728, 地点, 北1, 東2, 本図, 白石嘴門, 朱, 裏, 長城門, A3",
+    "fulltext": "N1E2(b)A3-01, 00-00728, 地点, 北1, 東2, 本図, 白石嘴門, 朱, 裏, 長城門, A3, ",
     "label": "白石嘴門",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=32543,4863,143,96",

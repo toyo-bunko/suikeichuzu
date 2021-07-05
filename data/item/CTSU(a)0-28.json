@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu05_suiyou.json",
-    "fulltext": "CTSU(a)0-28, 04-00372, なし, 睢陽城図, 東道, 墨, 表, ",
+    "fulltext": "CTSU(a)0-28, 04-00372, なし, 睢陽城図, 東道, 墨, 表, 汳水, 雎水, 巻23, 巻24",
     "label": "東道",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=943,1333,121,80",

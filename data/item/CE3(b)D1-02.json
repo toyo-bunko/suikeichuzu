@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/main.json",
-    "fulltext": "CE3(b)D1-02, 00-01542, なし, 中, 東3, 本図, 古婁島, 朱, 裏, , D1",
+    "fulltext": "CE3(b)D1-02, 00-01542, なし, 中, 東3, 本図, 古婁島, 朱, 裏, , D1, ",
     "label": "古婁島",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1#xywh=35466,7541,113,100",

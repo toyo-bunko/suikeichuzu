@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu03_rakuyou.json",
-    "fulltext": "CTLY(b)0-40, 04-00123, 地点, 洛陽城図, 司空府, 墨, 裏, 亭台跡",
+    "fulltext": "CTLY(b)0-40, 04-00123, 地点, 洛陽城図, 司空府, 墨, 裏, 亭台跡穀水, 巻16",
     "label": "司空府",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1#xywh=2780,1508,93,194",
