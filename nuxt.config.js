@@ -15,6 +15,7 @@ env.aggs = {
     label: '冊',
     value: {},
     more: false,
+    open:true
   },
   sort: {
     key: "sort",
@@ -45,6 +46,7 @@ env.aggs = {
     label: '区画南北',
     value: {},
     more: false,
+    open:true
   },
   区画東西: {
     key: "区画東西",
@@ -52,6 +54,7 @@ env.aggs = {
     label: '区画東西',
     value: {},
     more: false,
+    open:true
   },
   墨朱: {
     key: "墨朱",
@@ -59,6 +62,7 @@ env.aggs = {
     label: '墨朱',
     value: {},
     more: false,
+    open:true
   },
   表裏: {
     key: "表裏",
@@ -66,6 +70,7 @@ env.aggs = {
     label: '表裏',
     value: {},
     more: false,
+    open:true
   },
   分類: {
     key: "分類",
@@ -73,6 +78,7 @@ env.aggs = {
     label: '分類',
     value: {},
     more: false,
+    open:true
   },
   記号説明: {
     key: "記号説明",
@@ -80,6 +86,7 @@ env.aggs = {
     label: '記号説明',
     value: {},
     more: false,
+    open:true
   },
   詳細区画: {
     key: "詳細区画",
@@ -87,6 +94,7 @@ env.aggs = {
     label: '詳細区画',
     value: {},
     more: false,
+    open:true
   },
   水名: {
     key: "水名",
@@ -94,6 +102,7 @@ env.aggs = {
     label: '水名',
     value: {},
     more: false,
+    open:true
   },
   "水経注：巻": {
     key: "水経注：巻",
@@ -101,6 +110,7 @@ env.aggs = {
     label: '水経注：巻',
     value: {},
     more: false,
+    open:true
   }
 }
 
