@@ -138,10 +138,12 @@ export default class about extends Vue {
       icon: 'mdi-tag',
     },
     {
-      label: "冊子画像一覧（現在はBasic認証のためにご利用いただけません。）",
-      href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/sjzt.json",
+      label: "冊子画像",
+      path: {
+        name: "book",
+      },
       description: '',
-      icon: 'mdi-view-list',
+      icon: 'mdi-book',
     },
     {
       label: this.$t('about_'),
