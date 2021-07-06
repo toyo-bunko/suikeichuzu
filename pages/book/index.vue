@@ -61,7 +61,7 @@ export default {
         [
         {
           "value" : "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/sjzt.json",
-          "label" : "IIIFコレクション（現在はBasic認証をかけているため、当該認証をパスできない場合、画像は閲覧できません。）"
+          "label" : "IIIFコレクション"
         }
         ],
         [
