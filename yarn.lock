@@ -1954,6 +1954,11 @@
   dependencies:
     "vue-analytics" "^5.22.1"
 
+"@nuxtjs/google-gtag@^1.0.4":
+  "integrity" "sha512-0Xgbx1uQ9pKeV2QdU9xoxJVdgH66qyGQJ0l8pzVxz5X476qvJunj6fbcjWk0gT+MEX/VOAhfT/zw0Z1z9q9oNg=="
+  "resolved" "https://registry.npmjs.org/@nuxtjs/google-gtag/-/google-gtag-1.0.4.tgz"
+  "version" "1.0.4"
+
 "@nuxtjs/moment@^1.6.1":
   "integrity" "sha512-Mo2/3NQB0XryMQuNCTVnAclrDvt9I9sr6dwVm56KhYCoiWTKgQ78tDV9tmrxw7lahw1IBwyPGhw+3pwkM4phAA=="
   "resolved" "https://registry.npmjs.org/@nuxtjs/moment/-/moment-1.6.1.tgz"

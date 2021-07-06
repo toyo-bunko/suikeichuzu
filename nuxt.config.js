@@ -513,8 +513,14 @@ export default {
     'nuxt-i18n',
     // Simple usage
     // '@nuxtjs/amp',
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/google-gtag'
   ],
+
+  'google-gtag': {
+    id: 'G-4HCHKW275B',  //サイトのID
+    debug: true,  // 開発環境でも表示したい場合
+  },
 
   sitemap: {
     path: '/sitemap.xml',

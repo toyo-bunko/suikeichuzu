@@ -31,7 +31,7 @@
       <v-card>
         <v-list>
           <v-subheader><small>最近の検索</small></v-subheader>
-          <v-list-item exact :to="localePath({name: 'search', query: item.q})" v-for="(item, key) in items">
+          <v-list-item exact :to="localePath({name: 'search', query: item.q})" v-for="(item, key) in items" :key="key">
             <v-list-item-title>
               <template v-if="item.label === '全件表示'">
                 <span style="color: #4CAF50;">

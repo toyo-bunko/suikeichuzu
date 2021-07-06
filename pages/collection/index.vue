@@ -90,7 +90,6 @@ export default class Item extends Vue {
   head() {
     const title = this.title
     return {
-      titleTemplate: null,
       title,
     }
   }
