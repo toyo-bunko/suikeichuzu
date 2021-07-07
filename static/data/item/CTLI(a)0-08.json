@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu01_rekijou.json",
-    "fulltext": "CTLI(a)0-08, 04-00008, 地形, 歴城図, 陂, 墨, 表, 湖",
+    "fulltext": "CTLI(a)0-08, 04-00008, 嶳形, 厤城図, 陂, 㱄, 表, 湖",
     "label": "陂",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=771,787,105,89",
