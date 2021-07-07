@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu06_heijou.json",
-    "fulltext": "CTPC(a)0-23, 04-00423, なし, 平城図, 平城故城, 墨, 表, 㶟水, 巻13",
+    "fulltext": "CTPC(a)0-23, 04-00423, なし, 平城図, 平城故城, 㱄, 表, 㶟水, 巻13",
     "label": "平城故城",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu06_heijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/canvas/p1#xywh=1181,1522,288,107",

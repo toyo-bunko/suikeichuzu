@@ -1,6 +1,6 @@
 {
     "curation": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu01_rekijou.json",
-    "fulltext": "CTLI(a)0-22, 04-00022, 地形, 歴城図, 歴山, 墨, 表, 山谷",
+    "fulltext": "CTLI(a)0-22, 04-00022, 嶳形, 厤城図, 厤山, 㱄, 表, 山㘌",
     "label": "歴山",
     "manifest": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
     "member": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=959,2643,157,100",
