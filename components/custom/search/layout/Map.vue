@@ -1,6 +1,6 @@
 <template>
-  <div>
 
+  <div>
     <v-tabs
       class="my-5"
           v-model="tabs"
@@ -15,131 +15,346 @@
 
           
         </v-tabs>
-        
-        <template v-if="item">
 
-          <div class="text-right mb-2"><v-btn class="primary" :href="`${item.url}`" target="_blank">別タブで開く <v-icon class="ml-1">mdi-open-in-new</v-icon></v-btn></div>
+        <v-alert type="warning" class="my-5" v-if="alert">
+          上位 {{thres.toLocaleString()}} 件の結果を表示しています。検索結果を絞り込んでください。
+        </v-alert>
 
-          <template v-if="item.value > thres">
-            <div class="pa-10 text-center" >
-              <p>本画面で表示可能な検索結果数（{{thres.toLocaleString()}}件）を超えています。「別タブで開く」からアクセスしてください。</p>
-            </div>
-          </template>
-          <template v-else>
-        <iframe frameBorder="0" :src="`${item.url}&embedded=true`" style="width: 100%; height: 850px;"></iframe>
-    </template>
+        <v-row>
+          <v-col cols="12" md="4">
 
-    </template>
+            <v-data-table
+              :headers="headers"
+              :items="rows"
+              :search="search"
+            >
+              <template v-slot:top>
+                <!--
+                <v-text-field
+                  v-model="search"
+                  :label="$t('search')"
+                  class="mx-4"
+                ></v-text-field>
+                -->
 
-    
-    <ul v-if="false">
-      <li class="mb-2" v-for="(item, key) in items" :key="key">
-        <a :href="item.url" target="_blank">
-        {{item.label}} ({{item.value}})
-        </a>
-      </li>
-    </ul>
-  </div>
+                <v-text-field
+                  v-model="search"
+                  background-color="grey lighten-3"
+                  filled
+                  rounded
+                  dense
+                  hide-details
+                  :placeholder="$t('add_a_search_term')"
+                  append-icon="mdi-magnify"
+                  clearable
+                  clear-icon="mdi-close-circle"
+                  :label="$t('search')"
+                  class="mx-4 my-5"
+                ></v-text-field>
+              </template>
+
+              <template v-slot:item.label="{ item }">
+              <a @click="zoom(item.id)">
+                {{ item.label }}
+              </a>
+            </template>
+            </v-data-table>
+          </v-col>
+          <v-col cols="12" md="8">
+            <div id="openseadragon" style="height: 600px; width: 100%;"></div>
+          </v-col>
+        </v-row>
+    </div>
 </template>
 
-<script lang="ts">
-import { Prop, Vue, Component, Watch } from 'nuxt-property-decorator'
-import ResultOption from '~/components/display/ResultOption.vue'
+<script>
+import axios from 'axios'
 
-@Component({
-  components: {
-ResultOption
-}
-})
-export default class FullTextSearch extends Vue {
+import OpenSeadragon from 'openseadragon';
+import * as Annotorious from '@recogito/annotorious-openseadragon';
 
-  thres: number = 500
+import '@recogito/annotorious-openseadragon/dist/annotorious.min.css';
 
-  tabs: any = ""
+var HelloWorldPlugin = function(args) {
 
-  prefix: string = "https://nakamura196.github.io/i3/map/?curation="
-  //prefix: string = "http://localhost:3000/map/?curation="
+  var createButton = function(value) {
+    var button = document.createElement('button');
 
-  @Prop({})
-  aggs!: any[]
+    if (value == currentColorValue)
+      button.className = 'selected';
 
-  @Watch('aggs', { deep: true })
-  watchTmp() {
-    this.init()
+    button.dataset.tag = value;
+    button.style.backgroundColor = value;
+    button.addEventListener('click', addTag); 
+    return button;
   }
+
+  var createTag = function(value) {
+    var button = document.createElement('span');
+    button.className = "badge badge-secondary mx-1 pa-2";
+    button.innerHTML = value
+    return button;
+  }
+
+  var container = document.createElement('div');
+  container.className = 'pa-2';
+
+  var textContainer = document.createElement('div');
+  textContainer.className = 'mt-2';
+  container.appendChild(textContainer)
+
+  var tagContainer = document.createElement('div');
+  tagContainer.className = 'mt-2';
+  container.appendChild(tagContainer)
+
+  args.annotation.body.map((body) => {
+    if(body.purpose == "tagging"){
+      tagContainer.appendChild(createTag(body.value));
+    } else {
+      textContainer.appendChild(createElementFromHTML(body.value));
+    }
+  })
+
+  return container;
+}
+
+function createElementFromHTML(htmlString) {
+  var div = document.createElement('div');
+  div.innerHTML = htmlString.trim();
+
+  // Change this to div.childNodes to support multiple top-level nodes
+  return div.firstChild; 
+}
+
+// ##########
+
+export default {
+  components: {},
+  data() {
+    return {
+      baseUrl: process.env.BASE_URL,
+      search: "",
+      headers : [
+        {text : this.$t("name"), value : "label"},
+        {text : "分類", value : "category"},
+        {text : "記号説明", value : "kigo"},
+      ],
+      rows : [],
+      viewer : null,
+      anno : null,
+      tabs: "",
+      items: [],
+      thres: 5000,
+      alert : false
+    }
+  },
+
+  props: {
+    itemsAll: {
+      required: true,
+    },
+    aggs: {
+      required: true,
+    }
+  },
 
   mounted(){
     this.init()
-  }
+  },
 
-  items: any[] = []
+  methods: {
+    zoom(id) {
+      this.anno.fitBounds(id)
+    },
+    init(){
+      this.alert = false
 
-  get item(){
-    return this.items[Number(this.tabs)]
-  }
+      const aggs = this.aggs
 
-  init(){
+      const arr = aggs["図"].value
 
-    this.tabs = "0"
+      const settings = process.env.settings
+      
 
-    const query = this.$route.query
+      const map = {}
 
-    let condition = ""
-
-    
-    for (const key in query) {
-      const value = query[key]
-      if (key.includes('[refinementList]')) {
-        /*
-        filters.push({
-          label: key.split('[')[2].split(']')[0],
-          value: query[key],
-        })
-        */
-        condition += `&fc-${key.split('[')[2].split(']')[0]}=${value}`
-      } else if (key.includes('[advanced]')) {
-        /*
-        advanced.push({
-          label: key.split('[')[2].split(']')[0],
-          value: query[key],
-        })
-        */
-       condition += `&q-${key.split('[')[2].split(']')[0]}=${value}`
-      } else if (key === "main[query]") {
-        condition += `&q=${value}`
+      for(const key in settings){
+        map[settings[key].label] = key
       }
+
+      const arr2 = []
+      const keys = {}
+
+      for(const obj of arr){
+        const label = obj[0]
+        const value = obj[1]
+        const id = map[label]
+
+        arr2.push({
+          "id": id,
+          "label": label,
+          "value": value,
+          "annos" : [],
+          "rows" : []
+        })
+
+        keys[label] = arr2.length - 1
+      }
+
+      const itemsAll = this.itemsAll
+
+      let count = 0
+
+      for(const item of itemsAll){
+        
+        const map = item["図"][0]
+
+        const obj = arr2[keys[map]]
+
+        const xywh = item.member.split("=")[1]
+
+        obj.image = item.thumbnail.split("/" + xywh)[0] + "/info.json"
+
+        const annos = obj.annos
+        const rows = obj.rows
+
+        const body = [{
+          "type": "TextualBody",
+          "value": `<div><a href="${this.baseUrl + "/item/" + item.objectID }">${item.label}</a></div>`
+        }]
+
+        for(let key in item){
+          const value = this.$utils.formatArrayValue(item[key])
+          if(!value){
+            continue
+          }
+
+          if(`${value}`.startsWith("http")){
+            continue
+          }
+          
+          if(["objectID", "fulltext", "label", "sort"].includes(key)){
+            continue
+          }
+          
+          body.push({
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": key + ": " + value
+          })
+          
+        }
+
+        const anno = { 
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "id": item.objectID,
+          "type": "Annotation",
+          "body": body,
+          "target": {
+            "selector": {
+              "type": "FragmentSelector",
+              "conformsTo": "http://www.w3.org/TR/media-frags/",
+              "value": item.member.split("#")[1]
+            }
+          }
+        }
+
+        annos.push(anno)
+
+        rows.push({
+          id : item.objectID,
+          label : item.label,
+          category : this.$utils.formatArrayValue(item["分類"]),
+          kigo : this.$utils.formatArrayValue(item["記号説明"])
+        })
+
+        count += 1
+
+        if(count >= this.thres){
+          this.alert = true
+          break
+        }
+      }
+
+      //アノテーションが含まれるもののみ
+      const items = []
+      for(const obj of arr2){
+        if(obj.annos.length > 0){
+          obj.value = obj.annos.length
+          items.push(obj)
+        }
+      }
+
+      this.items = items
+    },
+    async update(){
+      //初期化
+      document.getElementById("openseadragon").innerHTML = "";
+
+      const item = this.items[Number(this.tabs)]
+
+      const res = await axios.get(item.image);
+      const tileSources = res.data;
+
+      const viewer = OpenSeadragon({
+        id: "openseadragon",
+        prefixUrl: "https://recogito.github.io/js/openseadragon/images/",
+        tileSources
+      });
+
+      this.viewer = viewer
+
+      const config = {readOnly: true, locale: 'auto',
+                widgets: [HelloWorldPlugin]};
+
+      const anno = Annotorious(viewer, config);
+      this.anno = anno
+
+      anno.setAnnotations(item.annos);
+
+      this.rows = item.rows
     }
+  },
 
-    ///////////////
-
-    const aggs: any = this.aggs
-
-    const arr = aggs["図"].value
-
-    const settings: any = process.env.settings
-    
-
-    const map: any = {}
-
-    for(const key in settings){
-      map[settings[key].label] = key
+  watch: {
+    tabs: function(value){
+      this.update()
+    },
+    aggs: function(){
+      this.init()
+      this.update()
     }
-
-    const arr2 = []
-
-    for(const obj of arr){
-      const label = obj[0]
-      const value = obj[1]
-      const id = map[label]
-      arr2.push({
-        "id": id,
-        "label": label,
-        "value": value,
-        "url": `${this.prefix}https://static.toyobunko-lab.jp/suikeichuzu_data/curation/${id}.json&label=分類,記号説明${condition}`
-      })
-    }
-
-    this.items = arr2
   }
 }
+
 </script>
+<style>
+.badge-secondary {
+    color: #fff;
+    background-color: #6c757d;
+}
+.badge {
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.openseadragon-canvas {
+  outline: none;
+  background-color: #f4f4f4 !important;
+}
+
+/** New style for the annotation outlines **/
+svg.a9s-annotationlayer .a9s-selection .a9s-inner,
+svg.a9s-annotationlayer .a9s-annotation .a9s-inner {
+  stroke: #1976d2;
+}
+</style>
+

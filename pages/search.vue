@@ -9,7 +9,7 @@
         </v-breadcrumbs>
       </v-container>
     </v-sheet>
-    <v-container class="my-5">
+    <v-container class="my-5" fluid>
       <h2>{{ $t('search') }}</h2>
 
       <template v-if="loading">
@@ -153,6 +153,7 @@
               :is="searchLayout"
               :items="items"
               :aggs="aggs"
+              :itemsAll="itemsAll"
               :q="q"
             ></component>
 
@@ -488,6 +489,16 @@ export default {
       }
       return '' // 八日っ九人
     },
+    itemsAll() {
+      const ids = this.ids
+
+      const items = []
+      for (const id of ids) {
+        items.push(this.docs[id])
+      }
+
+      return items
+    }
   },
 
   watch: {
