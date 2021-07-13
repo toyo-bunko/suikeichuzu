@@ -16,8 +16,15 @@
           
         </v-tabs>
 
-        <v-alert type="warning" class="my-5" v-if="alert">
-          上位 {{thres.toLocaleString()}} 件の結果のみを表示しています。全件を表示するには、検索結果を絞り込んでください。
+        <v-alert type="warning" prominent class="my-5" v-if="alert">
+          <v-row align="center">
+            <v-col class="grow">
+              上位 {{thres.toLocaleString()}} 件の結果のみを表示しています。全件を表示するには、検索結果を絞り込んでください。もしくは、表示に時間がかかる可能性がありますが、右のボタンから全件を表示してください。
+            </v-col>
+            <v-col class="shrink">
+              <v-btn color="primary" @click="showAll()">全件表示</v-btn>
+            </v-col>
+          </v-row>
         </v-alert>
 
         <v-row>
@@ -29,14 +36,6 @@
               :search="search"
             >
               <template v-slot:top>
-                <!--
-                <v-text-field
-                  v-model="search"
-                  :label="$t('search')"
-                  class="mx-4"
-                ></v-text-field>
-                -->
-
                 <v-text-field
                   v-model="search"
                   background-color="grey lighten-3"
@@ -54,13 +53,11 @@
               </template>
 
               <template v-slot:item.label="{ item }">
-                <nuxt-link :to="localePath({name: 'item-id', params: {id : item.id}})">
-                  {{ item.label }}
-                </nuxt-link>
+                <a @click="zoom(item.id)">{{ item.label }}</a>
               </template>
               <template v-slot:item.detail="{ item }">
-                <v-btn color="primary" icon @click="zoom(item.id)">
-                  <v-icon>mdi-magnify-plus</v-icon>
+                <v-btn target="_blank" icon color="primary" @click="detail = itemsAll[item.index]; dialog = true;">
+                  <v-icon>mdi-menu</v-icon>
                 </v-btn>
               </template>
             </v-data-table>
@@ -69,6 +66,41 @@
             <div id="openseadragon" style="height: 600px; width: 100%;"></div>
           </v-col>
         </v-row>
+
+        <v-dialog v-model="dialog">
+          <v-card>
+            <v-card-title class="text-h5 grey lighten-2">
+              <span class="text-h5">{{ detail.label }}</span>
+            </v-card-title>
+            <v-card-text style="height: 600px; overflow-y: auto" class="py-5">
+              <v-simple-table>
+                <template v-slot:default>
+                  <tbody>
+                    <template v-for="(agg, key) in details">
+                      <tr v-if="!hide[agg.value] && detail[agg.value] && detail[agg.value].length > 0" :key="key">
+                        <td>{{ agg.value }}</td>
+                        <td>{{ $utils.formatArrayValue( detail[agg.value] ) }}</td>
+                      </tr>
+                    </template>
+                  </tbody>
+                </template>
+              </v-simple-table>
+            </v-card-text>
+            <v-divider></v-divider>
+            <v-card-actions>
+              <v-btn color="primary" text @click="dialog = false">
+                {{ "閉じる" }}
+              </v-btn>
+              <v-spacer></v-spacer>
+              <v-btn
+                color="primary"
+                :to="localePath({name: 'item-id' , params : {id : detail.objectID}})"
+              >
+                {{ "詳細を開く" }}
+              </v-btn>
+            </v-card-actions>
+          </v-card>
+        </v-dialog>
     </div>
 </template>
 
@@ -137,13 +169,15 @@ export default {
   components: {},
   data() {
     return {
+      dialog: false,
+      detail : {},
       baseUrl: process.env.BASE_URL,
       search: "",
       headers : [
         {text : this.$t("name"), value : "label"},
         {text : "分類", value : "category"},
         {text : "記号説明", value : "kigo"},
-        {text : "拡大", value : "detail"},
+        {text : "詳細", value : "detail", sortable: false},
       ],
       rows : [],
       viewer : null,
@@ -151,7 +185,9 @@ export default {
       tabs: "",
       items: [],
       thres: 2000,
-      alert : false
+      alert : false,
+      details : process.env.detail,
+      hide:  process.env.hide
     }
   },
 
@@ -271,27 +307,28 @@ export default {
           id : item.objectID,
           label : item.label,
           category : this.$utils.formatArrayValue(item["分類"]),
-          kigo : this.$utils.formatArrayValue(item["記号説明"])
+          kigo : this.$utils.formatArrayValue(item["記号説明"]),
+          index: count
         })
 
         count += 1
 
-        if(count >= this.thres){
+        if(count >= this.thres && this.thres > 0){
           this.alert = true
           break
         }
       }
 
       //アノテーションが含まれるもののみ
-      const items = []
+      const aItems = []
       for(const obj of arr2){
         if(obj.annos.length > 0){
           obj.value = obj.annos.length
-          items.push(obj)
+          aItems.push(obj)
         }
       }
 
-      this.items = items
+      this.items = aItems
     },
     async update(){
       //初期化
@@ -319,6 +356,11 @@ export default {
       anno.setAnnotations(item.annos);
 
       this.rows = item.rows
+    },
+    showAll(){
+      this.thres = -1
+      this.init()
+      this.update()
     }
   },
 
