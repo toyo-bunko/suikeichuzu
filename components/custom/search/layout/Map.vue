@@ -17,7 +17,7 @@
         </v-tabs>
 
         <v-alert type="warning" class="my-5" v-if="alert">
-          上位 {{thres.toLocaleString()}} 件の結果を表示しています。検索結果を絞り込んでください。
+          上位 {{thres.toLocaleString()}} 件の結果のみを表示しています。全件を表示するには、検索結果を絞り込んでください。
         </v-alert>
 
         <v-row>
@@ -54,10 +54,15 @@
               </template>
 
               <template v-slot:item.label="{ item }">
-              <a @click="zoom(item.id)">
-                {{ item.label }}
-              </a>
-            </template>
+                <nuxt-link :to="localePath({name: 'item-id', params: {id : item.id}})">
+                  {{ item.label }}
+                </nuxt-link>
+              </template>
+              <template v-slot:item.detail="{ item }">
+                <v-btn color="primary" icon @click="zoom(item.id)">
+                  <v-icon>mdi-magnify-plus</v-icon>
+                </v-btn>
+              </template>
             </v-data-table>
           </v-col>
           <v-col cols="12" md="8">
@@ -138,13 +143,14 @@ export default {
         {text : this.$t("name"), value : "label"},
         {text : "分類", value : "category"},
         {text : "記号説明", value : "kigo"},
+        {text : "拡大", value : "detail"},
       ],
       rows : [],
       viewer : null,
       anno : null,
       tabs: "",
       items: [],
-      thres: 5000,
+      thres: 2000,
       alert : false
     }
   },
