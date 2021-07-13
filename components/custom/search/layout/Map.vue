@@ -67,7 +67,7 @@
           </v-col>
         </v-row>
 
-        <v-dialog v-model="dialog">
+        <v-dialog v-model="dialog" width="500">
           <v-card>
             <v-card-title class="text-h5 grey lighten-2">
               <span class="text-h5">{{ detail.label }}</span>
