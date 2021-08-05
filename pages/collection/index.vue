@@ -15,9 +15,10 @@
         <template v-slot:default>
           <thead>
             <tr>
-              <th class="text-left">{{ $t('name') }}</th>
+              <th class="text-left">{{ /*$t('name')*/"検索結果一覧を表示" }}</th>
+              <th class="text-left">{{ /*$t('name')*/"検索結果一覧（地図表示）" }}</th>
               <!-- <th class="text-left">{{ $t('地図') }}</th> -->
-              <th class="text-left">{{ $t('map') }}</th>
+              <th class="text-left">{{ /*$t('map')*/"地図をそのまま見る" }}</th>
             </tr>
           </thead>
           <tbody>
@@ -25,7 +26,13 @@
               <td>
                 <nuxt-link
                   :to="localePath({ name: 'search', query: { 'main[refinementList][図][0]': item.label, layout: 'table' } })"
-                  >{{ item.label }}</nuxt-link
+                  ><v-icon class="mr-2">mdi-table</v-icon>{{ item.label }}</nuxt-link
+                >
+              </td>
+              <td>
+                <nuxt-link
+                  :to="localePath({ name: 'search', query: { 'main[refinementList][図][0]': item.label, layout: 'map' } })"
+                  ><v-icon class="mr-2">mdi-map</v-icon>{{ item.label }}</nuxt-link
                 >
               </td>
               <!--
@@ -37,10 +44,13 @@
               </td>
               -->
               <td>
+                <!--
                 <a
                     :href="`https://nakamura196.github.io/i3/map/?curation=https://static.toyobunko-lab.jp/suikeichuzu_data/curation/${item.id}.json`"
                     >IIIF Curation Content Search Viewer</a
                   >
+                -->
+                <a target="_blank" :href="`https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/${item.id}/manifest.json`"><v-icon class="mr-2">mdi-image</v-icon>{{ item.label }}</a>
               </td>
             </tr>
           </tbody>
@@ -58,7 +68,7 @@ import { Component, Vue } from 'nuxt-property-decorator'
 })
 export default class Item extends Vue {
   baseUrl: any = process.env.BASE_URL
-  title: any = this.$t('list')
+  title: any = this.$t('list_')
   siteDesc: any = process.env.siteDesc
   top: any = process.env.top
 

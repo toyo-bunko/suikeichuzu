@@ -144,26 +144,27 @@ export default class search extends Vue {
 
   get menu(): any[] {
     return [
-    {
-      label: "detail",
-      to: this.localePath({ name: 'advanced' }),
-    },
-    {
-      label: "list",
-      to: this.localePath({ name: 'collection' }),
-    },
-    {
-      label: "category",
-      to: this.localePath({ name: 'category' }),
-    },
-    {
-      label: "about_",
-      to: this.localePath({
-        name: 'page-slug',
-        params: { slug: 'about' },
-      }),
-    }
-  ]
+      {
+        label: "list_",
+        to: this.localePath({ name: 'collection' }),
+      },
+      {
+        label: "detail",
+        to: this.localePath({ name: 'advanced' }),
+      },
+      
+      {
+        label: "category",
+        to: this.localePath({ name: 'category' }),
+      },
+      {
+        label: "about_",
+        to: this.localePath({
+          name: 'page-slug',
+          params: { slug: 'about' },
+        }),
+      }
+    ]
   }
 
   get isMobile() {

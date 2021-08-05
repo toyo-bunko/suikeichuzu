@@ -9,7 +9,7 @@
           <v-btn
             large
             class="mt-5"
-            :to="localePath({ name: 'search' })"
+            :to="localePath({ name: 'collection' })"
             color="primary"
             >{{ $t('try_out') }}</v-btn
           >
@@ -117,6 +117,14 @@ export default class about extends Vue {
       icon: 'mdi-information',
     },
     {
+      label: this.$t('list_'),
+      path: {
+        name: 'collection',
+      },
+      description: '',
+      icon: 'mdi-view-list',
+    },
+    {
       label: this.$t('search'),
       path: {
         name: 'search',
@@ -124,14 +132,7 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-magnify',
     },
-    {
-      label: this.$t('list'),
-      path: {
-        name: 'collection',
-      },
-      description: '',
-      icon: 'mdi-view-list',
-    },
+    
     {
       label: "水名一覧",
       path: {
