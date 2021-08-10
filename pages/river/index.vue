@@ -15,29 +15,45 @@
         <template v-slot:default>
           <thead>
             <tr>
-              <th class="text-left">{{ $t('水名') }}</th>
-              <th class="text-left">{{ $t('巻') }}</th>
-              <th class="text-left">{{ $t('画像') }}</th>
+              <th class="text-center">{{ $t('水名') }}</th>
+              
+              <th class="text-center">{{ $t('巻') }}</th>
+              <th class="text-center">{{ /*$t('name')*/"検索結果一覧を表示" }}</th>
+              <th class="text-center">{{ /*$t('name')*/"検索結果一覧（地図表示）" }}</th>
+              <th class="text-center">{{ /*$t('map')*/"地図をそのまま見る（ICV）" }}</th>
             </tr>
           </thead>
           <tbody>
             <tr v-for="item in items" :key="item.id">
-              <td>
+              <td class="text-center">
+                {{item._id}}
+              </td>
+              <td class="text-center">
+                {{ item._source.巻[0] }}
+              </td>
+              <td class="text-center">
                 <nuxt-link
                   :to="
-                    localePath({ name: 'search', query: { 'main[refinementList][水名]': item._id } })
+                    localePath({ name: 'search', query: { 'main[refinementList][水名]': item._id, layout: 'table' } })
                   "
-                  >{{ item._id }}</nuxt-link
+                  ><v-icon class="mr-2" color="primary">mdi-table</v-icon></nuxt-link
                 >
               </td>
-              <td>{{ item._source.巻[0] }}</td>
-              <td>
+              <td class="text-center">
+                <nuxt-link
+                  :to="
+                    localePath({ name: 'search', query: { 'main[refinementList][水名]': item._id, layout: 'map' } })
+                  "
+                  ><v-icon class="mr-2" color="primary">mdi-map</v-icon></nuxt-link
+                >
+              </td>
+              <td class="text-center">
                 <a
                   :href="
                     'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
                     item._source['curation']
                   "
-                  >{{ $t('画像をみる') }}</a
+                  ><v-icon color="primary" class="mr-2">mdi-image</v-icon></a
                 >
               </td>
             </tr>

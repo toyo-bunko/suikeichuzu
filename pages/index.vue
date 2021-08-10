@@ -167,7 +167,7 @@ export default class about extends Vue {
     },
     */
     {
-      label: this.$t('iiif_collection'),
+      label: "画像を一覧する（" + this.$t('iiif_collection') + "）",
       href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
       description: '',
       icon: 'mdi-image',

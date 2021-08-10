@@ -157,7 +157,7 @@
               :q="q"
             ></component>
 
-            <template v-if="layout_ === 'image'">
+            <template v-if="false && layout_ === 'image'">
               <v-row>
                 <v-col
                   v-for="item in items"
@@ -186,6 +186,14 @@
                 </v-col>
               </v-row>
             </template>
+
+            <div v-show="isPagination" class="text-center my-10">
+              <v-pagination
+                v-model="page"
+                :length="length"
+                :total-visible="7"
+              ></v-pagination>
+            </div>
           </v-col>
 
           <v-col v-show="isFacetOpen" cols="12" sm="3" order-sm="1">
@@ -291,13 +299,7 @@
           </v-col>
         </v-row>
 
-        <div v-show="isPagination" class="text-center mt-10">
-          <v-pagination
-            v-model="page"
-            :length="length"
-            :total-visible="7"
-          ></v-pagination>
-        </div>
+        
       </template>
     </v-container>
 

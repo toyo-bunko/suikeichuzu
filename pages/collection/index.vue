@@ -15,24 +15,28 @@
         <template v-slot:default>
           <thead>
             <tr>
-              <th class="text-left">{{ /*$t('name')*/"検索結果一覧を表示" }}</th>
-              <th class="text-left">{{ /*$t('name')*/"検索結果一覧（地図表示）" }}</th>
+              <th class="text-center">{{ $t('name') }}</th>
+              <th class="text-center">{{ /*$t('name')*/"検索結果一覧を表示" }}</th>
+              <th class="text-center">{{ /*$t('name')*/"検索結果一覧（地図表示）" }}</th>
               <!-- <th class="text-left">{{ $t('地図') }}</th> -->
-              <th class="text-left">{{ /*$t('map')*/"地図をそのまま見る" }}</th>
+              <th class="text-center">{{ /*$t('map')*/"地図をそのまま見る" }}</th>
             </tr>
           </thead>
           <tbody>
             <tr v-for="item in objList" :key="item.id">
-              <td>
+              <td class="text-center">
+                {{item.label}}
+              </td>
+              <td class="text-center">
                 <nuxt-link
                   :to="localePath({ name: 'search', query: { 'main[refinementList][図][0]': item.label, layout: 'table' } })"
-                  ><v-icon class="mr-2">mdi-table</v-icon>{{ item.label }}</nuxt-link
+                  ><v-icon class="mr-2" color="primary">mdi-table</v-icon></nuxt-link
                 >
               </td>
-              <td>
+              <td class="text-center">
                 <nuxt-link
                   :to="localePath({ name: 'search', query: { 'main[refinementList][図][0]': item.label, layout: 'map' } })"
-                  ><v-icon class="mr-2">mdi-map</v-icon>{{ item.label }}</nuxt-link
+                  ><v-icon class="mr-2" color="primary">mdi-map</v-icon></nuxt-link
                 >
               </td>
               <!--
@@ -43,14 +47,14 @@
                 >
               </td>
               -->
-              <td>
+              <td class="text-center">
                 <!--
                 <a
                     :href="`https://nakamura196.github.io/i3/map/?curation=https://static.toyobunko-lab.jp/suikeichuzu_data/curation/${item.id}.json`"
                     >IIIF Curation Content Search Viewer</a
                   >
                 -->
-                <a target="_blank" :href="`https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/${item.id}/manifest.json`"><v-icon class="mr-2">mdi-image</v-icon>{{ item.label }}</a>
+                <a target="_blank" :href="`https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/${item.id}/manifest.json`"><v-icon color="primary" class="mr-2">mdi-image</v-icon></a>
               </td>
             </tr>
           </tbody>
