@@ -1,0 +1,12 @@
+{
+  "name": "東洋文庫水経注図データベース",
+  "short_name": "水経注",
+  "description": "東洋文庫所蔵の水経注図データベースです。",
+  "icons": [],
+  "start_url": "/suikeichuzu/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
