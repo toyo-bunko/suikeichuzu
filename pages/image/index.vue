@@ -12,17 +12,7 @@
     <v-container class="my-5">
       <h2 class="mb-10">{{ title }}</h2>
 
-      <div
-        class="mb-5"
-        v-for="(collection, key) in items.collections"
-        :key="key"
-      >
-        <h3 class="mb-5">{{ collection.label }}</h3>
-        <p class="mb-5">
-          {{ collection.description }}
-        </p>
-        <grid :items="conv(collection.manifests)" />
-      </div>
+      <grid :items="conv(items.manifests)" />
     </v-container>
   </div>
 </template>
@@ -38,7 +28,7 @@ import Grid from '~/components/image/Grid.vue'
   },
 })
 export default class Item extends Vue {
-  title: any = this.$t('冊子画像')
+  title: any = this.$t('画像を一覧する')
 
   bh: any[] = [
     {
@@ -57,7 +47,7 @@ export default class Item extends Vue {
       return payload
     } else {
       const result = await axios.get(
-        'https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/books.json'
+        'https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json'
       )
       const items = result.data
       return {

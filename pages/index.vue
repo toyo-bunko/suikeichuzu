@@ -32,16 +32,18 @@
               <template v-if="obj.href">
                 <a :href="obj.href" target="_blank">
                   <template v-if="obj.img">
-                    <div class="text-center grey lighten-2" style="height: 150px">
-                      <v-img
-                        contain
-                        style="height: 150px"
-                        :src="obj.img"
-                      />
+                    <div
+                      class="text-center grey lighten-2"
+                      style="height: 150px"
+                    >
+                      <v-img contain style="height: 150px" :src="obj.img" />
                     </div>
                   </template>
                   <template v-else>
-                    <div class="text-center grey lighten-2 pa-10" style="height: 150px">
+                    <div
+                      class="text-center grey lighten-2 pa-10"
+                      style="height: 150px"
+                    >
                       <v-icon size="75">{{ obj.icon }}</v-icon>
                     </div>
                   </template>
@@ -58,7 +60,10 @@
               </template>
               <template v-else>
                 <nuxt-link :to="localePath(obj.path)">
-                  <div class="text-center grey lighten-2 pa-10" style="height: 150px">
+                  <div
+                    class="text-center grey lighten-2 pa-10"
+                    style="height: 150px"
+                  >
                     <v-icon size="75">{{ obj.icon }}</v-icon>
                   </div>
                 </nuxt-link>
@@ -110,8 +115,8 @@ export default class about extends Vue {
       path: {
         name: 'page-slug',
         params: {
-          slug: 'about'
-        }
+          slug: 'about',
+        },
       },
       description: '',
       icon: 'mdi-information',
@@ -132,11 +137,11 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-magnify',
     },
-    
+
     {
-      label: "水名一覧",
+      label: '水名一覧',
       path: {
-        name: "river",
+        name: 'river',
       },
       description: '',
       icon: 'mdi-water',
@@ -150,14 +155,14 @@ export default class about extends Vue {
       icon: 'mdi-tag',
     },
     {
-      label: "冊子画像",
+      label: '冊子画像',
       path: {
-        name: "book",
+        name: 'book',
       },
       description: '',
       icon: 'mdi-book',
     },
-    
+
     /*
     {
       label: "提供機能",
@@ -166,12 +171,17 @@ export default class about extends Vue {
       icon: 'mdi-cog',
     },
     */
+    /*
     {
-      label: "画像を一覧する（" + this.$t('iiif_collection') + "）",
-      href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
+      label: '画像を一覧する', //'画像を一覧する（' + this.$t('iiif_collection') + '）',
+      //href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
+      path: {
+        name: 'image',
+      },
       description: '',
       icon: 'mdi-image',
     },
+    */
     /*
     {
       label: this.$t('NYPL可視化'),
@@ -186,6 +196,15 @@ export default class about extends Vue {
       img: this.baseUrl + "/img/pixplot.png"
     },
     */
+    {
+      label: 'データセット', //'画像を一覧する（' + this.$t('iiif_collection') + '）',
+      //href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
+      path: {
+        name: 'dataset',
+      },
+      description: '',
+      icon: 'mdi-database',
+    },
   ]
 
   head() {

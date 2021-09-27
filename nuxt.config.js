@@ -402,7 +402,7 @@ const lang = 'ja'
 const siteName = '東洋文庫水経注図データベース'
 env.siteName = siteName
 
-const siteDesc = '水経注図のプロトタイプシステムです。'
+const siteDesc = '東洋文庫所蔵の水経注図データベースです。'
 env.siteDesc = siteDesc
 
 const footer = '東洋文庫'
