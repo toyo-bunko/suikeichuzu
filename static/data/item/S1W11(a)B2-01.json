@@ -34,7 +34,7 @@
         "氐置水"
     ],
     "水経注図：冊子画像": [
-        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_3/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p19"
+        "https://static.toyobunko-lab.jp/suikeichuzu_data/mirador?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_3/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p19"
     ],
     "水経注：巻": [
         "補"

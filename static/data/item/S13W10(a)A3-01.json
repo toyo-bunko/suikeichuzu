@@ -35,7 +35,7 @@
         "葉榆水"
     ],
     "水経注図：冊子画像": [
-        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_7/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_7.json/canvas/p23"
+        "https://static.toyobunko-lab.jp/suikeichuzu_data/mirador?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_7/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_7.json/canvas/p23"
     ],
     "水経注：巻": [
         "巻37"

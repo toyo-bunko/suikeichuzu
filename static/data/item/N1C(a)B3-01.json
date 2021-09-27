@@ -41,7 +41,7 @@
         "濡水"
     ],
     "水経注図：冊子画像": [
-        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_2.json/canvas/p7"
+        "https://static.toyobunko-lab.jp/suikeichuzu_data/mirador?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_2.json/canvas/p7"
     ],
     "水経注：巻": [
         "巻13",

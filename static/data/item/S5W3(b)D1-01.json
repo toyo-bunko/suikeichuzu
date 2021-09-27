@@ -40,7 +40,7 @@
         "汝水"
     ],
     "水経注図：冊子画像": [
-        "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p34"
+        "https://static.toyobunko-lab.jp/suikeichuzu_data/mirador?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_4.json/canvas/p34"
     ],
     "水経注：巻": [
         "巻4",
