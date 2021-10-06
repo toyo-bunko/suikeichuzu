@@ -121,35 +121,43 @@ import * as Annotorious from '@recogito/annotorious-openseadragon'
 
 import '@recogito/annotorious-openseadragon/dist/annotorious.min.css'
 
+var createButton = function (value) {
+  var button = document.createElement('button')
+
+  if (value == currentColorValue) button.className = 'selected'
+
+  button.dataset.tag = value
+  button.style.backgroundColor = value
+  button.addEventListener('click', addTag)
+  return button
+}
+
+var createTag = function (value) {
+  var button = document.createElement('span')
+  button.className = 'badge badge-secondary mx-1 pa-2'
+  button.innerHTML = value
+  return button
+}
+
 var HelloWorldPlugin = function (args) {
-  var createButton = function (value) {
-    var button = document.createElement('button')
-
-    if (value == currentColorValue) button.className = 'selected'
-
-    button.dataset.tag = value
-    button.style.backgroundColor = value
-    button.addEventListener('click', addTag)
-    return button
-  }
-
-  var createTag = function (value) {
-    var button = document.createElement('span')
-    button.className = 'badge badge-secondary mx-1 pa-2'
-    button.innerHTML = value
-    return button
-  }
+  console.log('0')
 
   var container = document.createElement('div')
   container.className = 'pa-2'
+
+  console.log('1')
 
   var textContainer = document.createElement('div')
   textContainer.className = 'mt-2'
   container.appendChild(textContainer)
 
+  console.log('2')
+
   var tagContainer = document.createElement('div')
   tagContainer.className = 'mt-2'
   container.appendChild(tagContainer)
+
+  console.log({ args })
 
   const anno = args.annotation
 
@@ -164,6 +172,8 @@ var HelloWorldPlugin = function (args) {
       }
     })
   }
+
+  console.log('3')
 
   return container
 }
