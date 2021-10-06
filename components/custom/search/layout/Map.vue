@@ -164,7 +164,9 @@ var HelloWorldPlugin = function (args) {
   console.log({ anno })
 
   if (anno) {
-    anno.body.map((body) => {
+    const body2 = anno.body
+    console.log({ body2 })
+    body2.map((body) => {
       if (body.purpose == 'tagging') {
         tagContainer.appendChild(createTag(body.value))
       } else {
@@ -356,6 +358,10 @@ export default {
       this.items = aItems
     },
     async update() {
+      console.log('update')
+      this.anno = null
+      this.viewer = null
+
       //初期化
       document.getElementById('openseadragon').innerHTML = ''
 
