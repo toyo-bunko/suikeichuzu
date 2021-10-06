@@ -140,32 +140,21 @@ var createTag = function (value) {
 }
 
 var HelloWorldPlugin = function (args) {
-  console.log('0')
-
   var container = document.createElement('div')
   container.className = 'pa-2'
-
-  console.log('1')
 
   var textContainer = document.createElement('div')
   textContainer.className = 'mt-2'
   container.appendChild(textContainer)
 
-  console.log('2')
-
   var tagContainer = document.createElement('div')
   tagContainer.className = 'mt-2'
   container.appendChild(tagContainer)
 
-  console.log({ args })
-
   const anno = args.annotation
-
-  console.log({ anno })
 
   if (anno) {
     const body2 = anno.body
-    console.log({ body2 })
     body2.map((body) => {
       if (body.purpose == 'tagging') {
         tagContainer.appendChild(createTag(body.value))
@@ -174,8 +163,6 @@ var HelloWorldPlugin = function (args) {
       }
     })
   }
-
-  console.log('3')
 
   return container
 }
@@ -358,7 +345,7 @@ export default {
       this.items = aItems
     },
     async update() {
-      console.log('update')
+      //console.log('update')
       this.anno = null
       this.viewer = null
 
