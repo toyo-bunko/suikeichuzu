@@ -294,6 +294,10 @@ export default {
             continue
           }
 
+          if (['地名/記述', '記号'].includes(key)) {
+            continue
+          }
+
           body.push({
             type: 'TextualBody',
             purpose: 'tagging',
