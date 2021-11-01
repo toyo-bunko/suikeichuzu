@@ -1,4 +1,3 @@
-import colors from 'vuetify/es5/util/colors'
 const fs = require('fs')
 
 const environment = process.env.NODE_ENV
@@ -414,7 +413,7 @@ const siteKeywords = 'IIIF'
 const iconImages = baseDir + 'img/icons/'
 const ogpImages = basePath + 'img/ogp/' // cdnPath + 'img/ogp/'
 
-env.top = basePath + 'img/ogp/home.jpg'
+env.top = basePath + 'img/ogp/home.webp'
 
 // pwa
 const shortName = '水経注'
@@ -510,11 +509,6 @@ export default {
         sizes: '180x180',
         href: iconImages + 'apple-touch-icon.png',
       },
-      {
-        rel: 'stylesheet',
-        href:
-          'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
-      },
     ],
   },
 
@@ -593,20 +587,9 @@ export default {
 
   // Vuetify module configuration (https://go.nuxtjs.dev/config-vuetify)
   vuetify: {
-    customVariables: ['~/assets/variables.scss'],
-    theme: {
-      dark: false,
-      themes: {
-        dark: {
-          primary: colors.blue.darken2,
-          accent: colors.grey.darken3,
-          secondary: colors.amber.darken3,
-          info: colors.teal.lighten1,
-          warning: colors.amber.base,
-          error: colors.deepOrange.accent4,
-          success: colors.green.accent3,
-        },
-      },
+    defaultAssets: {
+      font: false,
+      icons: 'mdi',
     },
   },
 

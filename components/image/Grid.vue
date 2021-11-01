@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-row>
-      <v-col cols="12" sm="3" v-for="item in items" :key="item.id">
+      <v-col cols="6" sm="md" v-for="item in items" :key="item.id">
         <v-card flat no-body class="mb-4">
           <template v-if="item.href">
             <a :href="item.href" target="_blank">

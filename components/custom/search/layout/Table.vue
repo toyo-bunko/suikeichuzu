@@ -1,105 +1,105 @@
 <template>
-
   <v-simple-table>
-        <template v-slot:default>
-          <thead>
-            <tr>
-              <th></th>
-              <th class="text-left">{{ $t('地名') }}</th>
-              <th class="text-left">{{ $t('legend') }}</th>
-              
-              <th class="text-left">{{ $t('拡大図') }}</th>
-              <th></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="item in items" :key="item.id">
-              <td class="py-2">
-                <nuxt-link
-                    :to="
-                      localePath({
-                        name: 'item-id',
-                        params: { id: item.objectID },
-                      })
-                    "
-                  >
-                    <!-- query, -->
-                    <v-img
-                      contain
-                      max-height="90"
-                      max-width="90"
-                      style="height: 90px"
-                      width="100%"
-                      class="grey lighten-2"
-                      :src="item.thumbnail"
-                    /> </nuxt-link>
-                    </td>
+    <template v-slot:default>
+      <thead>
+        <tr>
+          <th></th>
+          <th class="text-left">{{ $t('地名') }}</th>
+          <th class="text-left">{{ $t('legend') }}</th>
 
-                    <td>
-                <nuxt-link
-                  :to="
-                      localePath({
-                        name: 'item-id',
-                        params: { id: item.objectID },
-                      })
-                    "
-                  >{{ item.label }}</nuxt-link
-                >
-                <!--
+          <th class="text-left">{{ $t('拡大図') }}</th>
+          <!-- <th></th> -->
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="item in items" :key="item.id">
+          <td class="py-2">
+            <nuxt-link
+              :to="
+                localePath({
+                  name: 'item-id',
+                  params: { id: item.objectID },
+                })
+              "
+            >
+              <!-- query, -->
+              <v-img
+                contain
+                max-height="90"
+                max-width="90"
+                style="height: 90px"
+                width="100%"
+                class="grey lighten-2"
+                :src="item.thumbnail"
+              />
+            </nuxt-link>
+          </td>
+
+          <td>
+            <nuxt-link
+              :to="
+                localePath({
+                  name: 'item-id',
+                  params: { id: item.objectID },
+                })
+              "
+              >{{ item.label }}</nuxt-link
+            >
+            <!--
                 <nuxt-link
                   :to="localePath({ name: 'list-id', params: { id: item.id } })"
                   >{{ item.label }}</nuxt-link
                 >
                 -->
-              </td>
+          </td>
 
-                    <td>
+          <td>
+            <img class="mx-2 mt-2" :src="getImage(item.記号)" width="30px" />
+            {{ getLegend(item.記号) }}
+          </td>
 
-                      <img
-                  class="mx-2 mt-2"
-                  :src="getImage(item.記号)"
-                  width="30px"
-                />
-                {{ getLegend(item.記号) }}
-
-                    </td>
-              
-              <td>
-                <!--
+          <td>
+            <!--
                 <a
                   :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}&mode=annotation&lang=ja`"
                   >全体図</a
                 >
                 -->
-                <a
-                  :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}&xywh=${item.member.split('#xywh=')[1]}&mode=annotation&lang=ja`"
-                  >{{item.図[0]}}</a
-                >
-              </td>
-              <td v-if="false">
-                TODO
-                <template v-if="false">
-                  <a
-                    :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}&mode=annotation&lang=ja`"
-                    >グリッド</a
-                  >
-                </template>
-              </td>
-              <td>
-                <ResultOption
-          :item="{
-            label: item.label,
-            url: localePath({
-                        name: 'item-id',
-                        params: { id: item.objectID },
-                      }),
-          }"
-        />
-                </td>
-            </tr>
-          </tbody>
-        </template>
-      </v-simple-table>
+            <v-btn
+              text
+              color="primary"
+              target="_blank"
+              :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${
+                item.curation
+              }&xywh=${item.member.split('#xywh=')[1]}&mode=annotation&lang=ja`"
+              >{{ item.図[0] }}
+              <v-icon class="ml-1">mdi-exit-to-app</v-icon></v-btn
+            >
+          </td>
+          <td v-if="false">
+            TODO
+            <template v-if="false">
+              <a
+                :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${item.curation}&mode=annotation&lang=ja`"
+                >グリッド</a
+              >
+            </template>
+          </td>
+          <td v-if="false">
+            <ResultOption
+              :item="{
+                label: item.label,
+                url: localePath({
+                  name: 'item-id',
+                  params: { id: item.objectID },
+                }),
+              }"
+            />
+          </td>
+        </tr>
+      </tbody>
+    </template>
+  </v-simple-table>
 </template>
 
 <script lang="ts">
@@ -108,8 +108,8 @@ import ResultOption from '~/components/display/ResultOption.vue'
 
 @Component({
   components: {
-ResultOption
-}
+    ResultOption,
+  },
 })
 export default class FullTextSearch extends Vue {
   baseUrl: any = process.env.BASE_URL

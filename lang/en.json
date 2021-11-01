@@ -398,6 +398,7 @@
   "collection": "Collection",
   "東洋文庫": "Toyo Bunko",
   "水経注図": "Suikeichuzu",
+  "水名": "River",
   "巻": "Volume",
   "画像": "Image",
   "画像をみる": "View",
@@ -405,7 +406,8 @@
   "地図名": "Name",
   "地図": "Map",
   "list_": "List",
-  "東洋文庫水経注図データベース": "東洋文庫水経注図データベース",
+  "東洋文庫水経注図データベース": "Toyo Bunko Suikeichuzu DB",
+  "東洋文庫所蔵の水経注図データベースです。": "Database about Suikeichuzu owned by Toyo Bunko.",
   "冊": "冊",
   "図": "図",
   "区画南北": "区画南北",
@@ -422,5 +424,14 @@
   "sort": "Sort",
   "記号": "記号",
   "画像を一覧する": "Imgaes",
-  "冊子画像": "Books"
+  "冊子画像": "Books",
+  "viewer": "Viewer",
+  "download": "Download",
+  "format": "Format",
+  "book_list": "Book List",
+  "map_list": "Map List",
+  "検索結果一覧を表示": "Search Result",
+  "検索結果一覧（地図表示）": "Search Result 'Map View'",
+  "地図をそのまま見る": "Browse Map",
+  "初回はインデックスファイルのダウンロードに時間を要します。2回目以降はキャッシュにより待ち時間が改善します。": "The first time it takes some time to download the index file, but after the second time, the waiting time will improve with the cache."
 }

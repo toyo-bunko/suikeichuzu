@@ -3,26 +3,26 @@
     <div>
       <v-navigation-drawer v-model="drawer" app :temporary="true">
         <v-list>
-        <v-list-item
-          v-for="(item, key) in menu"
-          :key="key"
-          :to="item.to"
-          :href="item.href"
-          link
-        >
-          <v-list-item-action v-if="item.icon">
-            <v-icon>{{ item.icon }}</v-icon>
-          </v-list-item-action>
-          <v-list-item-content>
-            <span>{{ $t(item.label) }}</span>
-          </v-list-item-content>
-        </v-list-item>
-      </v-list>
+          <v-list-item
+            v-for="(item, key) in menu"
+            :key="key"
+            :to="item.to"
+            :href="item.href"
+            link
+          >
+            <v-list-item-action v-if="item.icon">
+              <v-icon>{{ item.icon }}</v-icon>
+            </v-list-item-action>
+            <v-list-item-content>
+              <span>{{ $t(item.label) }}</span>
+            </v-list-item-content>
+          </v-list-item>
+        </v-list>
       </v-navigation-drawer>
 
-      <v-app-bar dark>
+      <v-app-bar dark app flat>
         <v-app-bar-nav-icon v-if="isMobile" @click.stop="drawer = !drawer" />
-        <v-toolbar-title>
+        <v-toolbar-title v-if="!isMobile">
           <nuxt-link
             :to="
               localePath({
@@ -35,11 +35,9 @@
           </nuxt-link>
         </v-toolbar-title>
 
-        <template v-if="$vuetify.breakpoint.name != 'xs'">
-          <div class="ml-10">
-            <FullTextSearch :head="true"/>
-          </div>
-        </template>
+        <v-spacer></v-spacer>
+
+        <FullTextSearch :head="true" />
 
         <v-spacer></v-spacer>
 
@@ -63,9 +61,6 @@
           <template #activator="{ on }">
             <v-btn depressed btn v-on="on">
               <v-icon>mdi-translate</v-icon>
-              <span v-if="$vuetify.breakpoint.name != 'xs'" class="ml-2">
-                <v-icon class="ml-2">mdi-menu-down</v-icon>
-              </span>
             </v-btn>
           </template>
 
@@ -78,8 +73,6 @@
             </v-list-item>
           </v-list>
         </v-menu>
-
-        
       </v-app-bar>
     </div>
 
@@ -145,30 +138,30 @@ export default class search extends Vue {
   get menu(): any[] {
     return [
       {
-        label: "list_",
+        label: 'list_',
         to: this.localePath({ name: 'collection' }),
       },
       {
-        label: "detail",
+        label: 'detail',
         to: this.localePath({ name: 'advanced' }),
       },
-      
+
       {
-        label: "category",
+        label: 'category',
         to: this.localePath({ name: 'category' }),
       },
       {
-        label: "about_",
+        label: 'about_',
         to: this.localePath({
           name: 'page-slug',
           params: { slug: 'about' },
         }),
-      }
+      },
     ]
   }
 
   get isMobile() {
-    if (['xs', 'sm'].includes((this as any).$vuetify.breakpoint.name)) {
+    if (['xs', 'sm', 'md'].includes((this as any).$vuetify.breakpoint.name)) {
       return true
     } else {
       return false

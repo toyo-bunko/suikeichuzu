@@ -35,10 +35,11 @@
 
         <div class="my-2">
           <template v-for="(metadataValue, key) in metadataList">
-            <span :key="key"><b>{{metadataValue}}: </b>{{$utils.formatArrayValue(item[metadataValue])}}
-  
-              <span class="mr-2" v-if="key != metadataList.length - 1">,</span> 
-  
+            <span :key="key"
+              ><b>{{ metadataValue }}: </b
+              >{{ $utils.formatArrayValue(item[metadataValue]) }}
+
+              <span class="mr-2" v-if="key != metadataList.length - 1">,</span>
             </span>
           </template>
           <p v-if="item.description">
@@ -46,9 +47,7 @@
               <small v-if="value.length < 50" :key="key">
                 <span v-html="$searchUtils.highlightRelation(value, q)" />
 
-                <span v-if="key !== item.description.length">
-                  /
-                </span>
+                <span v-if="key !== item.description.length"> / </span>
               </small>
             </template>
           </p>
@@ -56,16 +55,16 @@
             <v-icon>mdi-database</v-icon> {{ item.attribution }}
           </p>
         </div>
-        <div class="text-right">
+        <div class="text-right" v-if="false">
           <ResultOption
-          :item="{
-            label: item.label,
-            url: localePath({
-                        name: 'item-id',
-                        params: { id: item.objectID },
-                      }),
-          }"
-        />
+            :item="{
+              label: item.label,
+              url: localePath({
+                name: 'item-id',
+                params: { id: item.objectID },
+              }),
+            }"
+          />
         </div>
       </v-col>
     </v-row>
@@ -79,8 +78,8 @@ import ResultOption from '~/components/display/ResultOption.vue'
 
 @Component({
   components: {
-ResultOption
-}
+    ResultOption,
+  },
 })
 export default class FullTextSearch extends Vue {
   @Prop({})

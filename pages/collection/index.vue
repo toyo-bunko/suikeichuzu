@@ -1,14 +1,6 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="breadcrumbs">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="breadcrumbs" />
     <v-container class="my-5">
       <h1 class="mb-5">{{ title }}</h1>
       <v-simple-table>
@@ -17,14 +9,14 @@
             <tr>
               <th class="text-center">{{ $t('name') }}</th>
               <th class="text-center">
-                {{ /*$t('name')*/ '検索結果一覧を表示' }}
+                {{ /*$t('name')*/ $t('検索結果一覧を表示') }}
               </th>
               <th class="text-center">
-                {{ /*$t('name')*/ '検索結果一覧（地図表示）' }}
+                {{ /*$t('name')*/ $t('検索結果一覧（地図表示）') }}
               </th>
               <!-- <th class="text-left">{{ $t('地図') }}</th> -->
               <th class="text-center">
-                {{ /*$t('map')*/ '地図をそのまま見る' }}
+                {{ /*$t('map')*/ $t('地図をそのまま見る') }}
               </th>
             </tr>
           </thead>
@@ -96,9 +88,12 @@
 
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 
 @Component({
-  components: {},
+  components: {
+    Breadcrumbs,
+  },
 })
 export default class Item extends Vue {
   baseUrl: any = process.env.BASE_URL
@@ -120,7 +115,7 @@ export default class Item extends Vue {
   get breadcrumbs() {
     return [
       {
-        text: 'HOME',
+        text: this.$t('top'),
         disabled: false,
         to: this.localePath({ name: 'index' }),
         exact: true,

@@ -20,14 +20,14 @@
     <v-container class="mt-10">
       <div class="mb-5 pb-5 text-center">
         <!-- <h1>{{ $t(siteName) }}</h1> -->
-        <p class="py-5" v-html="siteDesc"></p>
+        <p class="py-5" v-html="$t(siteDesc)"></p>
       </div>
 
       <div v-if="items.length > 0">
         <h3 class="mt-5 mb-10 text-center">{{ $t('menu') }}</h3>
 
         <v-row class="mb-10">
-          <v-col v-for="(obj, key) in items" :key="key" cols="12" :sm="3">
+          <v-col v-for="(obj, key) in items" :key="key" cols="6" :md="3">
             <v-card flat no-body class="mb-4">
               <template v-if="obj.href">
                 <a :href="obj.href" target="_blank">
@@ -139,7 +139,7 @@ export default class about extends Vue {
     },
 
     {
-      label: '水名一覧',
+      label: this.$t('rivers'),
       path: {
         name: 'river',
       },
@@ -155,7 +155,7 @@ export default class about extends Vue {
       icon: 'mdi-tag',
     },
     {
-      label: '冊子画像',
+      label: this.$t('冊子画像'),
       path: {
         name: 'book',
       },
@@ -197,7 +197,7 @@ export default class about extends Vue {
     },
     */
     {
-      label: 'データセット', //'画像を一覧する（' + this.$t('iiif_collection') + '）',
+      label: this.$t('data_set'), //'画像を一覧する（' + this.$t('iiif_collection') + '）',
       //href: "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
       path: {
         name: 'dataset',

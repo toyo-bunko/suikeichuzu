@@ -1,16 +1,7 @@
 <template>
   <div>
-    <v-sheet v-if="isBc" color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="bh">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
-    <v-container class="my-5" fluid>
-      <h2>{{ $t('search') }}</h2>
+    <v-container class="mb-5" fluid>
+      <!-- <h2>{{ $t('search') }}</h2> my-5 -->
 
       <template v-if="loading">
         <div class="text-center">
@@ -21,13 +12,17 @@
           ></v-progress-circular>
 
           <p>
-            初回はインデックスファイルのダウンロードに時間を要します。2回目以降はキャッシュにより待ち時間が改善します。
+            {{
+              $t(
+                '初回はインデックスファイルのダウンロードに時間を要します。2回目以降はキャッシュにより待ち時間が改善します。'
+              )
+            }}
           </p>
         </div>
       </template>
 
       <template v-else>
-        <v-row class="mt-2" dense>
+        <v-row class="mt-2" dense v-if="false">
           <v-col cols="12" sm="10">
             <FullTextSearch background-color="grey lighten-3"></FullTextSearch>
           </v-col>
@@ -53,7 +48,10 @@
           <v-row>
             <v-col cols="3"></v-col>
             <v-col cols="6" class="grey lighten-5 pa-5">
-              <SearchAdvanced @close="isAdvanced = $event" :showCloseBtn="true"></SearchAdvanced>
+              <SearchAdvanced
+                @close="isAdvanced = $event"
+                :showCloseBtn="true"
+              ></SearchAdvanced>
             </v-col>
             <v-col cols="3"></v-col>
           </v-row>
@@ -298,8 +296,6 @@
             </template>
           </v-col>
         </v-row>
-
-        
       </template>
     </v-container>
 
@@ -385,6 +381,7 @@ import CRender from '~/components/common/view/CRender.vue'
 const _ = require('lodash')
 
 export default {
+  layout: 'search',
   components: {
     FullTextSearch,
     SearchAdvanced,
@@ -452,7 +449,7 @@ export default {
 
   computed: {
     isPagination() {
-      return this.layout_ !== 'graph'
+      return ['table', 'grid', 'list'].includes(this.layout_)
     },
     length() {
       return Math.ceil(this.total / this.size)
@@ -500,7 +497,7 @@ export default {
       }
 
       return items
-    }
+    },
   },
 
   watch: {

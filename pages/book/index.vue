@@ -1,14 +1,6 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="bh">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="bh" />
     <v-container class="my-5">
       <h2 class="mb-10">{{ title }}</h2>
 
@@ -31,9 +23,11 @@
 import { Component, Vue } from 'nuxt-property-decorator'
 import axios from 'axios'
 import Grid from '~/components/image/Grid.vue'
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 
 @Component({
   components: {
+    Breadcrumbs,
     Grid,
   },
 })

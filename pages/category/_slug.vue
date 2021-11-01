@@ -1,17 +1,8 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="bh">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="bh" />
     <v-container class="my-5">
-
-      <v-tabs v-model="tabValue" class="mb-10">
+      <v-tabs v-model="tabValue" class="mb-10" show-arrows>
         <template v-for="(aggList, aggField) in aggs">
           <v-tab
             v-if="!aggList.hide"
@@ -19,13 +10,15 @@
             class="ma-1"
             depressed
             color="primary"
-            :to="localePath({name: 'category-slug', params: {slug: aggField}})"
+            :to="
+              localePath({ name: 'category-slug', params: { slug: aggField } })
+            "
             >{{ aggList.label }}</v-tab
           >
         </template>
       </v-tabs>
 
-      <h2 class="my-5">{{$route.params.slug}}</h2>
+      <h2 class="my-5">{{ $route.params.slug }}</h2>
 
       <template v-if="loading">
         <div class="text-center">
@@ -36,100 +29,87 @@
           ></v-progress-circular>
 
           <p>
-            初回はインデックスファイルのダウンロードに時間を要します。2回目以降はキャッシュにより待ち時間が改善します。
+            {{
+              $t(
+                '初回はインデックスファイルのダウンロードに時間を要します。2回目以降はキャッシュにより待ち時間が改善します。'
+              )
+            }}
           </p>
         </div>
       </template>
 
       <template v-else>
-
-        <v-tabs
-          v-model="tabs"
-          right
-        >
+        <v-tabs v-model="tabs" right>
           <v-tabs-slider></v-tabs-slider>
-          <v-tab
-            href="#mobile-tabs-5-1"
-            class="primary--text"
-          >
+          <v-tab href="#table" class="primary--text">
             <v-icon>mdi-table</v-icon>
           </v-tab>
 
-          <v-tab
-            href="#mobile-tabs-5-2"
-            class="primary--text"
-          >
+          <v-tab href="#graph" class="primary--text">
             <v-icon>mdi-chart-bar</v-icon>
           </v-tab>
-
-          
         </v-tabs>
 
-
         <v-tabs-items v-model="tabs" class="mt-10">
-      <v-tab-item
-        :value="'mobile-tabs-5-1'"
-      >
+          <v-tab-item :value="'table'">
+            <v-card flat>
+              <v-card-title>
+                <v-text-field
+                  filled
+                  rounded
+                  v-model="searchAgg"
+                  append-icon="mdi-magnify"
+                  dense
+                  single-line
+                  hide-details
+                ></v-text-field>
+              </v-card-title>
+              <v-data-table
+                :items-per-page="20"
+                :footer-props="{
+                  'items-per-page-options': [20, 50, 100, -1],
+                }"
+                :headers="headersAggs"
+                :items="itemsAggs"
+                :search="searchAgg"
+              >
+                <template v-slot:item.label="{ item }">
+                  <nuxt-link
+                    :to="
+                      localePath({
+                        name: 'search',
+                        query: getQuery(item.label),
+                      })
+                    "
+                  >
+                    {{ item.label }}
+                  </nuxt-link>
+                </template>
 
-      <v-card flat>
-    <v-card-title>
-      <v-text-field
-      filled
-      rounded
-        v-model="searchAgg"
-        append-icon="mdi-magnify"
-        dense
-        single-line
-        hide-details
-      ></v-text-field>
-    </v-card-title>
-    <v-data-table
-    :items-per-page="20"
-            :footer-props="{
-              'items-per-page-options': [20, 50, 100, -1]
-            }"
-      :headers="headersAggs"
-      :items="itemsAggs"
-      :search="searchAgg"
-    >
-    
-    <template v-slot:item.label="{ item }">
-      <nuxt-link :to="localePath({name: 'search', query: getQuery(item.label)})">
-        {{item.label}}
-        </nuxt-link>
-    </template>
-    
-    </v-data-table>
-  </v-card>
+                <template v-slot:item.value="{ item }">
+                  {{ item.value.toLocaleString() }}
+                </template>
+              </v-data-table>
+            </v-card>
+          </v-tab-item>
 
-      </v-tab-item>
-
-      <v-tab-item
-        :value="'mobile-tabs-5-2'"
-      >
-
-  <BarChart
-          class="mt-10"
-          :labels="labels"
-          :datasets="datasets"
-        ></BarChart>
-
-      </v-tab-item>
-    </v-tabs-items>
-        
-        
-
-        
-        
+          <v-tab-item :value="'graph'">
+            <BarChart
+              class="mt-10"
+              :labels="labels"
+              :datasets="datasets"
+            ></BarChart>
+          </v-tab-item>
+        </v-tabs-items>
       </template>
     </v-container>
-
-    
   </div>
 </template>
 
 <script>
 import axios from 'axios'
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
+
 const _ = require('lodash')
 
 function removeDuplicates(inArray) {
@@ -148,25 +128,25 @@ function removeDuplicates(inArray) {
 }
 
 export default {
-  components: {},
+  components: {
+    Breadcrumbs,
+  },
   data() {
     return {
-
+      tabValue: -1,
       tabs: null,
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-
       headersAggs: [
         {
-          text: this.$t("name"),
-          value: "label"
+          text: this.$t('name'),
+          value: 'label',
         },
         {
-          text: this.$t("results"),
-          value: "value"
-        }
+          text: this.$t('results'),
+          value: 'value',
+        },
       ],
 
-      searchAgg: "",
+      searchAgg: '',
       //itemsAgg: [],
 
       page: 1,
@@ -187,7 +167,7 @@ export default {
 
       selectedAggValues: [],
 
-      selectedField: "group",
+      selectedField: 'group',
       selected: [],
       facetSearch: '',
 
@@ -218,45 +198,45 @@ export default {
 
       metadataList: process.env.list,
 
-      sortList: process.env.sort
+      sortList: process.env.sort,
     }
   },
 
   computed: {
-    itemsAggs(){
+    itemsAggs() {
       const items = []
-      for(const obj of this.aggs[this.$route.params.slug].value){
+      for (const obj of this.aggs[this.$route.params.slug].value) {
         items.push({
           label: obj[0],
-          value: obj[1]
+          value: obj[1],
         })
       }
 
-      items.sort(function(a,b){
-        if(a.value < b.value) return 1;
-        if(a.value > b.value) return -1;
-        return 0;
-      });
+      items.sort(function (a, b) {
+        if (a.value < b.value) return 1
+        if (a.value > b.value) return -1
+        return 0
+      })
 
       return items
     },
 
-    labels(){
+    labels() {
       const items = this.itemsAggs
       const labels = []
-      for(const obj of items){
+      for (const obj of items) {
         labels.push(obj.label)
       }
       return labels
     },
 
-    datasets(){
+    datasets() {
       const items = this.itemsAggs
       const data = []
-      for(const obj of items){
+      for (const obj of items) {
         data.push(obj.value)
       }
-      return [{ data, label: this.$t("item") }]
+      return [{ data, label: this.$t('item') }]
     },
 
     length() {
@@ -275,26 +255,26 @@ export default {
       }
       return filters
     },
-    sortItems(){
-      const keys = ["asc", "desc"]
+    sortItems() {
+      const keys = ['asc', 'desc']
       const items = []
-      for(const obj of this.sortList){
-        for(const key of keys){
+      for (const obj of this.sortList) {
+        for (const key of keys) {
           items.push({
-            text: obj.label + " " + this.$t(key),
-            value: obj.value+":"+key
+            text: obj.label + ' ' + this.$t(key),
+            value: obj.value + ':' + key,
           })
         }
       }
-      return items//[{ text: '適合度', value: '_score:desc' }]
+      return items //[{ text: '適合度', value: '_score:desc' }]
     },
-    searchLayout(){
-      for(const option of this.layouts){
-        if(option.value === this.layout_){
-            return option.component
-          }
+    searchLayout() {
+      for (const option of this.layouts) {
+        if (option.value === this.layout_) {
+          return option.component
+        }
       }
-    }
+    },
   },
 
   watch: {
@@ -328,16 +308,29 @@ export default {
 
       this.list()
     },
+
+    tabs() {
+      console.log(this.tabs)
+      const query = JSON.parse(JSON.stringify(this.$route.query))
+      query.layout = this.tabs
+      this.$router.push(
+        this.localePath({
+          name: 'category-slug',
+          params: this.$route.params,
+          query,
+        })
+      )
+    },
   },
 
   async mounted() {
     // 初期読み込み
-    const start = performance.now();
-    console.log("start download")
+    const start = performance.now()
+    console.log('start download')
     let index = await axios.get(process.env.BASE_URL + '/data/index_river.json')
     index = index.data
 
-    console.log("end download", performance.now() - start)
+    console.log('end download', performance.now() - start)
 
     const docs = {}
 
@@ -351,11 +344,11 @@ export default {
     for (const aggField in aggs) {
       facets[aggField] = {}
     }
-    
+
     //今後改善予定
-    for(const option of this.advancedOptions){
-        facets[option.key] = {}
-      }
+    for (const option of this.advancedOptions) {
+      facets[option.key] = {}
+    }
 
     for (const item of index) {
       const id = item.objectID
@@ -394,6 +387,8 @@ export default {
     // クエリの処理
     const query = this.$route.query
 
+    this.tabs = query.layout
+
     // ページの初期化
     const page = Number(query['main[page]']) || this.page
     this.page = page
@@ -422,22 +417,22 @@ export default {
     const q = query['main[query]'] || this.q
     this.q = q
 
-    console.log("filter start")
+    console.log('filter start')
     this.filter()
-    console.log("end filter", performance.now() - start)
+    console.log('end filter', performance.now() - start)
 
     // 初期検索の場合
     this.list()
 
     this.loading = false
 
-    console.log("end loading", performance.now() - start)
+    console.log('end loading', performance.now() - start)
   },
 
   methods: {
-    getQuery(value){
+    getQuery(value) {
       const obj = {}
-      obj['main[refinementList]['+this.$route.params.slug+'][0]'] = value
+      obj['main[refinementList][' + this.$route.params.slug + '][0]'] = value
       return obj
     },
     init() {
@@ -473,7 +468,7 @@ export default {
 
       const sort = this.sort //'_score:desc'
 
-      const spl = sort.split(":")
+      const spl = sort.split(':')
       const sortValue = spl[0]
       const sortOrder = spl[1]
 
@@ -523,10 +518,10 @@ export default {
         if (queryField.includes('[advanced]')) {
           const facetField = queryField.split('[')[2].split(']')[0]
 
-          if(!advancedMap[facetField]){
+          if (!advancedMap[facetField]) {
             advancedMap[facetField] = {
-              "+" : [],
-              "-" : []
+              '+': [],
+              '-': [],
             }
           }
 
@@ -535,67 +530,67 @@ export default {
             values = [values]
           }
 
-          for(const v of values){
-            let key = "+"
+          for (const v of values) {
+            let key = '+'
             let value = v
-            if(v.startsWith("-")){
-              key = "-"
+            if (v.startsWith('-')) {
+              key = '-'
               value = v.substring(1)
             }
-            if(!advancedMap[facetField][key].includes(value)){
+            if (!advancedMap[facetField][key].includes(value)) {
               advancedMap[facetField][key].push(value)
             }
           }
-
         }
       }
 
       //advanced options
       const options = {}
-      for(const option of this.advancedOptions){
+      for (const option of this.advancedOptions) {
         options[option.key] = option
       }
 
-      for(let facetField in advancedMap){
+      for (let facetField in advancedMap) {
         const obj = advancedMap[facetField]
-        const plusValues = obj["+"]
-        const minusValues = obj["-"]
+        const plusValues = obj['+']
+        const minusValues = obj['-']
 
         const matchFacets = facets[facetField]
 
         //プラス分
-        if(plusValues.length > 0){
+        if (plusValues.length > 0) {
           let plusMatchedIds = []
-          for(const pValue of plusValues){
-            if(options[facetField].select){
+          for (const pValue of plusValues) {
+            if (options[facetField].select) {
               plusMatchedIds = plusMatchedIds.concat(matchFacets[pValue])
             } else {
               //部分一致
-              for(const key in matchFacets){
-                if(key.includes(pValue)){
+              for (const key in matchFacets) {
+                if (key.includes(pValue)) {
                   plusMatchedIds = plusMatchedIds.concat(matchFacets[key])
                 }
               }
             }
           }
           ids = _.intersection(ids, plusMatchedIds)
-        }        
+        }
 
         //マイナス分
-        if(minusValues.length > 0){
+        if (minusValues.length > 0) {
           //各値
-          for(const mValue of minusValues){
+          for (const mValue of minusValues) {
             let eachMinusMatchedIds = []
             for (const facetValue in matchFacets) {
               if (facetValue !== mValue) {
-                eachMinusMatchedIds = eachMinusMatchedIds.concat(matchFacets[facetValue])
+                eachMinusMatchedIds = eachMinusMatchedIds.concat(
+                  matchFacets[facetValue]
+                )
               }
             }
             ids = _.intersection(ids, eachMinusMatchedIds)
-          }          
+          }
         }
       }
-
 
       //ファセット
 
@@ -605,10 +600,10 @@ export default {
         if (queryField.includes('[refinementList]')) {
           const facetField = queryField.split('[')[2].split(']')[0]
 
-          if(!queryMap[facetField]){
+          if (!queryMap[facetField]) {
             queryMap[facetField] = {
-              "+" : [],
-              "-" : []
+              '+': [],
+              '-': [],
             }
           }
 
@@ -617,14 +612,14 @@ export default {
             values = [values]
           }
 
-          for(const v of values){
-            let key = "+"
+          for (const v of values) {
+            let key = '+'
             let value = v
-            if(v.startsWith("-")){
-              key = "-"
+            if (v.startsWith('-')) {
+              key = '-'
               value = v.substring(1)
             }
-            if(!queryMap[facetField][key].includes(value)){
+            if (!queryMap[facetField][key].includes(value)) {
               queryMap[facetField][key].push(value)
             }
           }
@@ -650,36 +645,38 @@ export default {
         }
       }
 
-      for(let facetField in queryMap){
+      for (let facetField in queryMap) {
         const obj = queryMap[facetField]
-        const plusValues = obj["+"]
-        const minusValues = obj["-"]
+        const plusValues = obj['+']
+        const minusValues = obj['-']
 
         const matchFacets = facets[facetField]
 
         //プラス分
-        if(plusValues.length > 0){
+        if (plusValues.length > 0) {
           let plusMatchedIds = []
-          for(const pValue of plusValues){
+          for (const pValue of plusValues) {
             plusMatchedIds = plusMatchedIds.concat(matchFacets[pValue])
           }
           ids = _.intersection(ids, plusMatchedIds)
-        }        
+        }
 
         //マイナス分
-        if(minusValues.length > 0){
+        if (minusValues.length > 0) {
           //各値
-          for(const mValue of minusValues){
+          for (const mValue of minusValues) {
             let eachMinusMatchedIds = []
             for (const facetValue in matchFacets) {
               if (facetValue !== mValue) {
-                eachMinusMatchedIds = eachMinusMatchedIds.concat(matchFacets[facetValue])
+                eachMinusMatchedIds = eachMinusMatchedIds.concat(
+                  matchFacets[facetValue]
+                )
               }
             }
             ids = _.intersection(ids, eachMinusMatchedIds)
-          }          
+          }
         }
-      }      
+      }
 
       /*
       const tmp = {
@@ -700,7 +697,7 @@ export default {
         let x = 1
         let y = -1
 
-        if(sortOrder === "asc"){
+        if (sortOrder === 'asc') {
           x = -1
           y = 1
         }
@@ -719,25 +716,24 @@ export default {
         }
 
         ids = ids_ //ids.sort()
-      } else if(facets[sortValue]) {
+      } else if (facets[sortValue]) {
         //項目でソート
         const sortObj = facets[sortValue]
 
-        let keys = Object.keys(sortObj);
+        let keys = Object.keys(sortObj)
 
         //速度の問題で、キーの数が多すぎる場合には、idsでソートする
-        if(keys.length > 100 && false){
+        if (keys.length > 100 && false) {
           ids = ids.sort()
         } else {
-
-          if(sortOrder === "desc"){
+          if (sortOrder === 'desc') {
             keys.reverse()
           } else {
-            keys.sort();
+            keys.sort()
           }
-          
+
           let sortIds = []
-          for(let key of keys){
+          for (let key of keys) {
             let ids_ = sortObj[key]
             //ids_ = _.intersection(ids, ids_)
             sortIds = sortIds.concat(ids_)
@@ -867,15 +863,13 @@ export default {
         selectedValues = [selectedValues]
       }
 
-      for(const value of selectedValues){
+      for (const value of selectedValues) {
         if (values.includes(value)) {
           values = values.filter((n) => n !== value)
         } else {
           values.push(value)
         }
       }
-
-      
 
       for (let i = 0; i < values.length; i++) {
         query['main[refinementList][' + field + '][' + i + ']'] = values[i]
@@ -906,8 +900,6 @@ export default {
       }
     },
 
-    
-
     changeHitsPerPage() {
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
@@ -927,7 +919,7 @@ export default {
       )
     },
 
-    changeSort(){
+    changeSort() {
       //console.log(this.sort)
       const query = JSON.parse(JSON.stringify(this.$route.query))
       query['sort'] = this.sort
@@ -968,7 +960,7 @@ export default {
       for (const queryField in query) {
         if (queryField.includes('[' + field + ']')) {
           const value = query[queryField]
-          if(value.startsWith("-")){
+          if (value.startsWith('-')) {
             values.push(value)
           }
         }
@@ -981,30 +973,28 @@ export default {
       this.selected = []
       this.isShowAll = true
 
-      
       const items = []
-      for(const item of aggList.value){
+      for (const item of aggList.value) {
         items.push({
           label: item[0],
-          value: item[1]
+          value: item[1],
         })
       }
       this.selectedAggValues = items
-      
     },
 
-    getLabels(values){
+    getLabels(values) {
       const labels = []
-      for(const item of values){
+      for (const item of values) {
         labels.push(item.label)
       }
       return labels
-    }
+    },
   },
 
   head() {
     return {
-      title: this.$t('category') + ": " + this.$route.params.slug,
+      title: this.$t('category') + ': ' + this.$route.params.slug,
     }
   },
 }

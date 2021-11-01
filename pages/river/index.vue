@@ -1,14 +1,6 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="breadcrumbs">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="breadcrumbs" />
     <v-container class="my-5">
       <h1 class="mb-5">{{ title }}</h1>
       <v-simple-table>
@@ -16,17 +8,23 @@
           <thead>
             <tr>
               <th class="text-center">{{ $t('水名') }}</th>
-              
+
               <th class="text-center">{{ $t('巻') }}</th>
-              <th class="text-center">{{ /*$t('name')*/"検索結果一覧を表示" }}</th>
-              <th class="text-center">{{ /*$t('name')*/"検索結果一覧（地図表示）" }}</th>
-              <th class="text-center">{{ /*$t('map')*/"地図をそのまま見る（ICV）" }}</th>
+              <th class="text-center">
+                {{ /*$t('name')*/ $t('検索結果一覧を表示') }}
+              </th>
+              <th class="text-center">
+                {{ /*$t('name')*/ $t('検索結果一覧（地図表示）') }}
+              </th>
+              <th class="text-center">
+                {{ /*$t('map')*/ $t('地図をそのまま見る') }}
+              </th>
             </tr>
           </thead>
           <tbody>
             <tr v-for="item in items" :key="item.id">
               <td class="text-center">
-                {{item._id}}
+                {{ item._id }}
               </td>
               <td class="text-center">
                 {{ item._source.巻[0] }}
@@ -34,17 +32,33 @@
               <td class="text-center">
                 <nuxt-link
                   :to="
-                    localePath({ name: 'search', query: { 'main[refinementList][水名]': item._id, layout: 'table' } })
+                    localePath({
+                      name: 'search',
+                      query: {
+                        'main[refinementList][水名]': item._id,
+                        layout: 'table',
+                      },
+                    })
                   "
-                  ><v-icon class="mr-2" color="primary">mdi-table</v-icon></nuxt-link
+                  ><v-icon class="mr-2" color="primary"
+                    >mdi-table</v-icon
+                  ></nuxt-link
                 >
               </td>
               <td class="text-center">
                 <nuxt-link
                   :to="
-                    localePath({ name: 'search', query: { 'main[refinementList][水名]': item._id, layout: 'map' } })
+                    localePath({
+                      name: 'search',
+                      query: {
+                        'main[refinementList][水名]': item._id,
+                        layout: 'map',
+                      },
+                    })
                   "
-                  ><v-icon class="mr-2" color="primary">mdi-map</v-icon></nuxt-link
+                  ><v-icon class="mr-2" color="primary"
+                    >mdi-map</v-icon
+                  ></nuxt-link
                 >
               </td>
               <td class="text-center">
@@ -67,9 +81,12 @@
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
 import axios from 'axios'
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 
 @Component({
-  components: {},
+  components: {
+    Breadcrumbs,
+  },
 })
 export default class Item extends Vue {
   baseUrl: any = process.env.BASE_URL

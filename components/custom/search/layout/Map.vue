@@ -11,7 +11,7 @@
       </v-tab>
     </v-tabs>
 
-    <v-alert type="warning" prominent class="my-5" v-if="alert">
+    <v-alert type="warning" outlined prominent class="my-5" v-if="alert">
       <v-row align="center">
         <v-col class="grow">
           上位
@@ -35,6 +35,7 @@
               rounded
               dense
               hide-details
+              single-line
               :placeholder="$t('add_a_search_term')"
               append-icon="mdi-magnify"
               clearable
@@ -44,10 +45,18 @@
             ></v-text-field>
           </template>
 
+          <!--
           <template v-slot:item.label="{ item }">
             <a @click="zoom(item.id)">{{ item.label }}</a>
           </template>
+          -->
           <template v-slot:item.detail="{ item }">
+            <a @click="zoom(item.id)"
+              ><!-- {{ item.label }}--><v-icon class="primary--text"
+                >mdi-select-search</v-icon
+              ></a
+            >
+            <!--
             <v-btn
               target="_blank"
               icon
@@ -59,6 +68,7 @@
             >
               <v-icon>mdi-menu</v-icon>
             </v-btn>
+            -->
           </template>
         </v-data-table>
       </v-col>
@@ -187,9 +197,9 @@ export default {
       search: '',
       headers: [
         { text: this.$t('name'), value: 'label' },
-        { text: '分類', value: 'category' },
-        { text: '記号説明', value: 'kigo' },
-        { text: '詳細', value: 'detail', sortable: false },
+        { text: this.$t('category'), value: 'category' },
+        { text: this.$t('legend'), value: 'kigo' },
+        { text: '', value: 'detail', sortable: false },
       ],
       rows: [],
       viewer: null,
@@ -218,7 +228,7 @@ export default {
 
   methods: {
     zoom(id) {
-      this.anno.fitBounds(id)
+      this.anno.fitBounds(id) //WithConstraints
     },
     init() {
       console.log('init')

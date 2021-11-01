@@ -1,27 +1,19 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="bh">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="bh" />
     <v-container class="my-5">
       <h2 class="mb-5">{{ title }}</h2>
 
       <v-data-table :headers="headers" :items="items">
-        <template v-slot:item.label="{ item }">
-          <a :href="item['@id']">
-            {{ item.label }}
-          </a>
+        <template v-slot:item.dwn="{ item }">
+          <v-btn icon :href="item['@id']" color="primary">
+            <v-icon>mdi-file-download</v-icon>
+          </v-btn>
         </template>
 
         <template v-slot:item.url="{ item }">
           <v-btn color="primary" class="my-2" :href="item.url" target="_blank">
-            {{ 'View' }}
+            {{ $t('view') }}
           </v-btn>
         </template>
       </v-data-table>
@@ -58,48 +50,59 @@
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
 import axios from 'axios'
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 
 @Component({
-  components: {},
+  components: {
+    Breadcrumbs,
+  },
 })
 export default class Item extends Vue {
-  title: any = this.$t('データセット')
+  title: any = this.$t('data_set')
 
   baseUrl: any = process.env.BASE_URL
 
-  headers: any[] = [
-    {
-      text: 'Name',
-      value: 'label',
-    },
-    {
-      text: 'Type',
-      value: 'type',
-    },
-    {
-      text: 'Viewer',
-      value: 'url',
-    },
-  ]
+  get headers(): any[] {
+    return [
+      {
+        text: this.$t('name'),
+        value: 'label',
+      },
+      {
+        text: this.$t('format'),
+        value: 'type',
+      },
+      {
+        text: this.$t('download'),
+        value: 'dwn',
+      },
+      {
+        text: this.$t('viewer'),
+        value: 'url',
+      },
+    ]
+  }
 
-  items: any[] = [
-    {
-      '@id':
-        'https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/books.json',
-      label: '冊子画像一覧',
-      type: 'IIIFコレクション',
-      url:
-        'https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/books.json',
-    },
-    {
-      '@id':
-        'https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json',
-      label: '地図画像一覧',
-      type: 'IIIFコレクション',
-      url:
-        'https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json',
-    },
-  ]
+  get items(): any[] {
+    return [
+      {
+        '@id':
+          'https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/books.json',
+        label: this.$t('book_list'),
+        type: this.$t('iiif_collection'),
+        url:
+          'https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/books.json',
+      },
+      {
+        '@id':
+          'https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json',
+        label: this.$t('map_list'),
+        type: this.$t('iiif_collection'),
+        url:
+          'https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json',
+      },
+    ]
+  }
 
   get bh() {
     return [
