@@ -366,7 +366,7 @@ export default class Item extends Vue {
 
   getQuery(key: string, value: string) {
     const map: any = {}
-    map[`main[refinementList][${key}]`] = value
+    map[`fc-${key}`] = value
     return map
   }
 

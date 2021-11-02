@@ -1,7 +1,7 @@
 <template>
   <div>
     <Breadcrumbs :items="bh" />
-    <v-container class="my-5">
+    <v-container class="my-5 mb-10">
       <h1 class="mb-5">{{ page.title }}</h1>
       <nuxt-content :document="page" />
     </v-container>

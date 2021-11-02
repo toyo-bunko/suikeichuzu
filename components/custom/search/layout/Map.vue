@@ -223,7 +223,7 @@ export default {
   },
 
   mounted() {
-    this.init()
+    //this.init()
   },
 
   methods: {
@@ -231,12 +231,17 @@ export default {
       this.anno.fitBounds(id) //WithConstraints
     },
     init() {
-      console.log('init')
       this.alert = false
 
       const aggs = this.aggs
 
-      const arr = aggs['図'].value
+      console.log('map init', { aggs })
+
+      const arr = aggs['図'].bucketsFull
+
+      if (!arr) {
+        return
+      }
 
       const settings = process.env.settings
 
@@ -250,8 +255,8 @@ export default {
       const keys = {}
 
       for (const obj of arr) {
-        const label = obj[0]
-        const value = obj[1]
+        const label = obj.key
+        const value = obj.doc_count
         const id = map[label]
 
         arr2.push({
@@ -269,7 +274,8 @@ export default {
 
       let count = 0
 
-      for (const item of itemsAll) {
+      for (let item of itemsAll) {
+        item = item._source
         const map = item['図'][0]
 
         const obj = arr2[keys[map]]
@@ -362,11 +368,16 @@ export default {
       //console.log('update')
       this.anno = null
       this.viewer = null
+      this.rows = []
 
       //初期化
       document.getElementById('openseadragon').innerHTML = ''
 
       const item = this.items[Number(this.tabs)]
+
+      if (!item) {
+        return
+      }
 
       const res = await axios.get(item.image)
       const tileSources = res.data
@@ -403,7 +414,13 @@ export default {
     tabs: function (value) {
       this.update()
     },
+    /*
     aggs: function () {
+      this.init()
+      this.update()
+    },
+    */
+    $route: function () {
       this.init()
       this.update()
     },

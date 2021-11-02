@@ -35,7 +35,7 @@
                     localePath({
                       name: 'search',
                       query: {
-                        'main[refinementList][水名]': item._id,
+                        'fc-水名': item._id,
                         layout: 'table',
                       },
                     })
@@ -51,7 +51,7 @@
                     localePath({
                       name: 'search',
                       query: {
-                        'main[refinementList][水名]': item._id,
+                        'fc-水名': item._id,
                         layout: 'map',
                       },
                     })
@@ -134,7 +134,7 @@ export default class Item extends Vue {
   get breadcrumbs() {
     return [
       {
-        text: 'HOME',
+        text: this.$t('top'),
         disabled: false,
         to: this.localePath({ name: 'index' }),
         exact: true,

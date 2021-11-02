@@ -1,7 +1,7 @@
 <template>
   <div>
     <Breadcrumbs :items="breadcrumbs" />
-    <v-container class="my-5">
+    <v-container class="my-5 mb-10">
       <h1 class="mb-5">{{ title }}</h1>
       <v-simple-table>
         <template v-slot:default>
@@ -31,7 +31,7 @@
                     localePath({
                       name: 'search',
                       query: {
-                        'main[refinementList][図][0]': item.label,
+                        'fc-図': item.label,
                         layout: 'table',
                       },
                     })
@@ -47,7 +47,7 @@
                     localePath({
                       name: 'search',
                       query: {
-                        'main[refinementList][図][0]': item.label,
+                        'fc-図': item.label,
                         layout: 'map',
                       },
                     })

@@ -62,7 +62,7 @@ export default class Item extends Vue {
 
   head() {
     return {
-      title: this.$t('冊子画像'),
+      title: this.title,
     }
   }
 

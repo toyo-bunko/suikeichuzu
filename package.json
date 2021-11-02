@@ -21,7 +21,7 @@
     "*.{css,vue}": "stylelint"
   },
   "dependencies": {
-    "@appbaseio/reactivesearch-vue": "^1.13.1",
+    "@mdi/js": "^6.4.95",
     "@nuxt/content": "^1.14.0",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxt/typescript-runtime": "^2.1.0",
@@ -38,8 +38,6 @@
     "core-js": "^3.11.0",
     "cross-env": "^7.0.3",
     "elasticsearch": "^16.7.2",
-    "firebase": "^8.4.2",
-    "firebase-tools": "^9.10.0",
     "fs": "^0.0.1-security",
     "leaflet": "^1.7.1",
     "nuxt": "^2.15.4",
@@ -48,6 +46,7 @@
     "openseadragon": "^2.4.2",
     "save": "^2.4.0",
     "vue-chartjs": "^3.5.1",
+    "vue-scrollto": "^2.20.0",
     "vue-vis-network": "^1.0.2",
     "vue2-leaflet": "^2.7.0",
     "vue2-leaflet-markercluster": "^3.1.0"

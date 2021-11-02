@@ -283,9 +283,9 @@ export default {
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
       if (val === 1) {
-        delete query['main[page]']
+        delete query['page']
       } else {
-        query['main[page]'] = val
+        query['page'] = val
       }
 
       this.$router.push(
@@ -299,8 +299,8 @@ export default {
     $route() {
       // ヘッダーからの検索対応
       const query = this.$route.query
-      if (query['main[query]']) {
-        this.q = query['main[query]']
+      if (query['keyword']) {
+        this.q = query['keyword']
       }
 
       // フィルタの実行条件は要検討
@@ -390,7 +390,7 @@ export default {
     this.tabs = query.layout
 
     // ページの初期化
-    const page = Number(query['main[page]']) || this.page
+    const page = Number(query['page']) || this.page
     this.page = page
 
     // hitsPerPage
@@ -414,7 +414,7 @@ export default {
     this.layout_ = layout
 
     // 検索キーワード
-    const q = query['main[query]'] || this.q
+    const q = query['keyword'] || this.q
     this.q = q
 
     console.log('filter start')
@@ -432,7 +432,7 @@ export default {
   methods: {
     getQuery(value) {
       const obj = {}
-      obj['main[refinementList][' + this.$route.params.slug + '][0]'] = value
+      obj['fc-' + this.$route.params.slug] = value
       return obj
     },
     init() {
@@ -446,7 +446,7 @@ export default {
       }
 
       // ページは先頭へ
-      delete query['main[page]']
+      delete query['page']
 
       this.$router.push(
         this.localePath({
@@ -458,7 +458,7 @@ export default {
     filter() {
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
-      const q = query['main[query]'] || ''
+      const q = query['keyword'] || ''
 
       const docs = this.docs
       const index = this.index
@@ -814,13 +814,13 @@ export default {
       q = q.trim()
 
       if (q === '') {
-        delete query['main[query]']
+        delete query['keyword']
       } else {
-        query['main[query]'] = q
+        query['keyword'] = q
       }
 
       // ページは先頭へ
-      delete query['main[page]']
+      delete query['page']
       this.page = 1
 
       this.$router.push(
@@ -834,7 +834,7 @@ export default {
     list() {
       const query = this.$route.query
 
-      const page = query['main[page]'] || 1
+      const page = query['page'] || 1
 
       const hitsPerPage = query['size'] || 20 //要検討
 

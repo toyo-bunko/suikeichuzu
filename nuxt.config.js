@@ -3,231 +3,16 @@ const fs = require('fs')
 const environment = process.env.NODE_ENV
 const env = require(`./env/${environment}.ts`)
 
-env.bc = true
+const conf = JSON.parse(fs.readFileSync('static/data/conf.json'))
 
-env.index = 'data/index_river.json'
-
-env.aggs = {
-  冊: {
-    key: '冊',
-    sort: 'name:asc',
-    label: '冊',
-    value: {},
-    more: false,
-    open: true,
-  },
-  図: {
-    key: '図',
-    sort: '',
-    label: '図',
-    value: {},
-    more: false,
-    open: true,
-  },
-  区画南北: {
-    key: '区画南北',
-    sort: '',
-    label: '区画南北',
-    value: {},
-    more: false,
-    open: true,
-  },
-  区画東西: {
-    key: '区画東西',
-    sort: '',
-    label: '区画東西',
-    value: {},
-    more: false,
-    open: true,
-  },
-  表裏: {
-    key: '表裏',
-    sort: '',
-    label: '表裏',
-    value: {},
-    more: false,
-    open: true,
-  },
-  詳細区画: {
-    key: '詳細区画',
-    sort: '',
-    label: '詳細区画',
-    value: {},
-    more: false,
-    open: true,
-  },
-  墨朱: {
-    key: '墨朱',
-    sort: '',
-    label: '墨朱',
-    value: {},
-    more: false,
-    open: true,
-  },
-
-  分類: {
-    key: '分類',
-    sort: '',
-    label: '分類',
-    value: {},
-    more: false,
-    open: true,
-  },
-  記号説明: {
-    key: '記号説明',
-    sort: '',
-    label: '記号説明',
-    value: {},
-    more: false,
-    open: true,
-  },
-  水名: {
-    key: '水名',
-    sort: '',
-    label: '水名',
-    value: {},
-    more: false,
-    open: true,
-  },
-  '水経注：巻': {
-    key: '水経注：巻',
-    sort: '',
-    label: '水経注：巻',
-    value: {},
-    more: false,
-    open: true,
-  },
-  sort: {
-    key: 'sort',
-    sort: '',
-    label: 'sort',
-    value: {},
-    more: false,
-    hide: true,
-  },
-  記号: {
-    key: '記号',
-    sort: '',
-    label: '記号',
-    value: {},
-    more: false,
-    hide: true,
-  },
+for (let key in conf) {
+  env[key] = conf[key]
 }
-
-env.hide = ['sort']
-
-env.list = ['冊', '図']
-
-env.detail = [
-  {
-    label: '冊',
-    value: '冊',
-  },
-  {
-    label: '図',
-    value: '図',
-  },
-  {
-    label: '区画南北',
-    value: '区画南北',
-  },
-  {
-    label: '区画東西',
-    value: '区画東西',
-  },
-  {
-    label: '表裏',
-    value: '表裏',
-  },
-  {
-    label: '詳細区画',
-    value: '詳細区画',
-  },
-  {
-    label: '墨朱',
-    value: '墨朱',
-  },
-  {
-    label: '分類',
-    value: '分類',
-  },
-  {
-    label: '記号説明',
-    value: '記号説明',
-  },
-  /*
-  {
-    label: '記号',
-    value: '記号',
-  },
-  */
-  {
-    label: '水名',
-    value: '水名',
-  },
-  {
-    label: '水経注：巻',
-    value: '水経注：巻',
-  },
-  {
-    label: '備考',
-    value: '備考',
-    type: 'text',
-  },
-  {
-    label: '水経注図：冊子画像',
-    value: '水経注図：冊子画像',
-    type: 'link',
-  },
-]
-
-env.sort = [
-  { label: '適合度', value: '_score' },
-  { label: '冊', value: '冊' },
-]
-
-env.defaultSort = '冊:asc'
-
-env.layout = [
-  {
-    label: 'list',
-    value: 'list',
-    icon: 'mdi-view-list',
-    component: 'search-layout-list',
-  },
-  {
-    label: 'grid',
-    value: 'grid',
-    icon: 'mdi-view-grid',
-    component: 'search-layout-grid',
-  },
-  {
-    label: 'table',
-    value: 'table',
-    icon: 'mdi-table',
-    component: 'custom-search-layout-table',
-  },
-  {
-    label: 'graph',
-    value: 'graph',
-    icon: 'mdi-chart-bar',
-    component: 'search-layout-graph',
-  },
-  {
-    label: 'map',
-    value: 'map',
-    icon: 'mdi-map',
-    component: 'custom-search-layout-map',
-    hidePagination: true,
-  },
-]
-
-env.defaultLayout = 'table'
 
 const legend = JSON.parse(fs.readFileSync('static/data/legend.json'))
 env.legend = legend
 
+/*
 const kigo = []
 
 for (const key in legend) {
@@ -238,142 +23,8 @@ for (const key in legend) {
   })
 }
 
-env.advanced = [
-  {
-    label: '冊',
-    type: 'select',
-    key: '冊',
-    value: '',
-    values: ['1', '2', '3', '4', '5', '6', '7', '8'],
-  },
-  {
-    label: '図',
-    type: 'select',
-    key: '図',
-    value: '',
-    values: [
-      '本図',
-      '西域',
-      '越南',
-      '禹貢山水澤地所在',
-      '歴城図',
-      '鄴城図',
-      '洛陽城図',
-      '長安城図',
-      '睢陽城図',
-      '平城図',
-      '薊城図',
-      '魯城図',
-      '臨淄城図',
-      '襄陽城図',
-      '寿春城図',
-      '成都橋図',
-      '山陰城図',
-    ],
-  },
-  {
-    label: '区画南北',
-    type: 'select',
-    key: '区画南北',
-    value: '',
-    values: [
-      '南5',
-      '南4',
-      '南3',
-      '南2',
-      '南1',
-      '中',
-      '北1',
-      '北2',
-      '北3',
-      '北4',
-      '北5',
-    ],
-  },
-  {
-    label: '区画東西',
-    type: 'select',
-    key: '区画東西',
-    value: '',
-    values: [
-      '東6',
-      '東5',
-      '東4',
-      '東3',
-      '東2',
-      '東1',
-      '中',
-      '西1',
-      '西2',
-      '西3',
-      '西4',
-      '西5',
-      '西6',
-      '西7',
-      '西8',
-      '西9',
-      '西10',
-      '西11',
-      '西12',
-    ],
-  },
-  {
-    label: '表裏',
-    type: 'select',
-    key: '表裏',
-    value: '',
-    values: ['表', '裏'],
-  },
-  {
-    label: '詳細区画',
-    type: 'select',
-    key: '詳細区画',
-    value: '',
-    values: [
-      'A1',
-      'A2',
-      'A3',
-      'B1',
-      'B2',
-      'B3',
-      'C1',
-      'C2',
-      'C3',
-      'D1',
-      'D2',
-      'D3',
-    ],
-  },
-  {
-    label: '墨朱',
-    type: 'select',
-    key: '墨朱',
-    value: '',
-    values: ['墨', '朱'],
-  },
-  {
-    label: '記号',
-    type: 'select',
-    key: '記号',
-    value: '',
-    values: kigo,
-  },
-  {
-    label: '地名/記述',
-    type: 'text',
-    key: '地名/記述',
-    value: '',
-  },
-  {
-    label: '備考',
-    type: 'text',
-    key: '備考',
-    value: '',
-  },
-]
-
-env.viewer = 'curation'
-env.visualization = 'https://nakamura196.github.io/dd2'
+console.log(JSON.stringify(kigo))
+*/
 
 const settings = JSON.parse(fs.readFileSync('static/data/settings.json'))
 env.settings = settings
@@ -397,17 +48,17 @@ const baseDir = env.BASE_DIR || '/'
 const basePath = baseUrl + baseDir
 
 // meta
-const lang = 'ja'
-const siteName = '東洋文庫水経注図データベース'
+const lang = conf.lang
+const siteName = conf.siteName
 env.siteName = siteName
 
-const siteDesc = '東洋文庫所蔵の水経注図データベースです。'
+const siteDesc = conf.siteDesc
 env.siteDesc = siteDesc
 
-const footer = '東洋文庫'
+const footer = conf.footer
 env.footer = footer
 
-const siteKeywords = 'IIIF'
+const siteKeywords = conf.siteKeywords
 
 // images
 const iconImages = baseDir + 'img/icons/'
@@ -416,7 +67,7 @@ const ogpImages = basePath + 'img/ogp/' // cdnPath + 'img/ogp/'
 env.top = basePath + 'img/ogp/home.webp'
 
 // pwa
-const shortName = '水経注'
+const shortName = conf.shortName
 const manifestIcon = 'img/icons/icon-512.png'
 // const splashscreens = cdnPath + 'img/splashscreens/'
 
@@ -529,14 +180,14 @@ export default {
   loading: { color: '#E64A19', height: '5px' },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: ['~/assets/css/style.css'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
     '@/plugins/utils.ts',
-    '@/plugins/searchUtils.ts',
     '@/plugins/leaflet.js',
-    '@/plugins/vue-reactivesearch.js',
+    '@/plugins/es.ts',
+    '@/plugins/localEs.ts',
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)

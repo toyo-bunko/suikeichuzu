@@ -1,13 +1,13 @@
 <template>
-  <div>
+  <div class="mt-5">
     <v-row>
-      <v-col cols="6" md="3" v-for="item in items" :key="item.objectID">
+      <v-col cols="6" md="3" v-for="(item, key) in items.hits" :key="key">
         <v-card flat no-body class="mb-4">
           <nuxt-link
             :to="
               localePath({
                 name: 'item-id',
-                params: { id: item.objectID },
+                params: { id: item._id },
               })
             "
           >
@@ -18,7 +18,7 @@
               style="height: 150px"
               width="100%"
               class="grey lighten-2"
-              :src="item.thumbnail"
+              :src="item._source.thumbnail"
             />
           </nuxt-link>
           <div class="pa-4">
@@ -26,11 +26,11 @@
               :to="
                 localePath({
                   name: 'item-id',
-                  params: { id: item.objectID },
+                  params: { id: item._id },
                 })
               "
             >
-              <h4>{{ item.label }}</h4>
+              <h4>{{ item._source.label }}</h4>
             </nuxt-link>
           </div>
         </v-card>

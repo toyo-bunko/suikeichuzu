@@ -433,5 +433,13 @@
   "検索結果一覧を表示": "Search Result",
   "検索結果一覧（地図表示）": "Search Result 'Map View'",
   "地図をそのまま見る": "Browse Map",
-  "初回はインデックスファイルのダウンロードに時間を要します。2回目以降はキャッシュにより待ち時間が改善します。": "The first time it takes some time to download the index file, but after the second time, the waiting time will improve with the cache."
+  "初回はインデックスファイルのダウンロードに時間を要します。2回目以降はキャッシュにより待ち時間が改善します。": "The first time it takes some time to download the index file, but after the second time, the waiting time will improve with the cache.",
+  "地名": "Name",
+  "拡大図": "拡大図",
+  "選択": "Select",
+  "除外": "Exclude",
+  "inputSearchKeyword": "Input Search Keyword",
+  "recentSearches": "Recent Searches",
+  "全件表示": "Full Search",
+  "history": "Search History"
 }

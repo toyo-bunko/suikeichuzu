@@ -1,5 +1,5 @@
 <template>
-  <v-simple-table>
+  <v-simple-table class="mt-5">
     <template v-slot:default>
       <thead>
         <tr>
@@ -12,13 +12,13 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="item in items" :key="item.id">
+        <tr v-for="(item, key) in items.hits" :key="key">
           <td class="py-2">
             <nuxt-link
               :to="
                 localePath({
                   name: 'item-id',
-                  params: { id: item.objectID },
+                  params: { id: item._id },
                 })
               "
             >
@@ -30,7 +30,7 @@
                 style="height: 90px"
                 width="100%"
                 class="grey lighten-2"
-                :src="item.thumbnail"
+                :src="item._source.thumbnail"
               />
             </nuxt-link>
           </td>
@@ -40,10 +40,10 @@
               :to="
                 localePath({
                   name: 'item-id',
-                  params: { id: item.objectID },
+                  params: { id: item._id },
                 })
               "
-              >{{ item.label }}</nuxt-link
+              >{{ item._source.label }}</nuxt-link
             >
             <!--
                 <nuxt-link
@@ -54,8 +54,12 @@
           </td>
 
           <td>
-            <img class="mx-2 mt-2" :src="getImage(item.記号)" width="30px" />
-            {{ getLegend(item.記号) }}
+            <img
+              class="mx-2 mt-2"
+              :src="getImage(item._source.記号)"
+              width="30px"
+            />
+            {{ getLegend(item._source.記号) }}
           </td>
 
           <td>
@@ -65,14 +69,8 @@
                   >全体図</a
                 >
                 -->
-            <v-btn
-              text
-              color="primary"
-              target="_blank"
-              :href="`http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${
-                item.curation
-              }&xywh=${item.member.split('#xywh=')[1]}&mode=annotation&lang=ja`"
-              >{{ item.図[0] }}
+            <v-btn text color="primary" target="_blank" :href="getUrl(item)"
+              >{{ item._source.図[0] }}
               <v-icon class="ml-1">mdi-exit-to-app</v-icon></v-btn
             >
           </td>
@@ -88,10 +86,10 @@
           <td v-if="false">
             <ResultOption
               :item="{
-                label: item.label,
+                label: item._source.label,
                 url: localePath({
                   name: 'item-id',
-                  params: { id: item.objectID },
+                  params: { id: item._id },
                 }),
               }"
             />
@@ -134,6 +132,19 @@ export default class FullTextSearch extends Vue {
       return marker.分類 + (marker.記号説明 ? ': ' : '') + marker.記号説明
     } else {
       return index
+    }
+  }
+
+  getUrl(item: any) {
+    const curation = item._source.curation
+    if (curation.includes('main')) {
+      return `http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=${
+        item._source.manifest
+      }&xywh=${item._source.member.split('#xywh=')[1]}&xywh_highlight=border`
+    } else {
+      return `http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=${
+        item._source.curation
+      }&xywh=${item._source.member.split('#xywh=')[1]}&mode=annotation&lang=ja`
     }
   }
 }
