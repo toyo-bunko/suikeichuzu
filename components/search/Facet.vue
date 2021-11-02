@@ -143,11 +143,17 @@
             </template>
 
             <template #[`item.plus`]="{ item }">
-              <v-checkbox dense hide-details v-model="item.plus"></v-checkbox>
+              <v-checkbox
+                class="my-0 py-0"
+                dense
+                hide-details
+                v-model="item.plus"
+              ></v-checkbox>
             </template>
 
             <template #[`item.minus`]="{ item }">
               <v-checkbox
+                class="my-0 py-0"
                 dense
                 hide-details
                 color="error darken-1"
@@ -387,7 +393,7 @@ export default class FullTextSearch extends Vue {
   }
 
   refine(selectedValues: any, overwrite = false) {
-    console.log('refine', { selectedValues }, { overwrite })
+    //console.log('refine', { selectedValues }, { overwrite })
 
     //
 

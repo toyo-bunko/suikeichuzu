@@ -32,14 +32,14 @@
               </v-col>
 
               <v-col cols="12" md="3">
-                <Pagination :length="length" />
+                <Pagination v-if="isPage" :length="length" />
               </v-col>
 
               <v-col cols="6" md="2">
-                <ResultPerPage />
+                <ResultPerPage v-if="isPage" />
               </v-col>
               <v-col cols="6" md="2">
-                <Sort />
+                <Sort v-if="isPage" />
               </v-col>
 
               <v-col cols="12" md="2" class="text-right">
@@ -70,7 +70,7 @@
               :col="isFacetOpen ? 3 : 2"
             ></component>
 
-            <div class="text-center my-10">
+            <div class="text-center my-10" v-if="isPage">
               <v-pagination
                 v-model="page"
                 :length="length"
@@ -135,14 +135,14 @@
                 </v-col>
 
                 <v-col cols="12" md="3">
-                  <Pagination :length="length" />
+                  <Pagination v-if="isPage" :length="length" />
                 </v-col>
 
                 <v-col cols="6" md="2">
-                  <ResultPerPage />
+                  <ResultPerPage v-if="isPage" />
                 </v-col>
                 <v-col cols="6" md="2">
-                  <Sort />
+                  <Sort v-if="isPage" />
                 </v-col>
 
                 <v-col cols="12" md="2" class="text-right">
@@ -159,7 +159,7 @@
                 :itemsAll="itemsAll"
               ></component>
 
-              <v-row class="my-10" align="center">
+              <v-row class="my-10" align="center" v-if="isPage">
                 <v-col cols="12" md="12" class="text-center">
                   <v-pagination
                     v-model="page"
@@ -244,6 +244,10 @@ import { mdiMenu, mdiFilterVariant, mdiClose } from '@mdi/js'
 export default class FullTextSearch extends Vue {
   get fab(): boolean {
     return this.rightPosition > 20
+  }
+
+  get isPage() {
+    return ['table', 'grid', 'list'].includes(this.layout_)
   }
 
   toTop(): void {

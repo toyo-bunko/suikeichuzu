@@ -24,7 +24,7 @@
       </v-row>
     </v-alert>
 
-    <v-row>
+    <v-row class="mb-10">
       <v-col cols="12" md="4">
         <v-data-table :headers="headers" :items="rows" :search="search">
           <template v-slot:top>
@@ -222,26 +222,29 @@ export default {
     },
   },
 
-  mounted() {
-    //this.init()
+  created() {
+    this.init()
   },
 
   methods: {
     zoom(id) {
       this.anno.fitBounds(id) //WithConstraints
     },
-    init() {
+    async init() {
+      let itemsAll = this.itemsAll
+
+      const query = JSON.parse(JSON.stringify(this.$route.query))
+      query.size = -1
+      query.max = -1
+      const { data } = await this.$localEs.search(null, query, null)
+
+      itemsAll = data.hits.hits
+
       this.alert = false
 
-      const aggs = this.aggs
+      const aggs = data.aggregations
 
-      console.log('map init', { aggs })
-
-      const arr = aggs['図'].bucketsFull
-
-      if (!arr) {
-        return
-      }
+      const arr = aggs['図'].buckets
 
       const settings = process.env.settings
 
@@ -269,8 +272,6 @@ export default {
 
         keys[label] = arr2.length - 1
       }
-
-      const itemsAll = this.itemsAll
 
       let count = 0
 
@@ -403,9 +404,9 @@ export default {
 
       this.rows = item.rows
     },
-    showAll() {
+    async showAll() {
       this.thres = -1
-      this.init()
+      await this.init()
       this.update()
     },
   },
@@ -414,15 +415,21 @@ export default {
     tabs: function (value) {
       this.update()
     },
-    /*
-    aggs: function () {
-      this.init()
-      this.update()
-    },
-    */
-    $route: function () {
-      this.init()
-      this.update()
+    $route: async function (newValue, oldValue) {
+      const n = newValue.query
+      const o = oldValue.query
+      delete n.layout
+      delete n.page
+      delete n.max
+
+      delete o.layout
+      delete o.page
+      delete o.max
+
+      if (JSON.stringify(n) != JSON.stringify(o)) {
+        await this.init()
+        this.update()
+      }
     },
   },
 }

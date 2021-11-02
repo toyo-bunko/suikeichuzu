@@ -242,8 +242,6 @@ function filter(docs: any, index: any, facets: any, routeQuery: any): string[] {
     options[option.key] = option
   }
 
-  console.log(advancedMap, options)
-
   for (const facetField in advancedMap) {
     const obj = advancedMap[facetField]
     const plusValues = obj['+']
@@ -326,10 +324,14 @@ function getHits(
   allFlag: boolean = false
 ): any[] {
   const page = Number(routeQuery.page) || 1
-  const hitsPerPage = Number(routeQuery.size) || 20 // 要検討
+  let hitsPerPage = Number(routeQuery.size) || 20 // 要検討
+  if (hitsPerPage < 0) {
+    allFlag = true
+  }
   const ids_ = allFlag
     ? ids
     : ids.slice((page - 1) * hitsPerPage, page * hitsPerPage)
+
   const items = []
   for (const id of ids_) {
     const doc = docs[id]
@@ -366,9 +368,6 @@ function getAggs(docs: any, ids: string[], routeQuery: any): any {
 
       let values = item[aggField]
 
-      // console.log({ values })
-      // console.log(typeof values)
-
       if (typeof values === 'string') {
         values = [values]
       } else if (typeof values === 'number') {
@@ -387,7 +386,6 @@ function getAggs(docs: any, ids: string[], routeQuery: any): any {
       }
     }
   }
-
   const aggregations: any = {}
 
   const max = Number(routeQuery.max) || 10
@@ -405,10 +403,12 @@ function getAggs(docs: any, ids: string[], routeQuery: any): any {
       })
     }
 
-    const pairs_ = pairs.slice(0, max)
+    let pairs_ = pairs
+    if (max != -1) {
+      pairs_ = pairs.slice(0, max)
+    }
 
     const buckets: any[] = []
-    //const bucketsFull: any[] = []
     for (const pair of pairs_) {
       buckets.push({
         key: pair[0],

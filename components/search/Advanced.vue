@@ -141,8 +141,6 @@ export default class FullTextSearch extends Vue {
         continue
       }
 
-      console.log(field, value)
-
       let values = value
 
       if (typeof values === 'string') {
