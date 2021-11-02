@@ -1,0 +1,386 @@
+{
+  "lang": "ja",
+  "siteName": "東洋文庫水経注図データベース",
+  "siteDesc": "東洋文庫所蔵の水経注図データベースです。",
+  "footer": "東洋文庫",
+  "siteKeywords": "IIIF",
+  "shortName": "水経注",
+  "bc": true,
+  "index": "data/index_river.json",
+  "aggs": {
+    "冊": {
+      "key": "冊",
+      "sort": "name:asc",
+      "label": "冊",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "図": {
+      "key": "図",
+      "sort": "",
+      "label": "図",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "区画南北": {
+      "key": "区画南北",
+      "sort": "",
+      "label": "区画南北",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "区画東西": {
+      "key": "区画東西",
+      "sort": "",
+      "label": "区画東西",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "表裏": {
+      "key": "表裏",
+      "sort": "",
+      "label": "表裏",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "詳細区画": {
+      "key": "詳細区画",
+      "sort": "",
+      "label": "詳細区画",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "墨朱": {
+      "key": "墨朱",
+      "sort": "",
+      "label": "墨朱",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+
+    "分類": {
+      "key": "分類",
+      "sort": "",
+      "label": "分類",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "記号説明": {
+      "key": "記号説明",
+      "sort": "",
+      "label": "記号説明",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "水名": {
+      "key": "水名",
+      "sort": "",
+      "label": "水名",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "水経注：巻": {
+      "key": "水経注：巻",
+      "sort": "",
+      "label": "水経注：巻",
+      "value": {},
+      "more": false,
+      "open": true
+    },
+    "sort": {
+      "key": "sort",
+      "sort": "",
+      "label": "sort",
+      "value": {},
+      "more": false,
+      "hide": true
+    },
+    "記号": {
+      "key": "記号",
+      "sort": "",
+      "label": "記号",
+      "value": {},
+      "more": false,
+      "hide": true
+    }
+  },
+  "hide": ["sort"],
+  "list": ["冊", "図"],
+  "detail": [
+    {
+      "label": "冊",
+      "value": "冊"
+    },
+    {
+      "label": "図",
+      "value": "図"
+    },
+    {
+      "label": "区画南北",
+      "value": "区画南北"
+    },
+    {
+      "label": "区画東西",
+      "value": "区画東西"
+    },
+    {
+      "label": "表裏",
+      "value": "表裏"
+    },
+    {
+      "label": "詳細区画",
+      "value": "詳細区画"
+    },
+    {
+      "label": "墨朱",
+      "value": "墨朱"
+    },
+    {
+      "label": "分類",
+      "value": "分類"
+    },
+    {
+      "label": "記号説明",
+      "value": "記号説明"
+    },
+    {
+      "label": "水名",
+      "value": "水名"
+    },
+    {
+      "label": "水経注：巻",
+      "value": "水経注：巻"
+    },
+    {
+      "label": "備考",
+      "value": "備考",
+      "type": "text"
+    },
+    {
+      "label": "水経注図：冊子画像",
+      "value": "水経注図：冊子画像",
+      "type": "link"
+    }
+  ],
+  "sort": [
+    { "label": "適合度", "value": "_score" },
+    { "label": "冊", "value": "冊" }
+  ],
+  "defaultSort": "冊:asc",
+  "layout": [
+    {
+      "label": "list",
+      "value": "list",
+      "icon": "mdi-view-list",
+      "component": "search-layout-list"
+    },
+    {
+      "label": "grid",
+      "value": "grid",
+      "icon": "mdi-view-grid",
+      "component": "search-layout-grid"
+    },
+    {
+      "label": "table",
+      "value": "table",
+      "icon": "mdi-table",
+      "component": "custom-search-layout-table"
+    },
+    {
+      "label": "graph",
+      "value": "graph",
+      "icon": "mdi-chart-bar",
+      "component": "search-layout-graph"
+    },
+    {
+      "label": "map",
+      "value": "map",
+      "icon": "mdi-map",
+      "component": "custom-search-layout-map",
+      "hidePagination": true
+    }
+  ],
+  "defaultLayout": "table",
+  "advanced": [
+    {
+      "label": "冊",
+      "type": "select",
+      "key": "冊",
+      "value": "",
+      "values": ["1", "2", "3", "4", "5", "6", "7", "8"]
+    },
+    {
+      "label": "図",
+      "type": "select",
+      "key": "図",
+      "value": "",
+      "values": [
+        "本図",
+        "西域",
+        "越南",
+        "禹貢山水澤地所在",
+        "歴城図",
+        "鄴城図",
+        "洛陽城図",
+        "長安城図",
+        "睢陽城図",
+        "平城図",
+        "薊城図",
+        "魯城図",
+        "臨淄城図",
+        "襄陽城図",
+        "寿春城図",
+        "成都橋図",
+        "山陰城図"
+      ]
+    },
+    {
+      "label": "区画南北",
+      "type": "select",
+      "key": "区画南北",
+      "value": "",
+      "values": [
+        "南5",
+        "南4",
+        "南3",
+        "南2",
+        "南1",
+        "中",
+        "北1",
+        "北2",
+        "北3",
+        "北4",
+        "北5"
+      ]
+    },
+    {
+      "label": "区画東西",
+      "type": "select",
+      "key": "区画東西",
+      "value": "",
+      "values": [
+        "東6",
+        "東5",
+        "東4",
+        "東3",
+        "東2",
+        "東1",
+        "中",
+        "西1",
+        "西2",
+        "西3",
+        "西4",
+        "西5",
+        "西6",
+        "西7",
+        "西8",
+        "西9",
+        "西10",
+        "西11",
+        "西12"
+      ]
+    },
+    {
+      "label": "表裏",
+      "type": "select",
+      "key": "表裏",
+      "value": "",
+      "values": ["表", "裏"]
+    },
+    {
+      "label": "詳細区画",
+      "type": "select",
+      "key": "詳細区画",
+      "value": "",
+      "values": [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "B3",
+        "C1",
+        "C2",
+        "C3",
+        "D1",
+        "D2",
+        "D3"
+      ]
+    },
+    {
+      "label": "墨朱",
+      "type": "select",
+      "key": "墨朱",
+      "value": "",
+      "values": ["墨", "朱"]
+    },
+    {
+      "label": "記号",
+      "type": "select",
+      "key": "記号",
+      "value": "",
+      "values": [
+        { "value": "0", "text": "なし" },
+        { "value": "1", "text": "地形: 河川" },
+        { "value": "2", "text": "地形: 故瀆" },
+        { "value": "3", "text": "地形: 河川(異説)" },
+        { "value": "4", "text": "地形: 山谷" },
+        { "value": "5", "text": "地形: 湖" },
+        { "value": "6", "text": "行政: 州名" },
+        { "value": "7", "text": "行政: 郡名" },
+        { "value": "8", "text": "行政: 県名（北魏）" },
+        { "value": "9", "text": "行政: 州郡跡" },
+        { "value": "10", "text": "行政: 県跡" },
+        { "value": "11", "text": "行政: 旧州治の郡県" },
+        { "value": "12", "text": "行政: 旧郡県の州治" },
+        { "value": "13", "text": "行政: 旧県の州郡治" },
+        { "value": "14", "text": "行政: 旧県の郡治" },
+        { "value": "15", "text": "行政: 旧郡治の県" },
+        { "value": "16", "text": "地点: 亭台跡" },
+        { "value": "17", "text": "行政: 省名" },
+        { "value": "18", "text": "行政: 府名" },
+        { "value": "19", "text": "行政: 県名（清）" },
+        { "value": "20", "text": "行政: 直隷庁" },
+        { "value": "21", "text": "行政: 散庁" },
+        { "value": "22", "text": "行政: 直隷州" },
+        { "value": "23", "text": "行政: 散州" },
+        { "value": "24", "text": "行政: 土州" },
+        { "value": "25", "text": "行政: 土県・堡鎮" },
+        { "value": "26", "text": "行政: 軍政長官駐在地(朝鮮の郡)" },
+        { "value": "27", "text": "行政: 土府" },
+        { "value": "28", "text": "地点: 長城" },
+        { "value": "29", "text": "地点: 橋・津" },
+        { "value": "30", "text": "地点: 井戸" },
+        { "value": "31", "text": "地点: 圃" },
+        { "value": "32", "text": "地点: 城壁" },
+        { "value": "33", "text": "地点: 陵墓" },
+        { "value": "34", "text": "地点: 長城門" },
+        { "value": "35", "text": "記述: 別図参照" }
+      ]
+    },
+    {
+      "label": "地名/記述",
+      "type": "text",
+      "key": "地名/記述",
+      "value": ""
+    },
+    {
+      "label": "備考",
+      "type": "text",
+      "key": "備考",
+      "value": ""
+    }
+  ],
+  "viewer": "curation",
+  "visualization": ""
+}
