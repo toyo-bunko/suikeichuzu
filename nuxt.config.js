@@ -42,6 +42,8 @@ const routerBase =
       }
     : {}
 
+const ssr = false //['production'].includes(process.env.NODE_ENV)
+
 // path
 const baseUrl = env.BASE_URL || ''
 const baseDir = env.BASE_DIR || '/'
@@ -77,7 +79,7 @@ export default {
   },
   // Target (https://go.nuxtjs.dev/config-target)
 
-  ssr: false,
+  ssr,
   target: 'static',
   // srcDir: 'src/',
 
@@ -185,7 +187,7 @@ export default {
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
     '@/plugins/utils.ts',
-    '@/plugins/leaflet.js',
+    { src: '@/plugins/leaflet.js', ssr: false },
     '@/plugins/es.ts',
     '@/plugins/localEs.ts',
   ],

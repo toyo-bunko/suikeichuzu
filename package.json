@@ -12,9 +12,7 @@
     "lint:style": "stylelint **/*.{vue,css} --ignore-path .gitignore",
     "lint": "yarn lint:js && yarn lint:style",
     "generate:gh-pages": "DEPLOY_ENV=GH_PAGES NODE_ENV=\"production\" nuxt generate",
-    "generate:staging": "NODE_ENV=\"staging\" nuxt generate",
-    "generate:production": "NODE_ENV=\"production\" nuxt generate",
-    "deploy:staging": "firebase deploy --only=hosting"
+    "generate:staging": "NODE_ENV=\"staging\" nuxt generate"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint",
