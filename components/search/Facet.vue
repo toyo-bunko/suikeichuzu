@@ -147,6 +147,7 @@
                 class="my-0 py-0"
                 dense
                 hide-details
+                @change="exclude(item.key, item.plus, '+')"
                 v-model="item.plus"
               ></v-checkbox>
             </template>
@@ -157,6 +158,7 @@
                 dense
                 hide-details
                 color="error darken-1"
+                @change="exclude(item.key, item.minus, `-`)"
                 v-model="item.minus"
               ></v-checkbox>
             </template>
@@ -537,6 +539,21 @@ export default class FullTextSearch extends Vue {
       labels.push(value)
     }
     return labels
+  }
+
+  exclude(key: string, value: boolean, type: string) {
+    const agg = this.agg2
+    const buckets = agg.buckets
+
+    for (const bucket of buckets) {
+      if (bucket.key === key) {
+        if (type === '+' && value) {
+          bucket.minus = false
+        } else if (type === '-' && value) {
+          bucket.plus = false
+        }
+      }
+    }
   }
 }
 </script>
