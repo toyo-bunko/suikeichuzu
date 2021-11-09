@@ -24,7 +24,7 @@
       </v-row>
     </v-alert>
 
-    <v-row class="mb-10">
+    <v-row class="mb-5">
       <v-col cols="12" md="4">
         <v-data-table :headers="headers" :items="rows" :search="search">
           <template v-slot:top>

@@ -14,7 +14,7 @@ export const state = () => ({
 
   sort: '_score:desc',
 
-  layout: 'grid',
+  layout: process.env.defaultLayout,
 
   index: null,
 })

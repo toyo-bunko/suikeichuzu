@@ -170,7 +170,7 @@
               </v-row>
             </div>
 
-            <FooterMenu />
+            <!-- <FooterMenu /> -->
 
             <v-btn
               v-show="fab"
@@ -585,9 +585,9 @@ export default class FullTextSearch extends Vue {
       this.aggs = results.aggregations
     }
 
-    this.setHistory()
-
     this.totalAll = results.hits.total.value
+
+    this.setHistory()
 
     /*
     if (isInit) {

@@ -1,14 +1,6 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="breadcrumbs">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="breadcrumbs" />
     <template v-if="iframeUrl">
       <div style="background-color: #f5f5f5">
         <v-container class="py-0" style="height: 450px">
@@ -173,7 +165,7 @@
       </div>
     </v-container>
 
-    <v-sheet class="text-center pa-10 my-10">
+    <v-sheet class="text-center pa-10 mb-10">
       <!--  color="grey lighten-4" mt-10 -->
       <small>
         <h3 class="mb-5">{{ $t('license') }}</h3>
@@ -227,6 +219,7 @@ import MoreLikeThis from '~/components/item/MoreLikeThis.vue'
 import SimilarImages from '~/components/item/SimilarImages.vue'
 import License from '~/components/item/License.vue'
 import axios from 'axios'
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 
 @Component({
   components: {
@@ -234,6 +227,7 @@ import axios from 'axios'
     MoreLikeThis,
     SimilarImages,
     License,
+    Breadcrumbs,
   },
 })
 export default class Item extends Vue {
@@ -306,7 +300,7 @@ export default class Item extends Vue {
   get breadcrumbs() {
     return [
       {
-        text: this.$t('index'),
+        text: this.$t('top'),
         disabled: false,
         to: this.localePath({ name: 'index' }),
         exact: true,
@@ -314,7 +308,7 @@ export default class Item extends Vue {
       {
         text: this.$t('search'),
         disabled: false,
-        to: this.localePath({ name: 'search' }),
+        //to: this.localePath({ name: 'search' }),
         exact: true,
       },
       {

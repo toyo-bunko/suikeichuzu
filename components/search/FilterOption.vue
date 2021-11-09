@@ -16,7 +16,7 @@
 
       <span class="mr-1">{{ getLabel(filter.label) }}:</span>
       <!-- <c-render :value="filter.value" /> -->
-      {{ getValue(filter.value) }}
+      {{ custom(getValue(filter.value), filter.label) }}
     </v-chip>
 
     <v-btn
@@ -143,6 +143,30 @@ export default class FullTextSearch extends Vue {
     return value
       .replace('fc-', this.$t('facet') + '-')
       .replace('q-', this.$t('detail') + '-')
+  }
+
+  customMap: any = {}
+
+  created() {
+    const advanced: any = process.env.advanced
+    const customMap: any = {}
+    for (const obj of advanced) {
+      if (obj.label === '記号') {
+        const values = obj.values
+        for (const value of values) {
+          customMap[value.value] = value.text
+        }
+        break
+      }
+    }
+    this.customMap = customMap
+  }
+
+  custom(value, field) {
+    if (field === 'q-記号') {
+      return this.customMap[value]
+    }
+    return value
   }
 }
 </script>
