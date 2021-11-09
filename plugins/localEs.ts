@@ -139,7 +139,7 @@ function filter(docs: any, index: any, facets: any, routeQuery: any): string[] {
     q = q.join(' ')
   }
 
-  const sort: any = routeQuery.sort || '_score:desc'
+  const sort: any = routeQuery.sort
 
   const spl = sort.split(':')
   const sortValue = spl[0]
@@ -310,6 +310,31 @@ function filter(docs: any, index: any, facets: any, routeQuery: any): string[] {
     }
 
     ids = ids_ // ids.sort()
+  } else if (facets[sortValue]) {
+    // 項目でソート
+    const sortObj = facets[sortValue]
+    const keys = Object.keys(sortObj)
+
+    // 速度の問題で、キーの数が多すぎる場合には、idsでソートする
+    if (keys.length === 0) {
+      // keys.length > 100 && false
+      ids = ids.sort()
+    } else {
+      if (sortOrder === 'desc') {
+        keys.reverse()
+      } else {
+        keys.sort()
+      }
+
+      let sortIds: string[] = []
+      for (const key of keys) {
+        const ids_ = sortObj[key]
+        // ids_ = _.intersection(ids, ids_)
+        sortIds = sortIds.concat(ids_)
+      }
+
+      ids = _.intersection(sortIds, ids)
+    }
   } else {
     ids = ids.sort()
   }

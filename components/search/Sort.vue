@@ -27,15 +27,19 @@ export default class FullTextSearch extends Vue {
     this.$store.commit('setSort', value)
   }
 
+  @Watch('$route')
+  watchRoute(val: any) {
+    const query: any = this.$route.query
+    if (query.sort) {
+      this.sort = query.sort
+    }
+  }
+
   get sortItems(): any[] {
     const keys = ['asc', 'desc']
     const items = []
 
-    const sortList: any = [
-      { label: 'relevance', value: '_score' },
-      { label: 'series', value: '_sort' },
-      { label: 'title', value: '_title' },
-    ]
+    const sortList: any = process.env.sort
 
     for (const obj of sortList) {
       for (const key of keys) {

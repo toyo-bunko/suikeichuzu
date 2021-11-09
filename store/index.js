@@ -12,7 +12,7 @@ export const state = () => ({
 
   size: 24,
 
-  sort: '_score:desc',
+  sort: '',
 
   layout: process.env.defaultLayout,
 

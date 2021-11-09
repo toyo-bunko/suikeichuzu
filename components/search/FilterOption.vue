@@ -162,7 +162,7 @@ export default class FullTextSearch extends Vue {
     this.customMap = customMap
   }
 
-  custom(value, field) {
+  custom(value: string, field: string) {
     if (field === 'q-記号') {
       return this.customMap[value]
     }

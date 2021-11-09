@@ -325,6 +325,14 @@ export default class FullTextSearch extends Vue {
     }
   }
 
+  get sort(): number {
+    return this.$store.getters.getSort
+  }
+
+  set sort(value: number) {
+    this.$store.commit('setSort', value)
+  }
+
   get size() {
     return this.$store.getters.getSize
   }
@@ -442,6 +450,12 @@ export default class FullTextSearch extends Vue {
   }
 
   async mounted() {
+    let sort: any = this.sort
+    if (!sort) {
+      const defaultSort: any = process.env.defaultSort
+      this.sort = defaultSort
+    }
+
     window.addEventListener('resize', this.handleResize)
 
     const e: any = document
@@ -555,10 +569,15 @@ export default class FullTextSearch extends Vue {
     let endTime = Date.now() // 終了時間
     //console.log('ダウンロード以前の時間', endTime - startTime)
 
+    const routeQuery: any = this.$route.query
+    if (!routeQuery.sort) {
+      routeQuery.sort = this.sort
+    }
+
     try {
       const { data, itemsAll } = await this.$localEs.search(
         null,
-        this.$route.query,
+        routeQuery,
         index
       ) //axios.get(url)
       //console.log({ data })
